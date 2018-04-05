@@ -15,6 +15,7 @@ Last result: **27.7%** (General Election of 25 May 2014)
 | [2–5 March 2018](2018-03-05-Aximage.html) | Aximage <br> Correio da Manhã | 26.9% | 24.7–29.4% | 24.1–30.0% | 23.5–30.6% | 22.5–31.8% |
 | [3–6 February 2018](2018-02-06-Aximage.html) | Aximage <br> Correio da Manhã | 26.4% | 24.2–28.8% | 23.5–29.4% | 23.0–30.0% | 22.0–31.2% |
 | [14–17 January 2018](2018-01-17-Eurosondagem.html) | Eurosondagem <br> Expresso and SIC | 26.9% | 25.2–28.8% | 24.7–29.3% | 24.3–29.7% | 23.5–30.6% |
+| [6–9 January 2018](2018-01-09-Aximage.html) | Aximage <br> Correio da Manhã | 26.2% | 24.0–28.6% | 23.3–29.2% | 22.8–29.8% | 21.8–31.0% |
 
 ### Probability Mass Function
 
@@ -51,6 +52,7 @@ Last result: **6** seats (General Election of 25 May 2014)
 | [2–5 March 2018](2018-03-05-Aximage.html) | Aximage <br> Correio da Manhã | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
 | [3–6 February 2018](2018-02-06-Aximage.html) | Aximage <br> Correio da Manhã | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
 | [14–17 January 2018](2018-01-17-Eurosondagem.html) | Eurosondagem <br> Expresso and SIC | 6 | 6–7 | 6–7 | 5–7 | 5–7 |
+| [6–9 January 2018](2018-01-09-Aximage.html) | Aximage <br> Correio da Manhã | 6 | 5–6 | 4–6 | 4–7 | 4–7 |
 
 ### Probability Mass Function
 
