@@ -55,7 +55,7 @@ Last result: **8** seats (General Election of 25 May 2014)
 | [2–5 March 2018](2018-03-05-Aximage.html) | Aximage <br> Correio da Manhã | 9 | 8–9 | 8–10 | 8–10 | 8–10 |
 | [3–6 February 2018](2018-02-06-Aximage.html) | Aximage <br> Correio da Manhã | 9 | 9–10 | 8–10 | 8–10 | 8–11 |
 | [14–17 January 2018](2018-01-17-Eurosondagem.html) | Eurosondagem <br> Expresso and SIC | 10 | 9–10 | 9–10 | 9–11 | 9–11 |
-| [6–9 January 2018](2018-01-09-Aximage.html) | Aximage <br> Correio da Manhã | 10 | 9–10 | 9–10 | 9–10 | 8–10 |
+| [6–9 January 2018](2018-01-09-Aximage.html) | Aximage <br> Correio da Manhã | 9 | 8–10 | 8–10 | 8–10 | 8–10 |
 
 ### Probability Mass Function
 
