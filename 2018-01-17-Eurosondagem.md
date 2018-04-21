@@ -43,7 +43,7 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 8 | 0.4% | 100% | Last Result |
-| 9 | 35% | 99.6% |  |
+| 9 | 36% | 99.6% |  |
 | 10 | 61% | 64% | Median |
 | 11 | 3% | 3% | Majority |
 | 12 | 0% | 0% |  |
@@ -57,7 +57,7 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 4% | 100% |  |
-| 6 | 79% | 96% | Last Result, Median |
+| 6 | 78% | 96% | Last Result, Median |
 | 7 | 17% | 17% |  |
 | 8 | 0% | 0% |  |
 
@@ -69,8 +69,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 27% | 100% | Last Result |
-| 2 | 73% | 73% | Median |
+| 1 | 28% | 100% | Last Result |
+| 2 | 72% | 72% | Median |
 | 3 | 0% | 0% |  |
 
 ### CDS–Partido Popular (EPP)
@@ -93,8 +93,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 93% | 100% | Median |
-| 2 | 7% | 7% |  |
+| 1 | 92% | 100% | Median |
+| 2 | 8% | 8% |  |
 | 3 | 0% | 0% | Last Result |
 
 ### Pessoas–Animais–Natureza (GUE/NGL)
@@ -125,7 +125,7 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 8 | 0.4% | 100% | Last Result |
-| 9 | 35% | 99.6% |  |
+| 9 | 36% | 99.6% |  |
 | 10 | 61% | 64% | Median |
 | 11 | 3% | 3% | Majority |
 | 12 | 0% | 0% |  |
@@ -135,8 +135,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 6 | 3% | 100% |  |
-| 7 | 73% | 97% | Last Result, Median |
-| 8 | 23% | 24% |  |
+| 7 | 72% | 97% | Last Result, Median |
+| 8 | 24% | 25% |  |
 | 9 | 0.6% | 0.6% |  |
 | 10 | 0% | 0% |  |
 
@@ -144,8 +144,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 24% | 100% |  |
-| 3 | 72% | 76% | Median |
+| 2 | 25% | 100% |  |
+| 3 | 71% | 75% | Median |
 | 4 | 4% | 4% | Last Result |
 | 5 | 0% | 0% |  |
 
@@ -161,6 +161,6 @@
 ### Calculations
 
 + **Sample size:** 1018
-+ **Simulations done:** 524,288
-+ **Error estimate:** 1.60%
++ **Simulations done:** 1,048,576
++ **Error estimate:** 0.50%
 
