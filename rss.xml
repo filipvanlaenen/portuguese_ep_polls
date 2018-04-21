@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/portuguese_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 20 Apr 2018 20:31:44 +0200</pubDate>
+    <pubDate>Fri, 20 Apr 2018 20:44:45 +0200</pubDate>
     <item>
       <title>Opinion Poll by Eurosondagem for Expresso and SIC, 8–14 March 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2018-03-14-Eurosondagem.html</link>
@@ -80,14 +80,34 @@
       <dc:date>2018-04-20T20:06:50.470591+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Eurosondagem for Expresso and SIC, 14–17 January 2018 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2018-01-17-Eurosondagem.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Social Democrata (EPP): 5–7 seats&lt;/li&gt;&lt;li&gt;Partido Socialista (S&amp;amp;D): 9–11 seats&lt;/li&gt;&lt;li&gt;Bloco de Esquerda (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;CDS–Partido Popular (EPP): 1–2 seats&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza (GUE/NGL): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2018-01-17-Eurosondagem-seats.png"
+        length="154029"
+        type="image/png"/>
+      <pubDate>Fri, 20 Apr 2018 20:44:45 +0200</pubDate>
+      <dc:date>2018-04-20T20:44:45.922108+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Eurosondagem for Expresso and SIC, 14–17 January 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2018-01-17-Eurosondagem.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2018-01-17-Eurosondagem-coalitions-seats.png"
+        length="117978"
+        type="image/png"/>
+      <pubDate>Fri, 20 Apr 2018 20:44:45 +0200</pubDate>
+      <dc:date>2018-04-20T20:44:45.922108+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Eurosondagem for Expresso and SIC, 14–17 January 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2018-01-17-Eurosondagem.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Partido Social Democrata (EPP): 24.3–29.7%&lt;/li&gt;&lt;li&gt;Partido Socialista (S&amp;amp;D): 38.3–44.3%&lt;/li&gt;&lt;li&gt;Bloco de Esquerda (GUE/NGL): 7.0–10.4%&lt;/li&gt;&lt;li&gt;CDS–Partido Popular (EPP): 5.6–8.7%&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária (GUE/NGL): 5.5–8.6%&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza (GUE/NGL): 1.1–2.8%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2018-01-17-Eurosondagem.png"
         length="190739"
         type="image/png"/>
-      <pubDate>Fri, 20 Apr 2018 20:31:44 +0200</pubDate>
-      <dc:date>2018-04-20T20:31:44.748426+02:00</dc:date>
+      <pubDate>Fri, 20 Apr 2018 20:44:45 +0200</pubDate>
+      <dc:date>2018-04-20T20:44:45.922108+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Aximage for Correio da Manhã, 6–9 January 2018 – Seat Projections</title>
@@ -119,6 +139,6 @@
       <pubDate>Fri, 20 Apr 2018 19:23:21 +0200</pubDate>
       <dc:date>2018-04-20T19:23:21.893616+02:00</dc:date>
     </item>
-    <dc:date>2018-04-20T20:31:44.748426+02:00</dc:date>
+    <dc:date>2018-04-20T20:44:45.922108+02:00</dc:date>
   </channel>
 </rss>
