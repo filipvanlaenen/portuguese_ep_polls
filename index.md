@@ -5,7 +5,7 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | PS | PSD | CDS–PP | CDU | BE | PAN |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 25 May 2014 | General Election | 31.5% <br> 8 | 27.7% <br> 6 | 27.7% <br> 1 | 12.7% <br> 3 | 4.6% <br> 1 | 1.7% <br> 0 |
-| N/A | [Poll Average](average.html) | 35–44% <br> 8–10 | 24–31% <br> 5–7 | 5–9% <br> 1–2 | 6–10% <br> 1–2 | 6–12% <br> 1–2 | 1–2% <br> 0 |
+| N/A | [Poll Average](average.html) | 35–44% <br> 8–11 | 24–31% <br> 5–7 | 5–9% <br> 1–2 | 6–10% <br> 1–2 | 6–12% <br> 1–2 | 1–2% <br> 0 |
 | [8–12 April 2018](2018-04-12-Aximage.html) | Aximage <br> Correio da Manhã | 34–42% <br> 8–10 | 23–30% <br> 5–7 | 5–9% <br> 1–2 | 6–10% <br> 1–2 | 8–13% <br> 1–3 | N/A <br> N/A |
 | [8–14 March 2018](2018-03-14-Eurosondagem.html) | Eurosondagem <br> Expresso and SIC | 38–45% <br> 9–11 | 26–31% <br> 6–7 | 5–8% <br> 1–2 | 6–9% <br> 1–2 | 6–10% <br> 1–2 | 1–2% <br> 0 |
 | 25 May 2014 | General Election | 31.5% <br> 8 | 27.7% <br> 6 | 27.7% <br> 1 | 12.7% <br> 3 | 4.6% <br> 1 | 1.7% <br> 0 |
