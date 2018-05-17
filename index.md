@@ -6,8 +6,8 @@ The table below lists the most recent polls (less than 90 days old) registered a
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 25 May 2014 | General Election | 31.5% <br> 8 | 27.7% <br> 6 | 27.7% <br> 1 | 12.7% <br> 3 | 4.6% <br> 1 | 1.7% <br> 0 |
 | N/A | [Poll Average](average.html) | 35–44% <br> 8–11 | 24–31% <br> 5–7 | 5–9% <br> 1–2 | 6–10% <br> 1–2 | 6–12% <br> 1–2 | 1–2% <br> 0 |
-| [8–12 April 2018](2018-04-12-Aximage.html) | Aximage <br> Correio da Manhã | 34–42% <br> 8–10 | 23–30% <br> 5–7 | 5–9% <br> 1–2 | 6–10% <br> 1–2 | 8–13% <br> 1–3 | N/A <br> N/A |
-| [8–14 March 2018](2018-03-14-Eurosondagem.html) | Eurosondagem <br> Expresso and SIC | 38–45% <br> 9–11 | 26–31% <br> 6–7 | 5–8% <br> 1–2 | 6–9% <br> 1–2 | 6–10% <br> 1–2 | 1–2% <br> 0 |
+| [3–9 May 2018](2018-05-09-Eurosondagem.html) | Eurosondagem <br> Expresso and SIC | 38–44% <br> 9–10 | 25–31% <br> 6–8 | 6–9% <br> 1–2 | 6–9% <br> 1 | 7–10% <br> 1–2 | 1–2% <br> 0 |
+| [5–9 May 2018](2018-05-09-Aximage.html) | Aximage <br> Correio da Manhã | 34–42% <br> 7–8 | 24–31% <br> 6–7 | 5–9% <br> 1–2 | 6–10% <br> 1–2 | 8–13% <br> 1–2 | N/A <br> N/A |
 | 25 May 2014 | General Election | 31.5% <br> 8 | 27.7% <br> 6 | 27.7% <br> 1 | 12.7% <br> 3 | 4.6% <br> 1 | 1.7% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
