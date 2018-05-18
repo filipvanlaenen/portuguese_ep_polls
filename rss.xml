@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/portuguese_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 25 Apr 2018 20:13:00 +0200</pubDate>
+    <pubDate>Fri, 18 May 2018 10:00:58 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Eurosondagem for Expresso and SIC, 3–9 May 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2018-05-09-Eurosondagem.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Social Democrata (EPP): 25.3–30.8%&lt;/li&gt;&lt;li&gt;Partido Socialista (S&amp;amp;D): 38.0–44.0%&lt;/li&gt;&lt;li&gt;Bloco de Esquerda (GUE/NGL): 6.5–9.9%&lt;/li&gt;&lt;li&gt;CDS–Partido Popular (EPP): 5.6–8.8%&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária (GUE/NGL): 6.1–9.3%&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza (GUE/NGL): 0.8–2.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2018-05-09-Eurosondagem.png"
+        length="191067"
+        type="image/png"/>
+      <pubDate>Fri, 18 May 2018 10:00:58 +0200</pubDate>
+      <dc:date>2018-05-18T10:00:58.936824+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Aximage for Correio da Manhã, 5–9 May 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2018-05-09-Aximage.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Social Democrata (EPP): 24.2–31.4%&lt;/li&gt;&lt;li&gt;Partido Socialista (S&amp;amp;D): 33.9–41.6%&lt;/li&gt;&lt;li&gt;Bloco de Esquerda (GUE/NGL): 7.8–12.7%&lt;/li&gt;&lt;li&gt;CDS–Partido Popular (EPP): 4.9–9.0%&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária (GUE/NGL): 5.8–10.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2018-05-09-Aximage.png"
+        length="187328"
+        type="image/png"/>
+      <pubDate>Thu, 17 May 2018 20:14:44 +0200</pubDate>
+      <dc:date>2018-05-17T20:14:44.48231+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Aximage for Correio da Manhã, 8–12 April 2018 – Seat Projections</title>
       <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2018-04-12-Aximage.html#seats</link>
@@ -24,7 +44,7 @@
       <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2018-04-12-Aximage.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2018-04-12-Aximage-coalitions-seats.png"
-        length="122243"
+        length="122310"
         type="image/png"/>
       <pubDate>Wed, 25 Apr 2018 20:13:00 +0200</pubDate>
       <dc:date>2018-04-25T20:13:00.924974+02:00</dc:date>
@@ -54,7 +74,7 @@
       <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2018-03-14-Eurosondagem.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2018-03-14-Eurosondagem-coalitions-seats.png"
-        length="113983"
+        length="114016"
         type="image/png"/>
       <pubDate>Wed, 25 Apr 2018 19:19:08 +0200</pubDate>
       <dc:date>2018-04-25T19:19:08.307344+02:00</dc:date>
@@ -84,7 +104,7 @@
       <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2018-03-05-Aximage.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2018-03-05-Aximage-coalitions-seats.png"
-        length="122855"
+        length="122917"
         type="image/png"/>
       <pubDate>Fri, 20 Apr 2018 18:52:50 +0200</pubDate>
       <dc:date>2018-04-20T18:52:50.988726+02:00</dc:date>
@@ -114,7 +134,7 @@
       <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2018-02-06-Aximage.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2018-02-06-Aximage-coalitions-seats.png"
-        length="123434"
+        length="123498"
         type="image/png"/>
       <pubDate>Fri, 20 Apr 2018 20:06:50 +0200</pubDate>
       <dc:date>2018-04-20T20:06:50.470591+02:00</dc:date>
@@ -144,7 +164,7 @@
       <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2018-01-17-Eurosondagem.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2018-01-17-Eurosondagem-coalitions-seats.png"
-        length="117978"
+        length="117903"
         type="image/png"/>
       <pubDate>Fri, 20 Apr 2018 20:44:45 +0200</pubDate>
       <dc:date>2018-04-20T20:44:45.922108+02:00</dc:date>
@@ -174,7 +194,7 @@
       <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2018-01-09-Aximage.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2018-01-09-Aximage-coalitions-seats.png"
-        length="123381"
+        length="123443"
         type="image/png"/>
       <pubDate>Fri, 20 Apr 2018 19:23:21 +0200</pubDate>
       <dc:date>2018-04-20T19:23:21.893616+02:00</dc:date>
@@ -189,6 +209,6 @@
       <pubDate>Fri, 20 Apr 2018 19:23:21 +0200</pubDate>
       <dc:date>2018-04-20T19:23:21.893616+02:00</dc:date>
     </item>
-    <dc:date>2018-04-25T20:13:00.924974+02:00</dc:date>
+    <dc:date>2018-05-18T10:00:58.936824+02:00</dc:date>
   </channel>
 </rss>
