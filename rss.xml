@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/portuguese_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 18 May 2018 10:00:58 +0200</pubDate>
+    <pubDate>Fri, 18 May 2018 12:54:18 +0200</pubDate>
     <item>
       <title>Opinion Poll by Eurosondagem for Expresso and SIC, 3–9 May 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2018-05-09-Eurosondagem.html</link>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2018-05-09-Aximage.png"
         length="187328"
         type="image/png"/>
-      <pubDate>Thu, 17 May 2018 20:14:44 +0200</pubDate>
-      <dc:date>2018-05-17T20:14:44.48231+02:00</dc:date>
+      <pubDate>Fri, 18 May 2018 12:54:18 +0200</pubDate>
+      <dc:date>2018-05-18T12:54:18.58699+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Aximage for Correio da Manhã, 8–12 April 2018 – Seat Projections</title>
@@ -209,6 +209,6 @@
       <pubDate>Fri, 20 Apr 2018 19:23:21 +0200</pubDate>
       <dc:date>2018-04-20T19:23:21.893616+02:00</dc:date>
     </item>
-    <dc:date>2018-05-18T10:00:58.936824+02:00</dc:date>
+    <dc:date>2018-05-18T12:54:18.58699+02:00</dc:date>
   </channel>
 </rss>
