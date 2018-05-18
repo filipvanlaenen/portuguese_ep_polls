@@ -6,7 +6,7 @@ The table below lists all polls registered and analyzed so far.
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 25 May 2014 | General Election | 31.5% <br> 8 | 27.7% <br> 6 | 27.7% <br> 1 | 12.7% <br> 3 | 4.6% <br> 1 | 1.7% <br> 0 |
 | [3–9 May 2018](2018-05-09-Eurosondagem.html) | Eurosondagem <br> Expresso and SIC | 38–44% <br> 9–11 | 25–31% <br> 6–7 | 6–9% <br> 1–2 | 6–9% <br> 1–2 | 7–10% <br> 1–2 | 1–2% <br> 0 |
-| [5–9 May 2018](2018-05-09-Aximage.html) | Aximage <br> Correio da Manhã | 34–42% <br> 7–8 | 24–31% <br> 6–7 | 5–9% <br> 1–2 | 6–10% <br> 1–2 | 8–13% <br> 1–2 | N/A <br> N/A |
+| [5–9 May 2018](2018-05-09-Aximage.html) | Aximage <br> Correio da Manhã | 34–42% <br> 8–9 | 24–31% <br> 5–7 | 5–9% <br> 1–2 | 6–10% <br> 1–2 | 8–13% <br> 1–3 | N/A <br> N/A |
 | [8–12 April 2018](2018-04-12-Aximage.html) | Aximage <br> Correio da Manhã | 34–42% <br> 8–10 | 23–30% <br> 5–7 | 5–9% <br> 1–2 | 6–10% <br> 1–2 | 8–13% <br> 1–3 | N/A <br> N/A |
 | [8–14 March 2018](2018-03-14-Eurosondagem.html) | Eurosondagem <br> Expresso and SIC | 38–45% <br> 9–11 | 26–31% <br> 6–7 | 5–8% <br> 1–2 | 6–9% <br> 1–2 | 6–10% <br> 1–2 | 1–2% <br> 0 |
 | [2–5 March 2018](2018-03-05-Aximage.html) | Aximage <br> Correio da Manhã | 35–43% <br> 8–10 | 24–31% <br> 5–7 | 4–8% <br> 0–1 | 6–10% <br> 1–2 | 8–13% <br> 1–3 | N/A <br> N/A |
