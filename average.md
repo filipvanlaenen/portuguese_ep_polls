@@ -11,7 +11,7 @@ The table below lists the polls on which the average is based. They are the most
 | 25 May 2014 | General Election | 31.5% <br> 8 | 27.7% <br> 6 | 27.7% <br> 1 | 12.7% <br> 3 | 4.6% <br> 1 | 1.7% <br> 0 |
 | N/A | Poll Average | 34–44% <br> 8–10 | 25–31% <br> 5–7 | 5–9% <br> 1–2 | 6–10% <br> 1–2 | 7–12% <br> 1–2 | 1–2% <br> 0 |
 | [3–9 May 2018](2018-05-09-Eurosondagem.html) | Eurosondagem <br> Expresso and SIC | 38–44% <br> 9–11 | 25–31% <br> 6–7 | 6–9% <br> 1–2 | 6–9% <br> 1–2 | 7–10% <br> 1–2 | 1–2% <br> 0 |
-| [5–9 May 2018](2018-05-09-Aximage.html) | Aximage <br> Correio da Manhã | 34–42% <br> 8–9 | 24–31% <br> 5–7 | 5–9% <br> 1–2 | 6–10% <br> 1–2 | 8–13% <br> 1–3 | N/A <br> N/A |
+| [5–9 May 2018](2018-05-09-Aximage.html) | Aximage <br> Correio da Manhã | 34–42% <br> 8–10 | 24–31% <br> 5–7 | 5–9% <br> 1–2 | 6–10% <br> 1–2 | 8–13% <br> 1–3 | N/A <br> N/A |
 | 25 May 2014 | General Election | 31.5% <br> 8 | 27.7% <br> 6 | 27.7% <br> 1 | 12.7% <br> 3 | 4.6% <br> 1 | 1.7% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
@@ -193,10 +193,10 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 7 | 0.8% | 100% |  |
-| 8 | 24% | 99.2% | Last Result |
-| 9 | 45% | 76% | Median |
-| 10 | 29% | 30% |  |
+| 7 | 0.7% | 100% |  |
+| 8 | 21% | 99.3% | Last Result |
+| 9 | 47% | 78% | Median |
+| 10 | 29% | 31% |  |
 | 11 | 1.5% | 1.5% | Majority |
 | 12 | 0% | 0% |  |
 
@@ -208,9 +208,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 5 | 4% | 100% |  |
-| 6 | 65% | 96% | Last Result, Median |
-| 7 | 31% | 31% |  |
+| 5 | 5% | 100% |  |
+| 6 | 65% | 95% | Last Result, Median |
+| 7 | 30% | 30% |  |
 | 8 | 0.2% | 0.2% |  |
 | 9 | 0% | 0% |  |
 
@@ -235,8 +235,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 71% | 100% | Median |
-| 2 | 29% | 29% |  |
+| 1 | 72% | 100% | Median |
+| 2 | 28% | 28% |  |
 | 3 | 0% | 0% | Last Result |
 
 ### Bloco de Esquerda (GUE/NGL)
@@ -249,7 +249,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 28% | 100% | Last Result |
 | 2 | 70% | 72% | Median |
-| 3 | 1.4% | 1.4% |  |
+| 3 | 2% | 2% |  |
 | 4 | 0% | 0% |  |
 
 ### Pessoas–Animais–Natureza (GUE/NGL)
@@ -279,10 +279,10 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 7 | 0.8% | 100% |  |
-| 8 | 24% | 99.2% | Last Result |
-| 9 | 45% | 76% | Median |
-| 10 | 29% | 30% |  |
+| 7 | 0.7% | 100% |  |
+| 8 | 21% | 99.3% | Last Result |
+| 9 | 47% | 78% | Median |
+| 10 | 29% | 31% |  |
 | 11 | 1.5% | 1.5% | Majority |
 | 12 | 0% | 0% |  |
 
@@ -290,9 +290,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 6 | 3% | 100% |  |
-| 7 | 60% | 97% | Last Result, Median |
-| 8 | 35% | 37% |  |
+| 6 | 4% | 100% |  |
+| 7 | 60% | 96% | Last Result, Median |
+| 8 | 34% | 36% |  |
 | 9 | 2% | 2% |  |
 | 10 | 0% | 0% |  |
 
@@ -301,9 +301,9 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 18% | 100% |  |
-| 3 | 61% | 82% | Median |
-| 4 | 20% | 20% | Last Result |
-| 5 | 0.1% | 0.1% |  |
+| 3 | 63% | 82% | Median |
+| 4 | 19% | 19% | Last Result |
+| 5 | 0.2% | 0.2% |  |
 | 6 | 0% | 0% |  |
 
 
