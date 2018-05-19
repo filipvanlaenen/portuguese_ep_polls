@@ -193,9 +193,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 7 | 0.7% | 100% |  |
-| 8 | 21% | 99.3% | Last Result |
-| 9 | 47% | 78% | Median |
+| 7 | 0.8% | 100% |  |
+| 8 | 22% | 99.2% | Last Result |
+| 9 | 46% | 77% | Median |
 | 10 | 30% | 31% |  |
 | 11 | 1.3% | 1.3% | Majority |
 | 12 | 0% | 0% |  |
@@ -209,7 +209,7 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 5% | 100% |  |
-| 6 | 67% | 95% | Last Result, Median |
+| 6 | 66% | 95% | Last Result, Median |
 | 7 | 29% | 29% |  |
 | 8 | 0.2% | 0.2% |  |
 | 9 | 0% | 0% |  |
@@ -223,8 +223,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.1% | 100% |  |
-| 1 | 92% | 99.9% | Last Result, Median |
-| 2 | 8% | 8% |  |
+| 1 | 91% | 99.9% | Last Result, Median |
+| 2 | 9% | 9% |  |
 | 3 | 0% | 0% |  |
 
 ### Coligação Democrática Unitária (GUE/NGL)
@@ -247,8 +247,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 28% | 100% | Last Result |
-| 2 | 70% | 72% | Median |
+| 1 | 29% | 100% | Last Result |
+| 2 | 70% | 71% | Median |
 | 3 | 2% | 2% |  |
 | 4 | 0% | 0% |  |
 
@@ -279,9 +279,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 7 | 0.7% | 100% |  |
-| 8 | 21% | 99.3% | Last Result |
-| 9 | 47% | 78% | Median |
+| 7 | 0.8% | 100% |  |
+| 8 | 22% | 99.2% | Last Result |
+| 9 | 46% | 77% | Median |
 | 10 | 30% | 31% |  |
 | 11 | 1.3% | 1.3% | Majority |
 | 12 | 0% | 0% |  |
@@ -291,8 +291,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 6 | 4% | 100% |  |
-| 7 | 61% | 96% | Last Result, Median |
-| 8 | 33% | 35% |  |
+| 7 | 60% | 96% | Last Result, Median |
+| 8 | 34% | 36% |  |
 | 9 | 2% | 2% |  |
 | 10 | 0% | 0% |  |
 
