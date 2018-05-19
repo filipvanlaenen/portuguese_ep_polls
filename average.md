@@ -196,8 +196,8 @@ Only polls for which at least the sample size has been published are included in
 | 7 | 0.7% | 100% |  |
 | 8 | 21% | 99.3% | Last Result |
 | 9 | 47% | 78% | Median |
-| 10 | 29% | 31% |  |
-| 11 | 1.5% | 1.5% | Majority |
+| 10 | 30% | 31% |  |
+| 11 | 1.3% | 1.3% | Majority |
 | 12 | 0% | 0% |  |
 
 ### Partido Social Democrata (EPP)
@@ -209,8 +209,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 5% | 100% |  |
-| 6 | 65% | 95% | Last Result, Median |
-| 7 | 30% | 30% |  |
+| 6 | 67% | 95% | Last Result, Median |
+| 7 | 29% | 29% |  |
 | 8 | 0.2% | 0.2% |  |
 | 9 | 0% | 0% |  |
 
@@ -271,7 +271,7 @@ Only polls for which at least the sample size has been published are included in
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Partido Socialista (S&D) | 8 | 9 | 1.5% | 8–10 | 8–10 | 8–10 | 7–11 |
+| Partido Socialista (S&D) | 8 | 9 | 1.3% | 8–10 | 8–10 | 8–10 | 7–11 |
 | CDS–Partido Popular (EPP) – Partido Social Democrata (EPP) | 7 | 7 | 0% | 7–8 | 7–8 | 6–8 | 6–9 |
 | Coligação Democrática Unitária (GUE/NGL) – Bloco de Esquerda (GUE/NGL) – Pessoas–Animais–Natureza (GUE/NGL) | 4 | 3 | 0% | 2–4 | 2–4 | 2–4 | 2–4 |
 
@@ -282,8 +282,8 @@ Only polls for which at least the sample size has been published are included in
 | 7 | 0.7% | 100% |  |
 | 8 | 21% | 99.3% | Last Result |
 | 9 | 47% | 78% | Median |
-| 10 | 29% | 31% |  |
-| 11 | 1.5% | 1.5% | Majority |
+| 10 | 30% | 31% |  |
+| 11 | 1.3% | 1.3% | Majority |
 | 12 | 0% | 0% |  |
 
 ### CDS–Partido Popular (EPP) – Partido Social Democrata (EPP)
@@ -291,8 +291,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 6 | 4% | 100% |  |
-| 7 | 60% | 96% | Last Result, Median |
-| 8 | 34% | 36% |  |
+| 7 | 61% | 96% | Last Result, Median |
+| 8 | 33% | 35% |  |
 | 9 | 2% | 2% |  |
 | 10 | 0% | 0% |  |
 
