@@ -197,8 +197,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 7 | 2% | 100% |  |
-| 8 | 25% | 98% | Last Result |
-| 9 | 42% | 72% | Median |
+| 8 | 28% | 98% | Last Result |
+| 9 | 40% | 71% | Median |
 | 10 | 29% | 31% |  |
 | 11 | 1.3% | 1.3% | Majority |
 | 12 | 0% | 0% |  |
@@ -212,9 +212,9 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 4% | 100% |  |
-| 6 | 66% | 96% | Last Result, Median |
-| 7 | 30% | 30% |  |
-| 8 | 0.3% | 0.3% |  |
+| 6 | 64% | 96% | Last Result, Median |
+| 7 | 32% | 32% |  |
+| 8 | 0.2% | 0.2% |  |
 | 9 | 0% | 0% |  |
 
 ### CDS–Partido Popular (EPP)
@@ -283,8 +283,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 7 | 2% | 100% |  |
-| 8 | 25% | 98% | Last Result |
-| 9 | 42% | 72% | Median |
+| 8 | 28% | 98% | Last Result |
+| 9 | 40% | 71% | Median |
 | 10 | 29% | 31% |  |
 | 11 | 1.3% | 1.3% | Majority |
 | 12 | 0% | 0% |  |
@@ -294,8 +294,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 6 | 3% | 100% |  |
-| 7 | 61% | 97% | Last Result, Median |
-| 8 | 34% | 36% |  |
+| 7 | 59% | 97% | Last Result, Median |
+| 8 | 36% | 38% |  |
 | 9 | 2% | 2% |  |
 | 10 | 0% | 0% |  |
 
@@ -304,8 +304,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 18% | 100% |  |
-| 3 | 67% | 82% | Median |
-| 4 | 15% | 15% | Last Result |
+| 3 | 68% | 82% | Median |
+| 4 | 14% | 14% | Last Result |
 | 5 | 0.2% | 0.2% |  |
 | 6 | 0% | 0% |  |
 
