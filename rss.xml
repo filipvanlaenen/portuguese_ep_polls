@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/portuguese_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 29 Jun 2018 16:49:47 +0200</pubDate>
+    <pubDate>Fri, 03 Aug 2018 21:06:37 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Aximage for Correio da Manhã, 13–16 July 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2018-07-16-Aximage.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Social Democrata (EPP): 23.8–30.9%&lt;/li&gt;&lt;li&gt;Partido Socialista (S&amp;amp;D): 35.2–43.0%&lt;/li&gt;&lt;li&gt;Bloco de Esquerda (GUE/NGL): 7.4–12.1%&lt;/li&gt;&lt;li&gt;CDS–Partido Popular (EPP): 5.5–9.7%&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária (GUE/NGL): 5.2–9.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2018-07-16-Aximage.png"
+        length="185396"
+        type="image/png"/>
+      <pubDate>Fri, 03 Aug 2018 21:01:10 +0200</pubDate>
+      <dc:date>2018-08-03T21:01:10.347369+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Eurosondagem for Expresso and SIC, 4–11 July 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2018-07-11-Eurosondagem.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Social Democrata (EPP): 24.6–30.1%&lt;/li&gt;&lt;li&gt;Partido Socialista (S&amp;amp;D): 39.0–45.1%&lt;/li&gt;&lt;li&gt;Bloco de Esquerda (GUE/NGL): 6.4–9.8%&lt;/li&gt;&lt;li&gt;CDS–Partido Popular (EPP): 6.1–9.3%&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária (GUE/NGL): 5.9–9.1%&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza (GUE/NGL): 0.6–2.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2018-07-11-Eurosondagem.png"
+        length="189081"
+        type="image/png"/>
+      <pubDate>Fri, 03 Aug 2018 21:06:37 +0200</pubDate>
+      <dc:date>2018-08-03T21:06:37.454005+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Aximage for Correio da Manhã, 9–12 June 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2018-06-12-Aximage.html#seats</link>
@@ -279,6 +299,6 @@
       <pubDate>Fri, 20 Apr 2018 19:23:21 +0200</pubDate>
       <dc:date>2018-04-20T19:23:21.893616+02:00</dc:date>
     </item>
-    <dc:date>2018-06-29T16:49:47.35459+02:00</dc:date>
+    <dc:date>2018-08-03T21:06:37.454005+02:00</dc:date>
   </channel>
 </rss>
