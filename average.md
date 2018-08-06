@@ -195,7 +195,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 7 | 0.2% | 100% |  |
 | 8 | 12% | 99.8% | Last Result |
-| 9 | 43% | 87% | Median |
+| 9 | 44% | 87% | Median |
 | 10 | 40% | 44% |  |
 | 11 | 4% | 4% | Majority |
 | 12 | 0% | 0% |  |
@@ -209,7 +209,7 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 8% | 100% |  |
-| 6 | 73% | 92% | Last Result, Median |
+| 6 | 74% | 92% | Last Result, Median |
 | 7 | 19% | 19% |  |
 | 8 | 0.1% | 0.1% |  |
 | 9 | 0% | 0% |  |
@@ -246,8 +246,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 34% | 100% | Last Result |
-| 2 | 65% | 66% | Median |
+| 1 | 36% | 100% | Last Result |
+| 2 | 64% | 64% | Median |
 | 3 | 0.7% | 0.7% |  |
 | 4 | 0% | 0% |  |
 
@@ -280,7 +280,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 7 | 0.2% | 100% |  |
 | 8 | 12% | 99.8% | Last Result |
-| 9 | 43% | 87% | Median |
+| 9 | 44% | 87% | Median |
 | 10 | 40% | 44% |  |
 | 11 | 4% | 4% | Majority |
 | 12 | 0% | 0% |  |
@@ -290,8 +290,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 6 | 4% | 100% |  |
-| 7 | 60% | 96% | Last Result, Median |
-| 8 | 34% | 36% |  |
+| 7 | 59% | 96% | Last Result, Median |
+| 8 | 35% | 36% |  |
 | 9 | 2% | 2% |  |
 | 10 | 0% | 0% |  |
 
@@ -299,8 +299,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 27% | 100% |  |
-| 3 | 66% | 73% | Median |
+| 2 | 28% | 100% |  |
+| 3 | 65% | 72% | Median |
 | 4 | 7% | 7% | Last Result |
 | 5 | 0% | 0% |  |
 
