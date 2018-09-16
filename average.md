@@ -276,6 +276,8 @@ Only polls for which at least the sample size has been published are included in
 
 ### Partido Socialista (S&D)
 
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-ps.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 7 | 0.2% | 100% |  |
@@ -287,6 +289,8 @@ Only polls for which at least the sample size has been published are included in
 
 ### CDS–Partido Popular (EPP) – Partido Social Democrata (EPP)
 
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-cds–pp–psd.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 6 | 4% | 100% |  |
@@ -296,6 +300,8 @@ Only polls for which at least the sample size has been published are included in
 | 10 | 0% | 0% |  |
 
 ### Coligação Democrática Unitária (GUE/NGL) – Bloco de Esquerda (GUE/NGL) – Pessoas–Animais–Natureza (GUE/NGL)
+
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-cdu–be–pan.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -307,3 +313,7 @@ Only polls for which at least the sample size has been published are included in
 
 ## Technical Information
 
++ **Number of polls included in this average:** 2
++ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Total number of simulations done in the polls included in this average:** 2,097,152
++ **Error estimate:** 0.82%
