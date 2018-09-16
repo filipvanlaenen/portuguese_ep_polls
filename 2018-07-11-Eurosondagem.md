@@ -122,6 +122,8 @@
 
 ### Partido Socialista (S&D)
 
+![Graph with seats probability mass function not yet produced](2018-07-11-Eurosondagem-coalitions-seats-pmf-ps.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 8 | 0.2% | 100% | Last Result |
@@ -132,6 +134,8 @@
 
 ### Partido Social Democrata (EPP) – CDS–Partido Popular (EPP)
 
+![Graph with seats probability mass function not yet produced](2018-07-11-Eurosondagem-coalitions-seats-pmf-psd–cds–pp.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 6 | 1.3% | 100% |  |
@@ -141,6 +145,8 @@
 | 10 | 0% | 0% |  |
 
 ### Bloco de Esquerda (GUE/NGL) – Coligação Democrática Unitária (GUE/NGL) – Pessoas–Animais–Natureza (GUE/NGL)
+
+![Graph with seats probability mass function not yet produced](2018-07-11-Eurosondagem-coalitions-seats-pmf-be–cdu–pan.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
