@@ -5,7 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | PS | PSD | CDS–PP | CDU | BE | PAN |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 25 May 2014 | General Election | 31.5% <br> 8 | 27.7% <br> 6 | 27.7% <br> 1 | 12.7% <br> 3 | 4.6% <br> 1 | 1.7% <br> 0 |
-| [5–12 September 2018](2018-09-12-Eurosondagem.html) | Eurosondagem <br> Expresso and SIC | 38–44% <br> 8–10 | 25–30% <br> 6–7 | 6–10% <br> 1–2 | 6–9% <br> 1–2 | 7–10% <br> 1–2 | 1–2% <br> 0 |
+| [5–12 September 2018](2018-09-12-Eurosondagem.html) | Eurosondagem <br> Expresso and SIC | 38–44% <br> 9–11 | 25–30% <br> 6–7 | 6–10% <br> 1–2 | 6–9% <br> 1–2 | 7–10% <br> 1–2 | 1–2% <br> 0 |
 | [1–2 September 2018](2018-09-02-Aximage.html) | Aximage <br> Correio da Manhã | 36–44% <br> 8–10 | 21–28% <br> 4–6 | 7–12% <br> 1–2 | 5–9% <br> 1–2 | 6–10% <br> 1–2 | N/A <br> N/A |
 | [13–16 July 2018](2018-07-16-Aximage.html) | Aximage <br> Correio da Manhã | 35–43% <br> 8–10 | 24–31% <br> 5–7 | 6–10% <br> 1–2 | 5–9% <br> 1–2 | 7–12% <br> 1–2 | N/A <br> N/A |
 | [4–11 July 2018](2018-07-11-Eurosondagem.html) | Eurosondagem <br> Expresso and SIC | 39–45% <br> 9–11 | 25–30% <br> 5–7 | 6–9% <br> 1–2 | 6–9% <br> 1–2 | 6–10% <br> 1–2 | 1–2% <br> 0 |
