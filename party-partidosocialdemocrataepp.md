@@ -10,7 +10,8 @@ Last result: **27.7%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 26.0% | 22.7–28.7% | 21.9–29.3% | 21.3–29.9% | 20.2–30.9% |
+| N/A | [Poll Average](average.html) | 26.0% | 22.6–28.7% | 21.8–29.3% | 21.2–29.9% | 20.1–30.9% |
+| [1–3 October 2018](2018-10-03-Aximage.html) | Aximage <br> Correio da Manhã | 24.0% | 21.8–26.3% | 21.2–27.0% | 20.7–27.5% | 19.7–28.7% |
 | [5–12 September 2018](2018-09-12-Eurosondagem.html) | Eurosondagem <br> Expresso and SIC | 27.5% | 25.7–29.3% | 25.2–29.9% | 24.8–30.3% | 24.0–31.2% |
 | [1–2 September 2018](2018-09-02-Aximage.html) | Aximage <br> Correio da Manhã | 24.0% | 21.9–26.4% | 21.3–27.1% | 20.8–27.6% | 19.8–28.8% |
 | [13–16 July 2018](2018-07-16-Aximage.html) | Aximage <br> Correio da Manhã | 27.2% | 24.9–29.6% | 24.3–30.3% | 23.8–30.9% | 22.7–32.1% |
@@ -32,14 +33,14 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 17.5–18.5% | 0% | 100% |  |
-| 18.5–19.5% | 0.1% | 100% |  |
-| 19.5–20.5% | 0.7% | 99.8% |  |
-| 20.5–21.5% | 2% | 99.2% |  |
-| 21.5–22.5% | 6% | 97% |  |
-| 22.5–23.5% | 10% | 91% |  |
-| 23.5–24.5% | 12% | 81% |  |
-| 24.5–25.5% | 13% | 69% |  |
-| 25.5–26.5% | 15% | 56% | Median |
+| 18.5–19.5% | 0.2% | 100% |  |
+| 19.5–20.5% | 0.8% | 99.8% |  |
+| 20.5–21.5% | 3% | 99.0% |  |
+| 21.5–22.5% | 6% | 96% |  |
+| 22.5–23.5% | 10% | 90% |  |
+| 23.5–24.5% | 12% | 80% |  |
+| 24.5–25.5% | 12% | 68% |  |
+| 25.5–26.5% | 14% | 56% | Median |
 | 26.5–27.5% | 16% | 42% |  |
 | 27.5–28.5% | 14% | 26% | Last Result |
 | 28.5–29.5% | 8% | 12% |  |
@@ -58,6 +59,7 @@ Last result: **6** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6 | 5–7 | 5–7 | 5–7 | 4–7 |
+| [1–3 October 2018](2018-10-03-Aximage.html) | Aximage <br> Correio da Manhã | 5 | 5–6 | 5–6 | 4–6 | 4–6 |
 | [5–12 September 2018](2018-09-12-Eurosondagem.html) | Eurosondagem <br> Expresso and SIC | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
 | [1–2 September 2018](2018-09-02-Aximage.html) | Aximage <br> Correio da Manhã | 5 | 5–6 | 5–6 | 4–6 | 4–6 |
 | [13–16 July 2018](2018-07-16-Aximage.html) | Aximage <br> Correio da Manhã | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
@@ -81,9 +83,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 2% | 100% |  |
-| 5 | 34% | 98% |  |
-| 6 | 51% | 64% | Last Result, Median |
-| 7 | 13% | 14% |  |
+| 5 | 36% | 98% |  |
+| 6 | 48% | 62% | Last Result, Median |
+| 7 | 13% | 13% |  |
 | 8 | 0.1% | 0.1% |  |
 | 9 | 0% | 0% |  |
 
