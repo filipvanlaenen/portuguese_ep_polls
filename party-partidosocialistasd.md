@@ -11,6 +11,7 @@ Last result: **31.5%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 40.3% | 37.3–42.8% | 36.4–43.5% | 35.7–44.0% | 34.4–45.1% |
+| [7–14 November 2018](2018-11-14-Eurosondagem.html) | Eurosondagem <br> Expresso and SIC | 41.8% | 39.9–43.8% | 39.3–44.4% | 38.9–44.9% | 37.9–45.9% |
 | [1–3 October 2018](2018-10-03-Aximage.html) | Aximage <br> Correio da Manhã | 38.9% | 36.4–41.5% | 35.7–42.3% | 35.1–42.9% | 33.9–44.2% |
 | [5–12 September 2018](2018-09-12-Eurosondagem.html) | Eurosondagem <br> Expresso and SIC | 41.4% | 39.4–43.4% | 38.8–44.0% | 38.4–44.4% | 37.4–45.4% |
 | [1–2 September 2018](2018-09-02-Aximage.html) | Aximage <br> Correio da Manhã | 40.0% | 37.4–42.6% | 36.7–43.3% | 36.1–43.9% | 34.9–45.2% |
@@ -60,6 +61,7 @@ Last result: **8** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 9 | 8–10 | 8–10 | 8–10 | 8–11 |
+| [7–14 November 2018](2018-11-14-Eurosondagem.html) | Eurosondagem <br> Expresso and SIC | 10 | 10 | 10 | 10 | 9–10 |
 | [1–3 October 2018](2018-10-03-Aximage.html) | Aximage <br> Correio da Manhã | 9 | 8–9 | 8–10 | 8–10 | 7–10 |
 | [5–12 September 2018](2018-09-12-Eurosondagem.html) | Eurosondagem <br> Expresso and SIC | 10 | 9–10 | 9–10 | 9–11 | 8–11 |
 | [1–2 September 2018](2018-09-02-Aximage.html) | Aximage <br> Correio da Manhã | 9 | 8–10 | 8–10 | 8–10 | 8–11 |
