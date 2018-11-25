@@ -10,7 +10,7 @@ Last result: **4.6%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8.6% | 7.3–10.3% | 7.0–10.8% | 6.7–11.3% | 6.2–12.2% |
+| N/A | [Poll Average](average.html) | 8.4% | 7.0–10.3% | 6.7–10.8% | 6.4–11.3% | 5.9–12.2% |
 | [7–14 November 2018](2018-11-14-Eurosondagem.html) | Eurosondagem <br> Expresso and SIC | 7.7% | 6.7–8.8% | 6.4–9.2% | 6.2–9.5% | 5.7–10.1% |
 | [1–3 October 2018](2018-10-03-Aximage.html) | Aximage <br> Correio da Manhã | 9.2% | 7.8–10.8% | 7.4–11.3% | 7.1–11.7% | 6.5–12.6% |
 | [5–12 September 2018](2018-09-12-Eurosondagem.html) | Eurosondagem <br> Expresso and SIC | 8.0% | 7.0–9.2% | 6.8–9.6% | 6.5–9.9% | 6.1–10.5% |
@@ -33,12 +33,13 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 4.5–5.5% | 0% | 100% | Last Result |
-| 5.5–6.5% | 2% | 100% |  |
-| 6.5–7.5% | 14% | 98% |  |
-| 7.5–8.5% | 33% | 84% |  |
-| 8.5–9.5% | 29% | 51% | Median |
-| 9.5–10.5% | 15% | 22% |  |
+| 3.5–4.5% | 0% | 100% |  |
+| 4.5–5.5% | 0.1% | 100% | Last Result |
+| 5.5–6.5% | 4% | 99.9% |  |
+| 6.5–7.5% | 20% | 96% |  |
+| 7.5–8.5% | 31% | 76% | Median |
+| 8.5–9.5% | 24% | 45% |  |
+| 9.5–10.5% | 14% | 21% |  |
 | 10.5–11.5% | 6% | 7% |  |
 | 11.5–12.5% | 1.4% | 2% |  |
 | 12.5–13.5% | 0.2% | 0.3% |  |
@@ -78,8 +79,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 36% | 100% | Last Result |
-| 2 | 63% | 64% | Median |
+| 1 | 44% | 100% | Last Result |
+| 2 | 55% | 56% | Median |
 | 3 | 0.3% | 0.3% |  |
 | 4 | 0% | 0% |  |
 
