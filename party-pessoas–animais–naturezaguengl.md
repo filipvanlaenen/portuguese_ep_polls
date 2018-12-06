@@ -12,6 +12,7 @@ Last result: **1.7%** (General Election of 25 May 2014)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.8% | 1.3–2.4% | 1.2–2.6% | 1.1–2.8% | 1.0–3.1% |
 | [7–14 November 2018](2018-11-14-Eurosondagem.html) | Eurosondagem <br> Expresso and SIC | 1.8% | 1.3–2.4% | 1.2–2.6% | 1.1–2.8% | 0.9–3.1% |
+| [9–12 November 2018](2018-11-12-Aximage.html) | Aximage <br> Correio da Manhã | 0.0% | N/A | N/A | N/A | N/A |
 | [1–3 October 2018](2018-10-03-Aximage.html) | Aximage <br> Correio da Manhã | 0.0% | N/A | N/A | N/A | N/A |
 | [5–12 September 2018](2018-09-12-Eurosondagem.html) | Eurosondagem <br> Expresso and SIC | 1.1% | 0.8–1.6% | 0.7–1.8% | 0.6–2.0% | 0.5–2.3% |
 | [1–2 September 2018](2018-09-02-Aximage.html) | Aximage <br> Correio da Manhã | 0.0% | N/A | N/A | N/A | N/A |
@@ -51,6 +52,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [7–14 November 2018](2018-11-14-Eurosondagem.html) | Eurosondagem <br> Expresso and SIC | 0 | 0 | 0 | 0 | 0 |
+| [9–12 November 2018](2018-11-12-Aximage.html) | Aximage <br> Correio da Manhã |  |  |  |  |  |
 | [1–3 October 2018](2018-10-03-Aximage.html) | Aximage <br> Correio da Manhã |  |  |  |  |  |
 | [5–12 September 2018](2018-09-12-Eurosondagem.html) | Eurosondagem <br> Expresso and SIC | 0 | 0 | 0 | 0 | 0 |
 | [1–2 September 2018](2018-09-02-Aximage.html) | Aximage <br> Correio da Manhã |  |  |  |  |  |
