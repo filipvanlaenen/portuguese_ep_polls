@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/portuguese_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 06 Dec 2018 10:44:22 +0100</pubDate>
+    <pubDate>Thu, 06 Dec 2018 15:32:45 +0100</pubDate>
     <item>
       <title>Opinion Poll by Eurosondagem for Expresso and SIC, 7–14 November 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2018-11-14-Eurosondagem.html#seats</link>
@@ -40,14 +40,34 @@
       <dc:date>2018-11-19T17:22:13.921338+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Aximage for Correio da Manhã, 9–12 November 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2018-11-12-Aximage.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Social Democrata (EPP): 5–7 seats&lt;/li&gt;&lt;li&gt;Partido Socialista (S&amp;amp;D): 8–10 seats&lt;/li&gt;&lt;li&gt;Bloco de Esquerda (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;CDS–Partido Popular (EPP): 1–2 seats&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária (GUE/NGL): 1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2018-11-12-Aximage-seats.png"
+        length="145142"
+        type="image/png"/>
+      <pubDate>Thu, 06 Dec 2018 15:32:45 +0100</pubDate>
+      <dc:date>2018-12-06T15:32:45.725843+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Aximage for Correio da Manhã, 9–12 November 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2018-11-12-Aximage.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2018-11-12-Aximage-coalitions-seats.png"
+        length="118972"
+        type="image/png"/>
+      <pubDate>Thu, 06 Dec 2018 15:32:45 +0100</pubDate>
+      <dc:date>2018-12-06T15:32:45.725843+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Aximage for Correio da Manhã, 9–12 November 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2018-11-12-Aximage.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Partido Social Democrata (EPP): 23.0–30.0%&lt;/li&gt;&lt;li&gt;Partido Socialista (S&amp;amp;D): 34.0–41.8%&lt;/li&gt;&lt;li&gt;Bloco de Esquerda (GUE/NGL): 7.1–11.7%&lt;/li&gt;&lt;li&gt;CDS–Partido Popular (EPP): 5.8–10.0%&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária (GUE/NGL): 4.5–8.4%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2018-11-12-Aximage.png"
         length="185242"
         type="image/png"/>
-      <pubDate>Thu, 06 Dec 2018 10:44:22 +0100</pubDate>
-      <dc:date>2018-12-06T10:44:22.943751+01:00</dc:date>
+      <pubDate>Thu, 06 Dec 2018 15:32:45 +0100</pubDate>
+      <dc:date>2018-12-06T15:32:45.725843+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Aximage for Correio da Manhã, 1–3 October 2018 – Seat Projections for the Parties</title>
@@ -469,6 +489,6 @@
       <pubDate>Fri, 20 Apr 2018 19:23:21 +0200</pubDate>
       <dc:date>2018-04-20T19:23:21.893616+02:00</dc:date>
     </item>
-    <dc:date>2018-12-06T10:44:22.943751+01:00</dc:date>
+    <dc:date>2018-12-06T15:32:45.725843+01:00</dc:date>
   </channel>
 </rss>
