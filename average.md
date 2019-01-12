@@ -6,13 +6,13 @@
 
 The table below lists the polls on which the average is based. They are the most recent polls (less than 90 days old) registered and analyzed so far.
 
-| Period     | Polling firm/Commissioner(s) | PS | PSD | CDS–PP | CDU | BE | PAN |
-|:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|
-| 25 May 2014 | General Election | 31.5% <br> 8 | 27.7% <br> 6 | 27.7% <br> 1 | 12.7% <br> 3 | 4.6% <br> 1 | 1.7% <br> 0 |
-| N/A | Poll Average | 34–44% <br> 7–11 | 22–29% <br> 5–7 | 6–11% <br> 1–2 | 5–9% <br> 1–2 | 6–12% <br> 1–2 | 1–3% <br> 0 |
-| [7–11 December 2018](2018-12-11-Aximage.html) | Aximage <br> Correio da Manhã | 33–41% <br> 7–9 | 21–28% <br> 5–6 | 7–11% <br> 1–2 | 5–9% <br> 1–2 | 8–13% <br> 1–3 | N/A <br> N/A |
-| [7–14 November 2018](2018-11-14-Eurosondagem.html) | Eurosondagem <br> Expresso and SIC | 39–45% <br> 9–11 | 24–30% <br> 5–7 | 6–9% <br> 1–2 | 6–9% <br> 1–2 | 6–9% <br> 1–2 | 1–3% <br> 0 |
-| 25 May 2014 | General Election | 31.5% <br> 8 | 27.7% <br> 6 | 27.7% <br> 1 | 12.7% <br> 3 | 4.6% <br> 1 | 1.7% <br> 0 |
+| Period     | Polling firm/Commissioner(s) | PS | PSD | CDS–PP | CDU | BE | PAN | A |
+|:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| 25 May 2014 | General Election | 31.5% <br> 8 | 27.7% <br> 6 | 27.7% <br> 1 | 12.7% <br> 3 | 4.6% <br> 1 | 1.7% <br> 0 | 0.0% <br> 0 |
+| N/A | Poll Average | 34–44% <br> 7–11 | 22–29% <br> 5–7 | 6–11% <br> 1–2 | 5–9% <br> 1–2 | 6–12% <br> 1–2 | 1–3% <br> 0 | N/A <br> N/A |
+| [7–11 December 2018](2018-12-11-Aximage.html) | Aximage <br> Correio da Manhã | 33–41% <br> 7–9 | 21–28% <br> 5–6 | 7–11% <br> 1–2 | 5–9% <br> 1–2 | 8–13% <br> 1–3 | N/A <br> N/A | N/A <br> N/A |
+| [7–14 November 2018](2018-11-14-Eurosondagem.html) | Eurosondagem <br> Expresso and SIC | 39–45% <br> 9–11 | 24–30% <br> 5–7 | 6–9% <br> 1–2 | 6–9% <br> 1–2 | 6–9% <br> 1–2 | 1–3% <br> 0 | N/A <br> N/A |
+| 25 May 2014 | General Election | 31.5% <br> 8 | 27.7% <br> 6 | 27.7% <br> 1 | 12.7% <br> 3 | 4.6% <br> 1 | 1.7% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
 
@@ -25,6 +25,7 @@ Only polls for which at least the sample size has been published are included in
 + **CDU:** Coligação Democrática Unitária (GUE/NGL)
 + **BE:** Bloco de Esquerda (GUE/NGL)
 + **PAN:** Pessoas–Animais–Natureza (GUE/NGL)
++ **A:** Aliança (*)
 + **N/A (single party):** Party not included the published results
 + **N/A (entire row):** Calculation for this opinion poll not started yet
 
@@ -42,6 +43,7 @@ Only polls for which at least the sample size has been published are included in
 | <a href="#coligação-democrática-unitária-(gue/ngl)">Coligação Democrática Unitária (GUE/NGL)</a> | 12.7% | 6.8% | 5.5–8.0% |5.2–8.3% | 4.9–8.6% | 4.4–9.3% |
 | <a href="#bloco-de-esquerda-(gue/ngl)">Bloco de Esquerda (GUE/NGL)</a> | 4.6% | 8.7% | 7.0–11.1% |6.7–11.7% | 6.4–12.2% | 5.9–13.1% |
 | <a href="#pessoas–animais–natureza-(gue/ngl)">Pessoas–Animais–Natureza (GUE/NGL)</a> | 1.7% | 1.8% | 1.3–2.4% |1.2–2.6% | 1.1–2.8% | 1.0–3.1% |
+| <a href="#aliança-(*)">Aliança (*)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
 
 ### Partido Socialista (S&D)
 
@@ -187,6 +189,7 @@ Only polls for which at least the sample size has been published are included in
 | <a href="#coligação-democrática-unitária-(gue/ngl)">Coligação Democrática Unitária (GUE/NGL)</a> | 3 | 1 | 1 |1–2 | 1–2 | 1–2 |
 | <a href="#bloco-de-esquerda-(gue/ngl)">Bloco de Esquerda (GUE/NGL)</a> | 1 | 2 | 1–2 |1–2 | 1–2 | 1–3 |
 | <a href="#pessoas–animais–natureza-(gue/ngl)">Pessoas–Animais–Natureza (GUE/NGL)</a> | 0 | 0 | 0 |0 | 0 | 0 |
+| <a href="#aliança-(*)">Aliança (*)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 
 ### Partido Socialista (S&D)
 
