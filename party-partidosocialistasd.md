@@ -10,7 +10,8 @@ Last result: **31.5%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 39.0% | 36.0–41.5% | 35.2–42.1% | 34.5–42.7% | 33.2–43.7% |
+| N/A | [Poll Average](average.html) | 38.4% | 34.8–41.3% | 33.9–42.0% | 33.2–42.6% | 31.9–43.6% |
+| [5–10 February 2019](2019-02-10-Aximage.html) | Aximage <br> Correio da Manhã | 36.4% | 33.9–38.9% | 33.2–39.7% | 32.6–40.3% | 31.5–41.5% |
 | [2–9 January 2019](2019-01-09-Eurosondagem.html) | Eurosondagem <br> Expresso and SIC | 40.0% | 38.0–42.0% | 37.5–42.6% | 37.0–43.1% | 36.1–44.0% |
 | [4–7 January 2019](2019-01-07-Aximage.html) | Aximage <br> Correio da Manhã | 37.7% | 35.2–40.2% | 34.5–41.0% | 33.9–41.6% | 32.7–42.8% |
 | [7–11 December 2018](2018-12-11-Aximage.html) | Aximage <br> Correio da Manhã | 37.0% | 34.6–39.6% | 33.9–40.3% | 33.3–41.0% | 32.1–42.2% |
@@ -37,20 +38,21 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 30.5–31.5% | 0% | 100% | Last Result |
-| 31.5–32.5% | 0.2% | 100% |  |
-| 32.5–33.5% | 0.6% | 99.8% |  |
-| 33.5–34.5% | 2% | 99.2% |  |
-| 34.5–35.5% | 4% | 97% |  |
-| 35.5–36.5% | 8% | 93% |  |
-| 36.5–37.5% | 12% | 85% |  |
-| 37.5–38.5% | 16% | 74% |  |
-| 38.5–39.5% | 19% | 58% | Median |
-| 39.5–40.5% | 18% | 40% |  |
-| 40.5–41.5% | 13% | 22% |  |
-| 41.5–42.5% | 6% | 9% |  |
+| 29.5–30.5% | 0% | 100% |  |
+| 30.5–31.5% | 0.2% | 99.9% | Last Result |
+| 31.5–32.5% | 0.9% | 99.7% |  |
+| 32.5–33.5% | 2% | 98.9% |  |
+| 33.5–34.5% | 5% | 97% |  |
+| 34.5–35.5% | 8% | 92% |  |
+| 35.5–36.5% | 10% | 83% |  |
+| 36.5–37.5% | 12% | 73% |  |
+| 37.5–38.5% | 13% | 61% | Median |
+| 38.5–39.5% | 15% | 49% |  |
+| 39.5–40.5% | 14% | 34% |  |
+| 40.5–41.5% | 11% | 19% |  |
+| 41.5–42.5% | 6% | 8% |  |
 | 42.5–43.5% | 2% | 3% |  |
-| 43.5–44.5% | 0.6% | 0.7% |  |
+| 43.5–44.5% | 0.5% | 0.6% |  |
 | 44.5–45.5% | 0.1% | 0.1% |  |
 | 45.5–46.5% | 0% | 0% |  |
 
@@ -63,8 +65,9 @@ Last result: **8** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9 | 8–10 | 8–10 | 8–10 | 8–11 |
-| [2–9 January 2019](2019-01-09-Eurosondagem.html) | Eurosondagem <br> Expresso and SIC | 10 | 9–10 | 9–10 | 9–11 | 8–11 |
+| N/A | [Poll Average](average.html) | 9 | 8–9 | 8–9 | 8–10 | 7–10 |
+| [5–10 February 2019](2019-02-10-Aximage.html) | Aximage <br> Correio da Manhã | 9 | 8–9 | 8–9 | 7–9 | 7–9 |
+| [2–9 January 2019](2019-01-09-Eurosondagem.html) | Eurosondagem <br> Expresso and SIC | 9 | 8–9 | 8–10 | 8–10 | 8–11 |
 | [4–7 January 2019](2019-01-07-Aximage.html) | Aximage <br> Correio da Manhã | 9 | 8–10 | 8–10 | 8–10 | 7–10 |
 | [7–11 December 2018](2018-12-11-Aximage.html) | Aximage <br> Correio da Manhã | 8 | 8–9 | 7–9 | 7–9 | 7–10 |
 | [7–14 November 2018](2018-11-14-Eurosondagem.html) | Eurosondagem <br> Expresso and SIC | 10 | 9–10 | 9–11 | 9–11 | 9–11 |
@@ -92,11 +95,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 7 | 0.4% | 100% |  |
-| 8 | 15% | 99.6% | Last Result |
-| 9 | 51% | 85% | Median |
-| 10 | 31% | 33% |  |
-| 11 | 2% | 2% | Majority |
-| 12 | 0% | 0% |  |
+| 7 | 2% | 100% |  |
+| 8 | 19% | 98% | Last Result |
+| 9 | 74% | 78% | Median |
+| 10 | 4% | 4% |  |
+| 11 | 0.3% | 0.3% | Majority |
+| 12 | 0.1% | 0.1% |  |
+| 13 | 0% | 0% |  |
 
 
