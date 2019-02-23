@@ -62,9 +62,9 @@ Last result: **6** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
-| [5–10 February 2019](2019-02-10-Aximage.html) | Aximage <br> Correio da Manhã | 6 | 6 | 6 | 5–6 | 5–7 |
-| [2–9 January 2019](2019-01-09-Eurosondagem.html) | Eurosondagem <br> Expresso and SIC | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
+| N/A | [Poll Average](average.html) | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
+| [5–10 February 2019](2019-02-10-Aximage.html) | Aximage <br> Correio da Manhã | 5 | 5–6 | 5–6 | 5–6 | 4–7 |
+| [2–9 January 2019](2019-01-09-Eurosondagem.html) | Eurosondagem <br> Expresso and SIC | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
 | [4–7 January 2019](2019-01-07-Aximage.html) | Aximage <br> Correio da Manhã | 5 | 5–6 | 5–6 | 5–6 | 4–7 |
 | [7–11 December 2018](2018-12-11-Aximage.html) | Aximage <br> Correio da Manhã | 5 | 5–6 | 5–6 | 5–6 | 4–7 |
 | [7–14 November 2018](2018-11-14-Eurosondagem.html) | Eurosondagem <br> Expresso and SIC | 6 | 6–7 | 6–7 | 5–7 | 5–7 |
@@ -92,10 +92,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 0.1% | 100% |  |
-| 5 | 24% | 99.9% |  |
-| 6 | 75% | 76% | Last Result, Median |
-| 7 | 0.6% | 0.6% |  |
+| 4 | 0.4% | 100% |  |
+| 5 | 33% | 99.6% |  |
+| 6 | 64% | 66% | Last Result, Median |
+| 7 | 3% | 3% |  |
 | 8 | 0% | 0% |  |
 
 
