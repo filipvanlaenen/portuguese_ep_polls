@@ -5,9 +5,10 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | PS | PSD | CDS–PP | CDU | BE | PAN | A |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 25 May 2014 | General Election | 31.5% <br> 8 | 27.7% <br> 6 | 27.7% <br> 1 | 12.7% <br> 3 | 4.6% <br> 1 | 1.7% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 33–43% <br> 8–10 | 22–28% <br> 5–7 | 6–12% <br> 1–2 | 5–9% <br> 1–2 | 6–11% <br> 1–2 | 1–4% <br> 0 | 1–5% <br> 0–1 |
-| [5–10 February 2019](2019-02-10-Aximage.html) | Aximage <br> Correio da Manhã | 33–40% <br> 8–10 | 21–28% <br> 5–6 | 7–12% <br> 1–2 | 5–9% <br> 1–2 | 7–12% <br> 1–2 | 2–4% <br> 0–1 | 1–3% <br> 0 |
-| [2–9 January 2019](2019-01-09-Eurosondagem.html) | Eurosondagem <br> Expresso and SIC | 37–43% <br> 9–11 | 22–28% <br> 5–7 | 6–9% <br> 1–2 | 6–9% <br> 1–2 | 6–9% <br> 1–2 | 1–3% <br> 0 | 3–5% <br> 0–1 |
+| N/A | [Poll Average](average.html) | 33–42% <br> 7–10 | 22–29% <br> 5–7 | 6–11% <br> 1–2 | 6–11% <br> 1–2 | 6–12% <br> 1–2 | 1–3% <br> 0 | 1–5% <br> 0–1 |
+| [10–14 March 2019](2019-03-14-Eurosondagem.html) | Eurosondagem <br> Porto Canal and Sol | 34–40% <br> 8–9 | 23–28% <br> 6 | 7–10% <br> 1–2 | 6–9% <br> 1 | 7–10% <br> 1–2 | N/A <br> N/A | 2–5% <br> 0–1 |
+| [9–13 March 2019](2019-03-13-Aximage.html) | Aximage <br> Correio da Manhã and Negócios | 33–40% <br> 7–10 | 21–27% <br> 4–6 | 8–12% <br> 1–2 | 5–9% <br> 1–2 | 7–12% <br> 1–3 | N/A <br> N/A | 1–3% <br> 0 |
+| [9–21 February 2019](2019-02-21-GfKMetris.html) | GfK Metris <br> Expresso and SIC Notícias | 34–40% <br> 8–9 | 22–28% <br> 6 | 6–10% <br> 2 | 6–10% <br> 1–2 | 6–10% <br> 1 | N/A <br> N/A | 1–3% <br> 0 |
 | 25 May 2014 | General Election | 31.5% <br> 8 | 27.7% <br> 6 | 27.7% <br> 1 | 12.7% <br> 3 | 4.6% <br> 1 | 1.7% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
