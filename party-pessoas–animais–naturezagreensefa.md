@@ -10,7 +10,7 @@ Last result: **1.7%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.1% | 1.3–3.4% | 1.1–3.8% | 1.0–4.0% | 0.7–4.6% |
+| N/A | [Poll Average](average.html) | 2.6% | 1.8–3.5% | 1.6–3.8% | 1.5–4.1% | 1.2–4.6% |
 | [10–14 March 2019](2019-03-14-Eurosondagem.html) | Eurosondagem <br> Porto Canal and Sol | 2.4% | 1.8–3.1% | 1.7–3.3% | 1.6–3.5% | 1.4–3.9% |
 | [9–13 March 2019](2019-03-13-Aximage.html) | Aximage <br> Correio da Manhã and Negócios | 2.2% | 1.6–3.1% | 1.4–3.4% | 1.3–3.7% | 1.0–4.2% |
 | [9–21 February 2019](2019-02-21-GfKMetris.html) | GfK Metris <br> Expresso and SIC Notícias | 3.0% | 2.3–3.9% | 2.2–4.2% | 2.0–4.4% | 1.8–4.9% |
@@ -41,12 +41,12 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0.1% | 100% |  |
-| 0.5–1.5% | 21% | 99.9% |  |
-| 1.5–2.5% | 46% | 79% | Last Result, Median |
-| 2.5–3.5% | 25% | 33% |  |
-| 3.5–4.5% | 7% | 8% |  |
-| 4.5–5.5% | 0.5% | 0.5% |  |
+| 0.0–0.5% | 0% | 100% |  |
+| 0.5–1.5% | 4% | 100% |  |
+| 1.5–2.5% | 45% | 96% | Last Result |
+| 2.5–3.5% | 42% | 52% | Median |
+| 3.5–4.5% | 9% | 9% |  |
+| 4.5–5.5% | 0.6% | 0.6% |  |
 | 5.5–6.5% | 0% | 0% |  |
 
 

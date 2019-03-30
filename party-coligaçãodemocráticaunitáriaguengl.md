@@ -10,7 +10,7 @@ Last result: **12.7%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8.0% | 6.6–9.7% | 6.3–10.2% | 6.0–10.7% | 5.5–11.6% |
+| N/A | [Poll Average](average.html) | 7.4% | 6.1–8.8% | 5.7–9.2% | 5.4–9.6% | 4.9–10.4% |
 | [10–14 March 2019](2019-03-14-Eurosondagem.html) | Eurosondagem <br> Porto Canal and Sol | 7.1% | 6.1–8.2% | 5.9–8.5% | 5.6–8.8% | 5.2–9.4% |
 | [9–13 March 2019](2019-03-13-Aximage.html) | Aximage <br> Correio da Manhã and Negócios | 6.8% | 5.7–8.3% | 5.3–8.8% | 5.1–9.1% | 4.6–9.9% |
 | [9–21 February 2019](2019-02-21-GfKMetris.html) | GfK Metris <br> Expresso and SIC Notícias | 8.0% | 6.9–9.4% | 6.6–9.7% | 6.3–10.1% | 5.8–10.8% |
@@ -41,17 +41,17 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 3.5–4.5% | 0% | 100% |  |
-| 4.5–5.5% | 0.6% | 100% |  |
-| 5.5–6.5% | 9% | 99.4% |  |
-| 6.5–7.5% | 27% | 91% |  |
-| 7.5–8.5% | 32% | 64% | Median |
-| 8.5–9.5% | 21% | 33% |  |
-| 9.5–10.5% | 9% | 12% |  |
-| 10.5–11.5% | 3% | 3% |  |
-| 11.5–12.5% | 0.5% | 0.6% |  |
-| 12.5–13.5% | 0.1% | 0.1% | Last Result |
-| 13.5–14.5% | 0% | 0% |  |
+| 2.5–3.5% | 0% | 100% |  |
+| 3.5–4.5% | 0.2% | 100% |  |
+| 4.5–5.5% | 3% | 99.8% |  |
+| 5.5–6.5% | 18% | 97% |  |
+| 6.5–7.5% | 36% | 79% | Median |
+| 7.5–8.5% | 29% | 43% |  |
+| 8.5–9.5% | 11% | 14% |  |
+| 9.5–10.5% | 2% | 3% |  |
+| 10.5–11.5% | 0.3% | 0.3% |  |
+| 11.5–12.5% | 0% | 0% |  |
+| 12.5–13.5% | 0% | 0% | Last Result |
 
 
 ## Seats
@@ -95,9 +95,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 56% | 100% | Median |
-| 2 | 44% | 44% |  |
-| 3 | 0.2% | 0.2% | Last Result |
-| 4 | 0% | 0% |  |
+| 1 | 79% | 100% | Median |
+| 2 | 21% | 21% |  |
+| 3 | 0% | 0% | Last Result |
 
 
