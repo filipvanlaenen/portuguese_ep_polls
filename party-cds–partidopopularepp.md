@@ -10,9 +10,9 @@ Last result: **27.7%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8.7% | 7.3–10.5% | 7.0–11.1% | 6.7–11.6% | 6.1–12.6% |
+| N/A | [Poll Average](average.html) | 8.1% | 6.7–9.4% | 6.3–9.8% | 5.9–10.2% | 5.3–10.8% |
 | [10–14 March 2019](2019-03-14-Eurosondagem.html) | Eurosondagem <br> Porto Canal and Sol | 8.5% | 7.5–9.8% | 7.2–10.1% | 7.0–10.4% | 6.5–11.0% |
-| [9–13 March 2019](2019-03-13-Aximage.html) | Aximage <br> Correio da Manhã and Negócios | 9.7% | 8.3–11.4% | 7.9–11.9% | 7.5–12.3% | 6.9–13.2% |
+| [9–13 March 2019](2019-03-13-Aximage.html) | Aximage <br> Correio da Manhã and Negócios | 7.3% | 6.1–8.9% | 5.8–9.3% | 5.5–9.7% | 5.0–10.5% |
 | [9–21 February 2019](2019-02-21-GfKMetris.html) | GfK Metris <br> Expresso and SIC Notícias | 8.0% | 6.9–9.4% | 6.6–9.7% | 6.3–10.1% | 5.8–10.8% |
 | [5–10 February 2019](2019-02-10-Aximage.html) | Aximage <br> Correio da Manhã | 8.6% | 7.3–10.3% | 7.0–10.7% | 6.6–11.2% | 6.1–12.0% |
 | [2–9 January 2019](2019-01-09-Eurosondagem.html) | Eurosondagem <br> Expresso and SIC Notícias | 7.1% | 6.2–8.3% | 5.9–8.6% | 5.7–8.9% | 5.3–9.5% |
@@ -41,16 +41,17 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 4.5–5.5% | 0.1% | 100% |  |
-| 5.5–6.5% | 2% | 99.9% |  |
-| 6.5–7.5% | 12% | 98% |  |
-| 7.5–8.5% | 30% | 86% |  |
-| 8.5–9.5% | 30% | 56% | Median |
-| 9.5–10.5% | 16% | 26% |  |
-| 10.5–11.5% | 7% | 10% |  |
-| 11.5–12.5% | 2% | 3% |  |
-| 12.5–13.5% | 0.5% | 0.5% |  |
-| 13.5–14.5% | 0.1% | 0.1% |  |
+| 3.5–4.5% | 0% | 100% |  |
+| 4.5–5.5% | 0.9% | 100% |  |
+| 5.5–6.5% | 7% | 99.0% |  |
+| 6.5–7.5% | 23% | 92% |  |
+| 7.5–8.5% | 36% | 69% | Median |
+| 8.5–9.5% | 25% | 33% |  |
+| 9.5–10.5% | 7% | 8% |  |
+| 10.5–11.5% | 1.0% | 1.0% |  |
+| 11.5–12.5% | 0.1% | 0.1% |  |
+| 12.5–13.5% | 0% | 0% |  |
+| 13.5–14.5% | 0% | 0% |  |
 | 14.5–15.5% | 0% | 0% |  |
 | 15.5–16.5% | 0% | 0% |  |
 | 16.5–17.5% | 0% | 0% |  |
@@ -75,9 +76,9 @@ Last result: **1** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
+| N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [10–14 March 2019](2019-03-14-Eurosondagem.html) | Eurosondagem <br> Porto Canal and Sol | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [9–13 March 2019](2019-03-13-Aximage.html) | Aximage <br> Correio da Manhã and Negócios | 2 | 2 | 2 | 1–3 | 1–3 |
+| [9–13 March 2019](2019-03-13-Aximage.html) | Aximage <br> Correio da Manhã and Negócios | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [9–21 February 2019](2019-02-21-GfKMetris.html) | GfK Metris <br> Expresso and SIC Notícias | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [5–10 February 2019](2019-02-10-Aximage.html) | Aximage <br> Correio da Manhã | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [2–9 January 2019](2019-01-09-Eurosondagem.html) | Eurosondagem <br> Expresso and SIC Notícias | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -108,9 +109,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 24% | 100% | Last Result |
-| 2 | 75% | 76% | Median |
-| 3 | 1.0% | 1.0% |  |
-| 4 | 0% | 0% |  |
+| 1 | 42% | 100% | Last Result |
+| 2 | 58% | 58% | Median |
+| 3 | 0% | 0% |  |
 
 
