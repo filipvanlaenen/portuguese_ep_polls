@@ -10,9 +10,9 @@ Last result: **27.7%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 25.0% | 23.1–27.0% | 22.5–27.6% | 22.1–28.1% | 21.2–29.1% |
-| [7–11 April 2019](2019-04-11-Eurosondagem.html) | Eurosondagem <br> Expresso and SIC Notícias | 25.0% | N/A | N/A | N/A | N/A |
-| [30 March–1 April 2019](2019-04-01-Aximage.html) | Aximage <br> Correio da Manhã and Negócios | 31.1% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 26.0% | 23.6–32.1% | 23.0–33.1% | 22.5–33.9% | 21.6–35.3% |
+| [7–11 April 2019](2019-04-11-Eurosondagem.html) | Eurosondagem <br> Expresso and SIC Notícias | 25.0% | 23.3–26.8% | 22.9–27.3% | 22.5–27.8% | 21.7–28.7% |
+| [30 March–1 April 2019](2019-04-01-Aximage.html) | Aximage <br> Correio da Manhã and Negócios | 31.1% | 28.7–33.6% | 28.1–34.3% | 27.5–34.9% | 26.4–36.1% |
 | [10–14 March 2019](2019-03-14-Eurosondagem.html) | Eurosondagem <br> Porto Canal and Sol | 25.2% | 23.5–27.0% | 23.0–27.5% | 22.6–28.0% | 21.8–28.8% |
 | [9–13 March 2019](2019-03-13-Aximage.html) | Aximage <br> Correio da Manhã and Negócios | 29.2% | 26.9–31.6% | 26.2–32.3% | 25.7–32.9% | 24.6–34.1% |
 | [9–21 February 2019](2019-02-21-GfKMetris.html) | GfK Metris <br> Expresso and SIC Notícias | 25.0% | 23.1–27.0% | 22.5–27.6% | 22.1–28.1% | 21.2–29.1% |
@@ -43,19 +43,25 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 18.5–19.5% | 0% | 100% |  |
-| 19.5–20.5% | 0.1% | 100% |  |
-| 20.5–21.5% | 0.9% | 99.9% |  |
-| 21.5–22.5% | 4% | 99.0% |  |
-| 22.5–23.5% | 12% | 95% |  |
-| 23.5–24.5% | 22% | 83% |  |
-| 24.5–25.5% | 25% | 62% | Median |
-| 25.5–26.5% | 20% | 36% |  |
-| 26.5–27.5% | 11% | 16% |  |
-| 27.5–28.5% | 4% | 5% | Last Result |
-| 28.5–29.5% | 1.0% | 1.2% |  |
-| 29.5–30.5% | 0.2% | 0.2% |  |
-| 30.5–31.5% | 0% | 0% |  |
+| 19.5–20.5% | 0% | 100% |  |
+| 20.5–21.5% | 0.4% | 100% |  |
+| 21.5–22.5% | 2% | 99.6% |  |
+| 22.5–23.5% | 7% | 97% |  |
+| 23.5–24.5% | 15% | 90% |  |
+| 24.5–25.5% | 18% | 75% |  |
+| 25.5–26.5% | 14% | 57% | Median |
+| 26.5–27.5% | 8% | 43% |  |
+| 27.5–28.5% | 4% | 35% | Last Result |
+| 28.5–29.5% | 4% | 31% |  |
+| 29.5–30.5% | 6% | 27% |  |
+| 30.5–31.5% | 7% | 21% |  |
+| 31.5–32.5% | 6% | 14% |  |
+| 32.5–33.5% | 4% | 7% |  |
+| 33.5–34.5% | 2% | 3% |  |
+| 34.5–35.5% | 0.9% | 1.2% |  |
+| 35.5–36.5% | 0.3% | 0.4% |  |
+| 36.5–37.5% | 0.1% | 0.1% |  |
+| 37.5–38.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -66,9 +72,9 @@ Last result: **6** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
-| [7–11 April 2019](2019-04-11-Eurosondagem.html) | Eurosondagem <br> Expresso and SIC Notícias |  |  |  |  |  |
-| [30 March–1 April 2019](2019-04-01-Aximage.html) | Aximage <br> Correio da Manhã and Negócios |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 6 | 5–7 | 5–8 | 5–8 | 5–8 |
+| [7–11 April 2019](2019-04-11-Eurosondagem.html) | Eurosondagem <br> Expresso and SIC Notícias | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
+| [30 March–1 April 2019](2019-04-01-Aximage.html) | Aximage <br> Correio da Manhã and Negócios | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
 | [10–14 March 2019](2019-03-14-Eurosondagem.html) | Eurosondagem <br> Porto Canal and Sol | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
 | [9–13 March 2019](2019-03-13-Aximage.html) | Aximage <br> Correio da Manhã and Negócios | 7 | 6–7 | 6–8 | 6–8 | 5–8 |
 | [9–21 February 2019](2019-02-21-GfKMetris.html) | GfK Metris <br> Expresso and SIC Notícias | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
@@ -101,10 +107,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 0.2% | 100% |  |
-| 5 | 31% | 99.8% |  |
-| 6 | 64% | 69% | Last Result, Median |
-| 7 | 5% | 5% |  |
-| 8 | 0% | 0% |  |
+| 4 | 0.1% | 100% |  |
+| 5 | 18% | 99.9% |  |
+| 6 | 51% | 82% | Last Result, Median |
+| 7 | 25% | 31% |  |
+| 8 | 6% | 6% |  |
+| 9 | 0.1% | 0.1% |  |
+| 10 | 0% | 0% |  |
 
 
