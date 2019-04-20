@@ -10,7 +10,9 @@ Last result: **31.5%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 36.4% | 33.1–38.8% | 32.2–39.5% | 31.5–40.0% | 30.1–41.1% |
+| N/A | [Poll Average](average.html) | 37.0% | 34.8–39.2% | 34.2–39.8% | 33.7–40.4% | 32.7–41.4% |
+| [7–11 April 2019](2019-04-11-Eurosondagem.html) | Eurosondagem <br> Expresso and SIC Notícias | 36.9% | N/A | N/A | N/A | N/A |
+| [30 March–1 April 2019](2019-04-01-Aximage.html) | Aximage <br> Correio da Manhã and Negócios | 33.6% | N/A | N/A | N/A | N/A |
 | [10–14 March 2019](2019-03-14-Eurosondagem.html) | Eurosondagem <br> Porto Canal and Sol | 37.3% | 35.3–39.2% | 34.8–39.8% | 34.3–40.3% | 33.4–41.2% |
 | [9–13 March 2019](2019-03-13-Aximage.html) | Aximage <br> Correio da Manhã and Negócios | 34.2% | 31.7–36.7% | 31.1–37.4% | 30.5–38.1% | 29.3–39.3% |
 | [9–21 February 2019](2019-02-21-GfKMetris.html) | GfK Metris <br> Expresso and SIC Notícias | 37.0% | 34.8–39.2% | 34.2–39.8% | 33.7–40.4% | 32.7–41.4% |
@@ -41,22 +43,20 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 27.5–28.5% | 0% | 100% |  |
-| 28.5–29.5% | 0.2% | 100% |  |
-| 29.5–30.5% | 0.7% | 99.8% |  |
-| 30.5–31.5% | 2% | 99.1% | Last Result |
-| 31.5–32.5% | 4% | 97% |  |
-| 32.5–33.5% | 6% | 93% |  |
-| 33.5–34.5% | 10% | 87% |  |
-| 34.5–35.5% | 13% | 77% |  |
-| 35.5–36.5% | 17% | 64% | Median |
-| 36.5–37.5% | 19% | 47% |  |
-| 37.5–38.5% | 15% | 28% |  |
-| 38.5–39.5% | 9% | 13% |  |
-| 39.5–40.5% | 3% | 5% |  |
-| 40.5–41.5% | 1.0% | 1.2% |  |
-| 41.5–42.5% | 0.2% | 0.2% |  |
-| 42.5–43.5% | 0% | 0% |  |
+| 30.5–31.5% | 0.1% | 100% | Last Result |
+| 31.5–32.5% | 0.4% | 99.9% |  |
+| 32.5–33.5% | 2% | 99.6% |  |
+| 33.5–34.5% | 5% | 98% |  |
+| 34.5–35.5% | 12% | 92% |  |
+| 35.5–36.5% | 20% | 80% |  |
+| 36.5–37.5% | 23% | 60% | Median |
+| 37.5–38.5% | 19% | 37% |  |
+| 38.5–39.5% | 11% | 18% |  |
+| 39.5–40.5% | 5% | 7% |  |
+| 40.5–41.5% | 2% | 2% |  |
+| 41.5–42.5% | 0.3% | 0.4% |  |
+| 42.5–43.5% | 0.1% | 0.1% |  |
+| 43.5–44.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -67,7 +67,9 @@ Last result: **8** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9 | 8–9 | 7–10 | 7–10 | 7–10 |
+| N/A | [Poll Average](average.html) | 9 | 8–9 | 8–10 | 8–10 | 7–10 |
+| [7–11 April 2019](2019-04-11-Eurosondagem.html) | Eurosondagem <br> Expresso and SIC Notícias |  |  |  |  |  |
+| [30 March–1 April 2019](2019-04-01-Aximage.html) | Aximage <br> Correio da Manhã and Negócios |  |  |  |  |  |
 | [10–14 March 2019](2019-03-14-Eurosondagem.html) | Eurosondagem <br> Porto Canal and Sol | 9 | 8–9 | 8–10 | 8–10 | 8–10 |
 | [9–13 March 2019](2019-03-13-Aximage.html) | Aximage <br> Correio da Manhã and Negócios | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
 | [9–21 February 2019](2019-02-21-GfKMetris.html) | GfK Metris <br> Expresso and SIC Notícias | 9 | 8–9 | 8–10 | 8–10 | 7–10 |
@@ -100,11 +102,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 6 | 0.1% | 100% |  |
-| 7 | 7% | 99.9% |  |
-| 8 | 40% | 93% | Last Result |
-| 9 | 48% | 54% | Median |
-| 10 | 5% | 5% |  |
+| 7 | 1.2% | 100% |  |
+| 8 | 32% | 98.8% | Last Result |
+| 9 | 60% | 67% | Median |
+| 10 | 7% | 7% |  |
 | 11 | 0% | 0% | Majority |
 
 
