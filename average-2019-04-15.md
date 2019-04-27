@@ -10,6 +10,7 @@ The table below lists the polls on which the average is based. They are the most
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 25 May 2014 | General Election | 31.5% <br> 8 | 27.7% <br> 6 | 27.7% <br> 1 | 12.7% <br> 3 | 4.6% <br> 1 | 1.7% <br> 0 | 0.0% <br> 0 |
 | N/A | Poll Average | 31–40% <br> 7–10 | 22–34% <br> 5–8 | 6–10% <br> 1–2 | 6–11% <br> 1–2 | 6–10% <br> 1–2 | 1–4% <br> 0–1 | 1–4% <br> 0–1 |
+| [3–13 April 2019](2019-04-13-Pitagórica.html) | Pitagórica | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [7–11 April 2019](2019-04-11-Eurosondagem.html) | Eurosondagem <br> Expresso and SIC Notícias | 34–40% <br> 8–10 | 22–28% <br> 5–7 | 7–10% <br> 1–2 | 6–9% <br> 1–2 | 6–10% <br> 1–2 | 2–4% <br> 0 | 3–5% <br> 0–1 |
 | [30 March–1 April 2019](2019-04-01-Aximage.html) | Aximage <br> Correio da Manhã and Negócios | 30–37% <br> 7–9 | 27–35% <br> 6–8 | 5–9% <br> 1–2 | 7–12% <br> 1–2 | 6–10% <br> 1–2 | 1–3% <br> 0 | 1–3% <br> 0 |
 | [9–21 February 2019](2019-02-21-GfKMetris.html) | GfK Metris <br> Expresso and SIC Notícias | 34–40% <br> 8–10 | 22–28% <br> 5–7 | 6–10% <br> 1–2 | 6–10% <br> 1–2 | 6–10% <br> 1–2 | 2–4% <br> 0–1 | 1–3% <br> 0 |
@@ -378,7 +379,7 @@ Only polls for which at least the sample size has been published are included in
 
 ## Technical Information
 
-+ **Number of polls included in this average:** 3
-+ **Lowest number of simulations done in a poll included in this average:** 524,288
++ **Number of polls included in this average:** 4
++ **Lowest number of simulations done in a poll included in this average:** 0
 + **Total number of simulations done in the polls included in this average:** 2,097,152
 + **Error estimate:** 3.06%
