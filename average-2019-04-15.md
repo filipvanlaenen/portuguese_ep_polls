@@ -228,9 +228,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 5 | 1.4% | 100% |  |
-| 6 | 17% | 98.6% |  |
-| 7 | 15% | 82% |  |
+| 5 | 1.3% | 100% |  |
+| 6 | 17% | 98.7% |  |
+| 7 | 16% | 82% |  |
 | 8 | 30% | 67% | Last Result, Median |
 | 9 | 33% | 36% |  |
 | 10 | 3% | 3% |  |
@@ -247,7 +247,7 @@ Only polls for which at least the sample size has been published are included in
 | 5 | 13% | 100% |  |
 | 6 | 45% | 87% | Last Result, Median |
 | 7 | 35% | 42% |  |
-| 8 | 7% | 8% |  |
+| 8 | 7% | 7% |  |
 | 9 | 0.1% | 0.1% |  |
 | 10 | 0% | 0% |  |
 
@@ -335,9 +335,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 5 | 1.4% | 100% |  |
-| 6 | 17% | 98.6% |  |
-| 7 | 15% | 82% |  |
+| 5 | 1.3% | 100% |  |
+| 6 | 17% | 98.7% |  |
+| 7 | 16% | 82% |  |
 | 8 | 30% | 67% | Last Result, Median |
 | 9 | 33% | 36% |  |
 | 10 | 3% | 3% |  |
@@ -351,9 +351,9 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 6 | 3% | 100% |  |
 | 7 | 32% | 97% | Last Result, Median |
-| 8 | 52% | 66% |  |
-| 9 | 13% | 14% |  |
-| 10 | 0.5% | 0.5% |  |
+| 8 | 53% | 66% |  |
+| 9 | 13% | 13% |  |
+| 10 | 0.6% | 0.6% |  |
 | 11 | 0% | 0% | Majority |
 
 ### Coligação Democrática Unitária (GUE/NGL) – Bloco de Esquerda (GUE/NGL)
@@ -364,7 +364,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 14% | 100% |  |
 | 3 | 64% | 86% | Median |
-| 4 | 21% | 21% | Last Result |
+| 4 | 21% | 22% | Last Result |
 | 5 | 0.3% | 0.3% |  |
 | 6 | 0% | 0% |  |
 
@@ -392,6 +392,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 4
-+ **Lowest number of simulations done in a poll included in this average:** 131,072
-+ **Total number of simulations done in the polls included in this average:** 2,228,224
++ **Lowest number of simulations done in a poll included in this average:** 524,288
++ **Total number of simulations done in the polls included in this average:** 2,621,440
 + **Error estimate:** 3.06%
