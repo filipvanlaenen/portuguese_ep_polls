@@ -5,11 +5,11 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | PS | PSD | CDS–PP | CDU | BE | PAN | A |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 25 May 2014 | General Election | 31.5% <br> 8 | 27.7% <br> 6 | 27.7% <br> 1 | 12.7% <br> 3 | 4.6% <br> 1 | 1.7% <br> 0 | 0.0% <br> 0 |
-| [15–22 May 2019](2019-05-22-Eurosondagem.html) | Eurosondagem <br> Expresso and SIC Notícias | 34–38% <br> 8–10 | 24–28% <br> 6–7 | 6–8% <br> 1–2 | 7–9% <br> 1–2 | 6–8% <br> 1–2 | 3–4% <br> 0–1 | 3–4% <br> 0–1 |
-| [16–22 May 2019](2019-05-22-Aximage.html) | Aximage <br> Correio da Manhã and Negócios | 29–36% <br> 7–9 | 22–29% <br> 5–7 | 7–12% <br> 1–2 | 5–9% <br> 1–2 | 9–14% <br> 2–3 | 1–3% <br> 0 | 1–3% <br> 0 |
+| [15–22 May 2019](2019-05-22-Eurosondagem.html) | Eurosondagem <br> Expresso and SIC Notícias | 34–38% <br> 8–9 | 24–28% <br> 6–7 | 6–8% <br> 1–2 | 7–9% <br> 1–2 | 6–8% <br> 1–2 | 3–4% <br> 0–1 | 3–4% <br> 0–1 |
+| [16–22 May 2019](2019-05-22-Aximage.html) | Aximage <br> Correio da Manhã and Negócios | 29–36% <br> 6–9 | 22–29% <br> 5–7 | 7–12% <br> 1–3 | 5–9% <br> 1–2 | 9–14% <br> 2–3 | 1–3% <br> 0 | 1–3% <br> 0 |
 | [10–19 May 2019](2019-05-19-Pitagórica.html) | Pitagórica | 31–39% <br> 7–9 | 24–31% <br> 5–7 | 5–10% <br> 1–2 | 6–11% <br> 1–2 | 6–10% <br> 1–2 | 2–5% <br> 0–1 | 1–3% <br> 0 |
 | [16–19 May 2019](2019-05-19-CESOP–UCP.html) | CESOP–UCP | 32–37% <br> 7–9 | 22–26% <br> 5–6 | 7–10% <br> 1–2 | 7–10% <br> 1–2 | 8–11% <br> 2 | 2–4% <br> 0 | 2–4% <br> 0–1 |
-| [7–12 May 2019](2019-05-12-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [7–12 May 2019](2019-05-12-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 33–39% <br> 7–9 | 25–31% <br> 5–7 | 6–10% <br> 1–2 | 6–10% <br> 1–2 | 7–11% <br> 1–2 | 1–3% <br> 0 | N/A <br> N/A |
 | [3–8 May 2019](2019-05-08-Aximage.html) | Aximage <br> Correio da Manhã and Negócios | 31–40% <br> 7–10 | 24–32% <br> 5–7 | 5–10% <br> 1–2 | 5–10% <br> 1–2 | 6–11% <br> 1–2 | 1–3% <br> 0 | 1–3% <br> 0 |
 | [28 April–2 May 2019](2019-05-02-Eurosondagem.html) | Eurosondagem <br> Expresso and SIC Notícias | 32–36% <br> 8–9 | 25–29% <br> 6–7 | 6–8% <br> 1–2 | 7–9% <br> 1–2 | 6–8% <br> 1–2 | 3–4% <br> 0–1 | 3–4% <br> 0–1 |
 | [13–16 April 2019](2019-04-16-Aximage.html) | Aximage <br> Correio da Manhã and Negócios | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
