@@ -71,7 +71,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0–1 | 0–1 |
 | [15–22 May 2019](2019-05-22-Eurosondagem.html) | Eurosondagem <br> Expresso and SIC Notícias | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| [16–22 May 2019](2019-05-22-Aximage.html) | Aximage <br> Correio da Manhã and Negócios | 0 | 0 | 0 | 0 | 0 |
+| [16–22 May 2019](2019-05-22-Aximage.html) | Aximage <br> Correio da Manhã and Negócios | 0 | 0 | 0 | 0 | 0–1 |
 | [10–19 May 2019](2019-05-19-Pitagórica.html) | Pitagórica | 0 | 0 | 0 | 0 | 0 |
 | [16–19 May 2019](2019-05-19-CESOP–UCP.html) | CESOP–UCP | 0 | 0 | 0 | 0–1 | 0–1 |
 | [7–12 May 2019](2019-05-12-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias |  |  |  |  |  |
