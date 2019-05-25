@@ -10,10 +10,16 @@ Last result: **4.6%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8.1% | 6.6–9.9% | 6.3–10.3% | 6.1–10.6% | 5.5–11.3% |
+| N/A | [Poll Average](average.html) | 8.7% | 6.6–11.5% | 6.3–12.3% | 6.0–12.9% | 5.5–13.9% |
+| [15–22 May 2019](2019-05-22-Eurosondagem.html) | Eurosondagem <br> Expresso and SIC Notícias | 7.0% | 6.3–7.7% | 6.1–8.0% | 5.9–8.2% | 5.6–8.6% |
+| [16–22 May 2019](2019-05-22-Aximage.html) | Aximage <br> Correio da Manhã and Negócios | 11.1% | 9.6–12.9% | 9.2–13.4% | 8.9–13.8% | 8.2–14.7% |
+| [10–19 May 2019](2019-05-19-Pitagórica.html) | Pitagórica | 7.4% | 6.2–9.0% | 5.9–9.4% | 5.6–9.8% | 5.1–10.6% |
 | [16–19 May 2019](2019-05-19-CESOP–UCP.html) | CESOP–UCP | 9.4% | 8.5–10.3% | 8.3–10.5% | 8.1–10.8% | 7.7–11.2% |
+| [7–12 May 2019](2019-05-12-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 9.0% | N/A | N/A | N/A | N/A |
 | [3–8 May 2019](2019-05-08-Aximage.html) | Aximage <br> Correio da Manhã and Negócios | 7.9% | 6.5–9.8% | 6.1–10.3% | 5.7–10.8% | 5.1–11.8% |
 | [28 April–2 May 2019](2019-05-02-Eurosondagem.html) | Eurosondagem <br> Expresso and SIC Notícias | 7.1% | 6.4–7.9% | 6.2–8.1% | 6.1–8.3% | 5.7–8.7% |
+| [13–16 April 2019](2019-04-16-Aximage.html) | Aximage <br> Correio da Manhã and Negócios | 8.3% | N/A | N/A | N/A | N/A |
+| [3–13 April 2019](2019-04-13-Pitagórica.html) | Pitagórica | 11.2% | N/A | N/A | N/A | N/A |
 | [7–11 April 2019](2019-04-11-Eurosondagem.html) | Eurosondagem <br> Expresso and SIC Notícias | 7.8% | 6.8–8.9% | 6.5–9.3% | 6.3–9.6% | 5.8–10.2% |
 | [30 March–1 April 2019](2019-04-01-Aximage.html) | Aximage <br> Correio da Manhã and Negócios | 8.0% | 6.7–9.6% | 6.4–10.0% | 6.1–10.4% | 5.5–11.2% |
 | [10–14 March 2019](2019-03-14-Eurosondagem.html) | Eurosondagem <br> Porto Canal and Sol | 8.1% | 7.1–9.3% | 6.8–9.7% | 6.6–10.0% | 6.2–10.6% |
@@ -47,15 +53,18 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 3.5–4.5% | 0% | 100% |  |
-| 4.5–5.5% | 0.5% | 100% | Last Result |
-| 5.5–6.5% | 8% | 99.4% |  |
-| 6.5–7.5% | 28% | 91% |  |
-| 7.5–8.5% | 21% | 63% | Median |
-| 8.5–9.5% | 24% | 42% |  |
-| 9.5–10.5% | 15% | 18% |  |
-| 10.5–11.5% | 2% | 3% |  |
-| 11.5–12.5% | 0.2% | 0.3% |  |
-| 12.5–13.5% | 0% | 0% |  |
+| 4.5–5.5% | 0.6% | 100% | Last Result |
+| 5.5–6.5% | 9% | 99.4% |  |
+| 6.5–7.5% | 24% | 90% |  |
+| 7.5–8.5% | 15% | 67% |  |
+| 8.5–9.5% | 18% | 52% | Median |
+| 9.5–10.5% | 15% | 34% |  |
+| 10.5–11.5% | 9% | 19% |  |
+| 11.5–12.5% | 6% | 10% |  |
+| 12.5–13.5% | 3% | 4% |  |
+| 13.5–14.5% | 0.8% | 0.9% |  |
+| 14.5–15.5% | 0.1% | 0.2% |  |
+| 15.5–16.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -66,10 +75,16 @@ Last result: **1** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| N/A | [Poll Average](average.html) | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
+| [15–22 May 2019](2019-05-22-Eurosondagem.html) | Eurosondagem <br> Expresso and SIC Notícias | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| [16–22 May 2019](2019-05-22-Aximage.html) | Aximage <br> Correio da Manhã and Negócios | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [10–19 May 2019](2019-05-19-Pitagórica.html) | Pitagórica | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [16–19 May 2019](2019-05-19-CESOP–UCP.html) | CESOP–UCP | 2 | 2 | 2 | 2 | 1–2 |
+| [7–12 May 2019](2019-05-12-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias |  |  |  |  |  |
 | [3–8 May 2019](2019-05-08-Aximage.html) | Aximage <br> Correio da Manhã and Negócios | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [28 April–2 May 2019](2019-05-02-Eurosondagem.html) | Eurosondagem <br> Expresso and SIC Notícias | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [13–16 April 2019](2019-04-16-Aximage.html) | Aximage <br> Correio da Manhã and Negócios |  |  |  |  |  |
+| [3–13 April 2019](2019-04-13-Pitagórica.html) | Pitagórica |  |  |  |  |  |
 | [7–11 April 2019](2019-04-11-Eurosondagem.html) | Eurosondagem <br> Expresso and SIC Notícias | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [30 March–1 April 2019](2019-04-01-Aximage.html) | Aximage <br> Correio da Manhã and Negócios | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [10–14 March 2019](2019-03-14-Eurosondagem.html) | Eurosondagem <br> Porto Canal and Sol | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -104,9 +119,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 48% | 100% | Last Result |
-| 2 | 52% | 52% | Median |
-| 3 | 0.1% | 0.1% |  |
+| 1 | 42% | 100% | Last Result |
+| 2 | 52% | 58% | Median |
+| 3 | 6% | 6% |  |
 | 4 | 0% | 0% |  |
 
 
