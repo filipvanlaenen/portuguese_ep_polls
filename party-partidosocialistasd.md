@@ -78,9 +78,9 @@ Last result: **8** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8 | 7–9 | 7–9 | 7–9 | 6–10 |
+| N/A | [Poll Average](average.html) | 8 | 7–9 | 7–9 | 7–9 | 7–10 |
 | [15–22 May 2019](2019-05-22-Eurosondagem.html) | Eurosondagem <br> Expresso and SIC Notícias | 9 | 8–9 | 8–9 | 8–9 | 8–10 |
-| [16–22 May 2019](2019-05-22-Aximage.html) | Aximage <br> Correio da Manhã and Negócios | 8 | 7–8 | 7–9 | 6–9 | 6–9 |
+| [16–22 May 2019](2019-05-22-Aximage.html) | Aximage <br> Correio da Manhã and Negócios | 8 | 7–8 | 7–9 | 7–9 | 6–9 |
 | [10–19 May 2019](2019-05-19-Pitagórica.html) | Pitagórica | 8 | 7–9 | 7–9 | 7–9 | 7–10 |
 | [16–19 May 2019](2019-05-19-CESOP–UCP.html) | CESOP–UCP | 8 | 8–9 | 7–9 | 7–9 | 7–9 |
 | [7–12 May 2019](2019-05-12-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 8 | 8–9 | 7–9 | 7–9 | 7–10 |
@@ -122,10 +122,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 6 | 0.5% | 100% |  |
-| 7 | 13% | 99.5% |  |
-| 8 | 55% | 87% | Last Result, Median |
-| 9 | 31% | 32% |  |
+| 6 | 0.2% | 100% |  |
+| 7 | 11% | 99.8% |  |
+| 8 | 57% | 89% | Last Result, Median |
+| 9 | 31% | 31% |  |
 | 10 | 0.8% | 0.8% |  |
 | 11 | 0% | 0% | Majority |
 

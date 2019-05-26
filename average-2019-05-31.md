@@ -11,7 +11,7 @@ The table below lists the polls on which the average is based. They are the most
 | 25 May 2014 | General Election | 31.5% <br> 8 | 27.7% <br> 6 | 27.7% <br> 1 | 12.7% <br> 3 | 4.6% <br> 1 | 1.7% <br> 0 | 0.0% <br> 0 |
 | N/A | Poll Average | 30–38% <br> 7–9 | 23–30% <br> 5–7 | 6–11% <br> 1–2 | 6–10% <br> 1–2 | 6–13% <br> 1–3 | 1–5% <br> 0–1 | 1–4% <br> 0–1 |
 | [15–22 May 2019](2019-05-22-Eurosondagem.html) | Eurosondagem <br> Expresso and SIC Notícias | 34–38% <br> 8–9 | 24–28% <br> 6–7 | 6–8% <br> 1–2 | 7–9% <br> 1–2 | 6–8% <br> 1–2 | 3–4% <br> 0–1 | 3–4% <br> 0–1 |
-| [16–22 May 2019](2019-05-22-Aximage.html) | Aximage <br> Correio da Manhã and Negócios | 29–36% <br> 6–9 | 22–29% <br> 5–7 | 7–12% <br> 1–3 | 5–9% <br> 1–2 | 9–14% <br> 2–3 | 1–3% <br> 0 | 1–3% <br> 0 |
+| [16–22 May 2019](2019-05-22-Aximage.html) | Aximage <br> Correio da Manhã and Negócios | 29–36% <br> 7–9 | 22–29% <br> 5–7 | 7–12% <br> 1–2 | 5–9% <br> 1–2 | 9–14% <br> 2–3 | 1–3% <br> 0 | 1–3% <br> 0 |
 | [10–19 May 2019](2019-05-19-Pitagórica.html) | Pitagórica | 31–39% <br> 7–9 | 24–31% <br> 5–7 | 5–10% <br> 1–2 | 6–11% <br> 1–2 | 6–10% <br> 1–2 | 2–5% <br> 0–1 | 1–3% <br> 0 |
 | [16–19 May 2019](2019-05-19-CESOP–UCP.html) | CESOP–UCP | 32–37% <br> 7–9 | 22–26% <br> 5–6 | 7–10% <br> 1–2 | 7–10% <br> 1–2 | 8–11% <br> 2 | 2–4% <br> 0 | 2–4% <br> 0–1 |
 | [7–12 May 2019](2019-05-12-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 33–39% <br> 7–9 | 25–31% <br> 5–7 | 6–10% <br> 1–2 | 6–10% <br> 1–2 | 7–11% <br> 1–2 | 1–3% <br> 0 | N/A <br> N/A |
@@ -200,11 +200,11 @@ Only polls for which at least the sample size has been published are included in
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#partido-socialista-(s&d)">Partido Socialista (S&D)</a> | 8 | 8 | 7–9 |7–9 | 7–9 | 6–10 |
+| <a href="#partido-socialista-(s&d)">Partido Socialista (S&D)</a> | 8 | 8 | 7–9 |7–9 | 7–9 | 7–10 |
 | <a href="#partido-social-democrata-(epp)">Partido Social Democrata (EPP)</a> | 6 | 6 | 5–7 |5–7 | 5–7 | 5–7 |
-| <a href="#cds–partido-popular-(epp)">CDS–Partido Popular (EPP)</a> | 1 | 1 | 1–2 |1–2 | 1–2 | 1–3 |
+| <a href="#cds–partido-popular-(epp)">CDS–Partido Popular (EPP)</a> | 1 | 1 | 1–2 |1–2 | 1–2 | 1–2 |
 | <a href="#coligação-democrática-unitária-(gue/ngl)">Coligação Democrática Unitária (GUE/NGL)</a> | 3 | 2 | 1–2 |1–2 | 1–2 | 1–2 |
-| <a href="#bloco-de-esquerda-(gue/ngl)">Bloco de Esquerda (GUE/NGL)</a> | 1 | 2 | 1–2 |1–3 | 1–3 | 1–3 |
+| <a href="#bloco-de-esquerda-(gue/ngl)">Bloco de Esquerda (GUE/NGL)</a> | 1 | 2 | 1–2 |1–2 | 1–3 | 1–3 |
 | <a href="#pessoas–animais–natureza-(greens/efa)">Pessoas–Animais–Natureza (Greens/EFA)</a> | 0 | 0 | 0 |0–1 | 0–1 | 0–1 |
 | <a href="#aliança-(*)">Aliança (*)</a> | 0 | 0 | 0 |0 | 0–1 | 0–1 |
 
@@ -216,10 +216,10 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 6 | 0.5% | 100% |  |
-| 7 | 13% | 99.5% |  |
-| 8 | 55% | 87% | Last Result, Median |
-| 9 | 31% | 32% |  |
+| 6 | 0.2% | 100% |  |
+| 7 | 11% | 99.8% |  |
+| 8 | 57% | 89% | Last Result, Median |
+| 9 | 31% | 31% |  |
 | 10 | 0.8% | 0.8% |  |
 | 11 | 0% | 0% | Majority |
 
@@ -231,8 +231,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 5 | 15% | 100% |  |
-| 6 | 65% | 85% | Last Result, Median |
+| 5 | 16% | 100% |  |
+| 6 | 65% | 84% | Last Result, Median |
 | 7 | 20% | 20% |  |
 | 8 | 0.4% | 0.4% |  |
 | 9 | 0% | 0% |  |
@@ -247,7 +247,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 55% | 100% | Last Result, Median |
 | 2 | 45% | 45% |  |
-| 3 | 0.7% | 0.7% |  |
+| 3 | 0.2% | 0.2% |  |
 | 4 | 0% | 0% |  |
 
 ### Coligação Democrática Unitária (GUE/NGL)
@@ -309,7 +309,7 @@ Only polls for which at least the sample size has been published are included in
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | CDS–Partido Popular (EPP) – Partido Social Democrata (EPP) | 7 | 7 | 0% | 7–8 | 7–8 | 7–9 | 6–9 |
-| Partido Socialista (S&D) | 8 | 8 | 0% | 7–9 | 7–9 | 7–9 | 6–10 |
+| Partido Socialista (S&D) | 8 | 8 | 0% | 7–9 | 7–9 | 7–9 | 7–10 |
 | Coligação Democrática Unitária (GUE/NGL) – Bloco de Esquerda (GUE/NGL) | 4 | 3 | 0% | 2–4 | 2–4 | 2–4 | 2–5 |
 | Pessoas–Animais–Natureza (Greens/EFA) | 0 | 0 | 0% | 0 | 0–1 | 0–1 | 0–1 |
 | Aliança (*) | 0 | 0 | 0% | 0 | 0 | 0 | 0–1 |
@@ -321,9 +321,9 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 6 | 2% | 100% |  |
-| 7 | 49% | 98% | Last Result, Median |
-| 8 | 43% | 48% |  |
-| 9 | 5% | 5% |  |
+| 7 | 50% | 98% | Last Result, Median |
+| 8 | 44% | 48% |  |
+| 9 | 4% | 4% |  |
 | 10 | 0% | 0% |  |
 
 ### Partido Socialista (S&D)
@@ -332,10 +332,10 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 6 | 0.5% | 100% |  |
-| 7 | 13% | 99.5% |  |
-| 8 | 55% | 87% | Last Result, Median |
-| 9 | 31% | 32% |  |
+| 6 | 0.2% | 100% |  |
+| 7 | 11% | 99.8% |  |
+| 8 | 57% | 89% | Last Result, Median |
+| 9 | 31% | 31% |  |
 | 10 | 0.8% | 0.8% |  |
 | 11 | 0% | 0% | Majority |
 
@@ -347,8 +347,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 13% | 100% |  |
 | 3 | 55% | 87% |  |
-| 4 | 32% | 33% | Last Result, Median |
-| 5 | 0.6% | 0.6% |  |
+| 4 | 32% | 32% | Last Result, Median |
+| 5 | 0.5% | 0.5% |  |
 | 6 | 0% | 0% |  |
 
 ### Pessoas–Animais–Natureza (Greens/EFA)
@@ -375,6 +375,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 5
-+ **Lowest number of simulations done in a poll included in this average:** 524,288
-+ **Total number of simulations done in the polls included in this average:** 4,194,304
-+ **Error estimate:** 2.93%
++ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Total number of simulations done in the polls included in this average:** 5,242,880
++ **Error estimate:** 1.60%
