@@ -11,6 +11,7 @@ Last result: **27.7%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 24.2% | 22.5–26.0% | 22.1–26.5% | 21.7–26.9% | 20.9–27.8% |
+| [13–19 June 2019](2019-06-19-Aximage.html) | Aximage <br> Correio da Manhã and Negócios | 23.1% | N/A | N/A | N/A | N/A |
 | [2–6 June 2019](2019-06-06-Eurosondagem.html) | Eurosondagem | 24.2% | 22.5–26.0% | 22.1–26.5% | 21.7–26.9% | 20.9–27.8% |
 
 ### Probability Mass Function
@@ -42,6 +43,7 @@ Last result: **6** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
+| [13–19 June 2019](2019-06-19-Aximage.html) | Aximage <br> Correio da Manhã and Negócios |  |  |  |  |  |
 | [2–6 June 2019](2019-06-06-Eurosondagem.html) | Eurosondagem | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 
 ### Probability Mass Function
