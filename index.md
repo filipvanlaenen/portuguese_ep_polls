@@ -6,6 +6,7 @@ The table below lists the most recent polls (less than 90 days old) registered a
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 31.5% <br> 8 | 27.7% <br> 6 | 27.7% <br> 1 | 12.7% <br> 3 | 4.6% <br> 1 | 1.7% <br> 0 | 0.0% <br> 0 |
 | N/A | [Poll Average](average.html) | 34–40% <br> 8–10 | 22–27% <br> 5–6 | 5–8% <br> 1 | 5–8% <br> 1 | 8–11% <br> 1–2 | 4–6% <br> 0–1 | 1–3% <br> 0 |
+| [13–19 June 2019](2019-06-19-Aximage.html) | Aximage <br> Correio da Manhã and Negócios | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [2–6 June 2019](2019-06-06-Eurosondagem.html) | Eurosondagem | 34–40% <br> 8–10 | 22–27% <br> 5–6 | 5–8% <br> 1 | 5–8% <br> 1 | 7–11% <br> 1–2 | 4–6% <br> 0–1 | 1–3% <br> 0 |
 | 26 May 2019 | General Election | 31.5% <br> 8 | 27.7% <br> 6 | 27.7% <br> 1 | 12.7% <br> 3 | 4.6% <br> 1 | 1.7% <br> 0 | 0.0% <br> 0 |
 
