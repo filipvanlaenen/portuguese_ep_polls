@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/portuguese_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 29 Jun 2019 23:44:02 +0200</pubDate>
+    <pubDate>Sun, 30 Jun 2019 15:14:32 +0200</pubDate>
     <item>
       <title>Opinion Poll by Aximage for Correio da Manhã and Negócios, 13–19 June 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2019-06-19-Aximage.html#seats</link>
@@ -40,15 +40,35 @@
       <dc:date>2019-06-29T23:44:02.476829+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Eurosondagem, 2–6 June 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2019-06-06-Eurosondagem.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Social Democrata (EPP): 5–6 seats&lt;/li&gt;&lt;li&gt;Partido Socialista (S&amp;amp;D): 8–10 seats&lt;/li&gt;&lt;li&gt;Bloco de Esquerda (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;CDS–Partido Popular (EPP): 1 seats&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária (GUE/NGL): 1 seats&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Aliança (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2019-06-06-Eurosondagem-seats.png"
+        length="157963"
+        type="image/png"/>
+      <pubDate>Sun, 30 Jun 2019 15:14:32 +0200</pubDate>
+      <dc:date>2019-06-30T15:14:32.852257+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Eurosondagem, 2–6 June 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2019-06-06-Eurosondagem.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2019-06-06-Eurosondagem-coalitions-seats.png"
+        length="108471"
+        type="image/png"/>
+      <pubDate>Sun, 30 Jun 2019 15:14:32 +0200</pubDate>
+      <dc:date>2019-06-30T15:14:32.852257+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Eurosondagem, 2–6 June 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2019-06-06-Eurosondagem.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Partido Social Democrata (EPP): 21.7–26.9%&lt;/li&gt;&lt;li&gt;Partido Socialista (S&amp;amp;D): 34.5–40.4%&lt;/li&gt;&lt;li&gt;Bloco de Esquerda (GUE/NGL): 7.5–11.1%&lt;/li&gt;&lt;li&gt;CDS–Partido Popular (EPP): 4.7–7.7%&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária (GUE/NGL): 5.0–8.0%&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza (Greens/EFA): 3.7–6.4%&lt;/li&gt;&lt;li&gt;Aliança (*): 1.2–2.9%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2019-06-06-Eurosondagem.png"
         length="203354"
         type="image/png"/>
-      <pubDate>Sat, 29 Jun 2019 13:37:58 +0200</pubDate>
-      <dc:date>2019-06-29T13:37:58.374152+02:00</dc:date>
+      <pubDate>Sun, 30 Jun 2019 15:14:32 +0200</pubDate>
+      <dc:date>2019-06-30T15:14:32.852257+02:00</dc:date>
     </item>
-    <dc:date>2019-06-29T23:44:02.476829+02:00</dc:date>
+    <dc:date>2019-06-30T15:14:32.852257+02:00</dc:date>
   </channel>
 </rss>
