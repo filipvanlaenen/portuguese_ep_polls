@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/portuguese_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 29 Jun 2019 13:37:58 +0200</pubDate>
+    <pubDate>Sat, 29 Jun 2019 23:44:02 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Aximage for Correio da Manhã and Negócios, 13–19 June 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2019-06-19-Aximage.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Social Democrata (EPP): 4–6 seats&lt;/li&gt;&lt;li&gt;Partido Socialista (S&amp;amp;D): 7–9 seats&lt;/li&gt;&lt;li&gt;Bloco de Esquerda (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;CDS–Partido Popular (EPP): 1–2 seats&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Aliança (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2019-06-19-Aximage-seats.png"
+        length="182234"
+        type="image/png"/>
+      <pubDate>Sat, 29 Jun 2019 23:44:02 +0200</pubDate>
+      <dc:date>2019-06-29T23:44:02.476829+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Aximage for Correio da Manhã and Negócios, 13–19 June 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2019-06-19-Aximage.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2019-06-19-Aximage-coalitions-seats.png"
+        length="135453"
+        type="image/png"/>
+      <pubDate>Sat, 29 Jun 2019 23:44:02 +0200</pubDate>
+      <dc:date>2019-06-29T23:44:02.476829+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Aximage for Correio da Manhã and Negócios, 13–19 June 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2019-06-19-Aximage.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2019-06-19-Aximage.png"
         length="218215"
         type="image/png"/>
-      <pubDate>Sat, 29 Jun 2019 13:29:57 +0200</pubDate>
-      <dc:date>2019-06-29T13:29:57.764557+02:00</dc:date>
+      <pubDate>Sat, 29 Jun 2019 23:44:02 +0200</pubDate>
+      <dc:date>2019-06-29T23:44:02.476829+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Eurosondagem, 2–6 June 2019 – Voting Intentions</title>
@@ -29,6 +49,6 @@
       <pubDate>Sat, 29 Jun 2019 13:37:58 +0200</pubDate>
       <dc:date>2019-06-29T13:37:58.374152+02:00</dc:date>
     </item>
-    <dc:date>2019-06-29T13:37:58.374152+02:00</dc:date>
+    <dc:date>2019-06-29T23:44:02.476829+02:00</dc:date>
   </channel>
 </rss>
