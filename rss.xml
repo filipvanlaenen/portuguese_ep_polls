@@ -8,7 +8,17 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/portuguese_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 30 Jun 2019 15:14:32 +0200</pubDate>
+    <pubDate>Sat, 13 Jul 2019 19:56:49 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by ICS/ISCTE for Expresso and SIC Notícias, 15–27 June 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2019-06-27-ICSISCTE.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Social Democrata (EPP): 20.2–26.0%&lt;/li&gt;&lt;li&gt;Partido Socialista (S&amp;amp;D): 34.6–41.4%&lt;/li&gt;&lt;li&gt;Bloco de Esquerda (GUE/NGL): 9.0–13.4%&lt;/li&gt;&lt;li&gt;CDS–Partido Popular (EPP): 3.7–6.7%&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária (GUE/NGL): 6.3–10.1%&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza (Greens/EFA): 2.8–5.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2019-06-27-ICSISCTE.png"
+        length="198291"
+        type="image/png"/>
+      <pubDate>Sat, 13 Jul 2019 19:56:49 +0200</pubDate>
+      <dc:date>2019-07-13T19:56:49.198881+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Aximage for Correio da Manhã and Negócios, 13–19 June 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2019-06-19-Aximage.html#seats</link>
@@ -69,6 +79,6 @@
       <pubDate>Sun, 30 Jun 2019 15:14:32 +0200</pubDate>
       <dc:date>2019-06-30T15:14:32.852257+02:00</dc:date>
     </item>
-    <dc:date>2019-06-30T15:14:32.852257+02:00</dc:date>
+    <dc:date>2019-07-13T19:56:49.198881+02:00</dc:date>
   </channel>
 </rss>
