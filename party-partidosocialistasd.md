@@ -10,9 +10,9 @@ Last result: **31.5%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 36.5% | 33.9–38.9% | 33.1–39.5% | 32.4–40.0% | 31.1–41.1% |
+| N/A | [Poll Average](average.html) | 37.0% | 34.3–39.5% | 33.5–40.1% | 32.8–40.7% | 31.4–41.8% |
 | [7–11 July 2019](2019-07-11-Eurosondagem.html) | Eurosondagem <br> Associação Mutualista Montepio | 37.3% | 35.4–39.3% | 34.8–39.8% | 34.4–40.3% | 33.4–41.3% |
-| [15–27 June 2019](2019-06-27-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 38.0% | N/A | N/A | N/A | N/A |
+| [15–27 June 2019](2019-06-27-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 38.0% | 35.8–40.2% | 35.2–40.8% | 34.6–41.4% | 33.6–42.4% |
 | [13–19 June 2019](2019-06-19-Aximage.html) | Aximage <br> Correio da Manhã and Negócios | 35.5% | 33.1–38.1% | 32.4–38.8% | 31.8–39.4% | 30.7–40.7% |
 | [2–6 June 2019](2019-06-06-Eurosondagem.html) | Eurosondagem | 37.4% | 35.5–39.4% | 34.9–39.9% | 34.5–40.4% | 33.5–41.4% |
 
@@ -23,20 +23,21 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 28.5–29.5% | 0% | 100% |  |
-| 29.5–30.5% | 0.2% | 100% |  |
-| 30.5–31.5% | 0.7% | 99.8% | Last Result |
-| 31.5–32.5% | 2% | 99.1% |  |
-| 32.5–33.5% | 5% | 97% |  |
-| 33.5–34.5% | 9% | 92% |  |
-| 34.5–35.5% | 14% | 83% |  |
-| 35.5–36.5% | 19% | 69% |  |
-| 36.5–37.5% | 20% | 50% | Median |
-| 37.5–38.5% | 16% | 30% |  |
-| 38.5–39.5% | 9% | 14% |  |
-| 39.5–40.5% | 3% | 5% |  |
-| 40.5–41.5% | 1.0% | 1.2% |  |
-| 41.5–42.5% | 0.2% | 0.2% |  |
-| 42.5–43.5% | 0% | 0% |  |
+| 29.5–30.5% | 0.1% | 100% |  |
+| 30.5–31.5% | 0.5% | 99.9% | Last Result |
+| 31.5–32.5% | 1.4% | 99.4% |  |
+| 32.5–33.5% | 3% | 98% |  |
+| 33.5–34.5% | 7% | 95% |  |
+| 34.5–35.5% | 11% | 88% |  |
+| 35.5–36.5% | 17% | 77% |  |
+| 36.5–37.5% | 20% | 60% | Median |
+| 37.5–38.5% | 18% | 40% |  |
+| 38.5–39.5% | 12% | 21% |  |
+| 39.5–40.5% | 6% | 9% |  |
+| 40.5–41.5% | 2% | 3% |  |
+| 41.5–42.5% | 0.6% | 0.8% |  |
+| 42.5–43.5% | 0.1% | 0.2% |  |
+| 43.5–44.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -47,9 +48,9 @@ Last result: **8** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8 | 8–9 | 8–9 | 7–9 | 7–10 |
-| [7–11 July 2019](2019-07-11-Eurosondagem.html) | Eurosondagem <br> Associação Mutualista Montepio | 8 | 8 | 8 | 8–9 | 8–10 |
-| [15–27 June 2019](2019-06-27-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 9 | 8–9 | 8–9 | 7–10 | 7–10 |
+| [7–11 July 2019](2019-07-11-Eurosondagem.html) | Eurosondagem <br> Associação Mutualista Montepio | 9 | 8–9 | 8–10 | 8–10 | 8–10 |
+| [15–27 June 2019](2019-06-27-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 9 | 8–9 | 8–10 | 8–10 | 8–10 |
 | [13–19 June 2019](2019-06-19-Aximage.html) | Aximage <br> Correio da Manhã and Negócios | 8 | 8–9 | 7–9 | 7–9 | 7–10 |
 | [2–6 June 2019](2019-06-06-Eurosondagem.html) | Eurosondagem | 9 | 8–9 | 8–9 | 8–10 | 8–10 |
 
@@ -61,10 +62,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 7 | 4% | 100% |  |
-| 8 | 78% | 96% | Last Result, Median |
-| 9 | 17% | 18% |  |
-| 10 | 0.7% | 0.7% |  |
+| 7 | 3% | 100% |  |
+| 8 | 38% | 97% | Last Result |
+| 9 | 54% | 59% | Median |
+| 10 | 5% | 5% |  |
 | 11 | 0% | 0% | Majority |
 
 
