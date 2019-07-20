@@ -8,7 +8,17 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/portuguese_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 14 Jul 2019 22:11:54 +0200</pubDate>
+    <pubDate>Sat, 20 Jul 2019 12:03:41 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Aximage for Correio da Manhã and Negócios, 12–15 July 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2019-07-15-Aximage.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Social Democrata (EPP): 20.4–27.2%&lt;/li&gt;&lt;li&gt;Partido Socialista (S&amp;amp;D): 33.7–41.4%&lt;/li&gt;&lt;li&gt;Bloco de Esquerda (GUE/NGL): 7.2–11.9%&lt;/li&gt;&lt;li&gt;CDS–Partido Popular (EPP): 3.4–6.9%&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária (GUE/NGL): 5.1–9.1%&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza (Greens/EFA): 2.7–5.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2019-07-15-Aximage.png"
+        length="202192"
+        type="image/png"/>
+      <pubDate>Sat, 20 Jul 2019 12:03:41 +0200</pubDate>
+      <dc:date>2019-07-20T12:03:41.462856+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Eurosondagem for Associação Mutualista Montepio, 7–11 July 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2019-07-11-Eurosondagem.html#seats</link>
@@ -129,6 +139,6 @@
       <pubDate>Sun, 30 Jun 2019 15:14:32 +0200</pubDate>
       <dc:date>2019-06-30T15:14:32.852257+02:00</dc:date>
     </item>
-    <dc:date>2019-07-14T22:11:54.338799+02:00</dc:date>
+    <dc:date>2019-07-20T12:03:41.462856+02:00</dc:date>
   </channel>
 </rss>
