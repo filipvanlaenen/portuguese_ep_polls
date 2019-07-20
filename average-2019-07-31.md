@@ -213,7 +213,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 7 | 0.8% | 100% |  |
 | 8 | 33% | 99.2% | Last Result |
-| 9 | 60% | 66% | Median |
+| 9 | 61% | 67% | Median |
 | 10 | 6% | 6% |  |
 | 11 | 0% | 0% | Majority |
 
@@ -239,8 +239,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 8% | 100% |  |
-| 1 | 91% | 92% | Last Result, Median |
+| 0 | 9% | 100% |  |
+| 1 | 90% | 91% | Last Result, Median |
 | 2 | 1.1% | 1.1% |  |
 | 3 | 0% | 0% |  |
 
@@ -264,9 +264,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 9% | 100% | Last Result |
-| 2 | 85% | 91% | Median |
-| 3 | 6% | 6% |  |
+| 1 | 10% | 100% | Last Result |
+| 2 | 85% | 90% | Median |
+| 3 | 5% | 6% |  |
 | 4 | 0% | 0% |  |
 
 ### Pessoas–Animais–Natureza (Greens/EFA)
@@ -314,7 +314,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 7 | 0.8% | 100% |  |
 | 8 | 33% | 99.2% | Last Result |
-| 9 | 60% | 66% | Median |
+| 9 | 61% | 67% | Median |
 | 10 | 6% | 6% |  |
 | 11 | 0% | 0% | Majority |
 
@@ -365,6 +365,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 3
-+ **Lowest number of simulations done in a poll included in this average:** 131,072
-+ **Total number of simulations done in the polls included in this average:** 2,228,224
++ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Total number of simulations done in the polls included in this average:** 3,145,728
 + **Error estimate:** 1.05%
