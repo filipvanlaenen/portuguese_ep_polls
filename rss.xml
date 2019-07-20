@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/portuguese_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 20 Jul 2019 12:03:41 +0200</pubDate>
+    <pubDate>Sat, 20 Jul 2019 15:59:45 +0200</pubDate>
     <item>
       <title>Opinion Poll by Aximage for Correio da Manhã and Negócios, 12–15 July 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2019-07-15-Aximage.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2019-07-15-Aximage.png"
         length="202192"
         type="image/png"/>
-      <pubDate>Sat, 20 Jul 2019 12:03:41 +0200</pubDate>
-      <dc:date>2019-07-20T12:03:41.462856+02:00</dc:date>
+      <pubDate>Sat, 20 Jul 2019 15:59:45 +0200</pubDate>
+      <dc:date>2019-07-20T15:59:45.864434+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Eurosondagem for Associação Mutualista Montepio, 7–11 July 2019 – Seat Projections for the Parties</title>
@@ -139,6 +139,6 @@
       <pubDate>Sun, 30 Jun 2019 15:14:32 +0200</pubDate>
       <dc:date>2019-06-30T15:14:32.852257+02:00</dc:date>
     </item>
-    <dc:date>2019-07-20T12:03:41.462856+02:00</dc:date>
+    <dc:date>2019-07-20T15:59:45.864434+02:00</dc:date>
   </channel>
 </rss>
