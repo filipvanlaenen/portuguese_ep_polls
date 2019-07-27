@@ -6,7 +6,7 @@ The table below lists all polls registered and analyzed so far.
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 31.5% <br> 8 | 27.7% <br> 6 | 27.7% <br> 1 | 12.7% <br> 3 | 4.6% <br> 1 | 1.7% <br> 0 | 0.0% <br> 0 |
 | [12–15 July 2019](2019-07-15-Aximage.html) | Aximage <br> Correio da Manhã and Negócios | 34–41% <br> 8–10 | 20–27% <br> 4–6 | 3–7% <br> 0–1 | 5–9% <br> 1–2 | 7–12% <br> 1–2 | 3–6% <br> 0–1 | N/A <br> N/A |
-| [8–14 July 2019](2019-07-14-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [8–14 July 2019](2019-07-14-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 40–47% <br> 9–11 | 19–25% <br> 4–6 | 5–8% <br> 1 | 5–9% <br> 1–2 | 7–11% <br> 1–2 | 3–5% <br> 0–1 | 1–2% <br> 0 |
 | [7–11 July 2019](2019-07-11-Eurosondagem.html) | Eurosondagem <br> Associação Mutualista Montepio | 34–40% <br> 8–10 | 21–26% <br> 5–6 | 5–8% <br> 1–2 | 5–9% <br> 1–2 | 7–11% <br> 1–2 | 3–6% <br> 0–1 | 1–2% <br> 0 |
 | [15–27 June 2019](2019-06-27-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 35–41% <br> 8–10 | 20–26% <br> 4–6 | 4–7% <br> 0–1 | 6–10% <br> 1–2 | 9–13% <br> 2–3 | 3–6% <br> 0–1 | 0–1% <br> 0 |
 | [13–19 June 2019](2019-06-19-Aximage.html) | Aximage <br> Correio da Manhã and Negócios | 32–39% <br> 7–9 | 20–27% <br> 4–6 | 5–9% <br> 1–2 | 5–9% <br> 1–2 | 7–11% <br> 1–2 | 3–6% <br> 0–1 | 0–2% <br> 0 |
