@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/portuguese_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 27 Jul 2019 20:12:47 +0200</pubDate>
+    <pubDate>Thu, 01 Aug 2019 19:28:08 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Multidados for TVI, 18–28 July 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2019-07-28-Multidados.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Social Democrata (EPP): 4–5 seats&lt;/li&gt;&lt;li&gt;Partido Socialista (S&amp;amp;D): 7–9 seats&lt;/li&gt;&lt;li&gt;Bloco de Esquerda (GUE/NGL): 3–4 seats&lt;/li&gt;&lt;li&gt;CDS–Partido Popular (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária (GUE/NGL): 1 seats&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2019-07-28-Multidados-seats.png"
+        length="132320"
+        type="image/png"/>
+      <pubDate>Thu, 01 Aug 2019 19:28:08 +0200</pubDate>
+      <dc:date>2019-08-01T19:28:08.927665+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Multidados for TVI, 18–28 July 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2019-07-28-Multidados.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2019-07-28-Multidados-coalitions-seats.png"
+        length="122986"
+        type="image/png"/>
+      <pubDate>Thu, 01 Aug 2019 19:28:08 +0200</pubDate>
+      <dc:date>2019-08-01T19:28:08.927665+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Multidados for TVI, 18–28 July 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2019-07-28-Multidados.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Social Democrata (EPP): 17.6–23.2%&lt;/li&gt;&lt;li&gt;Partido Socialista (S&amp;amp;D): 32.3–38.9%&lt;/li&gt;&lt;li&gt;Bloco de Esquerda (GUE/NGL): 12.5–17.4%&lt;/li&gt;&lt;li&gt;CDS–Partido Popular (EPP): 2.2–4.7%&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária (GUE/NGL): 4.2–7.5%&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza (Greens/EFA): 6.2–10.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2019-07-28-Multidados.png"
+        length="200241"
+        type="image/png"/>
+      <pubDate>Thu, 01 Aug 2019 19:28:08 +0200</pubDate>
+      <dc:date>2019-08-01T19:28:08.927665+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Aximage for Correio da Manhã and Negócios, 12–15 July 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2019-07-15-Aximage.html#seats</link>
@@ -189,6 +219,6 @@
       <pubDate>Sun, 30 Jun 2019 15:14:32 +0200</pubDate>
       <dc:date>2019-06-30T15:14:32.852257+02:00</dc:date>
     </item>
-    <dc:date>2019-07-27T20:12:47.455098+02:00</dc:date>
+    <dc:date>2019-08-01T19:28:08.927665+02:00</dc:date>
   </channel>
 </rss>
