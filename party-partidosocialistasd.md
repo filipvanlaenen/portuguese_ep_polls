@@ -10,7 +10,8 @@ Last result: **31.5%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 38.3% | 35.7–43.7% | 35.0–44.7% | 34.4–45.5% | 33.2–46.9% |
+| N/A | [Poll Average](average.html) | 37.7% | 34.8–43.3% | 34.0–44.5% | 33.4–45.3% | 32.2–46.7% |
+| [18–28 July 2019](2019-07-28-Multidados.html) | Multidados <br> TVI | 35.5% | 33.4–37.7% | 32.8–38.3% | 32.3–38.9% | 31.2–40.0% |
 | [12–15 July 2019](2019-07-15-Aximage.html) | Aximage <br> Correio da Manhã and Negócios | 37.4% | 34.9–40.0% | 34.3–40.8% | 33.7–41.4% | 32.5–42.6% |
 | [8–14 July 2019](2019-07-14-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 43.2% | 41.0–45.5% | 40.4–46.2% | 39.9–46.7% | 38.8–47.8% |
 | [7–11 July 2019](2019-07-11-Eurosondagem.html) | Eurosondagem <br> Associação Mutualista Montepio | 37.3% | 35.4–39.3% | 34.8–39.8% | 34.4–40.3% | 33.4–41.3% |
@@ -24,24 +25,25 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 30.5–31.5% | 0% | 100% | Last Result |
-| 31.5–32.5% | 0.1% | 100% |  |
-| 32.5–33.5% | 0.6% | 99.8% |  |
-| 33.5–34.5% | 2% | 99.2% |  |
-| 34.5–35.5% | 6% | 97% |  |
-| 35.5–36.5% | 12% | 91% |  |
-| 36.5–37.5% | 16% | 79% |  |
-| 37.5–38.5% | 16% | 63% | Median |
-| 38.5–39.5% | 12% | 47% |  |
-| 39.5–40.5% | 7% | 35% |  |
-| 40.5–41.5% | 5% | 27% |  |
-| 41.5–42.5% | 5% | 22% |  |
-| 42.5–43.5% | 6% | 17% |  |
-| 43.5–44.5% | 5% | 11% |  |
-| 44.5–45.5% | 3% | 6% |  |
-| 45.5–46.5% | 2% | 2% |  |
-| 46.5–47.5% | 0.6% | 0.8% |  |
-| 47.5–48.5% | 0.2% | 0.2% |  |
+| 29.5–30.5% | 0% | 100% |  |
+| 30.5–31.5% | 0.2% | 100% | Last Result |
+| 31.5–32.5% | 0.7% | 99.8% |  |
+| 32.5–33.5% | 2% | 99.1% |  |
+| 33.5–34.5% | 5% | 97% |  |
+| 34.5–35.5% | 9% | 92% |  |
+| 35.5–36.5% | 14% | 83% |  |
+| 36.5–37.5% | 16% | 69% |  |
+| 37.5–38.5% | 14% | 53% | Median |
+| 38.5–39.5% | 10% | 38% |  |
+| 39.5–40.5% | 6% | 28% |  |
+| 40.5–41.5% | 4% | 22% |  |
+| 41.5–42.5% | 4% | 18% |  |
+| 42.5–43.5% | 5% | 13% |  |
+| 43.5–44.5% | 4% | 9% |  |
+| 44.5–45.5% | 3% | 5% |  |
+| 45.5–46.5% | 1.3% | 2% |  |
+| 46.5–47.5% | 0.5% | 0.6% |  |
+| 47.5–48.5% | 0.1% | 0.1% |  |
 | 48.5–49.5% | 0% | 0% |  |
 
 
@@ -54,6 +56,7 @@ Last result: **8** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 9 | 8–10 | 8–11 | 8–11 | 7–11 |
+| [18–28 July 2019](2019-07-28-Multidados.html) | Multidados <br> TVI | 8 | 8–9 | 7–9 | 7–9 | 7–9 |
 | [12–15 July 2019](2019-07-15-Aximage.html) | Aximage <br> Correio da Manhã and Negócios | 9 | 8–9 | 8–9 | 8–10 | 7–10 |
 | [8–14 July 2019](2019-07-14-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 10 | 10–11 | 9–11 | 9–11 | 9–12 |
 | [7–11 July 2019](2019-07-11-Eurosondagem.html) | Eurosondagem <br> Associação Mutualista Montepio | 9 | 8–9 | 8–10 | 8–10 | 8–10 |
@@ -69,12 +72,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 7 | 0.6% | 100% |  |
-| 8 | 24% | 99.4% | Last Result |
-| 9 | 48% | 75% | Median |
-| 10 | 20% | 27% |  |
-| 11 | 7% | 7% | Majority |
-| 12 | 0.2% | 0.2% |  |
+| 7 | 2% | 100% |  |
+| 8 | 33% | 98% | Last Result |
+| 9 | 43% | 65% | Median |
+| 10 | 16% | 22% |  |
+| 11 | 5% | 6% | Majority |
+| 12 | 0.1% | 0.1% |  |
 | 13 | 0% | 0% |  |
 
 
