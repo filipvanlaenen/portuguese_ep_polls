@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/portuguese_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 01 Aug 2019 19:28:08 +0200</pubDate>
+    <pubDate>Mon, 02 Sep 2019 19:20:34 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Pitagórica for Jornal de Notícias, 12–24 August 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2019-08-24-Pitagórica.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Social Democrata (EPP): 4–5 seats&lt;/li&gt;&lt;li&gt;Partido Socialista (S&amp;amp;D): 10–11 seats&lt;/li&gt;&lt;li&gt;Bloco de Esquerda (GUE/NGL): 2 seats&lt;/li&gt;&lt;li&gt;CDS–Partido Popular (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária (GUE/NGL): 1 seats&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Aliança (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2019-08-24-Pitagórica-seats.png"
+        length="144467"
+        type="image/png"/>
+      <pubDate>Mon, 02 Sep 2019 19:20:34 +0200</pubDate>
+      <dc:date>2019-09-02T19:20:34.543365+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Pitagórica for Jornal de Notícias, 12–24 August 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2019-08-24-Pitagórica.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2019-08-24-Pitagórica-coalitions-seats.png"
+        length="89767"
+        type="image/png"/>
+      <pubDate>Mon, 02 Sep 2019 19:20:34 +0200</pubDate>
+      <dc:date>2019-09-02T19:20:34.543365+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Pitagórica for Jornal de Notícias, 12–24 August 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2019-08-24-Pitagórica.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Social Democrata (EPP): 18.8–22.8%&lt;/li&gt;&lt;li&gt;Partido Socialista (S&amp;amp;D): 41.8–46.8%&lt;/li&gt;&lt;li&gt;Bloco de Esquerda (GUE/NGL): 8.7–11.8%&lt;/li&gt;&lt;li&gt;CDS–Partido Popular (EPP): 4.0–6.2%&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária (GUE/NGL): 5.5–8.1%&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza (Greens/EFA): 2.5–4.3%&lt;/li&gt;&lt;li&gt;Aliança (*): 0.9–2.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2019-08-24-Pitagórica.png"
+        length="193495"
+        type="image/png"/>
+      <pubDate>Mon, 02 Sep 2019 19:20:34 +0200</pubDate>
+      <dc:date>2019-09-02T19:20:34.543365+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Multidados for TVI, 18–28 July 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2019-07-28-Multidados.html#seats</link>
@@ -219,6 +249,6 @@
       <pubDate>Sun, 30 Jun 2019 15:14:32 +0200</pubDate>
       <dc:date>2019-06-30T15:14:32.852257+02:00</dc:date>
     </item>
-    <dc:date>2019-08-01T19:28:08.927665+02:00</dc:date>
+    <dc:date>2019-09-02T19:20:34.543365+02:00</dc:date>
   </channel>
 </rss>
