@@ -5,6 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | PS | PSD | CDS–PP | CDU | BE | PAN | A |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 31.5% <br> 8 | 27.7% <br> 6 | 27.7% <br> 1 | 12.7% <br> 3 | 4.6% <br> 1 | 1.7% <br> 0 | 0.0% <br> 0 |
+| [1–5 September 2019](2019-09-05-Eurosondagem.html) | Eurosondagem <br> Associação Mutualista Montepio | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [12–24 August 2019](2019-08-24-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 42–47% <br> 10–11 | 19–23% <br> 4–5 | 4–6% <br> 0–1 | 6–8% <br> 1 | 9–12% <br> 2 | 2–4% <br> 0–1 | 1–2% <br> 0 |
 | [18–28 July 2019](2019-07-28-Multidados.html) | Multidados <br> TVI | 32–39% <br> 7–9 | 18–23% <br> 4–5 | 2–5% <br> 0–1 | 4–7% <br> 1 | 12–17% <br> 3–4 | 6–10% <br> 1–2 | N/A <br> N/A |
 | [12–15 July 2019](2019-07-15-Aximage.html) | Aximage <br> Correio da Manhã and Negócios | 34–41% <br> 8–10 | 20–27% <br> 4–6 | 3–7% <br> 0–1 | 5–9% <br> 1–2 | 7–12% <br> 1–2 | 3–6% <br> 0–1 | N/A <br> N/A |
