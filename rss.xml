@@ -8,7 +8,17 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/portuguese_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 02 Sep 2019 19:20:34 +0200</pubDate>
+    <pubDate>Fri, 13 Sep 2019 18:49:07 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Eurosondagem for Associação Mutualista Montepio, 1–5 September 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2019-09-05-Eurosondagem.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Social Democrata (EPP): 20.8–26.0%&lt;/li&gt;&lt;li&gt;Partido Socialista (S&amp;amp;D): 35.1–41.1%&lt;/li&gt;&lt;li&gt;Bloco de Esquerda (GUE/NGL): 7.4–10.9%&lt;/li&gt;&lt;li&gt;CDS–Partido Popular (EPP): 4.7–7.6%&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária (GUE/NGL): 5.5–8.7%&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza (Greens/EFA): 3.3–5.9%&lt;/li&gt;&lt;li&gt;Aliança (*): 1.0–2.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2019-09-05-Eurosondagem.png"
+        length="206433"
+        type="image/png"/>
+      <pubDate>Fri, 13 Sep 2019 18:49:07 +0200</pubDate>
+      <dc:date>2019-09-13T18:49:07.893451+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Pitagórica for Jornal de Notícias, 12–24 August 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2019-08-24-Pitagórica.html#seats</link>
@@ -249,6 +259,6 @@
       <pubDate>Sun, 30 Jun 2019 15:14:32 +0200</pubDate>
       <dc:date>2019-06-30T15:14:32.852257+02:00</dc:date>
     </item>
-    <dc:date>2019-09-02T19:20:34.543365+02:00</dc:date>
+    <dc:date>2019-09-13T18:49:07.893451+02:00</dc:date>
   </channel>
 </rss>
