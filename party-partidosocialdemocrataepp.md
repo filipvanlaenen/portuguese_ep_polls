@@ -11,6 +11,10 @@ Last result: **27.7%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 22.6% | 19.9–25.0% | 19.2–25.7% | 18.6–26.2% | 17.6–27.4% |
+| [7–12 September 2019](2019-09-12-Eurosondagem.html) | Eurosondagem | 23.3% | N/A | N/A | N/A | N/A |
+| [2–11 September 2019](2019-09-11-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 23.6% | N/A | N/A | N/A | N/A |
+| [1–8 September 2019](2019-09-08-Aximage.html) | Aximage | 20.6% | N/A | N/A | N/A | N/A |
+| [24 August–5 September 2019](2019-09-05-GfKMetris.html) | GfK Metris <br> Expresso and SIC Notícias | 23.0% | N/A | N/A | N/A | N/A |
 | [1–5 September 2019](2019-09-05-Eurosondagem.html) | Eurosondagem <br> Associação Mutualista Montepio | 23.3% | 21.6–25.1% | 21.2–25.5% | 20.8–26.0% | 20.0–26.8% |
 | [12–24 August 2019](2019-08-24-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 20.7% | 19.4–22.1% | 19.1–22.5% | 18.8–22.8% | 18.2–23.5% |
 | [18–28 July 2019](2019-07-28-Multidados.html) | Multidados <br> TVI | 20.2% | 18.5–22.2% | 18.0–22.7% | 17.6–23.2% | 16.8–24.1% |
@@ -53,6 +57,10 @@ Last result: **6** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
+| [7–12 September 2019](2019-09-12-Eurosondagem.html) | Eurosondagem |  |  |  |  |  |
+| [2–11 September 2019](2019-09-11-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios |  |  |  |  |  |
+| [1–8 September 2019](2019-09-08-Aximage.html) | Aximage |  |  |  |  |  |
+| [24 August–5 September 2019](2019-09-05-GfKMetris.html) | GfK Metris <br> Expresso and SIC Notícias |  |  |  |  |  |
 | [1–5 September 2019](2019-09-05-Eurosondagem.html) | Eurosondagem <br> Associação Mutualista Montepio | 4 | 4–6 | 4–6 | 4–6 | 4–6 |
 | [12–24 August 2019](2019-08-24-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [18–28 July 2019](2019-07-28-Multidados.html) | Multidados <br> TVI | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
