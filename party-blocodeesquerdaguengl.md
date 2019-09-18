@@ -11,11 +11,11 @@ Last result: **4.6%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 10.1% | 8.3–14.8% | 7.9–15.7% | 7.6–16.3% | 7.0–17.4% |
-| [9–12 September 2019](2019-09-12-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 10.1% | N/A | N/A | N/A | N/A |
-| [7–12 September 2019](2019-09-12-Eurosondagem.html) | Eurosondagem | 9.5% | N/A | N/A | N/A | N/A |
-| [2–11 September 2019](2019-09-11-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 9.7% | N/A | N/A | N/A | N/A |
-| [1–8 September 2019](2019-09-08-Aximage.html) | Aximage | 10.2% | N/A | N/A | N/A | N/A |
-| [24 August–5 September 2019](2019-09-05-GfKMetris.html) | GfK Metris <br> Expresso and SIC Notícias | 9.0% | N/A | N/A | N/A | N/A |
+| [9–12 September 2019](2019-09-12-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 10.1% | 8.7–11.8% | 8.3–12.3% | 7.9–12.7% | 7.3–13.6% |
+| [7–12 September 2019](2019-09-12-Eurosondagem.html) | Eurosondagem | 9.5% | 8.7–10.4% | 8.5–10.7% | 8.3–10.9% | 8.0–11.3% |
+| [2–11 September 2019](2019-09-11-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 9.7% | 8.5–11.2% | 8.2–11.6% | 7.9–12.0% | 7.3–12.7% |
+| [1–8 September 2019](2019-09-08-Aximage.html) | Aximage | 10.2% | 9.0–11.5% | 8.7–11.9% | 8.4–12.2% | 7.9–12.9% |
+| [24 August–5 September 2019](2019-09-05-GfKMetris.html) | GfK Metris <br> Expresso and SIC Notícias | 9.0% | 7.8–10.4% | 7.5–10.8% | 7.2–11.2% | 6.7–11.9% |
 | [1–5 September 2019](2019-09-05-Eurosondagem.html) | Eurosondagem <br> Associação Mutualista Montepio | 9.0% | 7.9–10.3% | 7.7–10.6% | 7.4–10.9% | 6.9–11.6% |
 | [12–24 August 2019](2019-08-24-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 10.2% | 9.2–11.2% | 9.0–11.5% | 8.7–11.8% | 8.3–12.3% |
 | [18–28 July 2019](2019-07-28-Multidados.html) | Multidados <br> TVI | 14.8% | 13.2–16.5% | 12.8–17.0% | 12.5–17.4% | 11.8–18.2% |
@@ -59,11 +59,11 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 2–3 | 1–3 | 1–4 | 1–4 |
-| [9–12 September 2019](2019-09-12-Pitagórica.html) | Pitagórica <br> Jornal de Notícias |  |  |  |  |  |
-| [7–12 September 2019](2019-09-12-Eurosondagem.html) | Eurosondagem |  |  |  |  |  |
-| [2–11 September 2019](2019-09-11-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios |  |  |  |  |  |
-| [1–8 September 2019](2019-09-08-Aximage.html) | Aximage |  |  |  |  |  |
-| [24 August–5 September 2019](2019-09-05-GfKMetris.html) | GfK Metris <br> Expresso and SIC Notícias |  |  |  |  |  |
+| [9–12 September 2019](2019-09-12-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [7–12 September 2019](2019-09-12-Eurosondagem.html) | Eurosondagem | 2 | 2 | 2 | 1–2 | 1–2 |
+| [2–11 September 2019](2019-09-11-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 2 | 2 | 2 | 1–2 | 1–2 |
+| [1–8 September 2019](2019-09-08-Aximage.html) | Aximage | 2 | 2 | 2 | 2 | 1–3 |
+| [24 August–5 September 2019](2019-09-05-GfKMetris.html) | GfK Metris <br> Expresso and SIC Notícias | 2 | 2 | 2 | 2 | 2 |
 | [1–5 September 2019](2019-09-05-Eurosondagem.html) | Eurosondagem <br> Associação Mutualista Montepio | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [12–24 August 2019](2019-08-24-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 2 | 2 | 2 | 2 | 2–3 |
 | [18–28 July 2019](2019-07-28-Multidados.html) | Multidados <br> TVI | 3 | 3–4 | 3–4 | 3–4 | 2–4 |

@@ -11,11 +11,11 @@ Last result: **27.7%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 22.6% | 19.9–25.0% | 19.2–25.7% | 18.6–26.2% | 17.6–27.4% |
-| [9–12 September 2019](2019-09-12-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 23.3% | N/A | N/A | N/A | N/A |
-| [7–12 September 2019](2019-09-12-Eurosondagem.html) | Eurosondagem | 23.3% | N/A | N/A | N/A | N/A |
-| [2–11 September 2019](2019-09-11-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 23.6% | N/A | N/A | N/A | N/A |
-| [1–8 September 2019](2019-09-08-Aximage.html) | Aximage | 20.6% | N/A | N/A | N/A | N/A |
-| [24 August–5 September 2019](2019-09-05-GfKMetris.html) | GfK Metris <br> Expresso and SIC Notícias | 23.0% | N/A | N/A | N/A | N/A |
+| [9–12 September 2019](2019-09-12-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 23.3% | 21.2–25.6% | 20.6–26.3% | 20.1–26.8% | 19.1–28.0% |
+| [7–12 September 2019](2019-09-12-Eurosondagem.html) | Eurosondagem | 23.3% | 22.1–24.5% | 21.8–24.9% | 21.5–25.2% | 21.0–25.8% |
+| [2–11 September 2019](2019-09-11-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 23.6% | 21.7–25.6% | 21.2–26.2% | 20.8–26.7% | 19.9–27.6% |
+| [1–8 September 2019](2019-09-08-Aximage.html) | Aximage | 20.6% | 19.0–22.3% | 18.6–22.8% | 18.2–23.3% | 17.5–24.1% |
+| [24 August–5 September 2019](2019-09-05-GfKMetris.html) | GfK Metris <br> Expresso and SIC Notícias | 23.0% | 21.1–25.0% | 20.6–25.5% | 20.2–26.0% | 19.3–27.0% |
 | [1–5 September 2019](2019-09-05-Eurosondagem.html) | Eurosondagem <br> Associação Mutualista Montepio | 23.3% | 21.6–25.1% | 21.2–25.5% | 20.8–26.0% | 20.0–26.8% |
 | [12–24 August 2019](2019-08-24-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 20.7% | 19.4–22.1% | 19.1–22.5% | 18.8–22.8% | 18.2–23.5% |
 | [18–28 July 2019](2019-07-28-Multidados.html) | Multidados <br> TVI | 20.2% | 18.5–22.2% | 18.0–22.7% | 17.6–23.2% | 16.8–24.1% |
@@ -58,11 +58,11 @@ Last result: **6** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
-| [9–12 September 2019](2019-09-12-Pitagórica.html) | Pitagórica <br> Jornal de Notícias |  |  |  |  |  |
-| [7–12 September 2019](2019-09-12-Eurosondagem.html) | Eurosondagem |  |  |  |  |  |
-| [2–11 September 2019](2019-09-11-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios |  |  |  |  |  |
-| [1–8 September 2019](2019-09-08-Aximage.html) | Aximage |  |  |  |  |  |
-| [24 August–5 September 2019](2019-09-05-GfKMetris.html) | GfK Metris <br> Expresso and SIC Notícias |  |  |  |  |  |
+| [9–12 September 2019](2019-09-12-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 5 | 5 | 5 | 5 | 5–6 |
+| [7–12 September 2019](2019-09-12-Eurosondagem.html) | Eurosondagem | 5 | 5 | 5 | 5 | 5–6 |
+| [2–11 September 2019](2019-09-11-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
+| [1–8 September 2019](2019-09-08-Aximage.html) | Aximage | 5 | 5 | 5 | 5 | 4–5 |
+| [24 August–5 September 2019](2019-09-05-GfKMetris.html) | GfK Metris <br> Expresso and SIC Notícias | 5 | 5 | 5–6 | 5–6 | 5–6 |
 | [1–5 September 2019](2019-09-05-Eurosondagem.html) | Eurosondagem <br> Associação Mutualista Montepio | 4 | 4–6 | 4–6 | 4–6 | 4–6 |
 | [12–24 August 2019](2019-08-24-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [18–28 July 2019](2019-07-28-Multidados.html) | Multidados <br> TVI | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
