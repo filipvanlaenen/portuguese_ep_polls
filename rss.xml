@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/portuguese_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 18 Sep 2019 15:27:55 +0200</pubDate>
+    <pubDate>Fri, 20 Sep 2019 15:13:40 +0200</pubDate>
     <item>
       <title>Opinion Poll by Pitagórica for Jornal de Notícias, 9–12 September 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2019-09-12-Pitagórica.html</link>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2019-09-12-Eurosondagem.png"
         length="180380"
         type="image/png"/>
-      <pubDate>Tue, 17 Sep 2019 22:57:50 +0200</pubDate>
-      <dc:date>2019-09-17T22:57:50.572989+02:00</dc:date>
+      <pubDate>Fri, 20 Sep 2019 14:41:05 +0200</pubDate>
+      <dc:date>2019-09-20T14:41:05.633187+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Intercampus for Correio da Manhã and Negócios, 2–11 September 2019 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2019-09-11-Intercampus.png"
         length="199150"
         type="image/png"/>
-      <pubDate>Tue, 17 Sep 2019 23:02:15 +0200</pubDate>
-      <dc:date>2019-09-17T23:02:15.937917+02:00</dc:date>
+      <pubDate>Fri, 20 Sep 2019 15:13:40 +0200</pubDate>
+      <dc:date>2019-09-20T15:13:40.250357+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Aximage, 1–8 September 2019 – Voting Intentions</title>
@@ -309,6 +309,6 @@
       <pubDate>Sun, 30 Jun 2019 15:14:32 +0200</pubDate>
       <dc:date>2019-06-30T15:14:32.852257+02:00</dc:date>
     </item>
-    <dc:date>2019-09-18T15:27:55.465692+02:00</dc:date>
+    <dc:date>2019-09-20T15:13:40.250357+02:00</dc:date>
   </channel>
 </rss>
