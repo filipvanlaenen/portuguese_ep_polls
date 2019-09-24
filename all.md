@@ -6,7 +6,7 @@ The table below lists all polls registered and analyzed so far.
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 31.5% <br> 8 | 27.7% <br> 6 | 27.7% <br> 1 | 12.7% <br> 3 | 4.6% <br> 1 | 1.7% <br> 0 | 0.0% <br> 0 |
 | [17–20 September 2019](2019-09-20-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 37–45% <br> 8–11 | 23–30% <br> 5–7 | 4–7% <br> 0–1 | 5–9% <br> 1–2 | 7–11% <br> 1–2 | 2–6% <br> 0–1 | 1–2% <br> 0 |
-| [9–12 September 2019](2019-09-12-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 35–43% <br> 8–10 | 20–27% <br> 4–6 | 4–8% <br> 1 | 6–10% <br> 1–2 | 8–13% <br> 1–3 | 2–5% <br> 0–1 | 1–3% <br> 0 |
+| [9–12 September 2019](2019-09-12-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 35–43% <br> 8–10 | 20–27% <br> 4–6 | 4–8% <br> 0–1 | 6–10% <br> 1–2 | 8–13% <br> 1–3 | 2–5% <br> 0–1 | 1–3% <br> 0 |
 | [7–12 September 2019](2019-09-12-Eurosondagem.html) | Eurosondagem | 36–40% <br> 8–9 | 22–25% <br> 5–6 | 5–7% <br> 1 | 6–8% <br> 1 | 8–11% <br> 2 | 4–5% <br> 0–1 | N/A <br> N/A |
 | [2–11 September 2019](2019-09-11-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 35–41% <br> 8–10 | 21–27% <br> 4–6 | 5–8% <br> 1–2 | 7–11% <br> 1–2 | 8–12% <br> 1–2 | 4–7% <br> 0–1 | N/A <br> N/A |
 | [1–8 September 2019](2019-09-08-Aximage.html) | Aximage | 35–41% <br> 8–9 | 18–23% <br> 4–5 | 3–6% <br> 0–1 | 4–7% <br> 1 | 8–12% <br> 2 | 4–6% <br> 0–1 | N/A <br> N/A |
