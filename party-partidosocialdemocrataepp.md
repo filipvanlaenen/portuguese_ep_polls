@@ -11,6 +11,8 @@ Last result: **27.7%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 22.3% | 19.7–25.0% | 19.1–25.6% | 18.6–26.2% | 17.6–27.4% |
+| [19–22 September 2019](2019-09-22-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 27.7% | N/A | N/A | N/A | N/A |
+| [18–21 September 2019](2019-09-21-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 26.8% | N/A | N/A | N/A | N/A |
 | [17–20 September 2019](2019-09-20-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 26.7% | 24.4–29.1% | 23.8–29.8% | 23.3–30.4% | 22.3–31.5% |
 | [9–12 September 2019](2019-09-12-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 23.3% | 21.2–25.6% | 20.6–26.3% | 20.1–26.8% | 19.1–28.0% |
 | [7–12 September 2019](2019-09-12-Eurosondagem.html) | Eurosondagem | 23.3% | 22.1–24.5% | 21.8–24.9% | 21.5–25.2% | 21.0–25.8% |
@@ -59,6 +61,8 @@ Last result: **6** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
+| [19–22 September 2019](2019-09-22-Pitagórica.html) | Pitagórica <br> Jornal de Notícias |  |  |  |  |  |
+| [18–21 September 2019](2019-09-21-Pitagórica.html) | Pitagórica <br> Jornal de Notícias |  |  |  |  |  |
 | [17–20 September 2019](2019-09-20-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 6 | 6–7 | 5–7 | 5–7 | 5–7 |
 | [9–12 September 2019](2019-09-12-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 5 | 5–6 | 5–6 | 4–6 | 4–6 |
 | [7–12 September 2019](2019-09-12-Eurosondagem.html) | Eurosondagem | 5 | 5 | 5–6 | 5–6 | 5–6 |
