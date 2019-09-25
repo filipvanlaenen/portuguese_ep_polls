@@ -10,9 +10,9 @@ Last result: **31.5%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 37.7% | 34.8–44.3% | 34.0–45.1% | 33.4–45.7% | 32.2–46.8% |
-| [19–22 September 2019](2019-09-22-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 37.7% | N/A | N/A | N/A | N/A |
-| [18–21 September 2019](2019-09-21-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 38.7% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 38.6% | 36.3–42.1% | 35.6–43.2% | 34.9–44.0% | 33.7–45.4% |
+| [19–22 September 2019](2019-09-22-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 37.7% | 35.2–40.3% | 34.5–41.0% | 33.9–41.6% | 32.7–42.9% |
+| [18–21 September 2019](2019-09-21-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 38.7% | 36.2–41.3% | 35.5–42.0% | 34.8–42.6% | 33.7–43.9% |
 | [17–20 September 2019](2019-09-20-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 40.7% | 38.1–43.3% | 37.4–44.0% | 36.8–44.7% | 35.6–45.9% |
 | [9–12 September 2019](2019-09-12-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 39.2% | 36.7–41.8% | 36.0–42.5% | 35.4–43.1% | 34.2–44.4% |
 | [7–12 September 2019](2019-09-12-Eurosondagem.html) | Eurosondagem | 38.3% | 36.9–39.7% | 36.5–40.1% | 36.2–40.4% | 35.5–41.1% |
@@ -35,26 +35,24 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 29.5–30.5% | 0% | 100% |  |
-| 30.5–31.5% | 0.2% | 100% | Last Result |
-| 31.5–32.5% | 0.7% | 99.8% |  |
-| 32.5–33.5% | 2% | 99.1% |  |
-| 33.5–34.5% | 5% | 97% |  |
-| 34.5–35.5% | 9% | 92% |  |
-| 35.5–36.5% | 14% | 83% |  |
-| 36.5–37.5% | 16% | 69% |  |
-| 37.5–38.5% | 14% | 53% | Median |
-| 38.5–39.5% | 10% | 38% |  |
-| 39.5–40.5% | 5% | 28% |  |
-| 40.5–41.5% | 2% | 23% |  |
-| 41.5–42.5% | 2% | 21% |  |
-| 42.5–43.5% | 4% | 18% |  |
-| 43.5–44.5% | 6% | 14% |  |
-| 44.5–45.5% | 5% | 8% |  |
-| 45.5–46.5% | 2% | 3% |  |
-| 46.5–47.5% | 0.6% | 0.7% |  |
-| 47.5–48.5% | 0.1% | 0.1% |  |
-| 48.5–49.5% | 0% | 0% |  |
+| 30.5–31.5% | 0% | 100% | Last Result |
+| 31.5–32.5% | 0.1% | 100% |  |
+| 32.5–33.5% | 0.3% | 99.9% |  |
+| 33.5–34.5% | 1.2% | 99.6% |  |
+| 34.5–35.5% | 3% | 98% |  |
+| 35.5–36.5% | 8% | 95% |  |
+| 36.5–37.5% | 15% | 87% |  |
+| 37.5–38.5% | 21% | 72% |  |
+| 38.5–39.5% | 18% | 51% | Median |
+| 39.5–40.5% | 12% | 32% |  |
+| 40.5–41.5% | 8% | 21% |  |
+| 41.5–42.5% | 6% | 13% |  |
+| 42.5–43.5% | 4% | 8% |  |
+| 43.5–44.5% | 2% | 4% |  |
+| 44.5–45.5% | 1.0% | 1.4% |  |
+| 45.5–46.5% | 0.3% | 0.4% |  |
+| 46.5–47.5% | 0.1% | 0.1% |  |
+| 47.5–48.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -65,9 +63,9 @@ Last result: **8** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9 | 8–10 | 8–11 | 8–11 | 7–11 |
-| [19–22 September 2019](2019-09-22-Pitagórica.html) | Pitagórica <br> Jornal de Notícias |  |  |  |  |  |
-| [18–21 September 2019](2019-09-21-Pitagórica.html) | Pitagórica <br> Jornal de Notícias |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 9 | 8–10 | 8–10 | 8–10 | 8–11 |
+| [19–22 September 2019](2019-09-22-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 9 | 8–9 | 8–10 | 8–10 | 7–10 |
+| [18–21 September 2019](2019-09-21-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 9 | 8–10 | 8–10 | 8–10 | 8–10 |
 | [17–20 September 2019](2019-09-20-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 10 | 9–10 | 9–10 | 8–11 | 8–11 |
 | [9–12 September 2019](2019-09-12-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 9 | 9–10 | 8–10 | 8–10 | 8–11 |
 | [7–12 September 2019](2019-09-12-Eurosondagem.html) | Eurosondagem | 9 | 8–9 | 8–9 | 8–9 | 8–10 |
@@ -92,12 +90,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 7 | 2% | 100% |  |
-| 8 | 33% | 98% | Last Result |
-| 9 | 42% | 65% | Median |
-| 10 | 15% | 24% |  |
-| 11 | 8% | 9% | Majority |
-| 12 | 0.1% | 0.1% |  |
-| 13 | 0% | 0% |  |
+| 7 | 0.4% | 100% |  |
+| 8 | 26% | 99.6% | Last Result |
+| 9 | 59% | 74% | Median |
+| 10 | 14% | 15% |  |
+| 11 | 1.4% | 1.4% | Majority |
+| 12 | 0% | 0% |  |
 
 
