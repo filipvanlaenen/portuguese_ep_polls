@@ -5,12 +5,12 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | PS | PSD | CDS–PP | CDU | BE | PAN | A |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 31.5% <br> 8 | 27.7% <br> 6 | 27.7% <br> 1 | 12.7% <br> 3 | 4.6% <br> 1 | 1.7% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 33–46% <br> 8–11 | 19–26% <br> 4–6 | 3–8% <br> 0–1 | 5–9% <br> 1–2 | 8–16% <br> 1–4 | 3–9% <br> 0–2 | 0–2% <br> 0 |
-| [12–24 August 2019](2019-08-24-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 42–47% <br> 10–11 | 19–23% <br> 4–5 | 4–6% <br> 0–1 | 6–8% <br> 1 | 9–12% <br> 2 | 2–4% <br> 0–1 | 1–2% <br> 0 |
-| [18–28 July 2019](2019-07-28-Multidados.html) | Multidados <br> TVI | 32–39% <br> 7–9 | 18–23% <br> 4–5 | 2–5% <br> 0–1 | 4–7% <br> 1 | 12–17% <br> 3–4 | 6–10% <br> 1–2 | N/A <br> N/A |
-| [12–15 July 2019](2019-07-15-Aximage.html) | Aximage <br> Correio da Manhã and Negócios | 34–41% <br> 8–10 | 20–27% <br> 4–6 | 3–7% <br> 0–1 | 5–9% <br> 1–2 | 7–12% <br> 1–2 | 3–6% <br> 0–1 | N/A <br> N/A |
-| [7–11 July 2019](2019-07-11-Eurosondagem.html) | Eurosondagem <br> Associação Mutualista Montepio | 34–40% <br> 8–10 | 21–26% <br> 5–6 | 5–8% <br> 1–2 | 5–9% <br> 1–2 | 7–11% <br> 1–2 | 3–6% <br> 0–1 | 1–2% <br> 0 |
-| [15–27 June 2019](2019-06-27-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 35–41% <br> 8–10 | 20–26% <br> 4–6 | 4–7% <br> 0–1 | 6–10% <br> 1–2 | 9–13% <br> 2–3 | 3–6% <br> 0–1 | 0–1% <br> 0 |
+| N/A | [Poll Average](average.html) | 35–44% <br> 8–10 | 19–30% <br> 4–7 | 4–7% <br> 0–1 | 5–10% <br> 1–2 | 8–12% <br> 1–2 | 3–6% <br> 0–1 | 0–2% <br> 0 |
+| [19–22 September 2019](2019-09-22-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 34–42% <br> 8–10 | 24–31% <br> 5–7 | 3–7% <br> 0–1 | 6–10% <br> 1–2 | 8–13% <br> 1–3 | 2–5% <br> 0–1 | 0–2% <br> 0 |
+| [7–12 September 2019](2019-09-12-Eurosondagem.html) | Eurosondagem | 36–40% <br> 8–9 | 22–25% <br> 5–6 | 5–7% <br> 1 | 6–8% <br> 1 | 8–11% <br> 2 | 4–5% <br> 0–1 | N/A <br> N/A |
+| [2–11 September 2019](2019-09-11-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 35–41% <br> 8–10 | 21–27% <br> 4–6 | 5–8% <br> 1–2 | 7–11% <br> 1–2 | 8–12% <br> 1–2 | 4–7% <br> 0–1 | N/A <br> N/A |
+| [1–8 September 2019](2019-09-08-Aximage.html) | Aximage | 35–41% <br> 8–9 | 18–23% <br> 4–5 | 3–6% <br> 0–1 | 4–7% <br> 1 | 8–12% <br> 2 | 4–6% <br> 0–1 | N/A <br> N/A |
+| [24 August–5 September 2019](2019-09-05-GfKMetris.html) | GfK Metris <br> Expresso and SIC Notícias | 39–45% <br> 9–11 | 20–26% <br> 4–6 | 4–7% <br> 0–1 | 5–8% <br> 1 | 7–11% <br> 1–2 | 3–6% <br> 0–1 | 0–1% <br> 0 |
 | 26 May 2019 | General Election | 31.5% <br> 8 | 27.7% <br> 6 | 27.7% <br> 1 | 12.7% <br> 3 | 4.6% <br> 1 | 1.7% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
