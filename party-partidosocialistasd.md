@@ -10,8 +10,8 @@ Last result: **31.5%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 38.8% | 36.6–42.4% | 36.0–43.4% | 35.4–44.2% | 34.3–45.6% |
-| [20–23 September 2019](2019-09-23-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 36.0% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 38.4% | 35.5–42.0% | 34.5–43.2% | 33.7–44.0% | 32.2–45.4% |
+| [20–23 September 2019](2019-09-23-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 36.0% | 33.5–38.6% | 32.8–39.3% | 32.3–39.9% | 31.1–41.2% |
 | [19–22 September 2019](2019-09-22-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 37.7% | 35.2–40.3% | 34.5–41.0% | 33.9–41.6% | 32.7–42.9% |
 | [18–21 September 2019](2019-09-21-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 38.7% | 36.2–41.3% | 35.5–42.0% | 34.8–42.6% | 33.7–43.9% |
 | [17–20 September 2019](2019-09-20-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 40.7% | 38.1–43.3% | 37.4–44.0% | 36.8–44.7% | 35.6–45.9% |
@@ -36,22 +36,23 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 30.5–31.5% | 0% | 100% | Last Result |
-| 31.5–32.5% | 0% | 100% |  |
-| 32.5–33.5% | 0.1% | 100% |  |
-| 33.5–34.5% | 0.6% | 99.9% |  |
-| 34.5–35.5% | 2% | 99.3% |  |
-| 35.5–36.5% | 6% | 97% |  |
-| 36.5–37.5% | 14% | 91% |  |
-| 37.5–38.5% | 21% | 76% |  |
-| 38.5–39.5% | 19% | 55% | Median |
-| 39.5–40.5% | 12% | 36% |  |
-| 40.5–41.5% | 8% | 24% |  |
-| 41.5–42.5% | 7% | 16% |  |
-| 42.5–43.5% | 5% | 9% |  |
-| 43.5–44.5% | 3% | 5% |  |
-| 44.5–45.5% | 1.2% | 2% |  |
-| 45.5–46.5% | 0.4% | 0.5% |  |
+| 29.5–30.5% | 0% | 100% |  |
+| 30.5–31.5% | 0.2% | 100% | Last Result |
+| 31.5–32.5% | 0.5% | 99.8% |  |
+| 32.5–33.5% | 1.4% | 99.3% |  |
+| 33.5–34.5% | 3% | 98% |  |
+| 34.5–35.5% | 5% | 95% |  |
+| 35.5–36.5% | 9% | 90% |  |
+| 36.5–37.5% | 15% | 81% |  |
+| 37.5–38.5% | 19% | 65% | Median |
+| 38.5–39.5% | 17% | 46% |  |
+| 39.5–40.5% | 10% | 30% |  |
+| 40.5–41.5% | 7% | 20% |  |
+| 41.5–42.5% | 5% | 13% |  |
+| 42.5–43.5% | 4% | 8% |  |
+| 43.5–44.5% | 2% | 4% |  |
+| 44.5–45.5% | 1.0% | 1.4% |  |
+| 45.5–46.5% | 0.3% | 0.4% |  |
 | 46.5–47.5% | 0.1% | 0.1% |  |
 | 47.5–48.5% | 0% | 0% |  |
 
@@ -64,8 +65,8 @@ Last result: **8** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9 | 8–10 | 8–10 | 8–10 | 8–11 |
-| [20–23 September 2019](2019-09-23-Pitagórica.html) | Pitagórica <br> Jornal de Notícias |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 9 | 8–10 | 8–10 | 8–10 | 7–11 |
+| [20–23 September 2019](2019-09-23-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 8 | 8–9 | 7–9 | 7–9 | 7–10 |
 | [19–22 September 2019](2019-09-22-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 9 | 8–9 | 8–10 | 8–10 | 7–10 |
 | [18–21 September 2019](2019-09-21-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 9 | 8–10 | 8–10 | 8–10 | 8–10 |
 | [17–20 September 2019](2019-09-20-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 10 | 9–10 | 9–10 | 8–11 | 8–11 |
@@ -92,11 +93,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 7 | 0.3% | 100% |  |
-| 8 | 24% | 99.7% | Last Result |
-| 9 | 59% | 75% | Median |
-| 10 | 15% | 16% |  |
-| 11 | 2% | 2% | Majority |
+| 7 | 2% | 100% |  |
+| 8 | 32% | 98% | Last Result |
+| 9 | 53% | 67% | Median |
+| 10 | 12% | 13% |  |
+| 11 | 1.4% | 1.4% | Majority |
 | 12 | 0% | 0% |  |
 
 
