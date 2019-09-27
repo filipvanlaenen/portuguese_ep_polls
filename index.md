@@ -5,8 +5,8 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | PS | PSD | CDS–PP | CDU | BE | PAN | A |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 31.5% <br> 8 | 27.7% <br> 6 | 27.7% <br> 1 | 12.7% <br> 3 | 4.6% <br> 1 | 1.7% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 35–44% <br> 8–10 | 19–26% <br> 4–6 | 4–8% <br> 0–1 | 4–10% <br> 1–2 | 8–12% <br> 1–2 | 3–6% <br> 0–1 | 0–1% <br> 0 |
-| [21–24 September 2019](2019-09-24-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| N/A | [Poll Average](average.html) | 34–44% <br> 8–10 | 19–29% <br> 4–7 | 3–7% <br> 0–1 | 4–10% <br> 1–2 | 8–12% <br> 1–3 | 2–6% <br> 0–1 | 0–1% <br> 0 |
+| [21–24 September 2019](2019-09-24-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 33–40% <br> 7–9 | 24–31% <br> 5–7 | 3–6% <br> 0–1 | 5–9% <br> 1–2 | 8–13% <br> 2–3 | 2–5% <br> 0–1 | 0–1% <br> 0 |
 | [7–12 September 2019](2019-09-12-Eurosondagem.html) | Eurosondagem | 36–40% <br> 8–9 | 22–25% <br> 5–6 | 5–7% <br> 1 | 6–8% <br> 1 | 8–11% <br> 2 | 4–5% <br> 0–1 | N/A <br> N/A |
 | [2–11 September 2019](2019-09-11-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 35–41% <br> 8–10 | 21–27% <br> 4–6 | 5–8% <br> 1–2 | 7–11% <br> 1–2 | 8–12% <br> 1–2 | 4–7% <br> 0–1 | N/A <br> N/A |
 | [1–8 September 2019](2019-09-08-Aximage.html) | Aximage | 35–41% <br> 8–9 | 18–23% <br> 4–5 | 3–6% <br> 0–1 | 4–7% <br> 1 | 8–12% <br> 2 | 4–6% <br> 0–1 | N/A <br> N/A |
