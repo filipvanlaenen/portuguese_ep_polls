@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/portuguese_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 27 Sep 2019 11:14:16 +0200</pubDate>
+    <pubDate>Fri, 27 Sep 2019 18:32:29 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Pitagórica for Jornal de Notícias, 22–25 September 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2019-09-25-Pitagórica.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Social Democrata (EPP): 23.4–30.5%&lt;/li&gt;&lt;li&gt;Partido Socialista (S&amp;amp;D): 34.5–42.3%&lt;/li&gt;&lt;li&gt;Bloco de Esquerda (GUE/NGL): 8.4–13.4%&lt;/li&gt;&lt;li&gt;CDS–Partido Popular (EPP): 3.0–6.3%&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária (GUE/NGL): 3.8–7.4%&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza (Greens/EFA): 2.2–5.1%&lt;/li&gt;&lt;li&gt;Aliança (*): 0.3–1.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2019-09-25-Pitagórica.png"
+        length="215477"
+        type="image/png"/>
+      <pubDate>Fri, 27 Sep 2019 18:09:55 +0200</pubDate>
+      <dc:date>2019-09-27T18:09:55.89993+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Aximage for Jornal Económico, 21–25 September 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2019-09-25-Aximage.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Social Democrata (EPP): 22.0–29.0%&lt;/li&gt;&lt;li&gt;Partido Socialista (S&amp;amp;D): 33.7–41.5%&lt;/li&gt;&lt;li&gt;Bloco de Esquerda (GUE/NGL): 8.7–13.8%&lt;/li&gt;&lt;li&gt;CDS–Partido Popular (EPP): 3.7–7.3%&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária (GUE/NGL): 5.1–9.1%&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza (Greens/EFA): 2.4–5.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2019-09-25-Aximage.png"
+        length="202957"
+        type="image/png"/>
+      <pubDate>Fri, 27 Sep 2019 18:32:29 +0200</pubDate>
+      <dc:date>2019-09-27T18:32:29.984968+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Pitagórica for Jornal de Notícias, 21–24 September 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2019-09-24-Pitagórica.html#seats</link>
@@ -479,6 +499,6 @@
       <pubDate>Sun, 30 Jun 2019 15:14:32 +0200</pubDate>
       <dc:date>2019-06-30T15:14:32.852257+02:00</dc:date>
     </item>
-    <dc:date>2019-09-27T11:14:16.086941+02:00</dc:date>
+    <dc:date>2019-09-27T18:32:29.984968+02:00</dc:date>
   </channel>
 </rss>
