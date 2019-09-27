@@ -8,7 +8,17 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/portuguese_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 26 Sep 2019 07:32:34 +0200</pubDate>
+    <pubDate>Fri, 27 Sep 2019 07:50:22 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Pitagórica for Jornal de Notícias, 21–24 September 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2019-09-24-Pitagórica.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Social Democrata (EPP): 23.6–30.7%&lt;/li&gt;&lt;li&gt;Partido Socialista (S&amp;amp;D): 32.6–40.3%&lt;/li&gt;&lt;li&gt;Bloco de Esquerda (GUE/NGL): 8.4–13.4%&lt;/li&gt;&lt;li&gt;CDS–Partido Popular (EPP): 3.0–6.3%&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária (GUE/NGL): 5.1–9.1%&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza (Greens/EFA): 1.9–4.7%&lt;/li&gt;&lt;li&gt;Aliança (*): 0.2–1.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2019-09-24-Pitagórica.png"
+        length="211524"
+        type="image/png"/>
+      <pubDate>Fri, 27 Sep 2019 07:50:22 +0200</pubDate>
+      <dc:date>2019-09-27T07:50:22.797737+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Pitagórica for Jornal de Notícias, 20–23 September 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2019-09-23-Pitagórica.html</link>
@@ -369,6 +379,6 @@
       <pubDate>Sun, 30 Jun 2019 15:14:32 +0200</pubDate>
       <dc:date>2019-06-30T15:14:32.852257+02:00</dc:date>
     </item>
-    <dc:date>2019-09-26T07:32:34.514602+02:00</dc:date>
+    <dc:date>2019-09-27T07:50:22.797737+02:00</dc:date>
   </channel>
 </rss>
