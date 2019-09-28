@@ -222,10 +222,10 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 7 | 0.4% | 100% |  |
-| 8 | 22% | 99.6% | Last Result |
-| 9 | 60% | 78% | Median |
-| 10 | 16% | 17% |  |
+| 7 | 0.5% | 100% |  |
+| 8 | 22% | 99.5% | Last Result |
+| 9 | 61% | 78% | Median |
+| 10 | 15% | 16% |  |
 | 11 | 1.0% | 1.0% | Majority |
 | 12 | 0% | 0% |  |
 
@@ -239,8 +239,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 2% | 100% |  |
 | 5 | 58% | 98% | Median |
-| 6 | 34% | 40% | Last Result |
-| 7 | 6% | 6% |  |
+| 6 | 35% | 40% | Last Result |
+| 7 | 5% | 5% |  |
 | 8 | 0% | 0% |  |
 
 ### CDS–Partido Popular (EPP)
@@ -251,8 +251,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 13% | 100% |  |
-| 1 | 87% | 87% | Last Result, Median |
+| 0 | 11% | 100% |  |
+| 1 | 89% | 89% | Last Result, Median |
 | 2 | 0.4% | 0.4% |  |
 | 3 | 0% | 0% |  |
 
@@ -278,7 +278,7 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 6% | 100% | Last Result |
-| 2 | 88% | 94% | Median |
+| 2 | 87% | 94% | Median |
 | 3 | 6% | 6% |  |
 | 4 | 0% | 0% |  |
 
@@ -290,8 +290,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 43% | 100% | Last Result |
-| 1 | 57% | 57% | Median |
+| 0 | 44% | 100% | Last Result |
+| 1 | 56% | 56% | Median |
 | 2 | 0% | 0% |  |
 
 ### Aliança (*)
@@ -325,10 +325,10 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 7 | 0.4% | 100% |  |
-| 8 | 22% | 99.6% | Last Result |
-| 9 | 60% | 78% | Median |
-| 10 | 16% | 17% |  |
+| 7 | 0.5% | 100% |  |
+| 8 | 22% | 99.5% | Last Result |
+| 9 | 61% | 78% | Median |
+| 10 | 15% | 16% |  |
 | 11 | 1.0% | 1.0% | Majority |
 | 12 | 0% | 0% |  |
 
@@ -352,8 +352,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 6% | 100% |  |
 | 3 | 74% | 94% | Median |
-| 4 | 20% | 20% | Last Result |
-| 5 | 0.4% | 0.4% |  |
+| 4 | 20% | 21% | Last Result |
+| 5 | 0.3% | 0.3% |  |
 | 6 | 0% | 0% |  |
 
 ### Pessoas–Animais–Natureza (Greens/EFA)
@@ -362,8 +362,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 43% | 100% | Last Result |
-| 1 | 57% | 57% | Median |
+| 0 | 44% | 100% | Last Result |
+| 1 | 56% | 56% | Median |
 | 2 | 0% | 0% |  |
 
 ### Aliança (*)
@@ -378,6 +378,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 5
-+ **Lowest number of simulations done in a poll included in this average:** 131,072
-+ **Total number of simulations done in the polls included in this average:** 3,407,872
-+ **Error estimate:** 2.21%
++ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Total number of simulations done in the polls included in this average:** 5,242,880
++ **Error estimate:** 1.83%
