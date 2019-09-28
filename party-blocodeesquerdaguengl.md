@@ -61,9 +61,9 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 2 | 1–2 | 1–2 | 1–3 |
-| [22–25 September 2019](2019-09-25-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 2 | 2 | 2 | 2 | 2–3 |
-| [21–25 September 2019](2019-09-25-Aximage.html) | Aximage <br> Jornal Económico | 2 | 2 | 2 | 2 | 1–3 |
+| N/A | [Poll Average](average.html) | 2 | 2 | 1–3 | 1–3 | 1–3 |
+| [22–25 September 2019](2019-09-25-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
+| [21–25 September 2019](2019-09-25-Aximage.html) | Aximage <br> Jornal Económico | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | [21–24 September 2019](2019-09-24-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | [20–23 September 2019](2019-09-23-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | [19–22 September 2019](2019-09-22-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
@@ -93,9 +93,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 6% | 100% | Last Result |
-| 2 | 93% | 94% | Median |
-| 3 | 0.8% | 0.9% |  |
-| 4 | 0.1% | 0.1% |  |
-| 5 | 0% | 0% |  |
+| 2 | 88% | 94% | Median |
+| 3 | 6% | 6% |  |
+| 4 | 0% | 0% |  |
 
 
