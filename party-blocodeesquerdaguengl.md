@@ -10,11 +10,11 @@ Last result: **4.6%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9.8% | 8.7–11.4% | 8.4–11.9% | 8.1–12.4% | 7.5–13.4% |
+| N/A | [Poll Average](average.html) | 10.1% | 8.8–12.0% | 8.5–12.6% | 8.2–13.1% | 7.6–14.1% |
 | [24–27 September 2019](2019-09-27-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 10.3% | 8.9–12.1% | 8.5–12.6% | 8.1–13.0% | 7.5–13.9% |
 | [23–26 September 2019](2019-09-26-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 10.2% | N/A | N/A | N/A | N/A |
 | [22–25 September 2019](2019-09-25-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 10.7% | N/A | N/A | N/A | N/A |
-| [21–25 September 2019](2019-09-25-Aximage.html) | Aximage <br> Jornal Económico | 11.0% | N/A | N/A | N/A | N/A |
+| [21–25 September 2019](2019-09-25-Aximage.html) | Aximage <br> Jornal Económico | 11.0% | 9.5–12.9% | 9.1–13.4% | 8.6–13.9% | 8.0–14.7% |
 | [21–24 September 2019](2019-09-24-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 10.7% | N/A | N/A | N/A | N/A |
 | [20–23 September 2019](2019-09-23-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 10.5% | N/A | N/A | N/A | N/A |
 | [19–22 September 2019](2019-09-22-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 10.3% | N/A | N/A | N/A | N/A |
@@ -43,15 +43,15 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 4.5–5.5% | 0% | 100% | Last Result |
 | 5.5–6.5% | 0% | 100% |  |
-| 6.5–7.5% | 0.5% | 100% |  |
-| 7.5–8.5% | 7% | 99.5% |  |
-| 8.5–9.5% | 31% | 93% |  |
-| 9.5–10.5% | 36% | 62% | Median |
-| 10.5–11.5% | 17% | 26% |  |
-| 11.5–12.5% | 6% | 8% |  |
-| 12.5–13.5% | 2% | 2% |  |
-| 13.5–14.5% | 0.3% | 0.4% |  |
-| 14.5–15.5% | 0% | 0% |  |
+| 6.5–7.5% | 0.4% | 100% |  |
+| 7.5–8.5% | 5% | 99.6% |  |
+| 8.5–9.5% | 26% | 94% |  |
+| 9.5–10.5% | 33% | 68% | Median |
+| 10.5–11.5% | 20% | 36% |  |
+| 11.5–12.5% | 10% | 15% |  |
+| 12.5–13.5% | 4% | 5% |  |
+| 13.5–14.5% | 0.9% | 1.1% |  |
+| 14.5–15.5% | 0.2% | 0.2% |  |
 | 15.5–16.5% | 0% | 0% |  |
 
 
@@ -97,8 +97,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 3% | 100% | Last Result |
-| 2 | 88% | 97% | Median |
-| 3 | 9% | 9% |  |
+| 2 | 91% | 97% | Median |
+| 3 | 6% | 6% |  |
 | 4 | 0% | 0% |  |
 
 
