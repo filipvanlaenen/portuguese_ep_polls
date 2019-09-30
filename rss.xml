@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/portuguese_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 30 Sep 2019 08:58:27 +0200</pubDate>
+    <pubDate>Mon, 30 Sep 2019 10:15:11 +0200</pubDate>
     <item>
       <title>Opinion Poll by Pitagórica for Jornal de Notícias, 24–27 September 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2019-09-27-Pitagórica.html#seats</link>
@@ -40,14 +40,34 @@
       <dc:date>2019-09-29T23:26:23.589933+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Eurosondagem, 7–12 September 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2019-09-12-Eurosondagem.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Social Democrata (EPP): 5–6 seats&lt;/li&gt;&lt;li&gt;Partido Socialista (S&amp;amp;D): 8–9 seats&lt;/li&gt;&lt;li&gt;Bloco de Esquerda (GUE/NGL): 2 seats&lt;/li&gt;&lt;li&gt;CDS–Partido Popular (EPP): 1 seats&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2019-09-12-Eurosondagem-seats.png"
+        length="141309"
+        type="image/png"/>
+      <pubDate>Mon, 30 Sep 2019 09:10:35 +0200</pubDate>
+      <dc:date>2019-09-30T09:10:35.270388+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Eurosondagem, 7–12 September 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2019-09-12-Eurosondagem.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2019-09-12-Eurosondagem-coalitions-seats.png"
+        length="110567"
+        type="image/png"/>
+      <pubDate>Mon, 30 Sep 2019 09:10:35 +0200</pubDate>
+      <dc:date>2019-09-30T09:10:35.270388+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Eurosondagem, 7–12 September 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2019-09-12-Eurosondagem.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Partido Social Democrata (EPP): 21.5–25.2%&lt;/li&gt;&lt;li&gt;Partido Socialista (S&amp;amp;D): 36.2–40.4%&lt;/li&gt;&lt;li&gt;Bloco de Esquerda (GUE/NGL): 8.3–10.9%&lt;/li&gt;&lt;li&gt;CDS–Partido Popular (EPP): 4.6–6.6%&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária (GUE/NGL): 6.0–8.3%&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza (Greens/EFA): 3.7–5.5%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2019-09-12-Eurosondagem.png"
         length="180380"
         type="image/png"/>
-      <pubDate>Mon, 30 Sep 2019 08:58:27 +0200</pubDate>
-      <dc:date>2019-09-30T08:58:27.709901+02:00</dc:date>
+      <pubDate>Mon, 30 Sep 2019 09:10:35 +0200</pubDate>
+      <dc:date>2019-09-30T09:10:35.270388+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Intercampus for Correio da Manhã and Negócios, 2–11 September 2019 – Seat Projections for the Parties</title>
@@ -56,18 +76,18 @@
       <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2019-09-11-Intercampus-seats.png"
         length="179430"
         type="image/png"/>
-      <pubDate>Fri, 27 Sep 2019 10:41:26 +0200</pubDate>
-      <dc:date>2019-09-27T10:41:26.988094+02:00</dc:date>
+      <pubDate>Mon, 30 Sep 2019 09:35:18 +0200</pubDate>
+      <dc:date>2019-09-30T09:35:18.034812+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Intercampus for Correio da Manhã and Negócios, 2–11 September 2019 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2019-09-11-Intercampus.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2019-09-11-Intercampus-coalitions-seats.png"
-        length="124406"
+        length="132243"
         type="image/png"/>
-      <pubDate>Fri, 27 Sep 2019 10:41:26 +0200</pubDate>
-      <dc:date>2019-09-27T10:41:26.988094+02:00</dc:date>
+      <pubDate>Mon, 30 Sep 2019 09:35:18 +0200</pubDate>
+      <dc:date>2019-09-30T09:35:18.034812+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Intercampus for Correio da Manhã and Negócios, 2–11 September 2019 – Voting Intentions</title>
@@ -76,8 +96,8 @@
       <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2019-09-11-Intercampus.png"
         length="199150"
         type="image/png"/>
-      <pubDate>Fri, 27 Sep 2019 10:41:26 +0200</pubDate>
-      <dc:date>2019-09-27T10:41:26.988094+02:00</dc:date>
+      <pubDate>Mon, 30 Sep 2019 09:35:18 +0200</pubDate>
+      <dc:date>2019-09-30T09:35:18.034812+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Aximage, 1–8 September 2019 – Seat Projections for the Parties</title>
@@ -108,6 +128,36 @@
         type="image/png"/>
       <pubDate>Fri, 27 Sep 2019 10:56:49 +0200</pubDate>
       <dc:date>2019-09-27T10:56:49.227701+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by GfK Metris for Expresso and SIC Notícias, 24 August–5 September 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2019-09-05-GfKMetris.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Social Democrata (EPP): 4–6 seats&lt;/li&gt;&lt;li&gt;Partido Socialista (S&amp;amp;D): 9–11 seats&lt;/li&gt;&lt;li&gt;Bloco de Esquerda (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;CDS–Partido Popular (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária (GUE/NGL): 1 seats&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;LIVRE (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Iniciativa Liberal (RE): 0 seats&lt;/li&gt;&lt;li&gt;Aliança (*): 0 seats&lt;/li&gt;&lt;li&gt;Chega (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2019-09-05-GfKMetris-seats.png"
+        length="197158"
+        type="image/png"/>
+      <pubDate>Mon, 30 Sep 2019 10:15:11 +0200</pubDate>
+      <dc:date>2019-09-30T10:15:11.597396+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by GfK Metris for Expresso and SIC Notícias, 24 August–5 September 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2019-09-05-GfKMetris.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2019-09-05-GfKMetris-coalitions-seats.png"
+        length="122212"
+        type="image/png"/>
+      <pubDate>Mon, 30 Sep 2019 10:15:11 +0200</pubDate>
+      <dc:date>2019-09-30T10:15:11.597396+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by GfK Metris for Expresso and SIC Notícias, 24 August–5 September 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2019-09-05-GfKMetris.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Social Democrata (EPP): 20.0–25.8%&lt;/li&gt;&lt;li&gt;Partido Socialista (S&amp;amp;D): 38.2–45.0%&lt;/li&gt;&lt;li&gt;Bloco de Esquerda (GUE/NGL): 7.1–11.1%&lt;/li&gt;&lt;li&gt;CDS–Partido Popular (EPP): 3.7–6.7%&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária (GUE/NGL): 4.5–7.9%&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza (Greens/EFA): 2.8–5.6%&lt;/li&gt;&lt;li&gt;LIVRE (Greens/EFA): 0.1–0.9%&lt;/li&gt;&lt;li&gt;Iniciativa Liberal (RE): 0.1–0.9%&lt;/li&gt;&lt;li&gt;Aliança (*): 0.1–0.9%&lt;/li&gt;&lt;li&gt;Chega (*): 0.1–0.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2019-09-05-GfKMetris.png"
+        length="242133"
+        type="image/png"/>
+      <pubDate>Mon, 30 Sep 2019 10:15:11 +0200</pubDate>
+      <dc:date>2019-09-30T10:15:11.597396+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Eurosondagem for Associação Mutualista Montepio, 1–5 September 2019 – Voting Intentions</title>
@@ -269,6 +319,6 @@
       <pubDate>Sun, 30 Jun 2019 15:14:32 +0200</pubDate>
       <dc:date>2019-06-30T15:14:32.852257+02:00</dc:date>
     </item>
-    <dc:date>2019-09-30T08:58:27.709901+02:00</dc:date>
+    <dc:date>2019-09-30T10:15:11.597396+02:00</dc:date>
   </channel>
 </rss>
