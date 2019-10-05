@@ -17,6 +17,7 @@
 | CDS–Partido Popular (EPP) | 27.7% | 5.6% | 4.6–7.0% |4.3–7.4% |4.1–7.8% |3.6–8.5% |
 | Pessoas–Animais–Natureza (Greens/EFA) | 1.7% | 3.1% | 2.4–4.3% |2.2–4.6% |2.0–4.9% |1.7–5.5% |
 | Aliança (*) | 0.0% | 1.5% | 1.0–2.3% |0.9–2.6% |0.8–2.8% |0.6–3.3% |
+| LIVRE (Greens/EFA) | 0.7% | 0.8% | 0.5–1.5% |0.4–1.7% |0.4–1.9% |0.2–2.3% |
 
 *Note:* The poll result column reflects the actual value used in the calculations. Published results may vary slightly, and in addition be rounded to fewer digits.
 
@@ -30,13 +31,14 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#partido-socialista-(s&d)">Partido Socialista (S&D)</a> | 8 | 9 | 9–10 |8–10 |8–10 |8–11 |
-| <a href="#partido-social-democrata-(epp)">Partido Social Democrata (EPP)</a> | 6 | 5 | 5–6 |5–6 |4–6 |4–6 |
+| <a href="#partido-socialista-(s&d)">Partido Socialista (S&D)</a> | 8 | 9 | 9–10 |9–10 |8–10 |8–11 |
+| <a href="#partido-social-democrata-(epp)">Partido Social Democrata (EPP)</a> | 6 | 5 | 5–6 |5–6 |4–6 |4–7 |
 | <a href="#bloco-de-esquerda-(gue/ngl)">Bloco de Esquerda (GUE/NGL)</a> | 1 | 2 | 2 |2–3 |1–3 |1–3 |
 | <a href="#coligação-democrática-unitária-(gue/ngl)">Coligação Democrática Unitária (GUE/NGL)</a> | 3 | 1 | 1–2 |1–2 |1–2 |1–2 |
-| <a href="#cds–partido-popular-(epp)">CDS–Partido Popular (EPP)</a> | 1 | 1 | 1 |1 |0–1 |0–2 |
+| <a href="#cds–partido-popular-(epp)">CDS–Partido Popular (EPP)</a> | 1 | 1 | 1 |1 |1 |0–2 |
 | <a href="#pessoas–animais–natureza-(greens/efa)">Pessoas–Animais–Natureza (Greens/EFA)</a> | 0 | 0 | 0–1 |0–1 |0–1 |0–1 |
 | <a href="#aliança-(*)">Aliança (*)</a> | 0 | 0 | 0 |0 |0 |0 |
+| <a href="#livre-(greens/efa)">LIVRE (Greens/EFA)</a> | 0 | 0 | 0 |0 |0 |0 |
 
 ### Partido Socialista (S&D)
 
@@ -46,11 +48,10 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 7 | 0.1% | 100% |  |
-| 8 | 10% | 99.9% | Last Result |
-| 9 | 63% | 90% | Median |
-| 10 | 27% | 28% |  |
-| 11 | 0.7% | 0.7% | Majority |
+| 8 | 5% | 100% | Last Result |
+| 9 | 60% | 95% | Median |
+| 10 | 34% | 35% |  |
+| 11 | 0.6% | 0.6% | Majority |
 | 12 | 0% | 0% |  |
 
 ### Partido Social Democrata (EPP)
@@ -62,9 +63,9 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 3% | 100% |  |
-| 5 | 64% | 97% | Median |
-| 6 | 32% | 32% | Last Result |
-| 7 | 0.4% | 0.4% |  |
+| 5 | 60% | 97% | Median |
+| 6 | 37% | 37% | Last Result |
+| 7 | 0.5% | 0.5% |  |
 | 8 | 0% | 0% |  |
 
 ### Bloco de Esquerda (GUE/NGL)
@@ -75,9 +76,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 4% | 100% | Last Result |
-| 2 | 88% | 96% | Median |
-| 3 | 8% | 8% |  |
+| 1 | 3% | 100% | Last Result |
+| 2 | 90% | 97% | Median |
+| 3 | 7% | 7% |  |
 | 4 | 0% | 0% |  |
 
 ### Coligação Democrática Unitária (GUE/NGL)
@@ -88,8 +89,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 58% | 100% | Median |
-| 2 | 42% | 42% |  |
+| 1 | 65% | 100% | Median |
+| 2 | 35% | 35% |  |
 | 3 | 0% | 0% | Last Result |
 
 ### CDS–Partido Popular (EPP)
@@ -100,9 +101,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 3% | 100% |  |
-| 1 | 96% | 97% | Last Result, Median |
-| 2 | 2% | 2% |  |
+| 0 | 1.3% | 100% |  |
+| 1 | 97% | 98.7% | Last Result, Median |
+| 2 | 1.4% | 1.4% |  |
 | 3 | 0% | 0% |  |
 
 ### Pessoas–Animais–Natureza (Greens/EFA)
@@ -113,8 +114,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 85% | 100% | Last Result, Median |
-| 1 | 15% | 15% |  |
+| 0 | 79% | 100% | Last Result, Median |
+| 1 | 21% | 21% |  |
 | 2 | 0% | 0% |  |
 
 ### Aliança (*)
@@ -122,6 +123,16 @@
 *For a full overview of the results for this party, see the [Aliança (*)](party-aliança.html) page.*
 
 ![Graph with seats probability mass function not yet produced](2019-09-12-Pitagórica-seats-pmf-aliança.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 100% | 100% | Last Result, Median |
+
+### LIVRE (Greens/EFA)
+
+*For a full overview of the results for this party, see the [LIVRE (Greens/EFA)](party-livregreensefa.html) page.*
+
+![Graph with seats probability mass function not yet produced](2019-09-12-Pitagórica-seats-pmf-livregreensefa.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -136,10 +147,10 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Partido Socialista (S&D) | 8 | 9 | 0.7% | 9–10 | 8–10 | 8–10 | 8–11 |
+| Partido Socialista (S&D) | 8 | 9 | 0.6% | 9–10 | 9–10 | 8–10 | 8–11 |
 | Partido Social Democrata (EPP) – CDS–Partido Popular (EPP) | 7 | 6 | 0% | 6–7 | 6–7 | 5–7 | 5–8 |
 | Bloco de Esquerda (GUE/NGL) – Coligação Democrática Unitária (GUE/NGL) | 4 | 3 | 0% | 3–4 | 3–4 | 3–4 | 2–5 |
-| Pessoas–Animais–Natureza (Greens/EFA) | 0 | 0 | 0% | 0–1 | 0–1 | 0–1 | 0–1 |
+| Pessoas–Animais–Natureza (Greens/EFA) – LIVRE (Greens/EFA) | 0 | 0 | 0% | 0–1 | 0–1 | 0–1 | 0–1 |
 | Aliança (*) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
 
 ### Partido Socialista (S&D)
@@ -148,11 +159,10 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 7 | 0.1% | 100% |  |
-| 8 | 10% | 99.9% | Last Result |
-| 9 | 63% | 90% | Median |
-| 10 | 27% | 28% |  |
-| 11 | 0.7% | 0.7% | Majority |
+| 8 | 5% | 100% | Last Result |
+| 9 | 60% | 95% | Median |
+| 10 | 34% | 35% |  |
+| 11 | 0.6% | 0.6% | Majority |
 | 12 | 0% | 0% |  |
 
 ### Partido Social Democrata (EPP) – CDS–Partido Popular (EPP)
@@ -161,10 +171,10 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 5 | 5% | 100% |  |
-| 6 | 63% | 95% | Median |
-| 7 | 31% | 32% | Last Result |
-| 8 | 0.6% | 0.6% |  |
+| 5 | 3% | 100% |  |
+| 6 | 59% | 97% | Median |
+| 7 | 37% | 37% | Last Result |
+| 8 | 0.9% | 0.9% |  |
 | 9 | 0% | 0% |  |
 
 ### Bloco de Esquerda (GUE/NGL) – Coligação Democrática Unitária (GUE/NGL)
@@ -173,20 +183,20 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 1.4% | 100% |  |
-| 3 | 53% | 98.6% | Median |
-| 4 | 44% | 46% | Last Result |
+| 2 | 1.3% | 100% |  |
+| 3 | 60% | 98.7% | Median |
+| 4 | 37% | 39% | Last Result |
 | 5 | 2% | 2% |  |
 | 6 | 0% | 0% |  |
 
-### Pessoas–Animais–Natureza (Greens/EFA)
+### Pessoas–Animais–Natureza (Greens/EFA) – LIVRE (Greens/EFA)
 
-![Graph with seats probability mass function not yet produced](2019-09-12-Pitagórica-coalitions-seats-pmf-pan.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2019-09-12-Pitagórica-coalitions-seats-pmf-pan–l.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 85% | 100% | Last Result, Median |
-| 1 | 15% | 15% |  |
+| 0 | 79% | 100% | Last Result, Median |
+| 1 | 21% | 21% |  |
 | 2 | 0% | 0% |  |
 
 ### Aliança (*)
@@ -209,6 +219,6 @@
 ### Calculations
 
 + **Sample size:** 605
-+ **Simulations done:** 1,048,576
-+ **Error estimate:** 2.12%
++ **Simulations done:** 131,072
++ **Error estimate:** 1.66%
 
