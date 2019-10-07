@@ -11,7 +11,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0.9% | 0.3–1.5% | 0.2–1.8% | 0.2–2.0% | 0.1–2.5% |
-| [30 September–3 October 2019](2019-10-03-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 1.2% | N/A | N/A | N/A | N/A |
+| [30 September–3 October 2019](2019-10-03-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 1.2% | 0.8–2.0% | 0.7–2.2% | 0.6–2.4% | 0.4–2.8% |
 | [29 September–2 October 2019](2019-10-02-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 1.5% | 1.0–2.4% | 0.9–2.6% | 0.8–2.8% | 0.6–3.3% |
 | [26 September–2 October 2019](2019-10-02-Aximage.html) | Aximage <br> Jornal Económico | 0.0% | N/A | N/A | N/A | N/A |
 | [28 September–1 October 2019](2019-10-01-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 1.2% | 0.8–2.0% | 0.7–2.2% | 0.6–2.4% | 0.4–2.8% |
@@ -68,8 +68,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
-| [30 September–3 October 2019](2019-10-03-Pitagórica.html) | Pitagórica <br> Jornal de Notícias |  |  |  |  |  |
-| [29 September–2 October 2019](2019-10-02-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 0 | 0 | 0 | 0 | 0–1 |
+| [30 September–3 October 2019](2019-10-03-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 0 | 0 | 0 | 0 | 0 |
+| [29 September–2 October 2019](2019-10-02-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 0 | 0 | 0 | 0 | 0 |
 | [26 September–2 October 2019](2019-10-02-Aximage.html) | Aximage <br> Jornal Económico |  |  |  |  |  |
 | [28 September–1 October 2019](2019-10-01-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 0 | 0 | 0 | 0 | 0 |
 | [26 September–1 October 2019](2019-10-01-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios |  |  |  |  |  |
