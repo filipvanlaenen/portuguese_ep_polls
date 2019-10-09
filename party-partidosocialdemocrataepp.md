@@ -88,7 +88,7 @@ Last result: **6** seats (General Election of 26 May 2019)
 | [25 September–1 October 2019](2019-10-01-Eurosondagem.html) | Eurosondagem <br> Porto Canal | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [27–30 September 2019](2019-09-30-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 7 | 6–7 | 6–8 | 6–8 | 6–8 |
 | [26–29 September 2019](2019-09-29-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 7 | 6–7 | 6–8 | 6–8 | 5–8 |
-| [23–29 September 2019](2019-09-29-GfKMetris.html) | GfK Metris <br> Expresso and SIC Notícias | 7 | 6–7 | 6–7 | 6–7 | 6–7 |
+| [23–29 September 2019](2019-09-29-GfKMetris.html) | GfK Metris <br> Expresso and SIC Notícias | 7 | 6–7 | 6–7 | 6–7 | 6–8 |
 | [26–29 September 2019](2019-09-29-CESOP–UCP.html) | CESOP–UCP <br> Público and RTP | 7 | 7 | 7 | 7 | 7–8 |
 | [25–28 September 2019](2019-09-28-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 7 | 6–7 | 6–7 | 6–7 | 5–8 |
 | [24–27 September 2019](2019-09-27-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 6 | 6–7 | 6–7 | 5–7 | 5–8 |
@@ -97,7 +97,7 @@ Last result: **6** seats (General Election of 26 May 2019)
 | [21–25 September 2019](2019-09-25-Aximage.html) | Aximage <br> Jornal Económico | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
 | [21–24 September 2019](2019-09-24-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
 | [20–23 September 2019](2019-09-23-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 7 | 6–7 | 6–7 | 6–8 | 5–8 |
-| [19–22 September 2019](2019-09-22-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 7 | 6–7 | 6–7 | 6–8 | 5–8 |
+| [19–22 September 2019](2019-09-22-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 7 | 6–7 | 6–7 | 6–7 | 5–8 |
 | [18–21 September 2019](2019-09-21-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 7 | 6–7 | 6–7 | 5–7 | 5–7 |
 | [17–20 September 2019](2019-09-20-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 6 | 6–7 | 6–7 | 5–7 | 5–7 |
 | [9–12 September 2019](2019-09-12-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 5 | 5–6 | 5–6 | 4–6 | 4–7 |
@@ -126,7 +126,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 1.1% | 100% |  |
 | 5 | 29% | 98.9% |  |
 | 6 | 26% | 70% | Last Result, Median |
-| 7 | 43% | 44% |  |
+| 7 | 42% | 44% |  |
 | 8 | 2% | 2% |  |
 | 9 | 0% | 0% |  |
 

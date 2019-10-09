@@ -83,7 +83,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [25 September–1 October 2019](2019-10-01-Eurosondagem.html) | Eurosondagem <br> Porto Canal | 2 | 2 | 2 | 2 | 1–2 |
 | [27–30 September 2019](2019-09-30-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | [26–29 September 2019](2019-09-29-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
-| [23–29 September 2019](2019-09-29-GfKMetris.html) | GfK Metris <br> Expresso and SIC Notícias | 2 | 2 | 2 | 2 | 1–2 |
+| [23–29 September 2019](2019-09-29-GfKMetris.html) | GfK Metris <br> Expresso and SIC Notícias | 2 | 2 | 2 | 2 | 2–3 |
 | [26–29 September 2019](2019-09-29-CESOP–UCP.html) | CESOP–UCP <br> Público and RTP | 2 | 2 | 2 | 2 | 2 |
 | [25–28 September 2019](2019-09-28-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 2 | 2 | 2 | 1–2 | 1–3 |
 | [24–27 September 2019](2019-09-27-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
