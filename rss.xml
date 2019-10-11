@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/portuguese_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 11 Oct 2019 16:53:05 +0200</pubDate>
+    <pubDate>Fri, 11 Oct 2019 19:58:23 +0200</pubDate>
     <item>
       <title>Opinion Poll by Pitagórica for Jornal de Notícias, 30 September–3 October 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2019-10-03-Pitagórica.html</link>
@@ -20,14 +20,34 @@
       <dc:date>2019-10-07T18:21:28.504845+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Pitagórica for Jornal de Notícias, 29 September–2 October 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2019-10-02-Pitagórica.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Social Democrata (EPP): 6–8 seats&lt;/li&gt;&lt;li&gt;Partido Socialista (S&amp;amp;D): 8–10 seats&lt;/li&gt;&lt;li&gt;Bloco de Esquerda (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;CDS–Partido Popular (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;LIVRE (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Iniciativa Liberal (RE): 0 seats&lt;/li&gt;&lt;li&gt;Aliança (*): 0 seats&lt;/li&gt;&lt;li&gt;Chega (ECR): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2019-10-02-Pitagórica-seats.png"
+        length="213614"
+        type="image/png"/>
+      <pubDate>Fri, 11 Oct 2019 19:58:23 +0200</pubDate>
+      <dc:date>2019-10-11T19:58:23.878277+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Pitagórica for Jornal de Notícias, 29 September–2 October 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2019-10-02-Pitagórica.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2019-10-02-Pitagórica-coalitions-seats.png"
+        length="139294"
+        type="image/png"/>
+      <pubDate>Fri, 11 Oct 2019 19:58:23 +0200</pubDate>
+      <dc:date>2019-10-11T19:58:23.878277+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Pitagórica for Jornal de Notícias, 29 September–2 October 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2019-10-02-Pitagórica.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Partido Social Democrata (EPP): 25.3–32.6%&lt;/li&gt;&lt;li&gt;Partido Socialista (S&amp;amp;D): 33.5–41.3%&lt;/li&gt;&lt;li&gt;Bloco de Esquerda (GUE/NGL): 7.1–11.8%&lt;/li&gt;&lt;li&gt;CDS–Partido Popular (EPP): 2.6–5.7%&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária (GUE/NGL): 4.9–9.0%&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza (Greens/EFA): 3.0–6.3%&lt;/li&gt;&lt;li&gt;LIVRE (Greens/EFA): 0.4–1.9%&lt;/li&gt;&lt;li&gt;Iniciativa Liberal (RE): 0.4–1.9%&lt;/li&gt;&lt;li&gt;Aliança (*): 0.8–2.8%&lt;/li&gt;&lt;li&gt;Chega (ECR): 0.8–2.8%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2019-10-02-Pitagórica.png"
         length="263080"
         type="image/png"/>
-      <pubDate>Mon, 07 Oct 2019 19:01:35 +0200</pubDate>
-      <dc:date>2019-10-07T19:01:35.428539+02:00</dc:date>
+      <pubDate>Fri, 11 Oct 2019 19:58:23 +0200</pubDate>
+      <dc:date>2019-10-11T19:58:23.878277+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Aximage for Jornal Económico, 26 September–2 October 2019 – Voting Intentions</title>
@@ -200,14 +220,54 @@
       <dc:date>2019-10-02T09:59:34.624686+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Pitagórica for Jornal de Notícias, 21–24 September 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2019-09-24-Pitagórica.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Social Democrata (EPP): 5–8 seats&lt;/li&gt;&lt;li&gt;Partido Socialista (S&amp;amp;D): 8–10 seats&lt;/li&gt;&lt;li&gt;Bloco de Esquerda (GUE/NGL): 2–3 seats&lt;/li&gt;&lt;li&gt;CDS–Partido Popular (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;LIVRE (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Iniciativa Liberal (RE): 0 seats&lt;/li&gt;&lt;li&gt;Aliança (*): 0 seats&lt;/li&gt;&lt;li&gt;Chega (ECR): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2019-09-24-Pitagórica-seats.png"
+        length="191688"
+        type="image/png"/>
+      <pubDate>Fri, 11 Oct 2019 17:48:06 +0200</pubDate>
+      <dc:date>2019-10-11T17:48:06.1264+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Pitagórica for Jornal de Notícias, 21–24 September 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2019-09-24-Pitagórica.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2019-09-24-Pitagórica-coalitions-seats.png"
+        length="121937"
+        type="image/png"/>
+      <pubDate>Fri, 11 Oct 2019 17:48:06 +0200</pubDate>
+      <dc:date>2019-10-11T17:48:06.1264+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Pitagórica for Jornal de Notícias, 21–24 September 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2019-09-24-Pitagórica.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Partido Social Democrata (EPP): 23.6–30.7%&lt;/li&gt;&lt;li&gt;Partido Socialista (S&amp;amp;D): 32.6–40.3%&lt;/li&gt;&lt;li&gt;Bloco de Esquerda (GUE/NGL): 8.4–13.4%&lt;/li&gt;&lt;li&gt;CDS–Partido Popular (EPP): 3.0–6.3%&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária (GUE/NGL): 5.1–9.1%&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza (Greens/EFA): 1.9–4.7%&lt;/li&gt;&lt;li&gt;LIVRE (Greens/EFA): 0.6–2.4%&lt;/li&gt;&lt;li&gt;Iniciativa Liberal (RE): 1.0–3.3%&lt;/li&gt;&lt;li&gt;Aliança (*): 0.2–1.5%&lt;/li&gt;&lt;li&gt;Chega (ECR): 0.3–1.7%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2019-09-24-Pitagórica.png"
         length="258728"
         type="image/png"/>
-      <pubDate>Fri, 04 Oct 2019 23:46:43 +0200</pubDate>
-      <dc:date>2019-10-04T23:46:43.522688+02:00</dc:date>
+      <pubDate>Fri, 11 Oct 2019 17:48:06 +0200</pubDate>
+      <dc:date>2019-10-11T17:48:06.1264+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Pitagórica for Jornal de Notícias, 20–23 September 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2019-09-23-Pitagórica.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Social Democrata (EPP): 6–8 seats&lt;/li&gt;&lt;li&gt;Partido Socialista (S&amp;amp;D): 7–10 seats&lt;/li&gt;&lt;li&gt;Bloco de Esquerda (GUE/NGL): 2–3 seats&lt;/li&gt;&lt;li&gt;CDS–Partido Popular (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;LIVRE (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Iniciativa Liberal (RE): 0 seats&lt;/li&gt;&lt;li&gt;Aliança (*): 0 seats&lt;/li&gt;&lt;li&gt;Chega (ECR): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2019-09-23-Pitagórica-seats.png"
+        length="198882"
+        type="image/png"/>
+      <pubDate>Fri, 11 Oct 2019 17:14:21 +0200</pubDate>
+      <dc:date>2019-10-11T17:14:21.810831+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Pitagórica for Jornal de Notícias, 20–23 September 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2019-09-23-Pitagórica.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2019-09-23-Pitagórica-coalitions-seats.png"
+        length="129532"
+        type="image/png"/>
+      <pubDate>Fri, 11 Oct 2019 17:14:21 +0200</pubDate>
+      <dc:date>2019-10-11T17:14:21.810831+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Pitagórica for Jornal de Notícias, 20–23 September 2019 – Voting Intentions</title>
@@ -216,8 +276,8 @@
       <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2019-09-23-Pitagórica.png"
         length="263895"
         type="image/png"/>
-      <pubDate>Fri, 11 Oct 2019 16:53:05 +0200</pubDate>
-      <dc:date>2019-10-11T16:53:05.330178+02:00</dc:date>
+      <pubDate>Fri, 11 Oct 2019 17:14:21 +0200</pubDate>
+      <dc:date>2019-10-11T17:14:21.810831+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Pitagórica for Jornal de Notícias, 19–22 September 2019 – Seat Projections for the Parties</title>
@@ -529,6 +589,6 @@
       <pubDate>Sun, 30 Jun 2019 15:14:32 +0200</pubDate>
       <dc:date>2019-06-30T15:14:32.852257+02:00</dc:date>
     </item>
-    <dc:date>2019-10-11T16:53:05.330178+02:00</dc:date>
+    <dc:date>2019-10-11T19:58:23.878277+02:00</dc:date>
   </channel>
 </rss>
