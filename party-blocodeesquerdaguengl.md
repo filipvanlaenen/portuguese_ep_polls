@@ -74,7 +74,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 2 | 2 | 1–3 | 1–3 |
+| N/A | [Poll Average](average.html) | 2 | 2 | 2–3 | 1–3 | 1–3 |
 | [30 September–3 October 2019](2019-10-03-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | [29 September–2 October 2019](2019-10-02-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 2 | 2 | 1–2 | 1–2 | 1–3 |
 | [26 September–2 October 2019](2019-10-02-Aximage.html) | Aximage <br> Jornal Económico | 2 | 2 | 2–3 | 2–3 | 2–3 |
@@ -89,7 +89,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [24–27 September 2019](2019-09-27-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | [23–26 September 2019](2019-09-26-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | [22–25 September 2019](2019-09-25-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [21–25 September 2019](2019-09-25-Aximage.html) | Aximage <br> Jornal Económico | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
+| [21–25 September 2019](2019-09-25-Aximage.html) | Aximage <br> Jornal Económico | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [21–24 September 2019](2019-09-24-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | [20–23 September 2019](2019-09-23-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | [19–22 September 2019](2019-09-22-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
@@ -119,8 +119,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 4% | 100% | Last Result |
-| 2 | 92% | 96% | Median |
-| 3 | 4% | 4% |  |
+| 2 | 90% | 96% | Median |
+| 3 | 6% | 6% |  |
 | 4 | 0% | 0% |  |
 
 
