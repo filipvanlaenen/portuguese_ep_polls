@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/portuguese_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 14 Oct 2019 19:04:17 +0200</pubDate>
+    <pubDate>Mon, 14 Oct 2019 22:51:33 +0200</pubDate>
     <item>
       <title>Opinion Poll by Pitagórica for Jornal de Notícias, 30 September–3 October 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2019-10-03-Pitagórica.html#seats</link>
@@ -250,14 +250,34 @@
       <dc:date>2019-10-01T07:59:08.541549+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Aximage for Jornal Económico, 21–25 September 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2019-09-25-Aximage.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Social Democrata (EPP): 5–7 seats&lt;/li&gt;&lt;li&gt;Partido Socialista (S&amp;amp;D): 8–10 seats&lt;/li&gt;&lt;li&gt;Bloco de Esquerda (GUE/NGL): 2–3 seats&lt;/li&gt;&lt;li&gt;CDS–Partido Popular (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;LIVRE (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Iniciativa Liberal (RE): 0 seats&lt;/li&gt;&lt;li&gt;Chega (ECR): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2019-09-25-Aximage-seats.png"
+        length="183714"
+        type="image/png"/>
+      <pubDate>Mon, 14 Oct 2019 22:51:33 +0200</pubDate>
+      <dc:date>2019-10-14T22:51:33.248526+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Aximage for Jornal Económico, 21–25 September 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2019-09-25-Aximage.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2019-09-25-Aximage-coalitions-seats.png"
+        length="122152"
+        type="image/png"/>
+      <pubDate>Mon, 14 Oct 2019 22:51:33 +0200</pubDate>
+      <dc:date>2019-10-14T22:51:33.248526+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Aximage for Jornal Económico, 21–25 September 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2019-09-25-Aximage.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Partido Social Democrata (EPP): 21.9–28.8%&lt;/li&gt;&lt;li&gt;Partido Socialista (S&amp;amp;D): 33.5–41.3%&lt;/li&gt;&lt;li&gt;Bloco de Esquerda (GUE/NGL): 8.7–13.8%&lt;/li&gt;&lt;li&gt;CDS–Partido Popular (EPP): 3.7–7.3%&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária (GUE/NGL): 5.1–9.1%&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza (Greens/EFA): 2.4–5.5%&lt;/li&gt;&lt;li&gt;LIVRE (Greens/EFA): 0.9–3.0%&lt;/li&gt;&lt;li&gt;Iniciativa Liberal (RE): 0.6–2.4%&lt;/li&gt;&lt;li&gt;Chega (ECR): 0.8–2.8%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2019-09-25-Aximage.png"
         length="250286"
         type="image/png"/>
-      <pubDate>Wed, 02 Oct 2019 09:59:34 +0200</pubDate>
-      <dc:date>2019-10-02T09:59:34.624686+02:00</dc:date>
+      <pubDate>Mon, 14 Oct 2019 22:51:33 +0200</pubDate>
+      <dc:date>2019-10-14T22:51:33.248526+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Pitagórica for Jornal de Notícias, 21–24 September 2019 – Seat Projections for the Parties</title>
@@ -649,6 +669,6 @@
       <pubDate>Sun, 30 Jun 2019 15:14:32 +0200</pubDate>
       <dc:date>2019-06-30T15:14:32.852257+02:00</dc:date>
     </item>
-    <dc:date>2019-10-14T19:04:17.018556+02:00</dc:date>
+    <dc:date>2019-10-14T22:51:33.248526+02:00</dc:date>
   </channel>
 </rss>
