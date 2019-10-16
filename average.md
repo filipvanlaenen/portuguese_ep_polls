@@ -272,9 +272,9 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 7 | 0.3% | 100% |  |
-| 8 | 21% | 99.7% | Last Result |
-| 9 | 69% | 79% | Median |
-| 10 | 10% | 10% |  |
+| 8 | 22% | 99.7% | Last Result |
+| 9 | 68% | 77% | Median |
+| 10 | 9% | 9% |  |
 | 11 | 0.1% | 0.1% | Majority |
 | 12 | 0% | 0% |  |
 
@@ -289,7 +289,7 @@ Only polls for which at least the sample size has been published are included in
 | 4 | 1.0% | 100% |  |
 | 5 | 30% | 99.0% |  |
 | 6 | 27% | 69% | Last Result, Median |
-| 7 | 40% | 41% |  |
+| 7 | 40% | 42% |  |
 | 8 | 2% | 2% |  |
 | 9 | 0% | 0% |  |
 
@@ -301,8 +301,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 7% | 100% |  |
-| 1 | 93% | 93% | Last Result, Median |
+| 0 | 8% | 100% |  |
+| 1 | 92% | 92% | Last Result, Median |
 | 2 | 0.6% | 0.6% |  |
 | 3 | 0% | 0% |  |
 
@@ -314,8 +314,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 75% | 100% | Median |
-| 2 | 25% | 25% |  |
+| 1 | 76% | 100% | Median |
+| 2 | 24% | 24% |  |
 | 3 | 0% | 0% | Last Result |
 
 ### Bloco de Esquerda (GUE/NGL)
@@ -326,8 +326,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 4% | 100% | Last Result |
-| 2 | 90% | 96% | Median |
+| 1 | 3% | 100% | Last Result |
+| 2 | 91% | 97% | Median |
 | 3 | 6% | 6% |  |
 | 4 | 0% | 0% |  |
 
@@ -407,9 +407,9 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 7 | 0.3% | 100% |  |
-| 8 | 21% | 99.7% | Last Result |
-| 9 | 69% | 79% | Median |
-| 10 | 10% | 10% |  |
+| 8 | 22% | 99.7% | Last Result |
+| 9 | 68% | 77% | Median |
+| 10 | 9% | 9% |  |
 | 11 | 0.1% | 0.1% | Majority |
 | 12 | 0% | 0% |  |
 
@@ -421,9 +421,9 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 1.2% | 100% |  |
 | 6 | 31% | 98.8% |  |
-| 7 | 32% | 68% | Last Result, Median |
-| 8 | 35% | 36% |  |
-| 9 | 1.4% | 1.4% |  |
+| 7 | 31% | 68% | Last Result, Median |
+| 8 | 36% | 37% |  |
+| 9 | 1.0% | 1.0% |  |
 | 10 | 0% | 0% |  |
 
 ### Coligação Democrática Unitária (GUE/NGL) – Bloco de Esquerda (GUE/NGL)
@@ -432,9 +432,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 1.4% | 100% |  |
-| 3 | 71% | 98.6% | Median |
-| 4 | 26% | 28% | Last Result |
+| 2 | 1.1% | 100% |  |
+| 3 | 72% | 98.9% | Median |
+| 4 | 26% | 27% | Last Result |
 | 5 | 1.1% | 1.1% |  |
 | 6 | 0% | 0% |  |
 
@@ -477,5 +477,5 @@ Only polls for which at least the sample size has been published are included in
 
 + **Number of polls included in this average:** 6
 + **Lowest number of simulations done in a poll included in this average:** 131,072
-+ **Total number of simulations done in the polls included in this average:** 2,621,440
-+ **Error estimate:** 2.76%
++ **Total number of simulations done in the polls included in this average:** 2,752,512
++ **Error estimate:** 2.65%
