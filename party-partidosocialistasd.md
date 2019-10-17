@@ -91,7 +91,7 @@ Last result: **8** seats (General Election of 26 May 2019)
 | [26–29 September 2019](2019-09-29-CESOP–UCP.html) | CESOP–UCP <br> Público and RTP | 9 | 9 | 9 | 9 | 8–9 |
 | [25–28 September 2019](2019-09-28-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 9 | 9–10 | 8–10 | 8–10 | 8–10 |
 | [24–27 September 2019](2019-09-27-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 9 | 8–10 | 8–10 | 8–10 | 8–10 |
-| [23–26 September 2019](2019-09-26-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 9 | 8–10 | 8–11 | 8–11 | 8–11 |
+| [23–26 September 2019](2019-09-26-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 9 | 8–10 | 8–10 | 8–10 | 8–11 |
 | [22–25 September 2019](2019-09-25-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 9 | 9–10 | 8–11 | 8–11 | 8–11 |
 | [21–25 September 2019](2019-09-25-Aximage.html) | Aximage <br> Jornal Económico | 9 | 8–10 | 8–10 | 8–10 | 8–11 |
 | [21–24 September 2019](2019-09-24-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 9 | 8–9 | 8–10 | 8–10 | 7–10 |
