@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/portuguese_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 17 Oct 2019 11:46:48 +0200</pubDate>
+    <pubDate>Thu, 17 Oct 2019 16:43:47 +0200</pubDate>
     <item>
       <title>Opinion Poll by Pitagórica for Jornal de Notícias, 30 September–3 October 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2019-10-03-Pitagórica.html#seats</link>
@@ -272,12 +272,12 @@
     <item>
       <title>Opinion Poll by Pitagórica for Jornal de Notícias, 23–26 September 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2019-09-26-Pitagórica.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Partido Social Democrata (EPP): 23.3–30.4%&lt;/li&gt;&lt;li&gt;Partido Socialista (S&amp;amp;D): 34.0–41.8%&lt;/li&gt;&lt;li&gt;Bloco de Esquerda (GUE/NGL): 8.0–12.8%&lt;/li&gt;&lt;li&gt;CDS–Partido Popular (EPP): 2.7–5.9%&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária (GUE/NGL): 3.7–7.3%&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza (Greens/EFA): 2.4–5.5%&lt;/li&gt;&lt;li&gt;LIVRE (Greens/EFA): 0.6–2.4%&lt;/li&gt;&lt;li&gt;Iniciativa Liberal (RE): 0.9–3.0%&lt;/li&gt;&lt;li&gt;Aliança (*): 0.3–1.7%&lt;/li&gt;&lt;li&gt;Chega (*): 0.6–2.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Social Democrata (EPP): 23.3–30.4%&lt;/li&gt;&lt;li&gt;Partido Socialista (S&amp;amp;D): 34.0–41.8%&lt;/li&gt;&lt;li&gt;Bloco de Esquerda (GUE/NGL): 8.0–12.8%&lt;/li&gt;&lt;li&gt;CDS–Partido Popular (EPP): 2.7–5.9%&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária (GUE/NGL): 3.7–7.3%&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza (Greens/EFA): 2.4–5.5%&lt;/li&gt;&lt;li&gt;LIVRE (Greens/EFA): 0.6–2.4%&lt;/li&gt;&lt;li&gt;Iniciativa Liberal (RE): 0.9–3.0%&lt;/li&gt;&lt;li&gt;Aliança (*): 0.3–1.7%&lt;/li&gt;&lt;li&gt;Chega (ECR): 0.6–2.4%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2019-09-26-Pitagórica.png"
-        length="262002"
+        length="262356"
         type="image/png"/>
-      <pubDate>Tue, 01 Oct 2019 07:52:14 +0200</pubDate>
-      <dc:date>2019-10-01T07:52:14.647063+02:00</dc:date>
+      <pubDate>Thu, 17 Oct 2019 16:43:47 +0200</pubDate>
+      <dc:date>2019-10-17T16:43:47.409678+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Pitagórica for Jornal de Notícias, 22–25 September 2019 – Voting Intentions</title>
@@ -709,6 +709,6 @@
       <pubDate>Sun, 30 Jun 2019 15:14:32 +0200</pubDate>
       <dc:date>2019-06-30T15:14:32.852257+02:00</dc:date>
     </item>
-    <dc:date>2019-10-17T11:46:48.844516+02:00</dc:date>
+    <dc:date>2019-10-17T16:43:47.409678+02:00</dc:date>
   </channel>
 </rss>
