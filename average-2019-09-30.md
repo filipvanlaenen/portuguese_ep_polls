@@ -423,7 +423,7 @@ Only polls for which at least the sample size has been published are included in
 | 6 | 31% | 98.8% |  |
 | 7 | 31% | 68% | Last Result, Median |
 | 8 | 36% | 37% |  |
-| 9 | 1.4% | 1.4% |  |
+| 9 | 1.3% | 1.3% |  |
 | 10 | 0% | 0% |  |
 
 ### Coligação Democrática Unitária (GUE/NGL) – Bloco de Esquerda (GUE/NGL)
@@ -477,5 +477,5 @@ Only polls for which at least the sample size has been published are included in
 
 + **Number of polls included in this average:** 6
 + **Lowest number of simulations done in a poll included in this average:** 131,072
-+ **Total number of simulations done in the polls included in this average:** 3,538,944
++ **Total number of simulations done in the polls included in this average:** 4,456,448
 + **Error estimate:** 2.65%
