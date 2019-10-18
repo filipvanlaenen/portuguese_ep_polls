@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/portuguese_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 18 Oct 2019 10:42:31 +0200</pubDate>
+    <pubDate>Fri, 18 Oct 2019 20:52:47 +0200</pubDate>
     <item>
       <title>Opinion Poll by Pitagórica for Jornal de Notícias, 30 September–3 October 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2019-10-03-Pitagórica.html#seats</link>
@@ -126,8 +126,8 @@
       <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2019-10-01-Eurosondagem.png"
         length="180807"
         type="image/png"/>
-      <pubDate>Fri, 04 Oct 2019 23:54:59 +0200</pubDate>
-      <dc:date>2019-10-04T23:54:59.39393+02:00</dc:date>
+      <pubDate>Fri, 18 Oct 2019 20:52:47 +0200</pubDate>
+      <dc:date>2019-10-18T20:52:47.116493+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Pitagórica for Jornal de Notícias, 27–30 September 2019 – Seat Projections for the Parties</title>
@@ -220,14 +220,34 @@
       <dc:date>2019-10-08T21:32:21.055461+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by CESOP–UCP for Público and RTP, 26–29 September 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2019-09-29-CESOP–UCP.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Social Democrata (EPP): 7 seats&lt;/li&gt;&lt;li&gt;Partido Socialista (S&amp;amp;D): 9 seats&lt;/li&gt;&lt;li&gt;Bloco de Esquerda (GUE/NGL): 2 seats&lt;/li&gt;&lt;li&gt;CDS–Partido Popular (EPP): 1 seats&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária (GUE/NGL): 1 seats&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;LIVRE (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Iniciativa Liberal (RE): 0 seats&lt;/li&gt;&lt;li&gt;Aliança (*): 0 seats&lt;/li&gt;&lt;li&gt;Chega (ECR): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2019-09-29-CESOP–UCP-seats.png"
+        length="141833"
+        type="image/png"/>
+      <pubDate>Fri, 18 Oct 2019 19:03:51 +0200</pubDate>
+      <dc:date>2019-10-18T19:03:51.828764+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by CESOP–UCP for Público and RTP, 26–29 September 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2019-09-29-CESOP–UCP.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2019-09-29-CESOP–UCP-coalitions-seats.png"
+        length="72100"
+        type="image/png"/>
+      <pubDate>Fri, 18 Oct 2019 19:03:51 +0200</pubDate>
+      <dc:date>2019-10-18T19:03:51.828764+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by CESOP–UCP for Público and RTP, 26–29 September 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2019-09-29-CESOP–UCP.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Partido Social Democrata (EPP): 28.1–31.3%&lt;/li&gt;&lt;li&gt;Partido Socialista (S&amp;amp;D): 35.0–38.3%&lt;/li&gt;&lt;li&gt;Bloco de Esquerda (GUE/NGL): 8.9–11.0%&lt;/li&gt;&lt;li&gt;CDS–Partido Popular (EPP): 4.3–5.8%&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária (GUE/NGL): 5.2–6.8%&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza (Greens/EFA): 2.4–3.6%&lt;/li&gt;&lt;li&gt;LIVRE (Greens/EFA): 0.7–1.4%&lt;/li&gt;&lt;li&gt;Iniciativa Liberal (RE): 0.7–1.4%&lt;/li&gt;&lt;li&gt;Aliança (*): 0.7–1.4%&lt;/li&gt;&lt;li&gt;Chega (ECR): 0.7–1.4%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2019-09-29-CESOP–UCP.png"
         length="225036"
         type="image/png"/>
-      <pubDate>Wed, 02 Oct 2019 09:51:41 +0200</pubDate>
-      <dc:date>2019-10-02T09:51:41.959897+02:00</dc:date>
+      <pubDate>Fri, 18 Oct 2019 19:03:51 +0200</pubDate>
+      <dc:date>2019-10-18T19:03:51.828764+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Pitagórica for Jornal de Notícias, 25–28 September 2019 – Seat Projections for the Parties</title>
@@ -789,6 +809,6 @@
       <pubDate>Sun, 30 Jun 2019 15:14:32 +0200</pubDate>
       <dc:date>2019-06-30T15:14:32.852257+02:00</dc:date>
     </item>
-    <dc:date>2019-10-18T10:42:31.203044+02:00</dc:date>
+    <dc:date>2019-10-18T20:52:47.116493+02:00</dc:date>
   </channel>
 </rss>
