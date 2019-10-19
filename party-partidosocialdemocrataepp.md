@@ -102,7 +102,7 @@ Last result: **6** seats (General Election of 26 May 2019)
 | [17–20 September 2019](2019-09-20-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 6 | 6–7 | 5–7 | 5–7 | 5–7 |
 | [9–12 September 2019](2019-09-12-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 5 | 5–6 | 5–6 | 4–6 | 4–7 |
 | [7–12 September 2019](2019-09-12-Eurosondagem.html) | Eurosondagem | 5 | 5 | 5–6 | 5–6 | 5–6 |
-| [2–11 September 2019](2019-09-11-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 5 | 5–6 | 4–6 | 4–6 | 4–6 |
+| [2–11 September 2019](2019-09-11-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 5 | 5–6 | 5–6 | 4–6 | 4–6 |
 | [1–8 September 2019](2019-09-08-Aximage.html) | Aximage | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [24 August–5 September 2019](2019-09-05-GfKMetris.html) | GfK Metris <br> Expresso and SIC Notícias | 5 | 5 | 5–6 | 5–6 | 4–6 |
 | [1–5 September 2019](2019-09-05-Eurosondagem.html) | Eurosondagem <br> Associação Mutualista Montepio | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
@@ -123,9 +123,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 1.0% | 100% |  |
-| 5 | 30% | 99.0% |  |
-| 6 | 28% | 69% | Last Result, Median |
+| 4 | 0.7% | 100% |  |
+| 5 | 31% | 99.3% |  |
+| 6 | 28% | 68% | Last Result, Median |
 | 7 | 38% | 40% |  |
 | 8 | 2% | 2% |  |
 | 9 | 0% | 0% |  |
