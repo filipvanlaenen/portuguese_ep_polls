@@ -5,8 +5,8 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | PS | PSD | CDS–PP | CDU | BE | PAN | L | IL | A | CH |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 31.5% <br> 8 | 27.7% <br> 6 | 27.7% <br> 1 | 12.7% <br> 3 | 4.6% <br> 1 | 1.7% <br> 0 | 0.7% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 35–41% <br> 8–10 | 24–31% <br> 5–7 | 4–6% <br> 0–1 | 5–8% <br> 1–2 | 8–12% <br> 1–3 | 2–6% <br> 0–1 | 0–2% <br> 0 | 0–2% <br> 0 | 0–2% <br> 0 | 0–3% <br> 0 |
-| [22–28 October 2019](2019-10-28-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| N/A | [Poll Average](average.html) | 34–41% <br> 8–10 | 24–31% <br> 5–7 | 4–6% <br> 0–1 | 5–9% <br> 1–2 | 8–13% <br> 2–3 | 2–7% <br> 0–1 | 0–4% <br> 0–1 | 0–2% <br> 0 | 0–2% <br> 0 | 0–4% <br> 0 |
+| [22–28 October 2019](2019-10-28-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 33–41% <br> 8–10 | 22–29% <br> 5–7 | 3–7% <br> 0–1 | 5–9% <br> 1–2 | 9–14% <br> 2–3 | 4–8% <br> 0–1 | 2–4% <br> 0–1 | 0–2% <br> 0 | N/A <br> N/A | 2–4% <br> 0–1 |
 | [30 September–3 October 2019](2019-10-03-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 33–41% <br> 8–10 | 24–31% <br> 5–8 | 3–7% <br> 0–1 | 5–9% <br> 1–2 | 7–12% <br> 1–3 | 3–7% <br> 0–1 | 0–2% <br> 0 | 0–2% <br> 0 | 1–2% <br> 0 | 1–3% <br> 0 |
 | [26 September–2 October 2019](2019-10-02-Aximage.html) | Aximage <br> Jornal Económico | 34–39% <br> 8–10 | 25–29% <br> 6–7 | 4–6% <br> 1 | 6–8% <br> 1 | 9–12% <br> 2–3 | 3–5% <br> 0–1 | 1–2% <br> 0 | 1–2% <br> 0 | N/A <br> N/A | 1–2% <br> 0 |
 | [25 September–1 October 2019](2019-10-01-Eurosondagem.html) | Eurosondagem <br> Porto Canal | 37–41% <br> 8–10 | 24–27% <br> 5–6 | 4–6% <br> 1 | 6–8% <br> 1 | 8–11% <br> 2 | 3–5% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
