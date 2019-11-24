@@ -10,8 +10,8 @@ Last result: **12.7%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.5% | 5.6–7.6% | 5.4–7.9% | 5.2–8.2% | 4.7–9.0% |
-| [22–28 October 2019](2019-10-28-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 7.1% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 6.6% | 5.6–7.8% | 5.4–8.2% | 5.2–8.6% | 4.7–9.5% |
+| [22–28 October 2019](2019-10-28-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 7.1% | 5.9–8.6% | 5.6–9.1% | 5.3–9.5% | 4.8–10.2% |
 | [30 September–3 October 2019](2019-10-03-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 6.7% | 5.5–8.2% | 5.2–8.6% | 4.9–9.0% | 4.4–9.7% |
 | [29 September–2 October 2019](2019-10-02-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 6.7% | 5.5–8.2% | 5.2–8.6% | 4.9–9.0% | 4.4–9.7% |
 | [26 September–2 October 2019](2019-10-02-Aximage.html) | Aximage <br> Jornal Económico | 6.6% | 5.9–7.3% | 5.8–7.5% | 5.6–7.7% | 5.3–8.1% |
@@ -55,13 +55,13 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0.2% | 100% |  |
-| 4.5–5.5% | 9% | 99.8% |  |
-| 5.5–6.5% | 44% | 91% | Median |
-| 6.5–7.5% | 36% | 47% |  |
-| 7.5–8.5% | 9% | 11% |  |
-| 8.5–9.5% | 1.1% | 1.2% |  |
-| 9.5–10.5% | 0.1% | 0.1% |  |
-| 10.5–11.5% | 0% | 0% |  |
+| 4.5–5.5% | 8% | 99.8% |  |
+| 5.5–6.5% | 41% | 92% |  |
+| 6.5–7.5% | 36% | 51% | Median |
+| 7.5–8.5% | 12% | 15% |  |
+| 8.5–9.5% | 2% | 3% |  |
+| 9.5–10.5% | 0.4% | 0.5% |  |
+| 10.5–11.5% | 0% | 0.1% |  |
 | 11.5–12.5% | 0% | 0% |  |
 | 12.5–13.5% | 0% | 0% | Last Result |
 
@@ -74,8 +74,8 @@ Last result: **3** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1 | 1 | 1–2 | 1–2 |
-| [22–28 October 2019](2019-10-28-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| [22–28 October 2019](2019-10-28-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [30 September–3 October 2019](2019-10-03-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [29 September–2 October 2019](2019-10-02-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [26 September–2 October 2019](2019-10-02-Aximage.html) | Aximage <br> Jornal Económico | 1 | 1 | 1 | 1 | 1–2 |
@@ -119,8 +119,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 97% | 100% | Median |
-| 2 | 3% | 3% |  |
+| 1 | 93% | 100% | Median |
+| 2 | 7% | 7% |  |
 | 3 | 0% | 0% | Last Result |
 
 
