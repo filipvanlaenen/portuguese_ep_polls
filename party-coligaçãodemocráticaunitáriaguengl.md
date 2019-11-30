@@ -78,7 +78,7 @@ Last result: **3** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [17–21 November 2019](2019-11-21-Eurosondagem.html) | Eurosondagem | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [8–11 November 2019](2019-11-11-Aximage.html) | Aximage | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [8–11 November 2019](2019-11-11-Aximage.html) | Aximage | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [22–28 October 2019](2019-10-28-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [30 September–3 October 2019](2019-10-03-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [29 September–2 October 2019](2019-10-02-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
