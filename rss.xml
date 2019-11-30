@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/portuguese_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 29 Nov 2019 06:50:14 +0100</pubDate>
+    <pubDate>Sat, 30 Nov 2019 13:23:49 +0100</pubDate>
     <item>
       <title>Opinion Poll by Eurosondagem, 17–21 November 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2019-11-21-Eurosondagem.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2019-11-21-Eurosondagem.png"
         length="191084"
         type="image/png"/>
-      <pubDate>Fri, 29 Nov 2019 06:45:53 +0100</pubDate>
-      <dc:date>2019-11-29T06:45:53.898555+01:00</dc:date>
+      <pubDate>Fri, 29 Nov 2019 23:32:38 +0100</pubDate>
+      <dc:date>2019-11-29T23:32:38.749598+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Aximage, 8–11 November 2019 – Voting Intentions</title>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2019-11-11-Aximage.png"
         length="248780"
         type="image/png"/>
-      <pubDate>Fri, 29 Nov 2019 06:50:14 +0100</pubDate>
-      <dc:date>2019-11-29T06:50:14.472147+01:00</dc:date>
+      <pubDate>Fri, 29 Nov 2019 23:43:35 +0100</pubDate>
+      <dc:date>2019-11-29T23:43:35.096786+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Intercampus for Correio da Manhã and Negócios, 22–28 October 2019 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2019-10-28-Intercampus.png"
         length="254309"
         type="image/png"/>
-      <pubDate>Sun, 24 Nov 2019 11:43:20 +0100</pubDate>
-      <dc:date>2019-11-24T11:43:20.773396+01:00</dc:date>
+      <pubDate>Sat, 30 Nov 2019 13:23:49 +0100</pubDate>
+      <dc:date>2019-11-30T13:23:49.89186+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Pitagórica for Jornal de Notícias, 30 September–3 October 2019 – Seat Projections for the Parties</title>
@@ -939,6 +939,6 @@
       <pubDate>Sun, 30 Jun 2019 15:14:32 +0200</pubDate>
       <dc:date>2019-06-30T15:14:32.852257+02:00</dc:date>
     </item>
-    <dc:date>2019-11-29T06:50:14.472147+01:00</dc:date>
+    <dc:date>2019-11-30T13:23:49.89186+01:00</dc:date>
   </channel>
 </rss>
