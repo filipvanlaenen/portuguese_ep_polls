@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/portuguese_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 30 Nov 2019 13:23:49 +0100</pubDate>
+    <pubDate>Fri, 06 Dec 2019 16:37:09 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Intercampus for Correio da Manhã and Negócios, 20–26 November 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2019-11-26-Intercampus.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Social Democrata (EPP): 5–7 seats&lt;/li&gt;&lt;li&gt;Partido Socialista (S&amp;amp;D): 8–10 seats&lt;/li&gt;&lt;li&gt;Bloco de Esquerda (GUE/NGL): 2–3 seats&lt;/li&gt;&lt;li&gt;CDS–Partido Popular (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;LIVRE (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Iniciativa Liberal (RE): 0–1 seats&lt;/li&gt;&lt;li&gt;Chega (ECR): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2019-11-26-Intercampus-seats.png"
+        length="214432"
+        type="image/png"/>
+      <pubDate>Fri, 06 Dec 2019 16:37:09 +0100</pubDate>
+      <dc:date>2019-12-06T16:37:09.438443+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Intercampus for Correio da Manhã and Negócios, 20–26 November 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2019-11-26-Intercampus.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2019-11-26-Intercampus-coalitions-seats.png"
+        length="162280"
+        type="image/png"/>
+      <pubDate>Fri, 06 Dec 2019 16:37:09 +0100</pubDate>
+      <dc:date>2019-12-06T16:37:09.438443+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Intercampus for Correio da Manhã and Negócios, 20–26 November 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2019-11-26-Intercampus.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Social Democrata (EPP): 21.6–28.4%&lt;/li&gt;&lt;li&gt;Partido Socialista (S&amp;amp;D): 31.2–38.8%&lt;/li&gt;&lt;li&gt;Bloco de Esquerda (GUE/NGL): 8.5–13.5%&lt;/li&gt;&lt;li&gt;CDS–Partido Popular (EPP): 1.9–4.7%&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária (GUE/NGL): 6.2–10.6%&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza (Greens/EFA): 3.4–6.8%&lt;/li&gt;&lt;li&gt;LIVRE (Greens/EFA): 1.6–4.3%&lt;/li&gt;&lt;li&gt;Iniciativa Liberal (RE): 1.9–4.7%&lt;/li&gt;&lt;li&gt;Chega (ECR): 3.4–6.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2019-11-26-Intercampus.png"
+        length="255807"
+        type="image/png"/>
+      <pubDate>Fri, 06 Dec 2019 16:37:09 +0100</pubDate>
+      <dc:date>2019-12-06T16:37:09.438443+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Eurosondagem, 17–21 November 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2019-11-21-Eurosondagem.html</link>
@@ -939,6 +969,6 @@
       <pubDate>Sun, 30 Jun 2019 15:14:32 +0200</pubDate>
       <dc:date>2019-06-30T15:14:32.852257+02:00</dc:date>
     </item>
-    <dc:date>2019-11-30T13:23:49.89186+01:00</dc:date>
+    <dc:date>2019-12-06T16:37:09.438443+01:00</dc:date>
   </channel>
 </rss>
