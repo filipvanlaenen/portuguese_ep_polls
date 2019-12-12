@@ -46,8 +46,8 @@
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 7 | 0.4% | 100% |  |
 | 8 | 41% | 99.6% | Last Result |
-| 9 | 55% | 59% | Median |
-| 10 | 4% | 4% |  |
+| 9 | 54% | 58% | Median |
+| 10 | 4% | 5% |  |
 | 11 | 0% | 0% | Majority |
 
 ### Partido Social Democrata (EPP)
@@ -59,8 +59,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 3% | 100% |  |
-| 6 | 71% | 97% | Last Result, Median |
-| 7 | 26% | 26% |  |
+| 6 | 70% | 97% | Last Result, Median |
+| 7 | 27% | 27% |  |
 | 8 | 0.1% | 0.1% |  |
 | 9 | 0% | 0% |  |
 
@@ -134,8 +134,8 @@
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 7 | 0.4% | 100% |  |
 | 8 | 41% | 99.6% | Last Result |
-| 9 | 55% | 59% | Median |
-| 10 | 4% | 4% |  |
+| 9 | 54% | 58% | Median |
+| 10 | 4% | 5% |  |
 | 11 | 0% | 0% | Majority |
 
 ### Partido Social Democrata (EPP) – CDS–Partido Popular (EPP)
@@ -145,9 +145,9 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 0.7% | 100% |  |
-| 6 | 34% | 99.3% | Median |
-| 7 | 57% | 65% | Last Result |
-| 8 | 8% | 8% |  |
+| 6 | 35% | 99.3% | Median |
+| 7 | 56% | 64% | Last Result |
+| 8 | 9% | 9% |  |
 | 9 | 0% | 0% |  |
 
 ### Bloco de Esquerda (GUE/NGL) – Coligação Democrática Unitária (GUE/NGL)
@@ -174,6 +174,6 @@
 ### Calculations
 
 + **Sample size:** 1011
-+ **Simulations done:** 524,288
-+ **Error estimate:** 1.62%
++ **Simulations done:** 1,048,576
++ **Error estimate:** 1.59%
 
