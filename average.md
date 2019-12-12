@@ -293,8 +293,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 56% | 100% | Median |
-| 1 | 43% | 44% | Last Result |
+| 0 | 57% | 100% | Median |
+| 1 | 43% | 43% | Last Result |
 | 2 | 0% | 0% |  |
 
 ### Coligação Democrática Unitária (GUE/NGL)
@@ -410,8 +410,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 4% | 100% |  |
-| 6 | 36% | 96% | Median |
-| 7 | 47% | 60% | Last Result |
+| 6 | 37% | 96% | Median |
+| 7 | 46% | 60% | Last Result |
 | 8 | 13% | 13% |  |
 | 9 | 0.2% | 0.2% |  |
 | 10 | 0% | 0% |  |
@@ -465,5 +465,5 @@ Only polls for which at least the sample size has been published are included in
 
 + **Number of polls included in this average:** 3
 + **Lowest number of simulations done in a poll included in this average:** 524,288
-+ **Total number of simulations done in the polls included in this average:** 2,097,152
++ **Total number of simulations done in the polls included in this average:** 2,621,440
 + **Error estimate:** 1.87%
