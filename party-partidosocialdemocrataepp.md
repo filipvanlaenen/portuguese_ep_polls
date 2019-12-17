@@ -11,6 +11,7 @@ Last result: **27.7%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 26.5% | 23.8–28.8% | 23.0–29.5% | 22.4–30.0% | 21.2–31.2% |
+| [8–12 December 2019](2019-12-12-Eurosondagem.html) | Eurosondagem | 26.9% | N/A | N/A | N/A | N/A |
 | [20–26 November 2019](2019-11-26-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 24.8% | 22.7–27.2% | 22.1–27.9% | 21.6–28.4% | 20.5–29.6% |
 | [17–21 November 2019](2019-11-21-Eurosondagem.html) | Eurosondagem | 27.1% | 25.4–29.0% | 24.9–29.5% | 24.4–29.9% | 23.6–30.8% |
 | [8–11 November 2019](2019-11-11-Aximage.html) | Aximage | 27.1% | 24.9–29.4% | 24.3–30.1% | 23.8–30.7% | 22.8–31.8% |
@@ -83,6 +84,7 @@ Last result: **6** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6 | 6–7 | 5–7 | 5–7 | 5–8 |
+| [8–12 December 2019](2019-12-12-Eurosondagem.html) | Eurosondagem |  |  |  |  |  |
 | [20–26 November 2019](2019-11-26-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
 | [17–21 November 2019](2019-11-21-Eurosondagem.html) | Eurosondagem | 6 | 6–7 | 6–7 | 5–7 | 5–7 |
 | [8–11 November 2019](2019-11-11-Aximage.html) | Aximage | 7 | 6–7 | 6–7 | 6–8 | 5–8 |
