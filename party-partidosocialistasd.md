@@ -43,7 +43,7 @@ Last result: **31.5%** (General Election of 26 May 2019)
 | [1–8 September 2019](2019-09-08-Aximage.html) | Aximage | 38.4% | 36.4–40.4% | 35.9–41.0% | 35.4–41.5% | 34.5–42.4% |
 | [24 August–5 September 2019](2019-09-05-GfKMetris.html) | GfK Metris <br> Expresso and SIC Notícias | 41.6% | 39.4–43.8% | 38.7–44.5% | 38.2–45.0% | 37.2–46.1% |
 | [1–5 September 2019](2019-09-05-Eurosondagem.html) | Eurosondagem <br> Associação Mutualista Montepio | 38.1% | 36.1–40.0% | 35.6–40.6% | 35.1–41.1% | 34.2–42.0% |
-| [12–24 August 2019](2019-08-24-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 43.6% | 42.0–45.3% | 41.5–45.7% | 41.1–46.1% | 40.4–46.9% |
+| [12–24 August 2019](2019-08-24-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 43.6% | 42.0–45.3% | 41.2–46.1% | 40.7–46.5% | 40.3–46.9% |
 | [18–28 July 2019](2019-07-28-Multidados.html) | Multidados <br> TVI | 35.5% | 33.4–37.7% | 32.8–38.3% | 32.3–38.9% | 31.2–40.0% |
 | [12–15 July 2019](2019-07-15-Aximage.html) | Aximage <br> Correio da Manhã and Negócios | 37.4% | 34.9–40.0% | 34.3–40.8% | 33.7–41.4% | 32.5–42.6% |
 | [8–14 July 2019](2019-07-14-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 43.2% | 41.0–45.5% | 40.4–46.2% | 39.9–46.7% | 38.8–47.8% |
