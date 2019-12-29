@@ -12,7 +12,7 @@ The table below lists the polls on which the average is based. They are the most
 | N/A | Poll Average | 32–40% <br> 8–10 | 22–30% <br> 5–7 | 2–6% <br> 0–1 | 5–10% <br> 1–2 | 8–13% <br> 2–3 | 2–6% <br> 0–1 | 0–4% <br> 0–1 | 1–4% <br> 0–1 | N/A <br> N/A | 2–6% <br> 0–1 |
 | [20–26 November 2019](2019-11-26-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 31–39% <br> 8–10 | 22–28% <br> 5–7 | 2–5% <br> 0–1 | 6–11% <br> 1–2 | 9–13% <br> 2–3 | 3–7% <br> 0–1 | 2–4% <br> 0–1 | 2–5% <br> 0–1 | N/A <br> N/A | 3–7% <br> 0–1 |
 | [17–21 November 2019](2019-11-21-Eurosondagem.html) | Eurosondagem | 34–40% <br> 8–10 | 24–30% <br> 5–7 | 3–5% <br> 0–1 | 6–9% <br> 1–2 | 8–12% <br> 2–3 | 2–5% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [8–11 November 2019](2019-11-11-Aximage.html) | Aximage | 34–41% <br> 8–10 | 24–31% <br> 6–8 | 3–6% <br> 0–1 | 5–8% <br> 1–2 | 8–13% <br> 2–3 | 2–5% <br> 0–1 | 0–2% <br> 0 | 1–2% <br> 0 | N/A <br> N/A | 2–5% <br> 0–1 |
+| [8–11 November 2019](2019-11-11-Aximage.html) | Aximage | 34–41% <br> 8–10 | 24–31% <br> 6–7 | 3–6% <br> 0–1 | 5–8% <br> 1–2 | 8–13% <br> 2–3 | 2–5% <br> 0–1 | 0–2% <br> 0 | 1–2% <br> 0 | N/A <br> N/A | 2–5% <br> 0–1 |
 | 26 May 2019 | General Election | 31.5% <br> 8 | 27.7% <br> 6 | 27.7% <br> 1 | 12.7% <br> 3 | 4.6% <br> 1 | 1.7% <br> 0 | 0.7% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
@@ -266,9 +266,9 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 7 | 0.9% | 100% |  |
 | 8 | 31% | 99.1% | Last Result |
-| 9 | 56% | 68% | Median |
-| 10 | 12% | 12% |  |
-| 11 | 0.2% | 0.2% | Majority |
+| 9 | 55% | 68% | Median |
+| 10 | 13% | 13% |  |
+| 11 | 0.3% | 0.3% | Majority |
 | 12 | 0% | 0% |  |
 
 ### Partido Social Democrata (EPP)
@@ -280,9 +280,9 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 6% | 100% |  |
-| 6 | 63% | 94% | Last Result, Median |
-| 7 | 30% | 31% |  |
-| 8 | 1.0% | 1.0% |  |
+| 6 | 62% | 94% | Last Result, Median |
+| 7 | 31% | 32% |  |
+| 8 | 0.9% | 0.9% |  |
 | 9 | 0% | 0% |  |
 
 ### CDS–Partido Popular (EPP)
@@ -293,8 +293,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 57% | 100% | Median |
-| 1 | 43% | 43% | Last Result |
+| 0 | 58% | 100% | Median |
+| 1 | 42% | 42% | Last Result |
 | 2 | 0% | 0% |  |
 
 ### Coligação Democrática Unitária (GUE/NGL)
@@ -307,7 +307,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.1% | 100% |  |
 | 1 | 70% | 99.9% | Median |
-| 2 | 29% | 30% |  |
+| 2 | 30% | 30% |  |
 | 3 | 0.2% | 0.2% | Last Result |
 | 4 | 0% | 0% |  |
 
@@ -319,8 +319,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 0.7% | 100% | Last Result |
-| 2 | 82% | 99.3% | Median |
+| 1 | 0.8% | 100% | Last Result |
+| 2 | 82% | 99.2% | Median |
 | 3 | 17% | 17% |  |
 | 4 | 0% | 0% |  |
 
@@ -383,7 +383,7 @@ Only polls for which at least the sample size has been published are included in
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Partido Socialista (S&D) | 8 | 9 | 0.2% | 8–10 | 8–10 | 8–10 | 7–10 |
+| Partido Socialista (S&D) | 8 | 9 | 0.3% | 8–10 | 8–10 | 8–10 | 7–10 |
 | CDS–Partido Popular (EPP) – Partido Social Democrata (EPP) | 7 | 7 | 0% | 6–8 | 6–8 | 5–8 | 5–8 |
 | Coligação Democrática Unitária (GUE/NGL) – Bloco de Esquerda (GUE/NGL) | 4 | 3 | 0% | 3–4 | 3–5 | 3–5 | 2–5 |
 | Aliança (RE) – Iniciativa Liberal (RE) | 0 | 0 | 0% | 0 | 0–1 | 0–1 | 0–1 |
@@ -398,9 +398,9 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 7 | 0.9% | 100% |  |
 | 8 | 31% | 99.1% | Last Result |
-| 9 | 56% | 68% | Median |
-| 10 | 12% | 12% |  |
-| 11 | 0.2% | 0.2% | Majority |
+| 9 | 55% | 68% | Median |
+| 10 | 13% | 13% |  |
+| 11 | 0.3% | 0.3% | Majority |
 | 12 | 0% | 0% |  |
 
 ### CDS–Partido Popular (EPP) – Partido Social Democrata (EPP)
@@ -411,7 +411,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 4% | 100% |  |
 | 6 | 37% | 96% | Median |
-| 7 | 46% | 60% | Last Result |
+| 7 | 46% | 59% | Last Result |
 | 8 | 13% | 13% |  |
 | 9 | 0.2% | 0.2% |  |
 | 10 | 0% | 0% |  |
@@ -422,8 +422,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 0.5% | 100% |  |
-| 3 | 59% | 99.5% | Median |
+| 2 | 0.6% | 100% |  |
+| 3 | 59% | 99.4% | Median |
 | 4 | 35% | 41% | Last Result |
 | 5 | 6% | 6% |  |
 | 6 | 0% | 0% |  |
@@ -464,6 +464,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 3
-+ **Lowest number of simulations done in a poll included in this average:** 524,288
-+ **Total number of simulations done in the polls included in this average:** 2,621,440
-+ **Error estimate:** 1.87%
++ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Total number of simulations done in the polls included in this average:** 3,145,728
++ **Error estimate:** 2.07%
