@@ -124,7 +124,7 @@ Last result: **8** seats (General Election of 26 May 2019)
 | [12–15 July 2019](2019-07-15-Aximage.html) | Aximage <br> Correio da Manhã and Negócios | 9 | 8–9 | 8–9 | 8–10 | 7–10 |
 | [8–14 July 2019](2019-07-14-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 10 | 10–11 | 9–11 | 9–11 | 9–12 |
 | [7–11 July 2019](2019-07-11-Eurosondagem.html) | Eurosondagem <br> Associação Mutualista Montepio | 9 | 8–9 | 8–10 | 8–10 | 8–10 |
-| [15–27 June 2019](2019-06-27-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 9 | 8–9 | 8–9 | 8–10 | 8–10 |
+| [15–27 June 2019](2019-06-27-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 9 | 8–9 | 8–10 | 8–10 | 8–10 |
 | [13–19 June 2019](2019-06-19-Aximage.html) | Aximage <br> Correio da Manhã and Negócios | 8 | 8–9 | 7–9 | 7–9 | 7–10 |
 | [2–6 June 2019](2019-06-06-Eurosondagem.html) | Eurosondagem | 9 | 8–9 | 8–9 | 8–10 | 8–10 |
 
