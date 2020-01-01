@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/portuguese_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Tue, 31 Dec 2019 15:03:32 +0100</pubDate>
+    <pubDate>Wed, 01 Jan 2020 21:00:08 +0100</pubDate>
     <item>
       <title>Opinion Poll by Intercampus for Correio da Manhã and Negócios, 12–17 December 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2019-12-17-Intercampus.html#seats</link>
@@ -774,10 +774,10 @@
       <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2019-09-12-Pitagórica.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Partido Social Democrata (EPP): 20.1–26.8%&lt;/li&gt;&lt;li&gt;Partido Socialista (S&amp;amp;D): 35.4–43.1%&lt;/li&gt;&lt;li&gt;Bloco de Esquerda (GUE/NGL): 7.9–12.7%&lt;/li&gt;&lt;li&gt;CDS–Partido Popular (EPP): 4.1–7.8%&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária (GUE/NGL): 5.9–10.2%&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza (Greens/EFA): 2.0–4.9%&lt;/li&gt;&lt;li&gt;LIVRE (Greens/EFA): 0.4–1.9%&lt;/li&gt;&lt;li&gt;Aliança (RE): 0.8–2.8%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2019-09-12-Pitagórica.png"
-        length="230803"
+        length="231139"
         type="image/png"/>
-      <pubDate>Sat, 05 Oct 2019 00:01:45 +0200</pubDate>
-      <dc:date>2019-10-05T00:01:45.21238+02:00</dc:date>
+      <pubDate>Wed, 01 Jan 2020 21:00:08 +0100</pubDate>
+      <dc:date>2020-01-01T21:00:08.457109+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Eurosondagem, 7–12 September 2019 – Seat Projections for the Parties</title>
@@ -1109,6 +1109,6 @@
       <pubDate>Sun, 30 Jun 2019 15:14:32 +0200</pubDate>
       <dc:date>2019-06-30T15:14:32.852257+02:00</dc:date>
     </item>
-    <dc:date>2019-12-31T15:03:32.333422+01:00</dc:date>
+    <dc:date>2020-01-01T21:00:08.457109+01:00</dc:date>
   </channel>
 </rss>
