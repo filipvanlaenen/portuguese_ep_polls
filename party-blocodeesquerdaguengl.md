@@ -111,7 +111,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [7–12 September 2019](2019-09-12-Eurosondagem.html) | Eurosondagem | 2 | 2 | 2 | 2 | 1–2 |
 | [2–11 September 2019](2019-09-11-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 2 | 2 | 1–2 | 1–2 | 1–3 |
 | [1–8 September 2019](2019-09-08-Aximage.html) | Aximage | 2 | 2 | 2 | 2 | 1–3 |
-| [24 August–5 September 2019](2019-09-05-GfKMetris.html) | GfK Metris <br> Expresso and SIC Notícias | 2 | 2 | 2 | 1–2 | 1–2 |
+| [24 August–5 September 2019](2019-09-05-GfKMetris.html) | GfK Metris <br> Expresso and SIC Notícias | 2 | 2 | 1–2 | 1–2 | 1–3 |
 | [1–5 September 2019](2019-09-05-Eurosondagem.html) | Eurosondagem <br> Associação Mutualista Montepio | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [12–24 August 2019](2019-08-24-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 2 | 2 | 2 | 2–3 | 2–3 |
 | [18–28 July 2019](2019-07-28-Multidados.html) | Multidados <br> TVI | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
