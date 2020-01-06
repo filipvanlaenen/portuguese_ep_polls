@@ -115,7 +115,7 @@ Last result: **3** seats (General Election of 26 May 2019)
 | [12–24 August 2019](2019-08-24-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 1 | 1 | 1 | 1–2 | 1–2 |
 | [18–28 July 2019](2019-07-28-Multidados.html) | Multidados <br> TVI | 1 | 1 | 1 | 1 | 0–1 |
 | [12–15 July 2019](2019-07-15-Aximage.html) | Aximage <br> Correio da Manhã and Negócios | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [8–14 July 2019](2019-07-14-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| [8–14 July 2019](2019-07-14-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [7–11 July 2019](2019-07-11-Eurosondagem.html) | Eurosondagem <br> Associação Mutualista Montepio | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [15–27 June 2019](2019-06-27-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [13–19 June 2019](2019-06-19-Aximage.html) | Aximage <br> Correio da Manhã and Negócios | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
