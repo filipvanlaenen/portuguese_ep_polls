@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/portuguese_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 02 Jan 2020 14:05:54 +0100</pubDate>
+    <pubDate>Mon, 06 Jan 2020 17:24:56 +0100</pubDate>
     <item>
       <title>Opinion Poll by Intercampus for Correio da Manhã and Negócios, 12–17 December 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2019-12-17-Intercampus.html#seats</link>
@@ -1020,14 +1020,34 @@
       <dc:date>2019-07-20T17:36:55.766813+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Pitagórica for Jornal de Notícias, 8–14 July 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2019-07-14-Pitagórica.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Social Democrata (EPP): 4–6 seats&lt;/li&gt;&lt;li&gt;Partido Socialista (S&amp;amp;D): 9–11 seats&lt;/li&gt;&lt;li&gt;Bloco de Esquerda (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;CDS–Partido Popular (EPP): 1 seats&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Aliança (RE): 0 seats&lt;/li&gt;&lt;li&gt;Chega (ECR): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2019-07-14-Pitagórica-seats.png"
+        length="166648"
+        type="image/png"/>
+      <pubDate>Mon, 06 Jan 2020 17:24:56 +0100</pubDate>
+      <dc:date>2020-01-06T17:24:56.623074+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Pitagórica for Jornal de Notícias, 8–14 July 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2019-07-14-Pitagórica.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2019-07-14-Pitagórica-coalitions-seats.png"
+        length="123318"
+        type="image/png"/>
+      <pubDate>Mon, 06 Jan 2020 17:24:56 +0100</pubDate>
+      <dc:date>2020-01-06T17:24:56.623074+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Pitagórica for Jornal de Notícias, 8–14 July 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2019-07-14-Pitagórica.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Partido Social Democrata (EPP): 18.9–24.6%&lt;/li&gt;&lt;li&gt;Partido Socialista (S&amp;amp;D): 39.9–46.7%&lt;/li&gt;&lt;li&gt;Bloco de Esquerda (GUE/NGL): 7.4–11.5%&lt;/li&gt;&lt;li&gt;CDS–Partido Popular (EPP): 4.6–7.9%&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária (GUE/NGL): 5.2–8.7%&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza (Greens/EFA): 2.5–5.2%&lt;/li&gt;&lt;li&gt;Aliança (RE): 0.7–2.3%&lt;/li&gt;&lt;li&gt;Chega (ECR): 0.4–1.6%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2019-07-14-Pitagórica.png"
-        length="219159"
+        length="219580"
         type="image/png"/>
-      <pubDate>Mon, 07 Oct 2019 18:36:16 +0200</pubDate>
-      <dc:date>2019-10-07T18:36:16.154644+02:00</dc:date>
+      <pubDate>Mon, 06 Jan 2020 17:24:56 +0100</pubDate>
+      <dc:date>2020-01-06T17:24:56.623074+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Eurosondagem for Associação Mutualista Montepio, 7–11 July 2019 – Seat Projections for the Parties</title>
@@ -1149,6 +1169,6 @@
       <pubDate>Sun, 30 Jun 2019 15:14:32 +0200</pubDate>
       <dc:date>2019-06-30T15:14:32.852257+02:00</dc:date>
     </item>
-    <dc:date>2020-01-02T14:05:54.568607+01:00</dc:date>
+    <dc:date>2020-01-06T17:24:56.623074+01:00</dc:date>
   </channel>
 </rss>
