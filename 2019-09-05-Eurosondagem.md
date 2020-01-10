@@ -16,7 +16,7 @@
 | Coligação Democrática Unitária (GUE/NGL) | 12.7% | 6.9% | 6.0–8.1% |5.8–8.4% |5.5–8.7% |5.1–9.3% |
 | CDS–Partido Popular (EPP) | 27.7% | 6.0% | 5.1–7.0% |4.9–7.3% |4.7–7.6% |4.3–8.1% |
 | Pessoas–Animais–Natureza (Greens/EFA) | 1.7% | 4.4% | 3.7–5.3% |3.5–5.6% |3.3–5.9% |3.0–6.3% |
-| Aliança (*) | 0.0% | 1.7% | 1.2–2.3% |1.1–2.5% |1.0–2.7% |0.9–3.0% |
+| Aliança (RE) | 0.0% | 1.7% | 1.2–2.3% |1.1–2.5% |1.0–2.7% |0.9–3.0% |
 
 *Note:* The poll result column reflects the actual value used in the calculations. Published results may vary slightly, and in addition be rounded to fewer digits.
 
@@ -36,7 +36,7 @@
 | <a href="#coligação-democrática-unitária-(gue/ngl)">Coligação Democrática Unitária (GUE/NGL)</a> | 3 | 1 | 1 |1–2 |1–2 |1–2 |
 | <a href="#cds–partido-popular-(epp)">CDS–Partido Popular (EPP)</a> | 1 | 1 | 1 |1 |1 |1–2 |
 | <a href="#pessoas–animais–natureza-(greens/efa)">Pessoas–Animais–Natureza (Greens/EFA)</a> | 0 | 1 | 0–1 |0–1 |0–1 |0–1 |
-| <a href="#aliança-(*)">Aliança (*)</a> | 0 | 0 | 0 |0 |0 |0 |
+| <a href="#aliança-(re)">Aliança (RE)</a> | 0 | 0 | 0 |0 |0 |0 |
 
 ### Partido Socialista (S&D)
 
@@ -46,9 +46,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 8 | 12% | 100% | Last Result |
-| 9 | 82% | 88% | Median |
-| 10 | 7% | 7% |  |
+| 8 | 13% | 100% | Last Result |
+| 9 | 77% | 87% | Median |
+| 10 | 10% | 10% |  |
 | 11 | 0% | 0% | Majority |
 
 ### Partido Social Democrata (EPP)
@@ -59,9 +59,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 1.2% | 100% |  |
-| 5 | 78% | 98.8% | Median |
-| 6 | 21% | 21% | Last Result |
+| 4 | 1.1% | 100% |  |
+| 5 | 76% | 98.9% | Median |
+| 6 | 22% | 22% | Last Result |
 | 7 | 0% | 0% |  |
 
 ### Bloco de Esquerda (GUE/NGL)
@@ -72,8 +72,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 12% | 100% | Last Result |
-| 2 | 88% | 88% | Median |
+| 1 | 13% | 100% | Last Result |
+| 2 | 87% | 87% | Median |
 | 3 | 0.2% | 0.2% |  |
 | 4 | 0% | 0% |  |
 
@@ -98,8 +98,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.1% | 100% |  |
-| 1 | 99.1% | 99.9% | Last Result, Median |
-| 2 | 0.9% | 0.9% |  |
+| 1 | 99.2% | 99.9% | Last Result, Median |
+| 2 | 0.7% | 0.7% |  |
 | 3 | 0% | 0% |  |
 
 ### Pessoas–Animais–Natureza (Greens/EFA)
@@ -110,15 +110,15 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 18% | 100% | Last Result |
-| 1 | 82% | 82% | Median |
+| 0 | 24% | 100% | Last Result |
+| 1 | 76% | 76% | Median |
 | 2 | 0% | 0% |  |
 
-### Aliança (*)
+### Aliança (RE)
 
-*For a full overview of the results for this party, see the [Aliança (*)](party-aliança.html) page.*
+*For a full overview of the results for this party, see the [Aliança (RE)](party-aliançare.html) page.*
 
-![Graph with seats probability mass function not yet produced](2019-09-05-Eurosondagem-seats-pmf-aliança.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2019-09-05-Eurosondagem-seats-pmf-aliançare.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -136,8 +136,6 @@
 | Partido Socialista (S&D) | 8 | 9 | 0% | 8–9 | 8–10 | 8–10 | 8–10 |
 | Partido Social Democrata (EPP) – CDS–Partido Popular (EPP) | 7 | 6 | 0% | 6–7 | 6–7 | 6–7 | 5–7 |
 | Bloco de Esquerda (GUE/NGL) – Coligação Democrática Unitária (GUE/NGL) | 4 | 3 | 0% | 3 | 2–4 | 2–4 | 2–4 |
-| Pessoas–Animais–Natureza (Greens/EFA) | 0 | 1 | 0% | 0–1 | 0–1 | 0–1 | 0–1 |
-| Aliança (*) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
 
 ### Partido Socialista (S&D)
 
@@ -145,9 +143,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 8 | 12% | 100% | Last Result |
-| 9 | 82% | 88% | Median |
-| 10 | 7% | 7% |  |
+| 8 | 13% | 100% | Last Result |
+| 9 | 77% | 87% | Median |
+| 10 | 10% | 10% |  |
 | 11 | 0% | 0% | Majority |
 
 ### Partido Social Democrata (EPP) – CDS–Partido Popular (EPP)
@@ -157,8 +155,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 1.2% | 100% |  |
-| 6 | 77% | 98.8% | Median |
-| 7 | 21% | 21% | Last Result |
+| 6 | 76% | 98.8% | Median |
+| 7 | 23% | 23% | Last Result |
 | 8 | 0.1% | 0.1% |  |
 | 9 | 0% | 0% |  |
 
@@ -168,28 +166,10 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 9% | 100% |  |
-| 3 | 84% | 91% | Median |
-| 4 | 6% | 6% | Last Result |
+| 2 | 10% | 100% |  |
+| 3 | 84% | 90% | Median |
+| 4 | 7% | 7% | Last Result |
 | 5 | 0% | 0% |  |
-
-### Pessoas–Animais–Natureza (Greens/EFA)
-
-![Graph with seats probability mass function not yet produced](2019-09-05-Eurosondagem-coalitions-seats-pmf-pan.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 18% | 100% | Last Result |
-| 1 | 82% | 82% | Median |
-| 2 | 0% | 0% |  |
-
-### Aliança (*)
-
-![Graph with seats probability mass function not yet produced](2019-09-05-Eurosondagem-coalitions-seats-pmf-a.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 100% | 100% | Last Result, Median |
 
 
 ## Technical Information
@@ -203,6 +183,6 @@
 ### Calculations
 
 + **Sample size:** 1022
-+ **Simulations done:** 131,072
-+ **Error estimate:** 0.82%
++ **Simulations done:** 262,144
++ **Error estimate:** 0.90%
 
