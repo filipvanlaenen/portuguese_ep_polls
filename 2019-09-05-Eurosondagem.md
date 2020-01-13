@@ -46,9 +46,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 8 | 13% | 100% | Last Result |
-| 9 | 77% | 87% | Median |
-| 10 | 10% | 10% |  |
+| 8 | 15% | 100% | Last Result |
+| 9 | 76% | 85% | Median |
+| 10 | 9% | 9% |  |
 | 11 | 0% | 0% | Majority |
 
 ### Partido Social Democrata (EPP)
@@ -60,8 +60,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 1.1% | 100% |  |
-| 5 | 76% | 98.9% | Median |
-| 6 | 22% | 22% | Last Result |
+| 5 | 75% | 98.9% | Median |
+| 6 | 24% | 24% | Last Result |
 | 7 | 0% | 0% |  |
 
 ### Bloco de Esquerda (GUE/NGL)
@@ -110,8 +110,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 24% | 100% | Last Result |
-| 1 | 76% | 76% | Median |
+| 0 | 23% | 100% | Last Result |
+| 1 | 77% | 77% | Median |
 | 2 | 0% | 0% |  |
 
 ### Aliança (RE)
@@ -143,9 +143,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 8 | 13% | 100% | Last Result |
-| 9 | 77% | 87% | Median |
-| 10 | 10% | 10% |  |
+| 8 | 15% | 100% | Last Result |
+| 9 | 76% | 85% | Median |
+| 10 | 9% | 9% |  |
 | 11 | 0% | 0% | Majority |
 
 ### Partido Social Democrata (EPP) – CDS–Partido Popular (EPP)
@@ -154,9 +154,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 5 | 1.2% | 100% |  |
-| 6 | 76% | 98.8% | Median |
-| 7 | 23% | 23% | Last Result |
+| 5 | 1.1% | 100% |  |
+| 6 | 74% | 98.9% | Median |
+| 7 | 25% | 25% | Last Result |
 | 8 | 0.1% | 0.1% |  |
 | 9 | 0% | 0% |  |
 
@@ -167,7 +167,7 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 10% | 100% |  |
-| 3 | 84% | 90% | Median |
+| 3 | 83% | 90% | Median |
 | 4 | 7% | 7% | Last Result |
 | 5 | 0% | 0% |  |
 
@@ -183,6 +183,6 @@
 ### Calculations
 
 + **Sample size:** 1022
-+ **Simulations done:** 262,144
-+ **Error estimate:** 0.90%
++ **Simulations done:** 1,048,576
++ **Error estimate:** 0.38%
 
