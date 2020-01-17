@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/portuguese_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 10 Jan 2020 21:08:58 +0100</pubDate>
+    <pubDate>Fri, 17 Jan 2020 20:40:44 +0100</pubDate>
     <item>
       <title>Opinion Poll by Intercampus for Correio da Manhã and Negócios, 12–17 December 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2019-12-17-Intercampus.html#seats</link>
@@ -160,14 +160,34 @@
       <dc:date>2019-12-29T16:36:19.792516+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Intercampus for Correio da Manhã and Negócios, 22–28 October 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2019-10-28-Intercampus.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Social Democrata (EPP): 5–7 seats&lt;/li&gt;&lt;li&gt;Partido Socialista (S&amp;amp;D): 8–10 seats&lt;/li&gt;&lt;li&gt;Bloco de Esquerda (GUE/NGL): 2–3 seats&lt;/li&gt;&lt;li&gt;CDS–Partido Popular (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza (Greens/EFA): 1 seats&lt;/li&gt;&lt;li&gt;LIVRE (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Iniciativa Liberal (RE): 0 seats&lt;/li&gt;&lt;li&gt;Chega (ECR): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2019-10-28-Intercampus-seats.png"
+        length="186023"
+        type="image/png"/>
+      <pubDate>Fri, 17 Jan 2020 20:40:44 +0100</pubDate>
+      <dc:date>2020-01-17T20:40:44.7668+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Intercampus for Correio da Manhã and Negócios, 22–28 October 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2019-10-28-Intercampus.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2019-10-28-Intercampus-coalitions-seats.png"
+        length="132046"
+        type="image/png"/>
+      <pubDate>Fri, 17 Jan 2020 20:40:44 +0100</pubDate>
+      <dc:date>2020-01-17T20:40:44.7668+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Intercampus for Correio da Manhã and Negócios, 22–28 October 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2019-10-28-Intercampus.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Partido Social Democrata (EPP): 22.5–29.5%&lt;/li&gt;&lt;li&gt;Partido Socialista (S&amp;amp;D): 33.3–41.0%&lt;/li&gt;&lt;li&gt;Bloco de Esquerda (GUE/NGL): 8.8–13.9%&lt;/li&gt;&lt;li&gt;CDS–Partido Popular (EPP): 3.2–6.6%&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária (GUE/NGL): 5.3–9.5%&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza (Greens/EFA): 3.9–7.6%&lt;/li&gt;&lt;li&gt;LIVRE (Greens/EFA): 1.8–4.5%&lt;/li&gt;&lt;li&gt;Iniciativa Liberal (RE): 0.4–1.9%&lt;/li&gt;&lt;li&gt;Chega (ECR): 1.6–4.3%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2019-10-28-Intercampus.png"
-        length="254309"
+        length="254375"
         type="image/png"/>
-      <pubDate>Sat, 30 Nov 2019 13:23:49 +0100</pubDate>
-      <dc:date>2019-11-30T13:23:49.89186+01:00</dc:date>
+      <pubDate>Fri, 17 Jan 2020 20:40:44 +0100</pubDate>
+      <dc:date>2020-01-17T20:40:44.7668+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Pitagórica for Jornal de Notícias, 30 September–3 October 2019 – Seat Projections for the Parties</title>
@@ -1189,6 +1209,6 @@
       <pubDate>Sun, 30 Jun 2019 15:14:32 +0200</pubDate>
       <dc:date>2019-06-30T15:14:32.852257+02:00</dc:date>
     </item>
-    <dc:date>2020-01-10T21:08:58.242463+01:00</dc:date>
+    <dc:date>2020-01-17T20:40:44.7668+01:00</dc:date>
   </channel>
 </rss>
