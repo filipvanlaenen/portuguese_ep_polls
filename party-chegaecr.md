@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.1% | 2.0–6.4% | 1.8–6.9% | 1.6–7.3% | 1.4–8.2% |
+| N/A | [Poll Average](average.html) | 3.1% | 2.0–6.8% | 1.8–7.3% | 1.6–7.7% | 1.4–8.6% |
+| [19–24 January 2020](2020-01-24-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 6.1% | 5.1–7.6% | 4.8–8.0% | 4.5–8.3% | 4.0–9.1% |
 | [5–9 January 2020](2020-01-09-Eurosondagem.html) | Eurosondagem | 2.2% | 1.7–2.9% | 1.6–3.1% | 1.4–3.3% | 1.2–3.7% |
 | [12–17 December 2019](2019-12-17-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 5.8% | 4.7–7.2% | 4.4–7.6% | 4.2–7.9% | 3.7–8.7% |
 | [8–12 December 2019](2019-12-12-Eurosondagem.html) | Eurosondagem | 1.9% | 1.4–2.5% | 1.3–2.7% | 1.2–2.9% | 1.0–3.3% |
@@ -63,13 +64,14 @@ The following table shows the probability mass function per percentage block of 
 | 0.5–1.5% | 2% | 100% |  |
 | 1.5–2.5% | 30% | 98% |  |
 | 2.5–3.5% | 27% | 69% | Median |
-| 3.5–4.5% | 10% | 42% |  |
-| 4.5–5.5% | 11% | 32% |  |
-| 5.5–6.5% | 13% | 21% |  |
-| 6.5–7.5% | 6% | 8% |  |
-| 7.5–8.5% | 2% | 2% |  |
-| 8.5–9.5% | 0.2% | 0.2% |  |
+| 3.5–4.5% | 9% | 42% |  |
+| 4.5–5.5% | 8% | 33% |  |
+| 5.5–6.5% | 13% | 26% |  |
+| 6.5–7.5% | 9% | 12% |  |
+| 7.5–8.5% | 3% | 3% |  |
+| 8.5–9.5% | 0.5% | 0.5% |  |
 | 9.5–10.5% | 0% | 0% |  |
+| 10.5–11.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -81,6 +83,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
+| [19–24 January 2020](2020-01-24-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [5–9 January 2020](2020-01-09-Eurosondagem.html) | Eurosondagem | 0 | 0 | 0 | 0 | 0 |
 | [12–17 December 2019](2019-12-17-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 1 | 1 | 1–2 | 1–2 | 0–2 |
 | [8–12 December 2019](2019-12-12-Eurosondagem.html) | Eurosondagem | 0 | 0 | 0 | 0 | 0 |
