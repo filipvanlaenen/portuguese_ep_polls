@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.6% | 1.0–2.7% | 0.8–3.1% | 0.7–3.3% | 0.6–3.9% |
+| N/A | [Poll Average](average.html) | 1.8% | 1.0–2.9% | 0.8–3.2% | 0.7–3.5% | 0.6–4.1% |
+| [2–6 February 2020](2020-02-06-Eurosondagem.html) | Eurosondagem | 1.1% | N/A | N/A | N/A | N/A |
 | [19–24 January 2020](2020-01-24-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 2.3% | 1.7–3.2% | 1.5–3.5% | 1.4–3.8% | 1.1–4.3% |
 | [5–9 January 2020](2020-01-09-Eurosondagem.html) | Eurosondagem | 1.3% | 0.9–1.9% | 0.8–2.0% | 0.7–2.2% | 0.6–2.5% |
 | [12–17 December 2019](2019-12-17-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 2.5% | 1.8–3.5% | 1.6–3.8% | 1.5–4.1% | 1.2–4.6% |
@@ -60,11 +61,11 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0.4% | 100% | Last Result |
-| 0.5–1.5% | 47% | 99.6% |  |
-| 1.5–2.5% | 39% | 52% | Median |
-| 2.5–3.5% | 12% | 14% |  |
-| 3.5–4.5% | 1.4% | 1.5% |  |
+| 0.0–0.5% | 0.5% | 100% | Last Result |
+| 0.5–1.5% | 36% | 99.5% |  |
+| 1.5–2.5% | 43% | 64% | Median |
+| 2.5–3.5% | 18% | 20% |  |
+| 3.5–4.5% | 2% | 2% |  |
 | 4.5–5.5% | 0.1% | 0.1% |  |
 | 5.5–6.5% | 0% | 0% |  |
 
@@ -78,6 +79,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–1 |
+| [2–6 February 2020](2020-02-06-Eurosondagem.html) | Eurosondagem |  |  |  |  |  |
 | [19–24 January 2020](2020-01-24-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 0 | 0 | 0 | 0 | 0–1 |
 | [5–9 January 2020](2020-01-09-Eurosondagem.html) | Eurosondagem | 0 | 0 | 0 | 0 | 0 |
 | [12–17 December 2019](2019-12-17-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 0 | 0 | 0 | 0–1 | 0–1 |
@@ -129,8 +131,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.4% | 100% | Last Result, Median |
-| 1 | 0.6% | 0.6% |  |
+| 0 | 99.0% | 100% | Last Result, Median |
+| 1 | 1.0% | 1.0% |  |
 | 2 | 0% | 0% |  |
 
 
