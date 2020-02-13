@@ -5,9 +5,9 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | PS | PSD | CDS–PP | CDU | BE | PAN | L | IL | A | CH |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 31.5% <br> 8 | 27.7% <br> 6 | 27.7% <br> 1 | 12.7% <br> 3 | 4.6% <br> 1 | 1.7% <br> 0 | 0.7% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 30–40% <br> 7–10 | 23–30% <br> 5–7 | 1–5% <br> 0–1 | 5–8% <br> 1–2 | 8–14% <br> 2–3 | 2–8% <br> 0–1 | 0–3% <br> 0 | 1–3% <br> 0 | N/A <br> N/A | 2–8% <br> 0–1 |
+| N/A | [Poll Average](average.html) | 30–41% <br> 7–10 | 23–30% <br> 5–7 | 1–6% <br> 0–1 | 5–8% <br> 1–2 | 8–14% <br> 2–3 | 2–8% <br> 0–2 | 0–3% <br> 0 | 1–4% <br> 0 | N/A <br> N/A | 2–8% <br> 0–2 |
+| [2–6 February 2020](2020-02-06-Eurosondagem.html) | Eurosondagem | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [19–24 January 2020](2020-01-24-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 29–37% <br> 7–9 | 23–29% <br> 5–7 | 1–3% <br> 0 | 4–8% <br> 1–2 | 10–15% <br> 2–3 | 4–8% <br> 1–2 | 1–3% <br> 0 | 1–4% <br> 0 | N/A <br> N/A | 4–8% <br> 1–2 |
-| [5–9 January 2020](2020-01-09-Eurosondagem.html) | Eurosondagem | 34–40% <br> 8–10 | 24–29% <br> 6–7 | 2–5% <br> 0–1 | 5–8% <br> 1–2 | 8–12% <br> 2–3 | 3–5% <br> 0–1 | 0–1% <br> 0 | 1–2% <br> 0 | N/A <br> N/A | 1–3% <br> 0 |
 | [8–11 November 2019](2019-11-11-Aximage.html) | Aximage | 34–41% <br> 8–10 | 24–31% <br> 6–7 | 3–6% <br> 0–1 | 5–8% <br> 1–2 | 8–13% <br> 2–3 | 2–5% <br> 0–1 | 0–2% <br> 0 | 1–2% <br> 0 | N/A <br> N/A | 2–5% <br> 0–1 |
 | 26 May 2019 | General Election | 31.5% <br> 8 | 27.7% <br> 6 | 27.7% <br> 1 | 12.7% <br> 3 | 4.6% <br> 1 | 1.7% <br> 0 | 0.7% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
