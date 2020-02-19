@@ -10,8 +10,9 @@ Last result: **31.5%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 36.4% | 31.8–39.2% | 30.9–39.9% | 30.2–40.5% | 28.8–41.8% |
+| N/A | [Poll Average](average.html) | 35.2% | 31.5–38.9% | 30.7–39.6% | 30.0–40.3% | 28.8–41.6% |
 | [2–6 February 2020](2020-02-06-Eurosondagem.html) | Eurosondagem | 37.4% | 35.5–39.4% | 34.9–40.0% | 34.4–40.5% | 33.5–41.4% |
+| [22 January–5 February 2020](2020-02-05-ICSISCTE.html) | ICS/ISCTE | 33.0% | 30.9–35.2% | 30.3–35.8% | 29.8–36.3% | 28.8–37.4% |
 | [19–24 January 2020](2020-01-24-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 32.8% | 30.4–35.3% | 29.8–36.0% | 29.2–36.6% | 28.1–37.8% |
 | [5–9 January 2020](2020-01-09-Eurosondagem.html) | Eurosondagem | 37.2% | 35.3–39.2% | 34.8–39.8% | 34.3–40.3% | 33.4–41.2% |
 | [12–17 December 2019](2019-12-17-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 33.8% | 31.4–36.4% | 30.7–37.1% | 30.2–37.7% | 29.0–38.9% |
@@ -61,24 +62,23 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 25.5–26.5% | 0% | 100% |  |
-| 26.5–27.5% | 0.1% | 100% |  |
+| 26.5–27.5% | 0% | 100% |  |
 | 27.5–28.5% | 0.3% | 99.9% |  |
-| 28.5–29.5% | 0.9% | 99.7% |  |
-| 29.5–30.5% | 2% | 98.7% |  |
-| 30.5–31.5% | 5% | 96% | Last Result |
-| 31.5–32.5% | 7% | 92% |  |
-| 32.5–33.5% | 7% | 85% |  |
-| 33.5–34.5% | 8% | 78% |  |
-| 34.5–35.5% | 9% | 70% |  |
-| 35.5–36.5% | 13% | 60% | Median |
-| 36.5–37.5% | 16% | 47% |  |
-| 37.5–38.5% | 14% | 31% |  |
-| 38.5–39.5% | 10% | 17% |  |
-| 39.5–40.5% | 5% | 7% |  |
-| 40.5–41.5% | 2% | 2% |  |
-| 41.5–42.5% | 0.5% | 0.7% |  |
-| 42.5–43.5% | 0.1% | 0.2% |  |
+| 28.5–29.5% | 1.0% | 99.7% |  |
+| 29.5–30.5% | 3% | 98.6% |  |
+| 30.5–31.5% | 6% | 96% | Last Result |
+| 31.5–32.5% | 10% | 89% |  |
+| 32.5–33.5% | 11% | 79% |  |
+| 33.5–34.5% | 11% | 68% |  |
+| 34.5–35.5% | 10% | 57% | Median |
+| 35.5–36.5% | 11% | 47% |  |
+| 36.5–37.5% | 12% | 36% |  |
+| 37.5–38.5% | 11% | 24% |  |
+| 38.5–39.5% | 7% | 13% |  |
+| 39.5–40.5% | 4% | 5% |  |
+| 40.5–41.5% | 1.4% | 2% |  |
+| 41.5–42.5% | 0.4% | 0.5% |  |
+| 42.5–43.5% | 0.1% | 0.1% |  |
 | 43.5–44.5% | 0% | 0% |  |
 
 
@@ -92,6 +92,7 @@ Last result: **8** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 9 | 8–10 | 7–10 | 7–10 | 7–10 |
 | [2–6 February 2020](2020-02-06-Eurosondagem.html) | Eurosondagem | 9 | 9–10 | 8–10 | 8–10 | 8–10 |
+| [22 January–5 February 2020](2020-02-05-ICSISCTE.html) | ICS/ISCTE | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
 | [19–24 January 2020](2020-01-24-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
 | [5–9 January 2020](2020-01-09-Eurosondagem.html) | Eurosondagem | 9 | 9–10 | 8–10 | 8–10 | 8–10 |
 | [12–17 December 2019](2019-12-17-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 8 | 7–9 | 7–9 | 7–9 | 7–10 |
@@ -144,11 +145,11 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 6 | 0.1% | 100% |  |
-| 7 | 6% | 99.9% |  |
-| 8 | 28% | 94% | Last Result |
-| 9 | 50% | 66% | Median |
-| 10 | 15% | 16% |  |
-| 11 | 0.3% | 0.3% | Majority |
+| 7 | 8% | 99.9% |  |
+| 8 | 39% | 92% | Last Result |
+| 9 | 41% | 53% | Median |
+| 10 | 12% | 12% |  |
+| 11 | 0.2% | 0.2% | Majority |
 | 12 | 0% | 0% |  |
 
 
