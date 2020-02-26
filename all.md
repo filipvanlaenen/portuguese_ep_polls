@@ -5,6 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | PS | PSD | CDS–PP | CDU | BE | PAN | L | IL | A | CH |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 31.5% <br> 8 | 27.7% <br> 6 | 27.7% <br> 1 | 12.7% <br> 3 | 4.6% <br> 1 | 1.7% <br> 0 | 0.7% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| [11–17 February 2020](2020-02-17-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [2–6 February 2020](2020-02-06-Eurosondagem.html) | Eurosondagem | 34–40% <br> 8–10 | 24–30% <br> 6–7 | 2–5% <br> 0–1 | 5–8% <br> 1–2 | 7–11% <br> 1–2 | 2–4% <br> 0–1 | 0–1% <br> 0 | 1–2% <br> 0 | N/A <br> N/A | 2–4% <br> 0 |
 | [22 January–5 February 2020](2020-02-05-ICSISCTE.html) | ICS/ISCTE | 30–36% <br> 7–9 | 25–31% <br> 6–8 | 3–6% <br> 0–1 | 6–10% <br> 1–2 | 7–11% <br> 1–2 | 2–4% <br> 0–1 | 1–2% <br> 0 | 1–3% <br> 0 | N/A <br> N/A | 5–8% <br> 1–2 |
 | [19–24 January 2020](2020-01-24-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 29–37% <br> 7–9 | 23–29% <br> 5–7 | 1–3% <br> 0 | 4–8% <br> 1–2 | 10–15% <br> 2–3 | 4–8% <br> 1–2 | 1–3% <br> 0 | 1–4% <br> 0 | N/A <br> N/A | 4–8% <br> 1–2 |
