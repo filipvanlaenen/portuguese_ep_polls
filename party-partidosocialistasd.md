@@ -10,8 +10,8 @@ Last result: **31.5%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 35.3% | 31.6–38.7% | 30.9–39.4% | 30.3–40.0% | 29.2–41.0% |
-| [11–17 February 2020](2020-02-17-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 31.1% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 33.5% | 30.0–38.2% | 29.2–39.0% | 28.5–39.6% | 27.2–40.8% |
+| [11–17 February 2020](2020-02-17-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 31.1% | 28.8–33.6% | 28.1–34.3% | 27.6–34.9% | 26.5–36.1% |
 | [2–6 February 2020](2020-02-06-Eurosondagem.html) | Eurosondagem | 37.4% | 35.5–39.4% | 34.9–40.0% | 34.4–40.5% | 33.5–41.4% |
 | [22 January–5 February 2020](2020-02-05-ICSISCTE.html) | ICS/ISCTE | 33.0% | 30.9–35.2% | 30.3–35.8% | 29.8–36.3% | 28.8–37.4% |
 | [19–24 January 2020](2020-01-24-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 32.8% | 30.4–35.3% | 29.8–36.0% | 29.2–36.6% | 28.1–37.8% |
@@ -63,22 +63,24 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 26.5–27.5% | 0% | 100% |  |
-| 27.5–28.5% | 0.1% | 100% |  |
-| 28.5–29.5% | 0.7% | 99.9% |  |
-| 29.5–30.5% | 2% | 99.2% |  |
-| 30.5–31.5% | 6% | 97% | Last Result |
-| 31.5–32.5% | 10% | 91% |  |
-| 32.5–33.5% | 12% | 81% |  |
-| 33.5–34.5% | 11% | 69% |  |
-| 34.5–35.5% | 10% | 58% | Median |
-| 35.5–36.5% | 11% | 48% |  |
-| 36.5–37.5% | 13% | 37% |  |
-| 37.5–38.5% | 12% | 23% |  |
-| 38.5–39.5% | 7% | 12% |  |
-| 39.5–40.5% | 3% | 4% |  |
-| 40.5–41.5% | 0.9% | 1.1% |  |
-| 41.5–42.5% | 0.2% | 0.2% |  |
+| 24.5–25.5% | 0% | 100% |  |
+| 25.5–26.5% | 0.2% | 100% |  |
+| 26.5–27.5% | 0.6% | 99.8% |  |
+| 27.5–28.5% | 2% | 99.2% |  |
+| 28.5–29.5% | 4% | 97% |  |
+| 29.5–30.5% | 8% | 93% |  |
+| 30.5–31.5% | 11% | 85% | Last Result |
+| 31.5–32.5% | 13% | 74% |  |
+| 32.5–33.5% | 12% | 61% | Median |
+| 33.5–34.5% | 10% | 49% |  |
+| 34.5–35.5% | 7% | 40% |  |
+| 35.5–36.5% | 8% | 32% |  |
+| 36.5–37.5% | 9% | 25% |  |
+| 37.5–38.5% | 8% | 16% |  |
+| 38.5–39.5% | 5% | 8% |  |
+| 39.5–40.5% | 2% | 3% |  |
+| 40.5–41.5% | 0.6% | 0.7% |  |
+| 41.5–42.5% | 0.1% | 0.1% |  |
 | 42.5–43.5% | 0% | 0% |  |
 
 
@@ -90,8 +92,8 @@ Last result: **8** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9 | 8–9 | 7–10 | 7–10 | 7–10 |
-| [11–17 February 2020](2020-02-17-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 8 | 7–9 | 7–10 | 7–10 | 6–10 |
+| [11–17 February 2020](2020-02-17-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 8 | 7–8 | 7–8 | 7–8 | 6–9 |
 | [2–6 February 2020](2020-02-06-Eurosondagem.html) | Eurosondagem | 9 | 9–10 | 8–10 | 8–10 | 8–10 |
 | [22 January–5 February 2020](2020-02-05-ICSISCTE.html) | ICS/ISCTE | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
 | [19–24 January 2020](2020-01-24-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
@@ -145,11 +147,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 7 | 7% | 100% |  |
-| 8 | 38% | 92% | Last Result |
-| 9 | 46% | 55% | Median |
-| 10 | 9% | 9% |  |
-| 11 | 0.1% | 0.1% | Majority |
-| 12 | 0% | 0% |  |
+| 6 | 0.8% | 100% |  |
+| 7 | 18% | 99.2% |  |
+| 8 | 44% | 81% | Last Result, Median |
+| 9 | 31% | 37% |  |
+| 10 | 6% | 6% |  |
+| 11 | 0% | 0% | Majority |
 
 
