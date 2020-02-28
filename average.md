@@ -29,7 +29,7 @@ Only polls for which at least the sample size has been published are included in
 + **L:** LIVRE (Greens/EFA)
 + **IL:** Iniciativa Liberal (RE)
 + **A:** Aliança (RE)
-+ **CH:** Chega (ECR)
++ **CH:** Chega (ID)
 + **N/A (single party):** Party not included the published results
 + **N/A (entire row):** Calculation for this opinion poll not started yet
 
@@ -50,7 +50,7 @@ Only polls for which at least the sample size has been published are included in
 | <a href="#livre-(greens/efa)">LIVRE (Greens/EFA)</a> | 0.7% | 0.8% | 0.4–1.5% |0.3–1.7% | 0.3–1.8% | 0.2–2.2% |
 | <a href="#iniciativa-liberal-(re)">Iniciativa Liberal (RE)</a> | 0.0% | 2.0% | 1.0–3.4% |0.8–3.8% | 0.7–4.1% | 0.6–4.8% |
 | <a href="#aliança-(re)">Aliança (RE)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
-| <a href="#chega-(ecr)">Chega (ECR)</a> | 0.0% | 5.8% | 2.3–7.6% |2.1–8.1% | 1.9–8.5% | 1.6–9.4% |
+| <a href="#chega-(id)">Chega (ID)</a> | 0.0% | 5.8% | 2.3–7.6% |2.1–8.1% | 1.9–8.5% | 1.6–9.4% |
 
 ### Partido Socialista (S&D)
 
@@ -221,9 +221,9 @@ Only polls for which at least the sample size has been published are included in
 | 5.5–6.5% | 0% | 0% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
-### Chega (ECR)
+### Chega (ID)
 
-*For a full overview of the results for this party, see the [Chega (ECR)](party-chegaecr.html) page.*
+*For a full overview of the results for this party, see the [Chega (ID)](party-chegaid.html) page.*
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
@@ -260,7 +260,7 @@ Only polls for which at least the sample size has been published are included in
 | <a href="#livre-(greens/efa)">LIVRE (Greens/EFA)</a> | 0 | 0 | 0 |0 | 0 | 0 |
 | <a href="#iniciativa-liberal-(re)">Iniciativa Liberal (RE)</a> | 0 | 0 | 0 |0 | 0–1 | 0–1 |
 | <a href="#aliança-(re)">Aliança (RE)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
-| <a href="#chega-(ecr)">Chega (ECR)</a> | 0 | 1 | 0–1 |0–2 | 0–2 | 0–2 |
+| <a href="#chega-(id)">Chega (ID)</a> | 0 | 1 | 0–1 |0–2 | 0–2 | 0–2 |
 
 ### Partido Socialista (S&D)
 
@@ -365,11 +365,11 @@ Only polls for which at least the sample size has been published are included in
 | 1 | 3% | 3% |  |
 | 2 | 0% | 0% |  |
 
-### Chega (ECR)
+### Chega (ID)
 
-*For a full overview of the results for this party, see the [Chega (ECR)](party-chegaecr.html) page.*
+*For a full overview of the results for this party, see the [Chega (ID)](party-chegaid.html) page.*
 
-![Graph with seats probability mass function not yet produced](average-seats-pmf-chegaecr.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-seats-pmf-chegaid.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -390,7 +390,7 @@ Only polls for which at least the sample size has been published are included in
 | Partido Socialista (S&D) | 8 | 8 | 0% | 7–9 | 7–10 | 7–10 | 6–10 |
 | CDS–Partido Popular (EPP) – Partido Social Democrata (EPP) | 7 | 7 | 0% | 6–8 | 5–8 | 5–8 | 5–8 |
 | Coligação Democrática Unitária (GUE/NGL) – Bloco de Esquerda (GUE/NGL) | 4 | 4 | 0% | 3–4 | 3–4 | 2–5 | 2–5 |
-| Chega (ECR) | 0 | 1 | 0% | 0–1 | 0–2 | 0–2 | 0–2 |
+| Chega (ID) | 0 | 1 | 0% | 0–1 | 0–2 | 0–2 | 0–2 |
 | Aliança (RE) – Iniciativa Liberal (RE) | 0 | 0 | 0% | 0 | 0 | 0–1 | 0–1 |
 | Pessoas–Animais–Natureza (Greens/EFA) – LIVRE (Greens/EFA) | 0 | 0 | 0% | 0–1 | 0–1 | 0–1 | 0–1 |
 
@@ -434,7 +434,7 @@ Only polls for which at least the sample size has been published are included in
 | 6 | 0.2% | 0.2% |  |
 | 7 | 0% | 0% |  |
 
-### Chega (ECR)
+### Chega (ID)
 
 ![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-ch.png "Seats Probability Mass Function")
 
