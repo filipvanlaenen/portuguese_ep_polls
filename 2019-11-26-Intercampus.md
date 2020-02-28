@@ -15,7 +15,7 @@
 | Bloco de Esquerda (GUE/NGL) | 4.6% | 10.8% | 9.3–12.5% |8.9–13.0% |8.5–13.5% |7.9–14.4% |
 | Coligação Democrática Unitária (GUE/NGL) | 12.7% | 8.1% | 6.8–9.7% |6.5–10.2% |6.2–10.6% |5.6–11.4% |
 | Pessoas–Animais–Natureza (Greens/EFA) | 1.7% | 4.8% | 3.9–6.1% |3.6–6.5% |3.4–6.8% |3.0–7.5% |
-| Chega (ECR) | 0.0% | 4.8% | 3.9–6.1% |3.6–6.5% |3.4–6.8% |3.0–7.5% |
+| Chega (ID) | 0.0% | 4.8% | 3.9–6.1% |3.6–6.5% |3.4–6.8% |3.0–7.5% |
 | CDS–Partido Popular (EPP) | 27.7% | 3.0% | 2.3–4.1% |2.1–4.4% |1.9–4.7% |1.6–5.2% |
 | Iniciativa Liberal (RE) | 0.0% | 3.0% | 2.3–4.1% |2.1–4.4% |1.9–4.7% |1.6–5.2% |
 | LIVRE (Greens/EFA) | 0.7% | 2.6% | 2.0–3.7% |1.8–4.0% |1.6–4.3% |1.4–4.8% |
@@ -37,7 +37,7 @@
 | <a href="#bloco-de-esquerda-(gue/ngl)">Bloco de Esquerda (GUE/NGL)</a> | 1 | 2 | 2–3 |2–3 |2–3 |2–3 |
 | <a href="#coligação-democrática-unitária-(gue/ngl)">Coligação Democrática Unitária (GUE/NGL)</a> | 3 | 2 | 1–2 |1–2 |1–2 |1–3 |
 | <a href="#pessoas–animais–natureza-(greens/efa)">Pessoas–Animais–Natureza (Greens/EFA)</a> | 0 | 1 | 0–1 |0–1 |0–1 |0–1 |
-| <a href="#chega-(ecr)">Chega (ECR)</a> | 0 | 1 | 1 |0–1 |0–1 |0–1 |
+| <a href="#chega-(id)">Chega (ID)</a> | 0 | 1 | 1 |0–1 |0–1 |0–1 |
 | <a href="#cds–partido-popular-(epp)">CDS–Partido Popular (EPP)</a> | 1 | 0 | 0–1 |0–1 |0–1 |0–1 |
 | <a href="#iniciativa-liberal-(re)">Iniciativa Liberal (RE)</a> | 0 | 0 | 0–1 |0–1 |0–1 |0–1 |
 | <a href="#livre-(greens/efa)">LIVRE (Greens/EFA)</a> | 0 | 0 | 0 |0–1 |0–1 |0–1 |
@@ -112,11 +112,11 @@
 | 2 | 0.3% | 0.3% |  |
 | 3 | 0% | 0% |  |
 
-### Chega (ECR)
+### Chega (ID)
 
-*For a full overview of the results for this party, see the [Chega (ECR)](party-chegaecr.html) page.*
+*For a full overview of the results for this party, see the [Chega (ID)](party-chegaid.html) page.*
 
-![Graph with seats probability mass function not yet produced](2019-11-26-Intercampus-seats-pmf-chegaecr.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2019-11-26-Intercampus-seats-pmf-chegaid.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -174,7 +174,7 @@
 | Partido Social Democrata (EPP) – CDS–Partido Popular (EPP) | 7 | 6 | 0% | 5–7 | 5–7 | 5–7 | 5–8 |
 | Bloco de Esquerda (GUE/NGL) – Coligação Democrática Unitária (GUE/NGL) | 4 | 4 | 0% | 3–5 | 3–5 | 3–5 | 3–5 |
 | Pessoas–Animais–Natureza (Greens/EFA) – LIVRE (Greens/EFA) | 0 | 1 | 0% | 0–1 | 0–2 | 0–2 | 0–2 |
-| Chega (ECR) | 0 | 1 | 0% | 1 | 0–1 | 0–1 | 0–1 |
+| Chega (ID) | 0 | 1 | 0% | 1 | 0–1 | 0–1 | 0–1 |
 
 ### Partido Socialista (S&D)
 
@@ -225,7 +225,7 @@
 | 2 | 5% | 5% |  |
 | 3 | 0% | 0% |  |
 
-### Chega (ECR)
+### Chega (ID)
 
 ![Graph with seats probability mass function not yet produced](2019-11-26-Intercampus-coalitions-seats-pmf-ch.png "Seats Probability Mass Function")
 

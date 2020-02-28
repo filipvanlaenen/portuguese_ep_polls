@@ -17,7 +17,7 @@
 | CDS–Partido Popular (EPP) | 27.7% | 6.0% | 5.0–7.2% |4.8–7.6% |4.6–7.9% |4.1–8.5% |
 | Pessoas–Animais–Natureza (Greens/EFA) | 1.7% | 3.6% | 2.9–4.6% |2.7–4.9% |2.5–5.2% |2.2–5.7% |
 | Aliança (RE) | 0.0% | 1.2% | 0.9–1.9% |0.8–2.1% |0.7–2.3% |0.5–2.7% |
-| Chega (ECR) | 0.0% | 0.8% | 0.5–1.3% |0.4–1.5% |0.4–1.6% |0.2–2.0% |
+| Chega (ID) | 0.0% | 0.8% | 0.5–1.3% |0.4–1.5% |0.4–1.6% |0.2–2.0% |
 
 *Note:* The poll result column reflects the actual value used in the calculations. Published results may vary slightly, and in addition be rounded to fewer digits.
 
@@ -38,7 +38,7 @@
 | <a href="#cds–partido-popular-(epp)">CDS–Partido Popular (EPP)</a> | 1 | 1 | 1 |1 |1 |1–2 |
 | <a href="#pessoas–animais–natureza-(greens/efa)">Pessoas–Animais–Natureza (Greens/EFA)</a> | 0 | 0 | 0–1 |0–1 |0–1 |0–1 |
 | <a href="#aliança-(re)">Aliança (RE)</a> | 0 | 0 | 0 |0 |0 |0 |
-| <a href="#chega-(ecr)">Chega (ECR)</a> | 0 | 0 | 0 |0 |0 |0 |
+| <a href="#chega-(id)">Chega (ID)</a> | 0 | 0 | 0 |0 |0 |0 |
 
 ### Partido Socialista (S&D)
 
@@ -128,11 +128,11 @@
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 100% | 100% | Last Result, Median |
 
-### Chega (ECR)
+### Chega (ID)
 
-*For a full overview of the results for this party, see the [Chega (ECR)](party-chegaecr.html) page.*
+*For a full overview of the results for this party, see the [Chega (ID)](party-chegaid.html) page.*
 
-![Graph with seats probability mass function not yet produced](2019-07-14-Pitagórica-seats-pmf-chegaecr.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2019-07-14-Pitagórica-seats-pmf-chegaid.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -150,7 +150,7 @@
 | Partido Socialista (S&D) | 8 | 10 | 36% | 10–11 | 10–11 | 9–11 | 9–12 |
 | Partido Social Democrata (EPP) – CDS–Partido Popular (EPP) | 7 | 6 | 0% | 5–6 | 5–7 | 5–7 | 5–7 |
 | Bloco de Esquerda (GUE/NGL) – Coligação Democrática Unitária (GUE/NGL) | 4 | 3 | 0% | 3–4 | 2–4 | 2–4 | 2–4 |
-| Chega (ECR) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
+| Chega (ID) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
 
 ### Partido Socialista (S&D)
 
@@ -188,7 +188,7 @@
 | 4 | 10% | 10% | Last Result |
 | 5 | 0% | 0% |  |
 
-### Chega (ECR)
+### Chega (ID)
 
 ![Graph with seats probability mass function not yet produced](2019-07-14-Pitagórica-coalitions-seats-pmf-ch.png "Seats Probability Mass Function")
 

@@ -16,7 +16,7 @@
 | Coligação Democrática Unitária (GUE/NGL) | 12.7% | 6.5% | 5.6–7.6% |5.3–7.9% |5.1–8.2% |4.7–8.8% |
 | CDS–Partido Popular (EPP) | 27.7% | 3.3% | 2.7–4.1% |2.5–4.4% |2.4–4.6% |2.1–5.0% |
 | Pessoas–Animais–Natureza (Greens/EFA) | 1.7% | 3.1% | 2.5–3.9% |2.3–4.2% |2.2–4.4% |1.9–4.8% |
-| Chega (ECR) | 0.0% | 2.5% | 2.0–3.3% |1.8–3.5% |1.7–3.7% |1.5–4.1% |
+| Chega (ID) | 0.0% | 2.5% | 2.0–3.3% |1.8–3.5% |1.7–3.7% |1.5–4.1% |
 | Iniciativa Liberal (RE) | 0.0% | 1.1% | 0.8–1.7% |0.7–1.8% |0.6–2.0% |0.5–2.3% |
 | LIVRE (Greens/EFA) | 0.7% | 0.5% | 0.3–0.9% |0.3–1.1% |0.2–1.2% |0.2–1.4% |
 
@@ -38,7 +38,7 @@
 | <a href="#coligação-democrática-unitária-(gue/ngl)">Coligação Democrática Unitária (GUE/NGL)</a> | 3 | 1 | 1–2 |1–2 |1–2 |1–2 |
 | <a href="#cds–partido-popular-(epp)">CDS–Partido Popular (EPP)</a> | 1 | 0 | 0–1 |0–1 |0–1 |0–1 |
 | <a href="#pessoas–animais–natureza-(greens/efa)">Pessoas–Animais–Natureza (Greens/EFA)</a> | 0 | 0 | 0 |0–1 |0–1 |0–1 |
-| <a href="#chega-(ecr)">Chega (ECR)</a> | 0 | 0 | 0 |0 |0 |0–1 |
+| <a href="#chega-(id)">Chega (ID)</a> | 0 | 0 | 0 |0 |0 |0–1 |
 | <a href="#iniciativa-liberal-(re)">Iniciativa Liberal (RE)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#livre-(greens/efa)">LIVRE (Greens/EFA)</a> | 0 | 0 | 0 |0 |0 |0 |
 
@@ -119,11 +119,11 @@
 | 1 | 9% | 9% |  |
 | 2 | 0% | 0% |  |
 
-### Chega (ECR)
+### Chega (ID)
 
-*For a full overview of the results for this party, see the [Chega (ECR)](party-chegaecr.html) page.*
+*For a full overview of the results for this party, see the [Chega (ID)](party-chegaid.html) page.*
 
-![Graph with seats probability mass function not yet produced](2020-02-06-Eurosondagem-seats-pmf-chegaecr.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2020-02-06-Eurosondagem-seats-pmf-chegaid.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -164,7 +164,7 @@
 | Partido Social Democrata (EPP) – CDS–Partido Popular (EPP) | 7 | 7 | 0% | 6–7 | 6–7 | 6–8 | 6–8 |
 | Bloco de Esquerda (GUE/NGL) – Coligação Democrática Unitária (GUE/NGL) | 4 | 3 | 0% | 3–4 | 2–4 | 2–4 | 2–4 |
 | Pessoas–Animais–Natureza (Greens/EFA) – LIVRE (Greens/EFA) | 0 | 0 | 0% | 0 | 0–1 | 0–1 | 0–1 |
-| Chega (ECR) | 0 | 0 | 0% | 0 | 0 | 0 | 0–1 |
+| Chega (ID) | 0 | 0 | 0% | 0 | 0 | 0 | 0–1 |
 
 ### Partido Socialista (S&D)
 
@@ -211,7 +211,7 @@
 | 1 | 9% | 9% |  |
 | 2 | 0% | 0% |  |
 
-### Chega (ECR)
+### Chega (ID)
 
 ![Graph with seats probability mass function not yet produced](2020-02-06-Eurosondagem-coalitions-seats-pmf-ch.png "Seats Probability Mass Function")
 

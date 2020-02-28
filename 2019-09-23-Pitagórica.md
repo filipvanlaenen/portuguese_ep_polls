@@ -18,8 +18,8 @@
 | Pessoas–Animais–Natureza (Greens/EFA) | 1.7% | 3.7% | 2.9–4.9% |2.6–5.2% |2.4–5.5% |2.1–6.1% |
 | Iniciativa Liberal (RE) | 0.0% | 1.2% | 0.8–2.0% |0.7–2.2% |0.6–2.4% |0.4–2.8% |
 | LIVRE (Greens/EFA) | 0.7% | 0.8% | 0.5–1.5% |0.4–1.8% |0.4–1.9% |0.2–2.3% |
-| Aliança (*) | 0.0% | 0.5% | 0.3–1.1% |0.2–1.3% |0.2–1.5% |0.1–1.8% |
-| Chega (ECR) | 0.0% | 0.5% | 0.3–1.1% |0.2–1.3% |0.2–1.5% |0.1–1.8% |
+| Aliança (RE) | 0.0% | 0.5% | 0.3–1.1% |0.2–1.3% |0.2–1.5% |0.1–1.8% |
+| Chega (ID) | 0.0% | 0.5% | 0.3–1.1% |0.2–1.3% |0.2–1.5% |0.1–1.8% |
 
 *Note:* The poll result column reflects the actual value used in the calculations. Published results may vary slightly, and in addition be rounded to fewer digits.
 
@@ -41,8 +41,8 @@
 | <a href="#pessoas–animais–natureza-(greens/efa)">Pessoas–Animais–Natureza (Greens/EFA)</a> | 0 | 0 | 0–1 |0–1 |0–1 |0–1 |
 | <a href="#iniciativa-liberal-(re)">Iniciativa Liberal (RE)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#livre-(greens/efa)">LIVRE (Greens/EFA)</a> | 0 | 0 | 0 |0 |0 |0 |
-| <a href="#aliança-(*)">Aliança (*)</a> | 0 | 0 | 0 |0 |0 |0 |
-| <a href="#chega-(ecr)">Chega (ECR)</a> | 0 | 0 | 0 |0 |0 |0 |
+| <a href="#aliança-(re)">Aliança (RE)</a> | 0 | 0 | 0 |0 |0 |0 |
+| <a href="#chega-(id)">Chega (ID)</a> | 0 | 0 | 0 |0 |0 |0 |
 
 ### Partido Socialista (S&D)
 
@@ -142,21 +142,21 @@
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 100% | 100% | Last Result, Median |
 
-### Aliança (*)
+### Aliança (RE)
 
-*For a full overview of the results for this party, see the [Aliança (*)](party-aliança.html) page.*
+*For a full overview of the results for this party, see the [Aliança (RE)](party-aliançare.html) page.*
 
-![Graph with seats probability mass function not yet produced](2019-09-23-Pitagórica-seats-pmf-aliança.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2019-09-23-Pitagórica-seats-pmf-aliançare.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 100% | 100% | Last Result, Median |
 
-### Chega (ECR)
+### Chega (ID)
 
-*For a full overview of the results for this party, see the [Chega (ECR)](party-chegaecr.html) page.*
+*For a full overview of the results for this party, see the [Chega (ID)](party-chegaid.html) page.*
 
-![Graph with seats probability mass function not yet produced](2019-09-23-Pitagórica-seats-pmf-chegaecr.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2019-09-23-Pitagórica-seats-pmf-chegaid.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -175,8 +175,8 @@
 | Partido Social Democrata (EPP) – CDS–Partido Popular (EPP) | 7 | 7 | 0% | 7–8 | 6–8 | 6–9 | 6–9 |
 | Bloco de Esquerda (GUE/NGL) – Coligação Democrática Unitária (GUE/NGL) | 4 | 3 | 0% | 3–4 | 3–4 | 3–4 | 2–5 |
 | Pessoas–Animais–Natureza (Greens/EFA) – LIVRE (Greens/EFA) | 0 | 0 | 0% | 0–1 | 0–1 | 0–1 | 0–1 |
-| Aliança (*) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
-| Chega (ECR) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
+| Aliança (RE) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
+| Chega (ID) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
 | Iniciativa Liberal (RE) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
 
 ### Partido Socialista (S&D)
@@ -226,7 +226,7 @@
 | 1 | 41% | 41% |  |
 | 2 | 0% | 0% |  |
 
-### Aliança (*)
+### Aliança (RE)
 
 ![Graph with seats probability mass function not yet produced](2019-09-23-Pitagórica-coalitions-seats-pmf-a.png "Seats Probability Mass Function")
 
@@ -234,7 +234,7 @@
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 100% | 100% | Last Result, Median |
 
-### Chega (ECR)
+### Chega (ID)
 
 ![Graph with seats probability mass function not yet produced](2019-09-23-Pitagórica-coalitions-seats-pmf-ch.png "Seats Probability Mass Function")
 

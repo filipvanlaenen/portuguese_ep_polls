@@ -16,7 +16,7 @@
 | Coligação Democrática Unitária (GUE/NGL) | 12.7% | 6.8% | 5.9–8.0% |5.6–8.3% |5.4–8.6% |5.0–9.1% |
 | CDS–Partido Popular (EPP) | 27.7% | 6.4% | 5.5–7.5% |5.3–7.8% |5.1–8.1% |4.7–8.7% |
 | Pessoas–Animais–Natureza (Greens/EFA) | 1.7% | 4.3% | 3.5–5.2% |3.3–5.5% |3.2–5.7% |2.9–6.2% |
-| Aliança (*) | 0.0% | 1.5% | 1.1–2.1% |1.0–2.3% |0.9–2.4% |0.7–2.8% |
+| Aliança (RE) | 0.0% | 1.5% | 1.1–2.1% |1.0–2.3% |0.9–2.4% |0.7–2.8% |
 
 *Note:* The poll result column reflects the actual value used in the calculations. Published results may vary slightly, and in addition be rounded to fewer digits.
 
@@ -36,7 +36,7 @@
 | <a href="#coligação-democrática-unitária-(gue/ngl)">Coligação Democrática Unitária (GUE/NGL)</a> | 3 | 1 | 1 |1–2 |1–2 |1–2 |
 | <a href="#cds–partido-popular-(epp)">CDS–Partido Popular (EPP)</a> | 1 | 1 | 1 |1 |1–2 |1–2 |
 | <a href="#pessoas–animais–natureza-(greens/efa)">Pessoas–Animais–Natureza (Greens/EFA)</a> | 0 | 1 | 0–1 |0–1 |0–1 |0–1 |
-| <a href="#aliança-(*)">Aliança (*)</a> | 0 | 0 | 0 |0 |0 |0 |
+| <a href="#aliança-(re)">Aliança (RE)</a> | 0 | 0 | 0 |0 |0 |0 |
 
 ### Partido Socialista (S&D)
 
@@ -115,11 +115,11 @@
 | 1 | 68% | 68% | Median |
 | 2 | 0% | 0% |  |
 
-### Aliança (*)
+### Aliança (RE)
 
-*For a full overview of the results for this party, see the [Aliança (*)](party-aliança.html) page.*
+*For a full overview of the results for this party, see the [Aliança (RE)](party-aliançare.html) page.*
 
-![Graph with seats probability mass function not yet produced](2019-07-11-Eurosondagem-seats-pmf-aliança.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2019-07-11-Eurosondagem-seats-pmf-aliançare.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -138,7 +138,7 @@
 | Partido Social Democrata (EPP) – CDS–Partido Popular (EPP) | 7 | 6 | 0% | 6–7 | 6–7 | 6–7 | 6–8 |
 | Bloco de Esquerda (GUE/NGL) – Coligação Democrática Unitária (GUE/NGL) | 4 | 3 | 0% | 2–3 | 2–4 | 2–4 | 2–4 |
 | Pessoas–Animais–Natureza (Greens/EFA) | 0 | 1 | 0% | 0–1 | 0–1 | 0–1 | 0–1 |
-| Aliança (*) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
+| Aliança (RE) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
 
 ### Partido Socialista (S&D)
 
@@ -185,7 +185,7 @@
 | 1 | 68% | 68% | Median |
 | 2 | 0% | 0% |  |
 
-### Aliança (*)
+### Aliança (RE)
 
 ![Graph with seats probability mass function not yet produced](2019-07-11-Eurosondagem-coalitions-seats-pmf-a.png "Seats Probability Mass Function")
 
