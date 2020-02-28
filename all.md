@@ -66,7 +66,7 @@ Only polls for which at least the sample size has been published are included in
 + **L:** LIVRE (Greens/EFA)
 + **IL:** Iniciativa Liberal (RE)
 + **A:** Aliança (RE)
-+ **CH:** Chega (ECR)
++ **CH:** Chega (ID)
 + **N/A (single party):** Party not included the published results
 + **N/A (entire row):** Calculation for this opinion poll not started yet
 
