@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/portuguese_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 27 Feb 2020 06:44:31 +0100</pubDate>
+    <pubDate>Tue, 10 Mar 2020 19:10:00 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Eurosondagem, 1–5 March 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2020-03-05-Eurosondagem.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Social Democrata (EPP): 6–7 seats&lt;/li&gt;&lt;li&gt;Partido Socialista (S&amp;amp;D): 8–10 seats&lt;/li&gt;&lt;li&gt;Bloco de Esquerda (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;CDS–Partido Popular (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Iniciativa Liberal (RE): 0 seats&lt;/li&gt;&lt;li&gt;Chega (ID): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2020-03-05-Eurosondagem-seats.png"
+        length="173650"
+        type="image/png"/>
+      <pubDate>Tue, 10 Mar 2020 19:10:00 +0100</pubDate>
+      <dc:date>2020-03-10T19:10:00.894084+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Eurosondagem, 1–5 March 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2020-03-05-Eurosondagem.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2020-03-05-Eurosondagem-coalitions-seats.png"
+        length="128587"
+        type="image/png"/>
+      <pubDate>Tue, 10 Mar 2020 19:10:00 +0100</pubDate>
+      <dc:date>2020-03-10T19:10:00.894084+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Eurosondagem, 1–5 March 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2020-03-05-Eurosondagem.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Social Democrata (EPP): 24.7–30.2%&lt;/li&gt;&lt;li&gt;Partido Socialista (S&amp;amp;D): 34.4–40.3%&lt;/li&gt;&lt;li&gt;Bloco de Esquerda (GUE/NGL): 7.2–10.7%&lt;/li&gt;&lt;li&gt;CDS–Partido Popular (EPP): 2.0–4.1%&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária (GUE/NGL): 5.0–8.0%&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza (Greens/EFA): 1.9–4.0%&lt;/li&gt;&lt;li&gt;Iniciativa Liberal (RE): 0.6–2.0%&lt;/li&gt;&lt;li&gt;Chega (ID): 2.3–4.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2020-03-05-Eurosondagem.png"
+        length="217645"
+        type="image/png"/>
+      <pubDate>Tue, 10 Mar 2020 19:10:00 +0100</pubDate>
+      <dc:date>2020-03-10T19:10:00.894084+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Intercampus for Correio da Manhã and Negócios, 11–17 February 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2020-02-17-Intercampus.html#seats</link>
@@ -1359,6 +1389,6 @@
       <pubDate>Sun, 30 Jun 2019 15:14:32 +0200</pubDate>
       <dc:date>2019-06-30T15:14:32.852257+02:00</dc:date>
     </item>
-    <dc:date>2020-02-27T06:44:31.763332+01:00</dc:date>
+    <dc:date>2020-03-10T19:10:00.894084+01:00</dc:date>
   </channel>
 </rss>
