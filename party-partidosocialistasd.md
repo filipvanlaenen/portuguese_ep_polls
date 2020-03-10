@@ -11,7 +11,7 @@ Last result: **31.5%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 33.5% | 30.0–38.2% | 29.2–39.0% | 28.5–39.6% | 27.2–40.8% |
-| [1–5 March 2020](2020-03-05-Eurosondagem.html) | Eurosondagem | 37.3% | N/A | N/A | N/A | N/A |
+| [1–5 March 2020](2020-03-05-Eurosondagem.html) | Eurosondagem | 37.3% | 35.4–39.3% | 34.8–39.8% | 34.4–40.3% | 33.4–41.3% |
 | [14–18 February 2020](2020-02-18-Aximage.html) | Aximage | 35.2% | N/A | N/A | N/A | N/A |
 | [11–17 February 2020](2020-02-17-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 31.1% | 28.8–33.6% | 28.1–34.3% | 27.6–34.9% | 26.5–36.1% |
 | [2–6 February 2020](2020-02-06-Eurosondagem.html) | Eurosondagem | 37.4% | 35.5–39.4% | 34.9–40.0% | 34.4–40.5% | 33.5–41.4% |
@@ -95,7 +95,7 @@ Last result: **8** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8 | 7–9 | 7–10 | 7–10 | 6–10 |
-| [1–5 March 2020](2020-03-05-Eurosondagem.html) | Eurosondagem |  |  |  |  |  |
+| [1–5 March 2020](2020-03-05-Eurosondagem.html) | Eurosondagem | 9 | 9–10 | 8–10 | 8–10 | 8–10 |
 | [14–18 February 2020](2020-02-18-Aximage.html) | Aximage |  |  |  |  |  |
 | [11–17 February 2020](2020-02-17-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 8 | 7–8 | 7–8 | 7–8 | 6–9 |
 | [2–6 February 2020](2020-02-06-Eurosondagem.html) | Eurosondagem | 9 | 9–10 | 8–10 | 8–10 | 8–10 |

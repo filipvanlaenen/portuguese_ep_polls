@@ -11,7 +11,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5.8% | 2.3–7.6% | 2.1–8.1% | 1.9–8.5% | 1.6–9.4% |
-| [1–5 March 2020](2020-03-05-Eurosondagem.html) | Eurosondagem | 3.3% | N/A | N/A | N/A | N/A |
+| [1–5 March 2020](2020-03-05-Eurosondagem.html) | Eurosondagem | 3.3% | 2.7–4.1% | 2.5–4.3% | 2.3–4.6% | 2.1–5.0% |
 | [14–18 February 2020](2020-02-18-Aximage.html) | Aximage | 4.3% | N/A | N/A | N/A | N/A |
 | [11–17 February 2020](2020-02-17-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 6.8% | 5.7–8.3% | 5.4–8.7% | 5.1–9.1% | 4.6–9.9% |
 | [2–6 February 2020](2020-02-06-Eurosondagem.html) | Eurosondagem | 2.5% | 2.0–3.3% | 1.8–3.5% | 1.7–3.7% | 1.5–4.1% |
@@ -88,7 +88,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
-| [1–5 March 2020](2020-03-05-Eurosondagem.html) | Eurosondagem |  |  |  |  |  |
+| [1–5 March 2020](2020-03-05-Eurosondagem.html) | Eurosondagem | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [14–18 February 2020](2020-02-18-Aximage.html) | Aximage |  |  |  |  |  |
 | [11–17 February 2020](2020-02-17-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [2–6 February 2020](2020-02-06-Eurosondagem.html) | Eurosondagem | 0 | 0 | 0 | 0 | 0–1 |
