@@ -10,9 +10,9 @@ Last result: **0.7%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.8% | 0.4–1.5% | 0.3–1.7% | 0.3–1.8% | 0.2–2.2% |
+| N/A | [Poll Average](average.html) | 0.8% | 0.4–1.4% | 0.3–1.6% | 0.3–1.8% | 0.2–2.2% |
 | [1–5 March 2020](2020-03-05-Eurosondagem.html) | Eurosondagem | 0.0% | N/A | N/A | N/A | N/A |
-| [14–18 February 2020](2020-02-18-Aximage.html) | Aximage | 0.7% | N/A | N/A | N/A | N/A |
+| [14–18 February 2020](2020-02-18-Aximage.html) | Aximage | 0.7% | 0.4–1.3% | 0.3–1.5% | 0.3–1.7% | 0.2–2.1% |
 | [11–17 February 2020](2020-02-17-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 0.8% | 0.5–1.5% | 0.4–1.7% | 0.4–1.9% | 0.2–2.3% |
 | [2–6 February 2020](2020-02-06-Eurosondagem.html) | Eurosondagem | 0.5% | 0.3–0.9% | 0.3–1.1% | 0.2–1.2% | 0.2–1.4% |
 | [22 January–5 February 2020](2020-02-05-ICSISCTE.html) | ICS/ISCTE | 1.0% | 0.7–1.6% | 0.6–1.8% | 0.5–2.0% | 0.4–2.3% |
@@ -65,9 +65,9 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 21% | 100% |  |
-| 0.5–1.5% | 72% | 79% | Last Result, Median |
-| 1.5–2.5% | 7% | 7% |  |
+| 0.0–0.5% | 22% | 100% |  |
+| 0.5–1.5% | 72% | 78% | Last Result, Median |
+| 1.5–2.5% | 6% | 6% |  |
 | 2.5–3.5% | 0.1% | 0.1% |  |
 | 3.5–4.5% | 0% | 0% |  |
 
@@ -82,7 +82,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [1–5 March 2020](2020-03-05-Eurosondagem.html) | Eurosondagem |  |  |  |  |  |
-| [14–18 February 2020](2020-02-18-Aximage.html) | Aximage |  |  |  |  |  |
+| [14–18 February 2020](2020-02-18-Aximage.html) | Aximage | 0 | 0 | 0 | 0 | 0 |
 | [11–17 February 2020](2020-02-17-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 0 | 0 | 0 | 0 | 0 |
 | [2–6 February 2020](2020-02-06-Eurosondagem.html) | Eurosondagem | 0 | 0 | 0 | 0 | 0 |
 | [22 January–5 February 2020](2020-02-05-ICSISCTE.html) | ICS/ISCTE | 0 | 0 | 0 | 0 | 0 |
