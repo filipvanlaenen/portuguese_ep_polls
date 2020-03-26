@@ -10,9 +10,10 @@ Last result: **4.6%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9.1% | 7.3–13.6% | 6.8–14.5% | 6.4–15.1% | 5.7–16.2% |
+| N/A | [Poll Average](average.html) | 9.1% | 7.4–15.0% | 7.0–15.9% | 6.6–16.5% | 6.0–17.7% |
+| [13–19 March 2020](2020-03-19-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 14.6% | 12.9–16.5% | 12.4–17.1% | 12.0–17.6% | 11.2–18.6% |
 | [1–5 March 2020](2020-03-05-Eurosondagem.html) | Eurosondagem | 8.8% | 7.8–10.1% | 7.5–10.4% | 7.2–10.7% | 6.7–11.3% |
-| [14–18 February 2020](2020-02-18-Aximage.html) | Aximage | 7.7% | 6.4–9.2% | 6.1–9.7% | 5.8–10.1% | 5.3–10.9% |
+| [14–18 February 2020](2020-02-18-Aximage.html) | Aximage | 7.7% | 6.7–9.1% | 6.4–9.4% | 6.1–9.8% | 5.6–10.4% |
 | [11–17 February 2020](2020-02-17-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 13.2% | 11.6–15.1% | 11.1–15.6% | 10.7–16.1% | 10.0–17.1% |
 | [2–6 February 2020](2020-02-06-Eurosondagem.html) | Eurosondagem | 9.0% | 7.9–10.3% | 7.6–10.6% | 7.4–10.9% | 6.9–11.6% |
 | [22 January–5 February 2020](2020-02-05-ICSISCTE.html) | ICS/ISCTE | 9.0% | 7.8–10.4% | 7.5–10.8% | 7.2–11.2% | 6.7–11.9% |
@@ -66,21 +67,22 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 3.5–4.5% | 0% | 100% |  |
-| 4.5–5.5% | 0.3% | 100% | Last Result |
-| 5.5–6.5% | 3% | 99.7% |  |
-| 6.5–7.5% | 10% | 97% |  |
-| 7.5–8.5% | 22% | 87% |  |
+| 4.5–5.5% | 0.1% | 100% | Last Result |
+| 5.5–6.5% | 2% | 99.9% |  |
+| 6.5–7.5% | 11% | 98% |  |
+| 7.5–8.5% | 24% | 87% |  |
 | 8.5–9.5% | 24% | 64% | Median |
-| 9.5–10.5% | 12% | 40% |  |
-| 10.5–11.5% | 5% | 28% |  |
-| 11.5–12.5% | 5% | 23% |  |
-| 12.5–13.5% | 7% | 18% |  |
-| 13.5–14.5% | 6% | 11% |  |
-| 14.5–15.5% | 3% | 5% |  |
-| 15.5–16.5% | 1.1% | 1.4% |  |
-| 16.5–17.5% | 0.3% | 0.3% |  |
-| 17.5–18.5% | 0% | 0% |  |
-| 18.5–19.5% | 0% | 0% |  |
+| 9.5–10.5% | 11% | 39% |  |
+| 10.5–11.5% | 3% | 28% |  |
+| 11.5–12.5% | 2% | 25% |  |
+| 12.5–13.5% | 4% | 23% |  |
+| 13.5–14.5% | 6% | 20% |  |
+| 14.5–15.5% | 6% | 13% |  |
+| 15.5–16.5% | 4% | 7% |  |
+| 16.5–17.5% | 2% | 2% |  |
+| 17.5–18.5% | 0.5% | 0.7% |  |
+| 18.5–19.5% | 0.1% | 0.1% |  |
+| 19.5–20.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -91,9 +93,10 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 1–3 | 1–3 | 1–3 | 1–4 |
+| N/A | [Poll Average](average.html) | 2 | 1–3 | 1–3 | 1–4 | 1–4 |
+| [13–19 March 2020](2020-03-19-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | [1–5 March 2020](2020-03-05-Eurosondagem.html) | Eurosondagem | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [14–18 February 2020](2020-02-18-Aximage.html) | Aximage | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [14–18 February 2020](2020-02-18-Aximage.html) | Aximage | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [11–17 February 2020](2020-02-17-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
 | [2–6 February 2020](2020-02-06-Eurosondagem.html) | Eurosondagem | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | [22 January–5 February 2020](2020-02-05-ICSISCTE.html) | ICS/ISCTE | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
@@ -148,10 +151,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 19% | 100% | Last Result |
-| 2 | 59% | 81% | Median |
-| 3 | 21% | 23% |  |
-| 4 | 1.3% | 1.3% |  |
+| 1 | 18% | 100% | Last Result |
+| 2 | 57% | 82% | Median |
+| 3 | 20% | 25% |  |
+| 4 | 5% | 5% |  |
 | 5 | 0% | 0% |  |
 
 
