@@ -270,3 +270,224 @@ Only polls for which at least the sample size has been published are included in
 | <a href="#aliança-(re)">Aliança (RE)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#chega-(id)">Chega (ID)</a> | 0 | 1 | 0–2 |0–2 | 0–2 | 0–2 |
 
+### Partido Socialista (S&D)
+
+*For a full overview of the results for this party, see the [Partido Socialista (S&D)](party-partidosocialistasd.html) page.*
+
+![Graph with seats probability mass function not yet produced](average-seats-pmf-partidosocialistasd.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 6 | 0.9% | 100% |  |
+| 7 | 16% | 99.1% |  |
+| 8 | 46% | 83% | Last Result, Median |
+| 9 | 32% | 37% |  |
+| 10 | 5% | 5% |  |
+| 11 | 0% | 0% | Majority |
+
+### Partido Social Democrata (EPP)
+
+*For a full overview of the results for this party, see the [Partido Social Democrata (EPP)](party-partidosocialdemocrataepp.html) page.*
+
+![Graph with seats probability mass function not yet produced](average-seats-pmf-partidosocialdemocrataepp.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 4 | 3% | 100% |  |
+| 5 | 20% | 97% |  |
+| 6 | 40% | 77% | Last Result, Median |
+| 7 | 36% | 37% |  |
+| 8 | 2% | 2% |  |
+| 9 | 0% | 0% |  |
+
+### CDS–Partido Popular (EPP)
+
+*For a full overview of the results for this party, see the [CDS–Partido Popular (EPP)](party-cds–partidopopularepp.html) page.*
+
+![Graph with seats probability mass function not yet produced](average-seats-pmf-cds–partidopopularepp.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 74% | 100% | Median |
+| 1 | 26% | 26% | Last Result |
+| 2 | 0% | 0% |  |
+
+### Coligação Democrática Unitária (GUE/NGL)
+
+*For a full overview of the results for this party, see the [Coligação Democrática Unitária (GUE/NGL)](party-coligaçãodemocráticaunitáriaguengl.html) page.*
+
+![Graph with seats probability mass function not yet produced](average-seats-pmf-coligaçãodemocráticaunitáriaguengl.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 0.8% | 100% |  |
+| 1 | 82% | 99.2% | Median |
+| 2 | 17% | 17% |  |
+| 3 | 0% | 0% | Last Result |
+
+### Bloco de Esquerda (GUE/NGL)
+
+*For a full overview of the results for this party, see the [Bloco de Esquerda (GUE/NGL)](party-blocodeesquerdaguengl.html) page.*
+
+![Graph with seats probability mass function not yet produced](average-seats-pmf-blocodeesquerdaguengl.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 1 | 18% | 100% | Last Result |
+| 2 | 57% | 82% | Median |
+| 3 | 20% | 25% |  |
+| 4 | 5% | 5% |  |
+| 5 | 0% | 0% |  |
+
+### Pessoas–Animais–Natureza (Greens/EFA)
+
+*For a full overview of the results for this party, see the [Pessoas–Animais–Natureza (Greens/EFA)](party-pessoas–animais–naturezagreensefa.html) page.*
+
+![Graph with seats probability mass function not yet produced](average-seats-pmf-pessoas–animais–naturezagreensefa.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 57% | 100% | Last Result, Median |
+| 1 | 42% | 43% |  |
+| 2 | 0.7% | 0.7% |  |
+| 3 | 0% | 0% |  |
+
+### LIVRE (Greens/EFA)
+
+*For a full overview of the results for this party, see the [LIVRE (Greens/EFA)](party-livregreensefa.html) page.*
+
+![Graph with seats probability mass function not yet produced](average-seats-pmf-livregreensefa.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 100% | 100% | Last Result, Median |
+
+### Iniciativa Liberal (RE)
+
+*For a full overview of the results for this party, see the [Iniciativa Liberal (RE)](party-iniciativaliberalre.html) page.*
+
+![Graph with seats probability mass function not yet produced](average-seats-pmf-iniciativaliberalre.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 99.4% | 100% | Last Result, Median |
+| 1 | 0.6% | 0.6% |  |
+| 2 | 0% | 0% |  |
+
+### Aliança (RE)
+
+*For a full overview of the results for this party, see the [Aliança (RE)](party-aliançare.html) page.*
+
+![Graph with seats probability mass function not yet produced](average-seats-pmf-aliançare.png "Seats Probability Mass Function")
+
+### Chega (ID)
+
+*For a full overview of the results for this party, see the [Chega (ID)](party-chegaid.html) page.*
+
+![Graph with seats probability mass function not yet produced](average-seats-pmf-chegaid.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 26% | 100% | Last Result |
+| 1 | 53% | 74% | Median |
+| 2 | 20% | 21% |  |
+| 3 | 0.3% | 0.3% |  |
+| 4 | 0% | 0% |  |
+
+
+## Coalitions
+
+![Graph with coalitions seats not yet produced](average-coalitions-seats.png "Coalitions Seats")
+
+### Confidence Intervals
+
+| Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
+|:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
+| Partido Socialista (S&D) | 8 | 8 | 0% | 7–9 | 7–10 | 7–10 | 6–10 |
+| CDS–Partido Popular (EPP) – Partido Social Democrata (EPP) | 7 | 6 | 0% | 5–8 | 5–8 | 5–8 | 4–8 |
+| Coligação Democrática Unitária (GUE/NGL) – Bloco de Esquerda (GUE/NGL) | 4 | 3 | 0% | 2–4 | 2–5 | 2–5 | 2–5 |
+| Chega (ID) | 0 | 1 | 0% | 0–2 | 0–2 | 0–2 | 0–2 |
+| Pessoas–Animais–Natureza (Greens/EFA) – LIVRE (Greens/EFA) | 0 | 0 | 0% | 0–1 | 0–1 | 0–1 | 0–2 |
+| Aliança (RE) – Iniciativa Liberal (RE) | 0 | 0 | 0% | 0 | 0 | 0 | 0–1 |
+
+### Partido Socialista (S&D)
+
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-ps.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 6 | 0.9% | 100% |  |
+| 7 | 16% | 99.1% |  |
+| 8 | 46% | 83% | Last Result, Median |
+| 9 | 32% | 37% |  |
+| 10 | 5% | 5% |  |
+| 11 | 0% | 0% | Majority |
+
+### CDS–Partido Popular (EPP) – Partido Social Democrata (EPP)
+
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-cds–pp–psd.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 4 | 0.8% | 100% |  |
+| 5 | 15% | 99.2% |  |
+| 6 | 40% | 84% | Median |
+| 7 | 33% | 44% | Last Result |
+| 8 | 11% | 11% |  |
+| 9 | 0.4% | 0.4% |  |
+| 10 | 0% | 0% |  |
+
+### Coligação Democrática Unitária (GUE/NGL) – Bloco de Esquerda (GUE/NGL)
+
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-cdu–be.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 1 | 0.1% | 100% |  |
+| 2 | 15% | 99.9% |  |
+| 3 | 47% | 85% | Median |
+| 4 | 32% | 38% | Last Result |
+| 5 | 6% | 6% |  |
+| 6 | 0.1% | 0.1% |  |
+| 7 | 0% | 0% |  |
+
+### Chega (ID)
+
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-ch.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 26% | 100% | Last Result |
+| 1 | 53% | 74% | Median |
+| 2 | 20% | 21% |  |
+| 3 | 0.3% | 0.3% |  |
+| 4 | 0% | 0% |  |
+
+### Pessoas–Animais–Natureza (Greens/EFA) – LIVRE (Greens/EFA)
+
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-pan–l.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 57% | 100% | Last Result, Median |
+| 1 | 42% | 43% |  |
+| 2 | 0.7% | 0.7% |  |
+| 3 | 0% | 0% |  |
+
+### Aliança (RE) – Iniciativa Liberal (RE)
+
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-a–il.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 99.4% | 100% | Last Result, Median |
+| 1 | 0.6% | 0.6% |  |
+| 2 | 0% | 0% |  |
+
+
+## Technical Information
+
++ **Number of polls included in this average:** 4
++ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Total number of simulations done in the polls included in this average:** 4,194,304
++ **Error estimate:** 2.29%
