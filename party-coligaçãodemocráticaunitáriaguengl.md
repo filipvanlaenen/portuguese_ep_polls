@@ -10,7 +10,8 @@ Last result: **12.7%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.4% | 5.0–8.4% | 4.7–8.9% | 4.4–9.4% | 3.9–10.2% |
+| N/A | [Poll Average](average.html) | 6.2% | 4.8–8.2% | 4.5–8.8% | 4.2–9.2% | 3.8–10.1% |
+| [13–21 March 2020](2020-03-21-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 5.5% | 4.4–6.8% | 4.1–7.2% | 3.9–7.6% | 3.5–8.3% |
 | [13–19 March 2020](2020-03-19-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 6.1% | 5.0–7.5% | 4.7–7.9% | 4.4–8.2% | 4.0–9.0% |
 | [1–5 March 2020](2020-03-05-Eurosondagem.html) | Eurosondagem | 6.3% | 5.4–7.4% | 5.2–7.7% | 5.0–8.0% | 4.6–8.6% |
 | [14–18 February 2020](2020-02-18-Aximage.html) | Aximage | 5.4% | 4.5–6.5% | 4.2–6.8% | 4.0–7.1% | 3.6–7.7% |
@@ -67,14 +68,14 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 0.1% | 100% |  |
-| 3.5–4.5% | 4% | 99.9% |  |
-| 4.5–5.5% | 20% | 96% |  |
-| 5.5–6.5% | 31% | 76% | Median |
-| 6.5–7.5% | 23% | 45% |  |
-| 7.5–8.5% | 14% | 22% |  |
-| 8.5–9.5% | 6% | 8% |  |
-| 9.5–10.5% | 2% | 2% |  |
+| 2.5–3.5% | 0.2% | 100% |  |
+| 3.5–4.5% | 5% | 99.8% |  |
+| 4.5–5.5% | 23% | 94% |  |
+| 5.5–6.5% | 32% | 71% | Median |
+| 6.5–7.5% | 21% | 39% |  |
+| 7.5–8.5% | 12% | 18% |  |
+| 8.5–9.5% | 5% | 7% |  |
+| 9.5–10.5% | 1.3% | 1.5% |  |
 | 10.5–11.5% | 0.2% | 0.2% |  |
 | 11.5–12.5% | 0% | 0% |  |
 | 12.5–13.5% | 0% | 0% | Last Result |
@@ -89,6 +90,7 @@ Last result: **3** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
+| [13–21 March 2020](2020-03-21-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 1 | 1 | 1 | 1 | 0–2 |
 | [13–19 March 2020](2020-03-19-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 1 | 1 | 1–2 | 1–2 | 0–2 |
 | [1–5 March 2020](2020-03-05-Eurosondagem.html) | Eurosondagem | 1 | 1 | 1 | 1–2 | 1–2 |
 | [14–18 February 2020](2020-02-18-Aximage.html) | Aximage | 1 | 1 | 1 | 1 | 0–1 |
@@ -146,9 +148,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.8% | 100% |  |
-| 1 | 82% | 99.2% | Median |
-| 2 | 17% | 17% |  |
+| 0 | 1.1% | 100% |  |
+| 1 | 85% | 98.9% | Median |
+| 2 | 14% | 14% |  |
 | 3 | 0% | 0% | Last Result |
 
 
