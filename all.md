@@ -5,6 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | PS | PSD | CDS–PP | CDU | BE | PAN | L | IL | A | CH |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 31.5% <br> 8 | 27.7% <br> 6 | 27.7% <br> 1 | 12.7% <br> 3 | 4.6% <br> 1 | 1.7% <br> 0 | 0.7% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| [29 March–2 April 2020](2020-04-02-Eurosondagem.html) | Eurosondagem | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [13–21 March 2020](2020-03-21-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 38–46% <br> 9–11 | 22–29% <br> 5–7 | 2–5% <br> 0–1 | 4–8% <br> 1 | 7–11% <br> 1–2 | 2–5% <br> 0–1 | N/A <br> N/A | 1–3% <br> 0 | N/A <br> N/A | 6–11% <br> 1–2 |
 | [13–19 March 2020](2020-03-19-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 28–35% <br> 6–9 | 19–25% <br> 4–6 | 2–5% <br> 0–1 | 4–8% <br> 1–2 | 12–18% <br> 3–4 | 4–8% <br> 1–2 | 0–1% <br> 0 | 1–4% <br> 0 | N/A <br> N/A | 7–11% <br> 1–2 |
 | [1–5 March 2020](2020-03-05-Eurosondagem.html) | Eurosondagem | 34–40% <br> 8–10 | 25–30% <br> 6–7 | 2–4% <br> 0–1 | 5–8% <br> 1–2 | 7–11% <br> 1–2 | 2–4% <br> 0–1 | N/A <br> N/A | 1–2% <br> 0 | N/A <br> N/A | 2–5% <br> 0–1 |
