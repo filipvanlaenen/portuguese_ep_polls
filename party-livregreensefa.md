@@ -11,6 +11,7 @@ Last result: **0.7%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0.7% | 0.2–1.4% | 0.1–1.6% | 0.1–1.7% | 0.0–2.1% |
+| [29 March–2 April 2020](2020-04-02-Eurosondagem.html) | Eurosondagem | 0.0% | N/A | N/A | N/A | N/A |
 | [13–21 March 2020](2020-03-21-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 0.0% | N/A | N/A | N/A | N/A |
 | [13–19 March 2020](2020-03-19-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 0.2% | 0.1–0.6% | 0.0–0.8% | 0.0–0.9% | 0.0–1.2% |
 | [1–5 March 2020](2020-03-05-Eurosondagem.html) | Eurosondagem | 0.0% | N/A | N/A | N/A | N/A |
@@ -83,6 +84,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [29 March–2 April 2020](2020-04-02-Eurosondagem.html) | Eurosondagem |  |  |  |  |  |
 | [13–21 March 2020](2020-03-21-Pitagórica.html) | Pitagórica <br> Jornal de Notícias |  |  |  |  |  |
 | [13–19 March 2020](2020-03-19-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 0 | 0 | 0 | 0 | 0 |
 | [1–5 March 2020](2020-03-05-Eurosondagem.html) | Eurosondagem |  |  |  |  |  |
