@@ -10,8 +10,8 @@ Last result: **31.5%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 34.2% | 30.6–42.2% | 29.7–43.4% | 29.0–44.3% | 27.7–45.8% |
-| [29 March–2 April 2020](2020-04-02-Eurosondagem.html) | Eurosondagem | 37.5% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 35.3% | 30.9–41.7% | 30.0–43.0% | 29.2–44.0% | 27.9–45.6% |
+| [29 March–2 April 2020](2020-04-02-Eurosondagem.html) | Eurosondagem | 37.5% | 35.6–39.5% | 35.0–40.1% | 34.6–40.5% | 33.6–41.5% |
 | [13–21 March 2020](2020-03-21-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 41.7% | 39.1–44.3% | 38.4–45.0% | 37.8–45.6% | 36.6–46.9% |
 | [13–19 March 2020](2020-03-19-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 31.4% | 29.1–33.9% | 28.4–34.6% | 27.9–35.2% | 26.8–36.4% |
 | [1–5 March 2020](2020-03-05-Eurosondagem.html) | Eurosondagem | 37.3% | 35.4–39.3% | 34.8–39.8% | 34.4–40.3% | 33.4–41.3% |
@@ -71,26 +71,26 @@ The following table shows the probability mass function per percentage block of 
 | 24.5–25.5% | 0% | 100% |  |
 | 25.5–26.5% | 0.1% | 100% |  |
 | 26.5–27.5% | 0.3% | 99.9% |  |
-| 27.5–28.5% | 1.1% | 99.6% |  |
-| 28.5–29.5% | 3% | 98.5% |  |
-| 29.5–30.5% | 5% | 96% |  |
-| 30.5–31.5% | 8% | 91% | Last Result |
-| 31.5–32.5% | 11% | 82% |  |
-| 32.5–33.5% | 12% | 71% |  |
-| 33.5–34.5% | 12% | 58% | Median |
-| 34.5–35.5% | 10% | 46% |  |
-| 35.5–36.5% | 7% | 37% |  |
-| 36.5–37.5% | 4% | 30% |  |
-| 37.5–38.5% | 2% | 26% |  |
-| 38.5–39.5% | 3% | 24% |  |
-| 39.5–40.5% | 4% | 22% |  |
-| 40.5–41.5% | 5% | 18% |  |
-| 41.5–42.5% | 5% | 13% |  |
-| 42.5–43.5% | 4% | 8% |  |
+| 27.5–28.5% | 0.9% | 99.7% |  |
+| 28.5–29.5% | 2% | 98.8% |  |
+| 29.5–30.5% | 4% | 97% |  |
+| 30.5–31.5% | 7% | 92% | Last Result |
+| 31.5–32.5% | 9% | 86% |  |
+| 32.5–33.5% | 10% | 77% |  |
+| 33.5–34.5% | 10% | 67% |  |
+| 34.5–35.5% | 9% | 57% | Median |
+| 35.5–36.5% | 9% | 47% |  |
+| 36.5–37.5% | 8% | 39% |  |
+| 37.5–38.5% | 7% | 31% |  |
+| 38.5–39.5% | 5% | 24% |  |
+| 39.5–40.5% | 4% | 19% |  |
+| 40.5–41.5% | 4% | 15% |  |
+| 41.5–42.5% | 4% | 11% |  |
+| 42.5–43.5% | 3% | 7% |  |
 | 43.5–44.5% | 2% | 4% |  |
-| 44.5–45.5% | 1.2% | 2% |  |
-| 45.5–46.5% | 0.5% | 0.7% |  |
-| 46.5–47.5% | 0.2% | 0.2% |  |
+| 44.5–45.5% | 1.0% | 2% |  |
+| 45.5–46.5% | 0.4% | 0.5% |  |
+| 46.5–47.5% | 0.1% | 0.2% |  |
 | 47.5–48.5% | 0% | 0% |  |
 
 
@@ -103,7 +103,7 @@ Last result: **8** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8 | 7–10 | 7–11 | 7–11 | 6–11 |
-| [29 March–2 April 2020](2020-04-02-Eurosondagem.html) | Eurosondagem |  |  |  |  |  |
+| [29 March–2 April 2020](2020-04-02-Eurosondagem.html) | Eurosondagem | 9 | 9–10 | 8–10 | 8–10 | 8–10 |
 | [13–21 March 2020](2020-03-21-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 10 | 9–11 | 9–11 | 9–11 | 9–12 |
 | [13–19 March 2020](2020-03-19-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 8 | 7–8 | 7–8 | 6–9 | 6–9 |
 | [1–5 March 2020](2020-03-05-Eurosondagem.html) | Eurosondagem | 9 | 9–10 | 8–10 | 8–10 | 8–10 |
@@ -162,13 +162,13 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 6 | 0.9% | 100% |  |
-| 7 | 16% | 99.1% |  |
-| 8 | 44% | 83% | Last Result, Median |
-| 9 | 17% | 39% |  |
-| 10 | 16% | 23% |  |
-| 11 | 6% | 7% | Majority |
-| 12 | 0.3% | 0.3% |  |
+| 6 | 0.7% | 100% |  |
+| 7 | 13% | 99.3% |  |
+| 8 | 37% | 87% | Last Result, Median |
+| 9 | 28% | 50% |  |
+| 10 | 16% | 22% |  |
+| 11 | 5% | 5% | Majority |
+| 12 | 0.2% | 0.2% |  |
 | 13 | 0% | 0% |  |
 
 
