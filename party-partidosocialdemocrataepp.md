@@ -10,7 +10,9 @@ Last result: **27.7%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 26.2% | 22.9–28.8% | 22.0–29.5% | 21.3–30.1% | 20.1–31.3% |
+| N/A | [Poll Average](average.html) | 26.3% | 22.4–30.2% | 21.6–30.9% | 20.9–31.5% | 19.8–32.6% |
+| [4–7 May 2020](2020-05-07-Eurosondagem.html) | Eurosondagem | 29.4% | 27.6–31.2% | 27.1–31.8% | 26.6–32.3% | 25.8–33.2% |
+| [15–26 April 2020](2020-04-26-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 23.1% | N/A | N/A | N/A | N/A |
 | [9–14 April 2020](2020-04-14-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 23.3% | 21.2–25.6% | 20.6–26.2% | 20.1–26.8% | 19.2–27.9% |
 | [29 March–2 April 2020](2020-04-02-Eurosondagem.html) | Eurosondagem | 27.2% | 25.4–29.0% | 25.0–29.6% | 24.5–30.0% | 23.7–30.9% |
 | [13–21 March 2020](2020-03-21-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 25.1% | 23.0–27.5% | 22.3–28.2% | 21.8–28.7% | 20.8–29.9% |
@@ -70,22 +72,23 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 17.5–18.5% | 0% | 100% |  |
-| 18.5–19.5% | 0.2% | 100% |  |
-| 19.5–20.5% | 0.8% | 99.8% |  |
-| 20.5–21.5% | 2% | 99.0% |  |
-| 21.5–22.5% | 5% | 97% |  |
-| 22.5–23.5% | 8% | 92% |  |
-| 23.5–24.5% | 11% | 85% |  |
-| 24.5–25.5% | 14% | 74% |  |
-| 25.5–26.5% | 17% | 60% | Median |
-| 26.5–27.5% | 17% | 43% |  |
-| 27.5–28.5% | 13% | 26% | Last Result |
-| 28.5–29.5% | 8% | 13% |  |
-| 29.5–30.5% | 3% | 5% |  |
-| 30.5–31.5% | 1.1% | 1.5% |  |
-| 31.5–32.5% | 0.3% | 0.3% |  |
-| 32.5–33.5% | 0.1% | 0.1% |  |
-| 33.5–34.5% | 0% | 0% |  |
+| 18.5–19.5% | 0.3% | 100% |  |
+| 19.5–20.5% | 1.2% | 99.7% |  |
+| 20.5–21.5% | 3% | 98.5% |  |
+| 21.5–22.5% | 6% | 95% |  |
+| 22.5–23.5% | 9% | 89% |  |
+| 23.5–24.5% | 11% | 80% |  |
+| 24.5–25.5% | 11% | 70% |  |
+| 25.5–26.5% | 12% | 58% | Median |
+| 26.5–27.5% | 11% | 47% |  |
+| 27.5–28.5% | 10% | 36% | Last Result |
+| 28.5–29.5% | 10% | 26% |  |
+| 29.5–30.5% | 8% | 16% |  |
+| 30.5–31.5% | 5% | 7% |  |
+| 31.5–32.5% | 2% | 2% |  |
+| 32.5–33.5% | 0.4% | 0.5% |  |
+| 33.5–34.5% | 0.1% | 0.1% |  |
+| 34.5–35.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -96,7 +99,9 @@ Last result: **6** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
+| N/A | [Poll Average](average.html) | 6 | 5–7 | 5–7 | 5–8 | 4–8 |
+| [4–7 May 2020](2020-05-07-Eurosondagem.html) | Eurosondagem | 7 | 6–7 | 6–8 | 6–8 | 6–8 |
+| [15–26 April 2020](2020-04-26-Pitagórica.html) | Pitagórica <br> Jornal de Notícias |  |  |  |  |  |
 | [9–14 April 2020](2020-04-14-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 5 | 5–6 | 5–6 | 5–6 | 4–7 |
 | [29 March–2 April 2020](2020-04-02-Eurosondagem.html) | Eurosondagem | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
 | [13–21 March 2020](2020-03-21-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
@@ -157,11 +162,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 0.4% | 100% |  |
-| 5 | 16% | 99.6% |  |
-| 6 | 52% | 83% | Last Result, Median |
-| 7 | 30% | 31% |  |
-| 8 | 1.1% | 1.1% |  |
+| 4 | 0.6% | 100% |  |
+| 5 | 21% | 99.4% |  |
+| 6 | 43% | 78% | Last Result, Median |
+| 7 | 32% | 35% |  |
+| 8 | 3% | 3% |  |
 | 9 | 0% | 0% |  |
 
 
