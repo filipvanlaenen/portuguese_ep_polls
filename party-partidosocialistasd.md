@@ -10,9 +10,9 @@ Last result: **31.5%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 36.1% | 33.4–38.8% | 32.7–39.5% | 32.2–40.1% | 31.0–41.2% |
+| N/A | [Poll Average](average.html) | 37.0% | 33.8–42.3% | 33.0–43.5% | 32.4–44.4% | 31.2–46.0% |
 | [4–7 May 2020](2020-05-07-Eurosondagem.html) | Eurosondagem | 37.7% | 35.8–39.7% | 35.2–40.3% | 34.8–40.8% | 33.9–41.7% |
-| [15–26 April 2020](2020-04-26-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 41.8% | N/A | N/A | N/A | N/A |
+| [15–26 April 2020](2020-04-26-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 41.8% | 39.3–44.4% | 38.6–45.2% | 37.9–45.8% | 36.7–47.1% |
 | [9–14 April 2020](2020-04-14-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 35.5% | 33.1–38.0% | 32.4–38.7% | 31.8–39.3% | 30.7–40.5% |
 | [29 March–2 April 2020](2020-04-02-Eurosondagem.html) | Eurosondagem | 37.5% | 35.6–39.5% | 35.0–40.1% | 34.6–40.5% | 33.6–41.5% |
 | [13–21 March 2020](2020-03-21-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 41.7% | 39.1–44.3% | 38.4–45.0% | 37.8–45.6% | 36.6–46.9% |
@@ -72,20 +72,26 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 28.5–29.5% | 0% | 100% |  |
-| 29.5–30.5% | 0.2% | 100% |  |
-| 30.5–31.5% | 0.9% | 99.8% | Last Result |
-| 31.5–32.5% | 3% | 98.9% |  |
-| 32.5–33.5% | 7% | 96% |  |
-| 33.5–34.5% | 12% | 89% |  |
-| 34.5–35.5% | 16% | 77% |  |
-| 35.5–36.5% | 18% | 60% | Median |
-| 36.5–37.5% | 17% | 42% |  |
-| 37.5–38.5% | 13% | 25% |  |
-| 38.5–39.5% | 8% | 12% |  |
-| 39.5–40.5% | 3% | 5% |  |
-| 40.5–41.5% | 1.1% | 1.3% |  |
-| 41.5–42.5% | 0.2% | 0.3% |  |
-| 42.5–43.5% | 0% | 0% |  |
+| 29.5–30.5% | 0.1% | 100% |  |
+| 30.5–31.5% | 0.7% | 99.8% | Last Result |
+| 31.5–32.5% | 2% | 99.2% |  |
+| 32.5–33.5% | 5% | 97% |  |
+| 33.5–34.5% | 9% | 92% |  |
+| 34.5–35.5% | 12% | 82% |  |
+| 35.5–36.5% | 14% | 70% |  |
+| 36.5–37.5% | 13% | 56% | Median |
+| 37.5–38.5% | 10% | 44% |  |
+| 38.5–39.5% | 8% | 33% |  |
+| 39.5–40.5% | 6% | 25% |  |
+| 40.5–41.5% | 5% | 20% |  |
+| 41.5–42.5% | 5% | 14% |  |
+| 42.5–43.5% | 4% | 9% |  |
+| 43.5–44.5% | 3% | 5% |  |
+| 44.5–45.5% | 1.4% | 2% |  |
+| 45.5–46.5% | 0.6% | 0.8% |  |
+| 46.5–47.5% | 0.2% | 0.2% |  |
+| 47.5–48.5% | 0% | 0.1% |  |
+| 48.5–49.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -96,9 +102,9 @@ Last result: **8** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9 | 8–9 | 8–10 | 7–10 | 7–10 |
+| N/A | [Poll Average](average.html) | 9 | 8–10 | 8–11 | 8–11 | 7–11 |
 | [4–7 May 2020](2020-05-07-Eurosondagem.html) | Eurosondagem | 9 | 8–10 | 8–10 | 8–10 | 8–10 |
-| [15–26 April 2020](2020-04-26-Pitagórica.html) | Pitagórica <br> Jornal de Notícias |  |  |  |  |  |
+| [15–26 April 2020](2020-04-26-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 10 | 9–11 | 9–11 | 9–11 | 9–12 |
 | [9–14 April 2020](2020-04-14-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 9 | 8–9 | 8–10 | 7–10 | 7–10 |
 | [29 March–2 April 2020](2020-04-02-Eurosondagem.html) | Eurosondagem | 9 | 9–10 | 8–10 | 8–10 | 8–10 |
 | [13–21 March 2020](2020-03-21-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 10 | 9–11 | 9–11 | 9–11 | 9–12 |
@@ -159,11 +165,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 7 | 3% | 100% |  |
-| 8 | 37% | 97% | Last Result |
-| 9 | 54% | 60% | Median |
-| 10 | 7% | 7% |  |
-| 11 | 0.1% | 0.1% | Majority |
-| 12 | 0% | 0% |  |
+| 7 | 2% | 100% |  |
+| 8 | 28% | 98% | Last Result |
+| 9 | 43% | 70% | Median |
+| 10 | 20% | 27% |  |
+| 11 | 7% | 7% | Majority |
+| 12 | 0.1% | 0.1% |  |
+| 13 | 0% | 0% |  |
 
 
