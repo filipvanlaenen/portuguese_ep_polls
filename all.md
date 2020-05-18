@@ -5,6 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | PS | PSD | CDS–PP | CDU | BE | PAN | L | IL | A | CH |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 31.5% <br> 8 | 27.7% <br> 6 | 27.7% <br> 1 | 12.7% <br> 3 | 4.6% <br> 1 | 1.7% <br> 0 | 0.7% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| [5–9 May 2020](2020-05-09-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 37–44% <br> 9–11 | 20–27% <br> 5–6 | 2–5% <br> 0–1 | 4–8% <br> 1–2 | 7–12% <br> 1–2 | 2–5% <br> 0–1 | 0–2% <br> 0 | 2–5% <br> 0–1 | N/A <br> N/A | 5–9% <br> 1–2 |
 | [4–7 May 2020](2020-05-07-Eurosondagem.html) | Eurosondagem | 35–41% <br> 8–10 | 27–32% <br> 6–8 | 2–4% <br> 0–1 | 4–7% <br> 1 | 7–10% <br> 1–2 | 2–4% <br> 0 | N/A <br> N/A | 1–2% <br> 0 | N/A <br> N/A | 3–5% <br> 0–1 |
 | [15–26 April 2020](2020-04-26-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 38–46% <br> 9–11 | 20–27% <br> 5–6 | 2–4% <br> 0–1 | 4–8% <br> 1 | 6–11% <br> 1–2 | 2–4% <br> 0–1 | N/A <br> N/A | 2–4% <br> 0–1 | N/A <br> N/A | 5–10% <br> 1–2 |
 | [9–14 April 2020](2020-04-14-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 32–39% <br> 7–10 | 20–27% <br> 5–6 | 3–6% <br> 0–1 | 4–8% <br> 1 | 10–15% <br> 2–3 | 4–7% <br> 0–1 | 0–2% <br> 0 | 1–4% <br> 0 | N/A <br> N/A | 6–10% <br> 1–2 |
