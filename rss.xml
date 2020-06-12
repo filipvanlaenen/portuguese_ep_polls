@@ -8,7 +8,17 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/portuguese_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 03 Jun 2020 20:58:03 +0200</pubDate>
+    <pubDate>Fri, 12 Jun 2020 08:15:18 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Eurosondagem, 1–4 June 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2020-06-04-Eurosondagem.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Social Democrata (EPP): 26.6–32.2%&lt;/li&gt;&lt;li&gt;Partido Socialista (S&amp;amp;D): 35.1–41.0%&lt;/li&gt;&lt;li&gt;Bloco de Esquerda (GUE/NGL): 6.5–9.9%&lt;/li&gt;&lt;li&gt;CDS–Partido Popular (EPP): 1.9–3.9%&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária (GUE/NGL): 4.1–6.8%&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza (Greens/EFA): 2.1–4.3%&lt;/li&gt;&lt;li&gt;Iniciativa Liberal (RE): 0.6–1.9%&lt;/li&gt;&lt;li&gt;Chega (ID): 3.0–5.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2020-06-04-Eurosondagem.png"
+        length="273805"
+        type="image/png"/>
+      <pubDate>Fri, 12 Jun 2020 08:15:18 +0200</pubDate>
+      <dc:date>2020-06-12T08:15:18.975729+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Pitagórica for Jornal de Notícias, 16–24 May 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2020-05-24-Pitagórica.html#seats</link>
@@ -1659,6 +1669,6 @@
       <pubDate>Sun, 30 Jun 2019 15:14:32 +0200</pubDate>
       <dc:date>2019-06-30T15:14:32.852257+02:00</dc:date>
     </item>
-    <dc:date>2020-06-03T20:58:03.192016+02:00</dc:date>
+    <dc:date>2020-06-12T08:15:18.975729+02:00</dc:date>
   </channel>
 </rss>
