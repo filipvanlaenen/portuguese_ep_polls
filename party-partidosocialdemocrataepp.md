@@ -10,7 +10,7 @@ Last result: **27.7%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 24.8% | 22.0–30.5% | 21.3–31.1% | 20.8–31.5% | 19.7–32.2% |
+| N/A | [Poll Average](average.html) | 24.8% | 22.0–30.1% | 21.3–30.8% | 20.8–31.4% | 19.7–32.5% |
 | [1–4 June 2020](2020-06-04-Eurosondagem.html) | Eurosondagem | 29.3% | 27.5–31.2% | 27.0–31.7% | 26.6–32.2% | 25.7–33.1% |
 | [16–24 May 2020](2020-05-24-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 24.1% | 22.2–26.1% | 21.7–26.7% | 21.2–27.1% | 20.4–28.1% |
 | [17–20 May 2020](2020-05-20-Eurosondagem.html) | Eurosondagem | 30.0% | 28.7–31.3% | 28.4–31.7% | 28.1–32.0% | 27.5–32.6% |
@@ -82,16 +82,17 @@ The following table shows the probability mass function per percentage block of 
 | 21.5–22.5% | 10% | 94% |  |
 | 22.5–23.5% | 15% | 84% |  |
 | 23.5–24.5% | 16% | 69% |  |
-| 24.5–25.5% | 11% | 54% | Median |
-| 25.5–26.5% | 6% | 42% |  |
-| 26.5–27.5% | 2% | 36% |  |
-| 27.5–28.5% | 3% | 34% | Last Result |
-| 28.5–29.5% | 9% | 31% |  |
-| 29.5–30.5% | 13% | 23% |  |
-| 30.5–31.5% | 8% | 10% |  |
+| 24.5–25.5% | 12% | 54% | Median |
+| 25.5–26.5% | 7% | 42% |  |
+| 26.5–27.5% | 5% | 35% |  |
+| 27.5–28.5% | 7% | 30% | Last Result |
+| 28.5–29.5% | 9% | 24% |  |
+| 29.5–30.5% | 8% | 14% |  |
+| 30.5–31.5% | 4% | 7% |  |
 | 31.5–32.5% | 2% | 2% |  |
-| 32.5–33.5% | 0.2% | 0.2% |  |
-| 33.5–34.5% | 0% | 0% |  |
+| 32.5–33.5% | 0.4% | 0.4% |  |
+| 33.5–34.5% | 0.1% | 0.1% |  |
+| 34.5–35.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -102,7 +103,7 @@ Last result: **6** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 5–7 | 5–7 | 5–8 | 5–8 |
+| N/A | [Poll Average](average.html) | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
 | [1–4 June 2020](2020-06-04-Eurosondagem.html) | Eurosondagem | 7 | 6–7 | 6–8 | 6–8 | 6–8 |
 | [16–24 May 2020](2020-05-24-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
 | [17–20 May 2020](2020-05-20-Eurosondagem.html) | Eurosondagem | 7 | 7 | 7–8 | 6–8 | 6–8 |
@@ -171,9 +172,9 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 0.4% | 100% |  |
 | 5 | 26% | 99.6% |  |
-| 6 | 40% | 73% | Last Result, Median |
-| 7 | 30% | 33% |  |
-| 8 | 3% | 3% |  |
+| 6 | 44% | 73% | Last Result, Median |
+| 7 | 27% | 29% |  |
+| 8 | 2% | 2% |  |
 | 9 | 0% | 0% |  |
 
 
