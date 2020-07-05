@@ -10,8 +10,8 @@ Last result: **27.7%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 26.8% | 22.9–30.5% | 22.2–31.2% | 21.7–31.7% | 20.7–32.7% |
-| [9–13 June 2020](2020-06-13-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 24.1% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 25.2% | 22.5–30.1% | 21.8–30.8% | 21.3–31.4% | 20.3–32.5% |
+| [9–13 June 2020](2020-06-13-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 24.1% | 22.0–26.4% | 21.4–27.1% | 20.9–27.7% | 19.9–28.8% |
 | [5–8 June 2020](2020-06-08-Aximage.html) | Aximage <br> Jornal Económico | 25.7% | N/A | N/A | N/A | N/A |
 | [1–4 June 2020](2020-06-04-Eurosondagem.html) | Eurosondagem | 29.3% | 27.5–31.2% | 27.0–31.7% | 26.6–32.2% | 25.7–33.1% |
 | [16–24 May 2020](2020-05-24-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 24.1% | 22.2–26.1% | 21.7–26.7% | 21.2–27.1% | 20.4–28.1% |
@@ -77,21 +77,22 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 18.5–19.5% | 0% | 100% |  |
-| 19.5–20.5% | 0.3% | 100% |  |
-| 20.5–21.5% | 2% | 99.6% |  |
-| 21.5–22.5% | 5% | 98% |  |
-| 22.5–23.5% | 10% | 93% |  |
-| 23.5–24.5% | 13% | 82% |  |
-| 24.5–25.5% | 11% | 69% |  |
-| 25.5–26.5% | 7% | 59% |  |
-| 26.5–27.5% | 6% | 52% | Median |
-| 27.5–28.5% | 10% | 45% | Last Result |
-| 28.5–29.5% | 14% | 35% |  |
-| 29.5–30.5% | 12% | 22% |  |
-| 30.5–31.5% | 7% | 10% |  |
-| 31.5–32.5% | 2% | 3% |  |
-| 32.5–33.5% | 0.5% | 0.6% |  |
+| 17.5–18.5% | 0% | 100% |  |
+| 18.5–19.5% | 0.1% | 100% |  |
+| 19.5–20.5% | 0.6% | 99.9% |  |
+| 20.5–21.5% | 3% | 99.3% |  |
+| 21.5–22.5% | 7% | 97% |  |
+| 22.5–23.5% | 13% | 89% |  |
+| 23.5–24.5% | 16% | 76% |  |
+| 24.5–25.5% | 14% | 60% | Median |
+| 25.5–26.5% | 9% | 46% |  |
+| 26.5–27.5% | 6% | 37% |  |
+| 27.5–28.5% | 7% | 31% | Last Result |
+| 28.5–29.5% | 9% | 24% |  |
+| 29.5–30.5% | 8% | 14% |  |
+| 30.5–31.5% | 4% | 7% |  |
+| 31.5–32.5% | 2% | 2% |  |
+| 32.5–33.5% | 0.4% | 0.4% |  |
 | 33.5–34.5% | 0.1% | 0.1% |  |
 | 34.5–35.5% | 0% | 0% |  |
 
@@ -104,8 +105,8 @@ Last result: **6** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 5–7 | 5–7 | 5–8 | 5–8 |
-| [9–13 June 2020](2020-06-13-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
+| [9–13 June 2020](2020-06-13-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
 | [5–8 June 2020](2020-06-08-Aximage.html) | Aximage <br> Jornal Económico |  |  |  |  |  |
 | [1–4 June 2020](2020-06-04-Eurosondagem.html) | Eurosondagem | 7 | 6–7 | 6–8 | 6–8 | 6–8 |
 | [16–24 May 2020](2020-05-24-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
@@ -173,10 +174,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 5 | 16% | 100% |  |
-| 6 | 42% | 84% | Last Result, Median |
-| 7 | 39% | 42% |  |
-| 8 | 4% | 4% |  |
+| 4 | 0.1% | 100% |  |
+| 5 | 21% | 99.9% |  |
+| 6 | 48% | 79% | Last Result, Median |
+| 7 | 28% | 31% |  |
+| 8 | 2% | 2% |  |
 | 9 | 0% | 0% |  |
 
 
