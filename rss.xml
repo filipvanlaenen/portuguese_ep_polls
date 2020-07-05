@@ -8,7 +8,17 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/portuguese_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 14 Jun 2020 20:18:45 +0200</pubDate>
+    <pubDate>Sun, 05 Jul 2020 13:45:39 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Intercampus for Correio da Manhã and Negócios, 9–13 June 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2020-06-13-Intercampus.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Social Democrata (EPP): 20.9–27.7%&lt;/li&gt;&lt;li&gt;Partido Socialista (S&amp;amp;D): 36.2–43.9%&lt;/li&gt;&lt;li&gt;Bloco de Esquerda (GUE/NGL): 7.7–12.5%&lt;/li&gt;&lt;li&gt;CDS–Partido Popular (EPP): 2.8–6.0%&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária (GUE/NGL): 4.6–8.4%&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza (Greens/EFA): 2.0–4.8%&lt;/li&gt;&lt;li&gt;LIVRE (Greens/EFA): 0.4–1.9%&lt;/li&gt;&lt;li&gt;Iniciativa Liberal (RE): 1.1–3.4%&lt;/li&gt;&lt;li&gt;Chega (ID): 5.0–9.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2020-06-13-Intercampus.png"
+        length="316404"
+        type="image/png"/>
+      <pubDate>Sun, 05 Jul 2020 13:45:39 +0200</pubDate>
+      <dc:date>2020-07-05T13:45:39.379284+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Eurosondagem, 1–4 June 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2020-06-04-Eurosondagem.html#seats</link>
@@ -1719,6 +1729,6 @@
       <pubDate>Sun, 30 Jun 2019 15:14:32 +0200</pubDate>
       <dc:date>2019-06-30T15:14:32.852257+02:00</dc:date>
     </item>
-    <dc:date>2020-06-14T20:18:45.715703+02:00</dc:date>
+    <dc:date>2020-07-05T13:45:39.379284+02:00</dc:date>
   </channel>
 </rss>
