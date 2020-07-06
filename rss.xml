@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/portuguese_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 05 Jul 2020 13:45:39 +0200</pubDate>
+    <pubDate>Sun, 05 Jul 2020 22:56:46 +0200</pubDate>
     <item>
       <title>Opinion Poll by Intercampus for Correio da Manhã and Negócios, 9–13 June 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2020-06-13-Intercampus.html</link>
@@ -16,8 +16,38 @@
       <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2020-06-13-Intercampus.png"
         length="316404"
         type="image/png"/>
-      <pubDate>Sun, 05 Jul 2020 13:45:39 +0200</pubDate>
-      <dc:date>2020-07-05T13:45:39.379284+02:00</dc:date>
+      <pubDate>Sun, 05 Jul 2020 22:56:46 +0200</pubDate>
+      <dc:date>2020-07-05T22:56:46.367511+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Aximage for Jornal Económico, 5–8 June 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2020-06-08-Aximage.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Social Democrata (EPP): 5–7 seats&lt;/li&gt;&lt;li&gt;Partido Socialista (S&amp;amp;D): 8–11 seats&lt;/li&gt;&lt;li&gt;Bloco de Esquerda (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;CDS–Partido Popular (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;LIVRE (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Iniciativa Liberal (RE): 0 seats&lt;/li&gt;&lt;li&gt;Chega (ID): 0–2 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2020-06-08-Aximage-seats.png"
+        length="256824"
+        type="image/png"/>
+      <pubDate>Sun, 05 Jul 2020 16:27:25 +0200</pubDate>
+      <dc:date>2020-07-05T16:27:25.901155+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Aximage for Jornal Económico, 5–8 June 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2020-06-08-Aximage.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2020-06-08-Aximage-coalitions-seats.png"
+        length="177259"
+        type="image/png"/>
+      <pubDate>Sun, 05 Jul 2020 16:27:25 +0200</pubDate>
+      <dc:date>2020-07-05T16:27:25.901155+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Aximage for Jornal Económico, 5–8 June 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2020-06-08-Aximage.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Social Democrata (EPP): 21.4–30.5%&lt;/li&gt;&lt;li&gt;Partido Socialista (S&amp;amp;D): 35.0–45.1%&lt;/li&gt;&lt;li&gt;Bloco de Esquerda (GUE/NGL): 5.7–11.4%&lt;/li&gt;&lt;li&gt;CDS–Partido Popular (EPP): 0.4–2.8%&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária (GUE/NGL): 3.2–7.8%&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza (Greens/EFA): 2.6–6.8%&lt;/li&gt;&lt;li&gt;LIVRE (Greens/EFA): 0.1–1.6%&lt;/li&gt;&lt;li&gt;Iniciativa Liberal (RE): 0.6–3.2%&lt;/li&gt;&lt;li&gt;Chega (ID): 3.4–8.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2020-06-08-Aximage.png"
+        length="320429"
+        type="image/png"/>
+      <pubDate>Sun, 05 Jul 2020 16:27:25 +0200</pubDate>
+      <dc:date>2020-07-05T16:27:25.901155+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Eurosondagem, 1–4 June 2020 – Seat Projections for the Parties</title>
@@ -1729,6 +1759,6 @@
       <pubDate>Sun, 30 Jun 2019 15:14:32 +0200</pubDate>
       <dc:date>2019-06-30T15:14:32.852257+02:00</dc:date>
     </item>
-    <dc:date>2020-07-05T13:45:39.379284+02:00</dc:date>
+    <dc:date>2020-07-05T22:56:46.367511+02:00</dc:date>
   </channel>
 </rss>
