@@ -10,7 +10,8 @@ Last result: **27.7%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 25.4% | 22.6–29.9% | 21.9–30.6% | 21.3–31.3% | 20.3–32.4% |
+| N/A | [Poll Average](average.html) | 25.4% | 22.6–29.8% | 21.9–30.6% | 21.3–31.2% | 20.3–32.4% |
+| [29 June–2 July 2020](2020-07-02-Eurosondagem.html) | Eurosondagem | 29.3% | 27.5–31.1% | 27.0–31.7% | 26.6–32.1% | 25.7–33.0% |
 | [9–13 June 2020](2020-06-13-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 24.1% | 22.0–26.4% | 21.4–27.1% | 20.9–27.7% | 19.9–28.8% |
 | [5–8 June 2020](2020-06-08-Aximage.html) | Aximage <br> Jornal Económico | 25.7% | 22.9–28.8% | 22.1–29.7% | 21.4–30.5% | 20.2–32.0% |
 | [1–4 June 2020](2020-06-04-Eurosondagem.html) | Eurosondagem | 29.3% | 27.5–31.2% | 27.0–31.7% | 26.6–32.2% | 25.7–33.1% |
@@ -106,6 +107,7 @@ Last result: **6** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
+| [29 June–2 July 2020](2020-07-02-Eurosondagem.html) | Eurosondagem | 7 | 6–7 | 6–8 | 6–8 | 6–8 |
 | [9–13 June 2020](2020-06-13-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
 | [5–8 June 2020](2020-06-08-Aximage.html) | Aximage <br> Jornal Económico | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
 | [1–4 June 2020](2020-06-04-Eurosondagem.html) | Eurosondagem | 7 | 6–7 | 6–8 | 6–8 | 6–8 |
@@ -176,8 +178,8 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 0.3% | 100% |  |
 | 5 | 21% | 99.7% |  |
-| 6 | 53% | 79% | Last Result, Median |
-| 7 | 24% | 26% |  |
+| 6 | 54% | 79% | Last Result, Median |
+| 7 | 23% | 25% |  |
 | 8 | 2% | 2% |  |
 | 9 | 0% | 0% |  |
 
