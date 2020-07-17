@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/portuguese_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 16 Jul 2020 18:33:23 +0200</pubDate>
+    <pubDate>Fri, 17 Jul 2020 16:54:10 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Eurosondagem, 29 June–2 July 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2020-07-02-Eurosondagem.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Social Democrata (EPP): 6–8 seats&lt;/li&gt;&lt;li&gt;Partido Socialista (S&amp;amp;D): 8–10 seats&lt;/li&gt;&lt;li&gt;Bloco de Esquerda (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;CDS–Partido Popular (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária (GUE/NGL): 1 seats&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Iniciativa Liberal (RE): 0 seats&lt;/li&gt;&lt;li&gt;Chega (ID): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2020-07-02-Eurosondagem-seats.png"
+        length="234881"
+        type="image/png"/>
+      <pubDate>Fri, 17 Jul 2020 16:54:10 +0200</pubDate>
+      <dc:date>2020-07-17T16:54:10.812028+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Eurosondagem, 29 June–2 July 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2020-07-02-Eurosondagem.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2020-07-02-Eurosondagem-coalitions-seats.png"
+        length="165553"
+        type="image/png"/>
+      <pubDate>Fri, 17 Jul 2020 16:54:10 +0200</pubDate>
+      <dc:date>2020-07-17T16:54:10.812028+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Eurosondagem, 29 June–2 July 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2020-07-02-Eurosondagem.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2020-07-02-Eurosondagem.png"
         length="277563"
         type="image/png"/>
-      <pubDate>Thu, 16 Jul 2020 18:33:23 +0200</pubDate>
-      <dc:date>2020-07-16T18:33:23.811682+02:00</dc:date>
+      <pubDate>Fri, 17 Jul 2020 16:54:10 +0200</pubDate>
+      <dc:date>2020-07-17T16:54:10.812028+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Intercampus for Correio da Manhã and Negócios, 9–13 June 2020 – Seat Projections for the Parties</title>
@@ -1789,6 +1809,6 @@
       <pubDate>Sun, 30 Jun 2019 15:14:32 +0200</pubDate>
       <dc:date>2019-06-30T15:14:32.852257+02:00</dc:date>
     </item>
-    <dc:date>2020-07-16T18:33:23.811682+02:00</dc:date>
+    <dc:date>2020-07-17T16:54:10.812028+02:00</dc:date>
   </channel>
 </rss>
