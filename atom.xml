@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/portuguese_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2020-08-17T21:19:31.223852+02:00</updated>
+  <updated>2020-09-18T19:01:12.963116+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Partido Social Democrata (EPP): 25.5–31.0%, 6–8 seats</li><li>Partido Socialista (S&amp;D): 35.5–41.5%, 8–10 seats</li><li>Bloco de Esquerda (GUE/NGL): 6.8–10.2%, 1–2 seats</li><li>CDS–Partido Popular (EPP): 1.7–3.7%, 0 seats</li><li>Coligação Democrática Unitária (GUE/NGL): 4.5–7.4%, 1 seats</li><li>Pessoas–Animais–Natureza (Greens/EFA): 2.4–4.6%, 0–1 seats</li><li>Iniciativa Liberal (RE): 0.5–1.8%, 0 seats</li><li>Chega (ID): 3.4–6.0%, 0–1 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/portuguese_ep_polls/2020-09-10-Eurosondagem.html</id>
+    <link href="https://filipvanlaenen.github.io/portuguese_ep_polls/2020-09-10-Eurosondagem.html"/>
+    <title>Opinion Poll by Eurosondagem, 7–10 September 2020</title>
+    <updated>2020-09-18T19:01:12.963116+02:00</updated>
+    <dc:date>2020-09-18T19:01:12.963116+02:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Partido Social Democrata (EPP): 21.5–28.4%, 5–7 seats</li><li>Partido Socialista (S&amp;D): 35.8–43.6%, 9–11 seats</li><li>Bloco de Esquerda (GUE/NGL): 6.5–11.0%, 1–2 seats</li><li>CDS–Partido Popular (EPP): 3.0–6.3%, 0–1 seats</li><li>Coligação Democrática Unitária (GUE/NGL): 4.5–8.4%, 1–2 seats</li><li>Pessoas–Animais–Natureza (Greens/EFA): 2.0–4.9%, 0–1 seats</li><li>Iniciativa Liberal (RE): 1.8–4.5%, 0–1 seats</li><li>Chega (ID): 5.9–10.3%, 1–2 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/portuguese_ep_polls/2020-08-11-Intercampus.html</id>
@@ -519,5 +527,5 @@
     <updated>2019-06-30T15:14:32.852257+02:00</updated>
     <dc:date>2019-06-30T15:14:32.852257+02:00</dc:date>
   </entry>
-  <dc:date>2020-08-17T21:19:31.223852+02:00</dc:date>
+  <dc:date>2020-09-18T19:01:12.963116+02:00</dc:date>
 </feed>
