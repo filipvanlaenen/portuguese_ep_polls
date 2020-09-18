@@ -10,7 +10,9 @@ Last result: **12.7%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.0% | 5.1–7.2% | 4.8–7.6% | 4.5–7.9% | 4.1–8.6% |
+| N/A | [Poll Average](average.html) | 6.1% | 5.1–7.2% | 4.8–7.6% | 4.6–7.9% | 4.1–8.7% |
+| [7–10 September 2020](2020-09-10-Eurosondagem.html) | Eurosondagem | 5.8% | 4.9–6.8% | 4.7–7.1% | 4.5–7.4% | 4.1–7.9% |
+| [4–9 September 2020](2020-09-09-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 5.0% | 4.1–6.4% | 3.8–6.8% | 3.6–7.1% | 3.2–7.8% |
 | [6–11 August 2020](2020-08-11-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 6.2% | 5.1–7.6% | 4.8–8.0% | 4.5–8.4% | 4.0–9.1% |
 | [13–18 July 2020](2020-07-18-CESOP–UCP.html) | CESOP–UCP <br> Público and RTP | 6.0% | 5.3–6.9% | 5.1–7.1% | 4.9–7.3% | 4.6–7.8% |
 | [8–13 July 2020](2020-07-13-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 6.1% | 5.0–7.5% | 4.8–8.0% | 4.5–8.3% | 4.0–9.0% |
@@ -83,13 +85,13 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 3% | 100% |  |
-| 4.5–5.5% | 24% | 97% |  |
-| 5.5–6.5% | 46% | 74% | Median |
-| 6.5–7.5% | 22% | 27% |  |
-| 7.5–8.5% | 4% | 5% |  |
-| 8.5–9.5% | 0.5% | 0.6% |  |
-| 9.5–10.5% | 0% | 0% |  |
+| 3.5–4.5% | 2% | 100% |  |
+| 4.5–5.5% | 23% | 98% |  |
+| 5.5–6.5% | 47% | 75% | Median |
+| 6.5–7.5% | 23% | 28% |  |
+| 7.5–8.5% | 5% | 5% |  |
+| 8.5–9.5% | 0.6% | 0.7% |  |
+| 9.5–10.5% | 0.1% | 0.1% |  |
 | 10.5–11.5% | 0% | 0% |  |
 | 11.5–12.5% | 0% | 0% |  |
 | 12.5–13.5% | 0% | 0% | Last Result |
@@ -104,6 +106,8 @@ Last result: **3** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1 | 1 | 1–2 | 1–2 |
+| [7–10 September 2020](2020-09-10-Eurosondagem.html) | Eurosondagem | 1 | 1 | 1 | 1 | 1–2 |
+| [4–9 September 2020](2020-09-09-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | [6–11 August 2020](2020-08-11-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [13–18 July 2020](2020-07-18-CESOP–UCP.html) | CESOP–UCP <br> Público and RTP | 1 | 1 | 1 | 1 | 1–2 |
 | [8–13 July 2020](2020-07-13-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 1 | 1 | 1–2 | 1–2 | 1–2 |
