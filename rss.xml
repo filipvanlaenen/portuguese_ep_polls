@@ -8,7 +8,47 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/portuguese_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 17 Aug 2020 21:19:31 +0200</pubDate>
+    <pubDate>Fri, 18 Sep 2020 19:13:28 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Eurosondagem, 7–10 September 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2020-09-10-Eurosondagem.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Social Democrata (EPP): 6–8 seats&lt;/li&gt;&lt;li&gt;Partido Socialista (S&amp;amp;D): 8–10 seats&lt;/li&gt;&lt;li&gt;Bloco de Esquerda (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;CDS–Partido Popular (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária (GUE/NGL): 1 seats&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Iniciativa Liberal (RE): 0 seats&lt;/li&gt;&lt;li&gt;Chega (ID): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2020-09-10-Eurosondagem-seats.png"
+        length="227172"
+        type="image/png"/>
+      <pubDate>Fri, 18 Sep 2020 19:01:12 +0200</pubDate>
+      <dc:date>2020-09-18T19:01:12.963116+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Eurosondagem, 7–10 September 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2020-09-10-Eurosondagem.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2020-09-10-Eurosondagem-coalitions-seats.png"
+        length="158034"
+        type="image/png"/>
+      <pubDate>Fri, 18 Sep 2020 19:01:12 +0200</pubDate>
+      <dc:date>2020-09-18T19:01:12.963116+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Eurosondagem, 7–10 September 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2020-09-10-Eurosondagem.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Social Democrata (EPP): 25.5–31.0%&lt;/li&gt;&lt;li&gt;Partido Socialista (S&amp;amp;D): 35.5–41.5%&lt;/li&gt;&lt;li&gt;Bloco de Esquerda (GUE/NGL): 6.8–10.2%&lt;/li&gt;&lt;li&gt;CDS–Partido Popular (EPP): 1.7–3.7%&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária (GUE/NGL): 4.5–7.4%&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza (Greens/EFA): 2.4–4.6%&lt;/li&gt;&lt;li&gt;Iniciativa Liberal (RE): 0.5–1.8%&lt;/li&gt;&lt;li&gt;Chega (ID): 3.4–6.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2020-09-10-Eurosondagem.png"
+        length="277702"
+        type="image/png"/>
+      <pubDate>Fri, 18 Sep 2020 19:01:12 +0200</pubDate>
+      <dc:date>2020-09-18T19:01:12.963116+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Intercampus for Correio da Manhã and Negócios, 4–9 September 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2020-09-09-Intercampus.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Social Democrata (EPP): 21.0–27.8%&lt;/li&gt;&lt;li&gt;Partido Socialista (S&amp;amp;D): 33.7–41.4%&lt;/li&gt;&lt;li&gt;Bloco de Esquerda (GUE/NGL): 7.8–12.6%&lt;/li&gt;&lt;li&gt;CDS–Partido Popular (EPP): 2.9–6.1%&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária (GUE/NGL): 3.6–7.1%&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza (Greens/EFA): 2.8–5.9%&lt;/li&gt;&lt;li&gt;LIVRE (Greens/EFA): 0.1–1.2%&lt;/li&gt;&lt;li&gt;Iniciativa Liberal (RE): 1.2–3.6%&lt;/li&gt;&lt;li&gt;Chega (ID): 5.5–9.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2020-09-09-Intercampus.png"
+        length="319534"
+        type="image/png"/>
+      <pubDate>Fri, 18 Sep 2020 19:13:28 +0200</pubDate>
+      <dc:date>2020-09-18T19:13:28.435194+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Intercampus for Correio da Manhã and Negócios, 6–11 August 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2020-08-11-Intercampus.html#seats</link>
@@ -1929,6 +1969,6 @@
       <pubDate>Sun, 30 Jun 2019 15:14:32 +0200</pubDate>
       <dc:date>2019-06-30T15:14:32.852257+02:00</dc:date>
     </item>
-    <dc:date>2020-08-17T21:19:31.223852+02:00</dc:date>
+    <dc:date>2020-09-18T19:13:28.435194+02:00</dc:date>
   </channel>
 </rss>
