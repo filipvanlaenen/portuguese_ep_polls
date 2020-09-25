@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/portuguese_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 18 Sep 2020 19:22:22 +0200</pubDate>
+    <pubDate>Fri, 25 Sep 2020 08:38:33 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Aximage, 12–15 September 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2020-09-15-Aximage.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Social Democrata (EPP): 5–6 seats&lt;/li&gt;&lt;li&gt;Partido Socialista (S&amp;amp;D): 8–10 seats&lt;/li&gt;&lt;li&gt;Bloco de Esquerda (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;CDS–Partido Popular (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária (GUE/NGL): 1 seats&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;LIVRE (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Iniciativa Liberal (RE): 0–1 seats&lt;/li&gt;&lt;li&gt;Chega (ID): 1–2 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2020-09-15-Aximage-seats.png"
+        length="248194"
+        type="image/png"/>
+      <pubDate>Fri, 25 Sep 2020 08:38:33 +0200</pubDate>
+      <dc:date>2020-09-25T08:38:33.342082+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Aximage, 12–15 September 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2020-09-15-Aximage.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2020-09-15-Aximage-coalitions-seats.png"
+        length="163514"
+        type="image/png"/>
+      <pubDate>Fri, 25 Sep 2020 08:38:33 +0200</pubDate>
+      <dc:date>2020-09-25T08:38:33.342082+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Aximage, 12–15 September 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2020-09-15-Aximage.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Social Democrata (EPP): 20.6–27.5%&lt;/li&gt;&lt;li&gt;Partido Socialista (S&amp;amp;D): 33.9–41.6%&lt;/li&gt;&lt;li&gt;Bloco de Esquerda (GUE/NGL): 6.3–10.8%&lt;/li&gt;&lt;li&gt;CDS–Partido Popular (EPP): 0.6–2.4%&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária (GUE/NGL): 4.1–7.8%&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza (Greens/EFA): 3.4–6.8%&lt;/li&gt;&lt;li&gt;LIVRE (Greens/EFA): 0.6–2.4%&lt;/li&gt;&lt;li&gt;Iniciativa Liberal (RE): 1.6–4.3%&lt;/li&gt;&lt;li&gt;Chega (ID): 5.0–9.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2020-09-15-Aximage.png"
+        length="310031"
+        type="image/png"/>
+      <pubDate>Fri, 25 Sep 2020 08:38:33 +0200</pubDate>
+      <dc:date>2020-09-25T08:38:33.342082+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Eurosondagem, 7–10 September 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2020-09-10-Eurosondagem.html#seats</link>
@@ -1989,6 +2019,6 @@
       <pubDate>Sun, 30 Jun 2019 15:14:32 +0200</pubDate>
       <dc:date>2019-06-30T15:14:32.852257+02:00</dc:date>
     </item>
-    <dc:date>2020-09-18T19:22:22.153919+02:00</dc:date>
+    <dc:date>2020-09-25T08:38:33.342082+02:00</dc:date>
   </channel>
 </rss>
