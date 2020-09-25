@@ -6,6 +6,30 @@
     <description>All Registered Polls for the European Parliament</description>
     <pubDate>Thu, 16 Jul 2020 23:32:48 +0200</pubDate>
     <item>
+      <title>Opinion Poll by Aximage, 12–15 September 2020 – Seating Plan Projection</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2020-09-15-Aximage.html#seating-plan</link>
+      <description><![CDATA[Seating plan projection for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Aximage, 12–15 September 2020<br/>Details on https://filipvanlaenen.github.io/portuguese_ep_polls/2020-09-15-Aximage.html<br/><img src="https://filipvanlaenen.github.io/portuguese_ep_polls/2020-09-15-Aximage-seating-plan.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2020-09-15-Aximage-seating-plan.png" length="375204" type="image/png"/>
+      <pubDate>Fri, 25 Sep 2020 08:38:33 +0200</pubDate>
+      <dc:date>2020-09-25T08:38:33.342082+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Aximage, 12–15 September 2020 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2020-09-15-Aximage.html#seats</link>
+      <description><![CDATA[Seat projections for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Aximage, 12–15 September 2020<br/>Details on https://filipvanlaenen.github.io/portuguese_ep_polls/2020-09-15-Aximage.html<br/><img src="https://filipvanlaenen.github.io/portuguese_ep_polls/2020-09-15-Aximage-seats.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2020-09-15-Aximage-seats.png" length="248194" type="image/png"/>
+      <pubDate>Fri, 25 Sep 2020 08:38:33 +0200</pubDate>
+      <dc:date>2020-09-25T08:38:33.342082+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Aximage, 12–15 September 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2020-09-15-Aximage.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Aximage, 12–15 September 2020<br/>Details on https://filipvanlaenen.github.io/portuguese_ep_polls/2020-09-15-Aximage.html<br/><img src="https://filipvanlaenen.github.io/portuguese_ep_polls/2020-09-15-Aximage.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2020-09-15-Aximage.png" length="310031" type="image/png"/>
+      <pubDate>Fri, 25 Sep 2020 08:38:33 +0200</pubDate>
+      <dc:date>2020-09-25T08:38:33.342082+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Eurosondagem, 7–10 September 2020 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2020-09-10-Eurosondagem.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Eurosondagem, 7–10 September 2020<br/>Details on https://filipvanlaenen.github.io/portuguese_ep_polls/2020-09-10-Eurosondagem.html<br/><img src="https://filipvanlaenen.github.io/portuguese_ep_polls/2020-09-10-Eurosondagem-seating-plan.png"/>]]></description>
@@ -220,30 +244,6 @@
       <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2020-06-08-Aximage.png" length="320429" type="image/png"/>
       <pubDate>Sun, 5 Jul 2020 16:27:25 +0200</pubDate>
       <dc:date>2020-07-05T16:27:25.901155+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Eurosondagem, 1–4 June 2020 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2020-06-04-Eurosondagem.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Eurosondagem, 1–4 June 2020<br/>Details on https://filipvanlaenen.github.io/portuguese_ep_polls/2020-06-04-Eurosondagem.html<br/><img src="https://filipvanlaenen.github.io/portuguese_ep_polls/2020-06-04-Eurosondagem-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2020-06-04-Eurosondagem-seating-plan.png" length="357255" type="image/png"/>
-      <pubDate>Sun, 14 Jun 2020 20:18:45 +0200</pubDate>
-      <dc:date>2020-06-14T20:18:45.715703+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Eurosondagem, 1–4 June 2020 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2020-06-04-Eurosondagem.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Eurosondagem, 1–4 June 2020<br/>Details on https://filipvanlaenen.github.io/portuguese_ep_polls/2020-06-04-Eurosondagem.html<br/><img src="https://filipvanlaenen.github.io/portuguese_ep_polls/2020-06-04-Eurosondagem-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2020-06-04-Eurosondagem-seats.png" length="232780" type="image/png"/>
-      <pubDate>Sun, 14 Jun 2020 20:18:45 +0200</pubDate>
-      <dc:date>2020-06-14T20:18:45.715703+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Eurosondagem, 1–4 June 2020 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2020-06-04-Eurosondagem.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Eurosondagem, 1–4 June 2020<br/>Details on https://filipvanlaenen.github.io/portuguese_ep_polls/2020-06-04-Eurosondagem.html<br/><img src="https://filipvanlaenen.github.io/portuguese_ep_polls/2020-06-04-Eurosondagem.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2020-06-04-Eurosondagem.png" length="273805" type="image/png"/>
-      <pubDate>Sun, 14 Jun 2020 20:18:45 +0200</pubDate>
-      <dc:date>2020-06-14T20:18:45.715703+02:00</dc:date>
     </item>
   </channel>
 </rss>
