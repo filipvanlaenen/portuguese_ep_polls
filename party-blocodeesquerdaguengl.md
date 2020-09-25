@@ -10,7 +10,8 @@ Last result: **4.6%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8.4% | 6.8–10.5% | 6.4–11.2% | 6.2–11.7% | 5.7–12.7% |
+| N/A | [Poll Average](average.html) | 8.3% | 6.7–10.5% | 6.4–11.1% | 6.2–11.7% | 5.7–12.7% |
+| [12–15 September 2020](2020-09-15-Aximage.html) | Aximage | 8.3% | 7.0–9.9% | 6.6–10.4% | 6.3–10.8% | 5.8–11.6% |
 | [7–10 September 2020](2020-09-10-Eurosondagem.html) | Eurosondagem | 8.3% | 7.3–9.5% | 7.0–9.9% | 6.8–10.2% | 6.3–10.8% |
 | [4–9 September 2020](2020-09-09-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 9.9% | 8.5–11.6% | 8.1–12.1% | 7.8–12.6% | 7.2–13.4% |
 | [6–11 August 2020](2020-08-11-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 8.5% | 7.2–10.1% | 6.8–10.6% | 6.5–11.0% | 5.9–11.8% |
@@ -86,11 +87,11 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 3.5–4.5% | 0% | 100% |  |
 | 4.5–5.5% | 0.2% | 100% | Last Result |
-| 5.5–6.5% | 6% | 99.8% |  |
-| 6.5–7.5% | 21% | 94% |  |
-| 7.5–8.5% | 26% | 72% | Median |
-| 8.5–9.5% | 22% | 46% |  |
-| 9.5–10.5% | 14% | 24% |  |
+| 5.5–6.5% | 7% | 99.8% |  |
+| 6.5–7.5% | 22% | 93% |  |
+| 7.5–8.5% | 27% | 71% | Median |
+| 8.5–9.5% | 22% | 44% |  |
+| 9.5–10.5% | 13% | 23% |  |
 | 10.5–11.5% | 7% | 10% |  |
 | 11.5–12.5% | 2% | 3% |  |
 | 12.5–13.5% | 0.6% | 0.7% |  |
@@ -107,6 +108,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
+| [12–15 September 2020](2020-09-15-Aximage.html) | Aximage | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [7–10 September 2020](2020-09-10-Eurosondagem.html) | Eurosondagem | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [4–9 September 2020](2020-09-09-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 2 | 2 | 2–3 | 1–3 | 1–3 |
 | [6–11 August 2020](2020-08-11-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
