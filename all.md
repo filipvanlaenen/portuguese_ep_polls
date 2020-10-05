@@ -5,6 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | PS | PSD | CDS–PP | CDU | BE | PAN | L | IL | A | CH |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 31.5% <br> 8 | 27.7% <br> 6 | 27.7% <br> 1 | 12.7% <br> 3 | 4.6% <br> 1 | 1.7% <br> 0 | 0.7% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| [14–24 September 2020](2020-09-24-ICSISCTE.html) | ICS/ISCTE | 34–41% <br> 8–10 | 24–30% <br> 6–7 | 1–3% <br> 0 | 5–8% <br> 1–2 | 6–10% <br> 1–2 | 3–6% <br> 0–1 | N/A <br> N/A | 1–3% <br> 0 | N/A <br> N/A | 6–9% <br> 1–2 |
 | [12–15 September 2020](2020-09-15-Aximage.html) | Aximage | 34–42% <br> 8–10 | 21–27% <br> 5–6 | 1–2% <br> 0 | 4–8% <br> 1 | 6–11% <br> 1–2 | 3–7% <br> 0–1 | 1–2% <br> 0 | 2–4% <br> 0–1 | N/A <br> N/A | 5–9% <br> 1–2 |
 | [7–10 September 2020](2020-09-10-Eurosondagem.html) | Eurosondagem | 36–41% <br> 8–10 | 25–31% <br> 6–8 | 2–4% <br> 0 | 4–7% <br> 1 | 7–10% <br> 1–2 | 2–5% <br> 0–1 | N/A <br> N/A | 1–2% <br> 0 | N/A <br> N/A | 3–6% <br> 0–1 |
 | [4–9 September 2020](2020-09-09-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 34–41% <br> 8–10 | 21–28% <br> 5–7 | 3–6% <br> 0–1 | 4–7% <br> 0–1 | 8–13% <br> 1–3 | 3–6% <br> 0–1 | 0–1% <br> 0 | 1–4% <br> 0 | N/A <br> N/A | 6–10% <br> 1–2 |
