@@ -10,7 +10,8 @@ Last result: **27.7%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 26.0% | 23.0–28.8% | 22.2–29.6% | 21.5–30.1% | 20.4–31.2% |
+| N/A | [Poll Average](average.html) | 26.1% | 23.0–29.4% | 22.2–30.2% | 21.5–30.8% | 20.4–31.9% |
+| [5–8 October 2020](2020-10-08-Eurosondagem.html) | Eurosondagem | 29.0% | 27.2–30.9% | 26.7–31.4% | 26.3–31.9% | 25.5–32.8% |
 | [14–24 September 2020](2020-09-24-ICSISCTE.html) | ICS/ISCTE | 27.2% | 25.3–29.3% | 24.7–29.9% | 24.2–30.4% | 23.3–31.4% |
 | [12–15 September 2020](2020-09-15-Aximage.html) | Aximage | 23.9% | 21.7–26.2% | 21.2–26.9% | 20.6–27.5% | 19.7–28.6% |
 | [7–10 September 2020](2020-09-10-Eurosondagem.html) | Eurosondagem | 28.2% | 26.4–30.0% | 25.9–30.6% | 25.5–31.0% | 24.7–31.9% |
@@ -92,16 +93,17 @@ The following table shows the probability mass function per percentage block of 
 | 20.5–21.5% | 2% | 99.3% |  |
 | 21.5–22.5% | 5% | 97% |  |
 | 22.5–23.5% | 8% | 93% |  |
-| 23.5–24.5% | 12% | 85% |  |
+| 23.5–24.5% | 11% | 85% |  |
 | 24.5–25.5% | 15% | 73% |  |
-| 25.5–26.5% | 17% | 58% | Median |
-| 26.5–27.5% | 16% | 41% |  |
-| 27.5–28.5% | 12% | 25% | Last Result |
-| 28.5–29.5% | 8% | 13% |  |
-| 29.5–30.5% | 4% | 5% |  |
-| 30.5–31.5% | 1.2% | 1.4% |  |
-| 31.5–32.5% | 0.2% | 0.3% |  |
-| 32.5–33.5% | 0% | 0% |  |
+| 25.5–26.5% | 16% | 59% | Median |
+| 26.5–27.5% | 14% | 42% |  |
+| 27.5–28.5% | 11% | 28% | Last Result |
+| 28.5–29.5% | 9% | 17% |  |
+| 29.5–30.5% | 5% | 9% |  |
+| 30.5–31.5% | 2% | 3% |  |
+| 31.5–32.5% | 0.7% | 0.9% |  |
+| 32.5–33.5% | 0.1% | 0.2% |  |
+| 33.5–34.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -113,6 +115,7 @@ Last result: **6** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
+| [5–8 October 2020](2020-10-08-Eurosondagem.html) | Eurosondagem | 7 | 6–7 | 6–8 | 6–8 | 6–8 |
 | [14–24 September 2020](2020-09-24-ICSISCTE.html) | ICS/ISCTE | 6 | 6–7 | 6–7 | 6–7 | 5–8 |
 | [12–15 September 2020](2020-09-15-Aximage.html) | Aximage | 6 | 5–6 | 5–6 | 5–6 | 4–7 |
 | [7–10 September 2020](2020-09-10-Eurosondagem.html) | Eurosondagem | 6 | 6–7 | 6–7 | 6–8 | 6–8 |
@@ -192,9 +195,9 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 0.3% | 100% |  |
 | 5 | 19% | 99.7% |  |
-| 6 | 52% | 81% | Last Result, Median |
-| 7 | 28% | 29% |  |
-| 8 | 0.9% | 0.9% |  |
+| 6 | 46% | 81% | Last Result, Median |
+| 7 | 33% | 34% |  |
+| 8 | 1.4% | 1.4% |  |
 | 9 | 0% | 0% |  |
 
 

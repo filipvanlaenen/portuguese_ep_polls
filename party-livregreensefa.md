@@ -11,6 +11,7 @@ Last result: **0.7%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0.8% | 0.3–1.7% | 0.2–1.9% | 0.1–2.2% | 0.1–2.6% |
+| [5–8 October 2020](2020-10-08-Eurosondagem.html) | Eurosondagem | 0.0% | N/A | N/A | N/A | N/A |
 | [14–24 September 2020](2020-09-24-ICSISCTE.html) | ICS/ISCTE | 0.0% | N/A | N/A | N/A | N/A |
 | [12–15 September 2020](2020-09-15-Aximage.html) | Aximage | 1.2% | 0.8–2.0% | 0.7–2.2% | 0.6–2.4% | 0.4–2.8% |
 | [7–10 September 2020](2020-09-10-Eurosondagem.html) | Eurosondagem | 0.0% | N/A | N/A | N/A | N/A |
@@ -102,6 +103,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [5–8 October 2020](2020-10-08-Eurosondagem.html) | Eurosondagem |  |  |  |  |  |
 | [14–24 September 2020](2020-09-24-ICSISCTE.html) | ICS/ISCTE |  |  |  |  |  |
 | [12–15 September 2020](2020-09-15-Aximage.html) | Aximage | 0 | 0 | 0 | 0 | 0 |
 | [7–10 September 2020](2020-09-10-Eurosondagem.html) | Eurosondagem |  |  |  |  |  |
