@@ -10,7 +10,8 @@ Last result: **27.7%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 26.1% | 23.0–29.4% | 22.2–30.2% | 21.5–30.8% | 20.4–31.9% |
+| N/A | [Poll Average](average.html) | 26.2% | 23.2–29.4% | 22.4–30.2% | 21.7–30.8% | 20.5–31.9% |
+| [6–11 October 2020](2020-10-11-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 24.8% | 22.6–27.1% | 22.0–27.7% | 21.5–28.3% | 20.5–29.5% |
 | [5–8 October 2020](2020-10-08-Eurosondagem.html) | Eurosondagem | 29.0% | 27.2–30.9% | 26.7–31.4% | 26.3–31.9% | 25.5–32.8% |
 | [14–24 September 2020](2020-09-24-ICSISCTE.html) | ICS/ISCTE | 27.2% | 25.3–29.3% | 24.7–29.9% | 24.2–30.4% | 23.3–31.4% |
 | [12–15 September 2020](2020-09-15-Aximage.html) | Aximage | 23.9% | 21.7–26.2% | 21.2–26.9% | 20.6–27.5% | 19.7–28.6% |
@@ -89,16 +90,16 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 17.5–18.5% | 0% | 100% |  |
 | 18.5–19.5% | 0.1% | 100% |  |
-| 19.5–20.5% | 0.5% | 99.9% |  |
-| 20.5–21.5% | 2% | 99.3% |  |
-| 21.5–22.5% | 5% | 97% |  |
-| 22.5–23.5% | 8% | 93% |  |
-| 23.5–24.5% | 11% | 85% |  |
-| 24.5–25.5% | 15% | 73% |  |
-| 25.5–26.5% | 16% | 59% | Median |
-| 26.5–27.5% | 14% | 42% |  |
-| 27.5–28.5% | 11% | 28% | Last Result |
-| 28.5–29.5% | 9% | 17% |  |
+| 19.5–20.5% | 0.4% | 99.9% |  |
+| 20.5–21.5% | 2% | 99.5% |  |
+| 21.5–22.5% | 4% | 98% |  |
+| 22.5–23.5% | 7% | 94% |  |
+| 23.5–24.5% | 11% | 87% |  |
+| 24.5–25.5% | 15% | 76% |  |
+| 25.5–26.5% | 17% | 61% | Median |
+| 26.5–27.5% | 15% | 44% |  |
+| 27.5–28.5% | 11% | 29% | Last Result |
+| 28.5–29.5% | 9% | 18% |  |
 | 29.5–30.5% | 5% | 9% |  |
 | 30.5–31.5% | 2% | 3% |  |
 | 31.5–32.5% | 0.7% | 0.9% |  |
@@ -115,6 +116,7 @@ Last result: **6** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
+| [6–11 October 2020](2020-10-11-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
 | [5–8 October 2020](2020-10-08-Eurosondagem.html) | Eurosondagem | 7 | 6–7 | 6–8 | 6–8 | 6–8 |
 | [14–24 September 2020](2020-09-24-ICSISCTE.html) | ICS/ISCTE | 6 | 6–7 | 6–7 | 6–7 | 5–8 |
 | [12–15 September 2020](2020-09-15-Aximage.html) | Aximage | 6 | 5–6 | 5–6 | 5–6 | 4–7 |
@@ -193,10 +195,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 0.3% | 100% |  |
-| 5 | 19% | 99.7% |  |
-| 6 | 46% | 81% | Last Result, Median |
-| 7 | 33% | 34% |  |
+| 4 | 0.2% | 100% |  |
+| 5 | 15% | 99.8% |  |
+| 6 | 49% | 85% | Last Result, Median |
+| 7 | 34% | 36% |  |
 | 8 | 1.4% | 1.4% |  |
 | 9 | 0% | 0% |  |
 
