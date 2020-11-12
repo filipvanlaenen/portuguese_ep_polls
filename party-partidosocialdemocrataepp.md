@@ -10,7 +10,9 @@ Last result: **27.7%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 26.2% | 23.2–29.4% | 22.4–30.2% | 21.7–30.8% | 20.5–31.9% |
+| N/A | [Poll Average](average.html) | 27.3% | 24.1–30.3% | 23.3–31.0% | 22.6–31.6% | 21.4–32.7% |
+| [2–5 November 2020](2020-11-05-Eurosondagem.html) | Eurosondagem <br> Porto Canal and Sol | 29.7% | 27.9–31.6% | 27.4–32.1% | 26.9–32.6% | 26.1–33.5% |
+| [22–26 October 2020](2020-10-26-Aximage.html) | Aximage | 27.1% | 25.0–29.3% | 24.4–30.0% | 23.9–30.5% | 22.9–31.6% |
 | [6–11 October 2020](2020-10-11-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 24.8% | 22.6–27.1% | 22.0–27.7% | 21.5–28.3% | 20.5–29.5% |
 | [5–8 October 2020](2020-10-08-Eurosondagem.html) | Eurosondagem | 29.0% | 27.2–30.9% | 26.7–31.4% | 26.3–31.9% | 25.5–32.8% |
 | [14–24 September 2020](2020-09-24-ICSISCTE.html) | ICS/ISCTE | 27.2% | 25.3–29.3% | 24.7–29.9% | 24.2–30.4% | 23.3–31.4% |
@@ -88,23 +90,23 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 17.5–18.5% | 0% | 100% |  |
-| 18.5–19.5% | 0.1% | 100% |  |
-| 19.5–20.5% | 0.4% | 99.9% |  |
-| 20.5–21.5% | 2% | 99.5% |  |
-| 21.5–22.5% | 4% | 98% |  |
-| 22.5–23.5% | 7% | 94% |  |
-| 23.5–24.5% | 11% | 87% |  |
-| 24.5–25.5% | 15% | 76% |  |
-| 25.5–26.5% | 17% | 61% | Median |
-| 26.5–27.5% | 15% | 44% |  |
-| 27.5–28.5% | 11% | 29% | Last Result |
-| 28.5–29.5% | 9% | 18% |  |
-| 29.5–30.5% | 5% | 9% |  |
-| 30.5–31.5% | 2% | 3% |  |
-| 31.5–32.5% | 0.7% | 0.9% |  |
-| 32.5–33.5% | 0.1% | 0.2% |  |
-| 33.5–34.5% | 0% | 0% |  |
+| 18.5–19.5% | 0% | 100% |  |
+| 19.5–20.5% | 0.1% | 100% |  |
+| 20.5–21.5% | 0.5% | 99.9% |  |
+| 21.5–22.5% | 2% | 99.3% |  |
+| 22.5–23.5% | 4% | 98% |  |
+| 23.5–24.5% | 7% | 94% |  |
+| 24.5–25.5% | 11% | 87% |  |
+| 25.5–26.5% | 14% | 76% |  |
+| 26.5–27.5% | 16% | 61% | Median |
+| 27.5–28.5% | 15% | 46% | Last Result |
+| 28.5–29.5% | 13% | 30% |  |
+| 29.5–30.5% | 9% | 17% |  |
+| 30.5–31.5% | 5% | 8% |  |
+| 31.5–32.5% | 2% | 3% |  |
+| 32.5–33.5% | 0.6% | 0.7% |  |
+| 33.5–34.5% | 0.1% | 0.1% |  |
+| 34.5–35.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -115,7 +117,9 @@ Last result: **6** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
+| N/A | [Poll Average](average.html) | 6 | 6–7 | 5–7 | 5–8 | 5–8 |
+| [2–5 November 2020](2020-11-05-Eurosondagem.html) | Eurosondagem <br> Porto Canal and Sol | 7 | 7–8 | 6–8 | 6–8 | 6–8 |
+| [22–26 October 2020](2020-10-26-Aximage.html) | Aximage | 6 | 6–7 | 6–7 | 5–7 | 5–7 |
 | [6–11 October 2020](2020-10-11-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
 | [5–8 October 2020](2020-10-08-Eurosondagem.html) | Eurosondagem | 7 | 6–7 | 6–8 | 6–8 | 6–8 |
 | [14–24 September 2020](2020-09-24-ICSISCTE.html) | ICS/ISCTE | 6 | 6–7 | 6–7 | 6–7 | 5–8 |
@@ -195,11 +199,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 0.2% | 100% |  |
-| 5 | 15% | 99.8% |  |
-| 6 | 49% | 85% | Last Result, Median |
-| 7 | 34% | 36% |  |
-| 8 | 1.4% | 1.4% |  |
+| 4 | 0.1% | 100% |  |
+| 5 | 8% | 99.9% |  |
+| 6 | 46% | 92% | Last Result, Median |
+| 7 | 42% | 46% |  |
+| 8 | 3% | 3% |  |
 | 9 | 0% | 0% |  |
 
 
