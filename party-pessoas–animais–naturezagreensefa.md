@@ -10,7 +10,8 @@ Last result: **1.7%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.7% | 2.1–7.0% | 1.9–7.5% | 1.7–7.9% | 1.4–8.8% |
+| N/A | [Poll Average](average.html) | 4.7% | 1.9–7.0% | 1.7–7.5% | 1.5–7.9% | 1.2–8.8% |
+| [7–10 December 2020](2020-12-10-Eurosondagem.html) | Eurosondagem <br> Porto Canal and Sol | 2.0% | 1.5–2.7% | 1.4–2.8% | 1.3–3.0% | 1.1–3.4% |
 | [23–26 November 2020](2020-11-26-Aximage.html) | Aximage | 6.5% | 5.4–7.9% | 5.1–8.3% | 4.8–8.7% | 4.4–9.4% |
 | [9–16 November 2020](2020-11-16-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 5.3% | 4.3–6.6% | 4.0–7.0% | 3.8–7.4% | 3.4–8.1% |
 | [2–5 November 2020](2020-11-05-Eurosondagem.html) | Eurosondagem <br> Porto Canal and Sol | 2.2% | 1.7–2.9% | 1.6–3.1% | 1.4–3.3% | 1.2–3.7% |
@@ -93,10 +94,10 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% |  |
-| 0.5–1.5% | 1.2% | 100% |  |
-| 1.5–2.5% | 17% | 98.8% | Last Result |
-| 2.5–3.5% | 12% | 81% |  |
-| 3.5–4.5% | 18% | 69% |  |
+| 0.5–1.5% | 3% | 100% |  |
+| 1.5–2.5% | 19% | 97% | Last Result |
+| 2.5–3.5% | 9% | 78% |  |
+| 3.5–4.5% | 17% | 69% |  |
 | 4.5–5.5% | 19% | 52% | Median |
 | 5.5–6.5% | 18% | 33% |  |
 | 6.5–7.5% | 11% | 16% |  |
@@ -115,6 +116,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
+| [7–10 December 2020](2020-12-10-Eurosondagem.html) | Eurosondagem <br> Porto Canal and Sol | 0 | 0 | 0 | 0 | 0 |
 | [23–26 November 2020](2020-11-26-Aximage.html) | Aximage | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [9–16 November 2020](2020-11-16-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 1 | 1 | 1 | 0–1 | 0–2 |
 | [2–5 November 2020](2020-11-05-Eurosondagem.html) | Eurosondagem <br> Porto Canal and Sol | 0 | 0 | 0 | 0 | 0 |
