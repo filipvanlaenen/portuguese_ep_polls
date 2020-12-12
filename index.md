@@ -5,10 +5,10 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | PS | PSD | CDS–PP | CDU | BE | PAN | L | IL | A | CH |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 31.5% <br> 8 | 27.7% <br> 6 | 27.7% <br> 1 | 12.7% <br> 3 | 4.6% <br> 1 | 1.7% <br> 0 | 0.7% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 34–41% <br> 8–10 | 21–32% <br> 5–8 | 1–5% <br> 0–1 | 4–8% <br> 0–1 | 6–10% <br> 1–2 | 2–8% <br> 0–2 | 1–3% <br> 0 | 1–4% <br> 0–1 | N/A <br> N/A | 4–9% <br> 1–2 |
+| N/A | [Poll Average](average.html) | 34–41% <br> 8–10 | 21–31% <br> 5–7 | 1–5% <br> 0–1 | 4–8% <br> 0–1 | 6–10% <br> 1–2 | 2–8% <br> 0–2 | 1–3% <br> 0 | 1–4% <br> 0–1 | N/A <br> N/A | 4–9% <br> 1–2 |
+| [7–10 December 2020](2020-12-10-Eurosondagem.html) | Eurosondagem <br> Porto Canal and Sol | 36–42% <br> 8–10 | 27–32% <br> 6–8 | 2–4% <br> 0 | 4–7% <br> 1 | 6–9% <br> 1–2 | 1–3% <br> 0 | N/A <br> N/A | 1–2% <br> 0 | N/A <br> N/A | 4–7% <br> 1 |
 | [23–26 November 2020](2020-11-26-Aximage.html) | Aximage | 34–41% <br> 8–10 | 21–27% <br> 5–7 | 0–2% <br> 0 | 4–8% <br> 1–2 | 6–10% <br> 1–2 | 5–9% <br> 1–2 | N/A <br> N/A | 1–4% <br> 0 | N/A <br> N/A | 6–10% <br> 1–2 |
 | [9–16 November 2020](2020-11-16-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 33–41% <br> 8–10 | 21–28% <br> 5–7 | 3–6% <br> 0–1 | 3–7% <br> 0–1 | 6–10% <br> 1–2 | 4–7% <br> 0–1 | 1–3% <br> 0 | 2–5% <br> 0–1 | N/A <br> N/A | 5–10% <br> 1–2 |
-| [2–5 November 2020](2020-11-05-Eurosondagem.html) | Eurosondagem <br> Porto Canal and Sol | 35–41% <br> 8–10 | 27–33% <br> 6–8 | 2–4% <br> 0 | 5–7% <br> 1 | 7–10% <br> 1–2 | 1–3% <br> 0 | N/A <br> N/A | 1–2% <br> 0 | N/A <br> N/A | 4–7% <br> 0–1 |
 | [14–24 September 2020](2020-09-24-ICSISCTE.html) | ICS/ISCTE | 34–41% <br> 8–10 | 24–30% <br> 6–7 | 1–3% <br> 0 | 5–8% <br> 1–2 | 6–10% <br> 1–2 | 3–6% <br> 0–1 | N/A <br> N/A | 1–3% <br> 0 | N/A <br> N/A | 6–9% <br> 1–2 |
 | 26 May 2019 | General Election | 31.5% <br> 8 | 27.7% <br> 6 | 27.7% <br> 1 | 12.7% <br> 3 | 4.6% <br> 1 | 1.7% <br> 0 | 0.7% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
