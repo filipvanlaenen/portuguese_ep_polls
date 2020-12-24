@@ -6,6 +6,30 @@
     <description>All Registered Polls for the European Parliament</description>
     <pubDate>Thu, 16 Jul 2020 23:32:48 +0200</pubDate>
     <item>
+      <title>Opinion Poll by Intercampus for Correio da Manhã and Negócios, 14–18 December 2020 – Seating Plan Projection</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2020-12-18-Intercampus.html#seating-plan</link>
+      <description><![CDATA[Seating plan projection for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Intercampus for Correio da Manhã and Negócios, 14–18 December 2020<br/>Details on https://filipvanlaenen.github.io/portuguese_ep_polls/2020-12-18-Intercampus.html<br/><img src="https://filipvanlaenen.github.io/portuguese_ep_polls/2020-12-18-Intercampus-seating-plan.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2020-12-18-Intercampus-seating-plan.png" length="401778" type="image/png"/>
+      <pubDate>Thu, 24 Dec 2020 12:24:48 +0100</pubDate>
+      <dc:date>2020-12-24T12:24:48.605341+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Intercampus for Correio da Manhã and Negócios, 14–18 December 2020 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2020-12-18-Intercampus.html#seats</link>
+      <description><![CDATA[Seat projections for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Intercampus for Correio da Manhã and Negócios, 14–18 December 2020<br/>Details on https://filipvanlaenen.github.io/portuguese_ep_polls/2020-12-18-Intercampus.html<br/><img src="https://filipvanlaenen.github.io/portuguese_ep_polls/2020-12-18-Intercampus-seats.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2020-12-18-Intercampus-seats.png" length="258982" type="image/png"/>
+      <pubDate>Thu, 24 Dec 2020 12:24:48 +0100</pubDate>
+      <dc:date>2020-12-24T12:24:48.605341+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Intercampus for Correio da Manhã and Negócios, 14–18 December 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2020-12-18-Intercampus.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Intercampus for Correio da Manhã and Negócios, 14–18 December 2020<br/>Details on https://filipvanlaenen.github.io/portuguese_ep_polls/2020-12-18-Intercampus.html<br/><img src="https://filipvanlaenen.github.io/portuguese_ep_polls/2020-12-18-Intercampus.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2020-12-18-Intercampus.png" length="321821" type="image/png"/>
+      <pubDate>Thu, 24 Dec 2020 12:24:48 +0100</pubDate>
+      <dc:date>2020-12-24T12:24:48.605341+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by CESOP–UCP for Público and RTP, 4–11 December 2020 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2020-12-11-CESOP–UCP.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by CESOP–UCP for Público and RTP, 4–11 December 2020<br/>Details on https://filipvanlaenen.github.io/portuguese_ep_polls/2020-12-11-CESOP–UCP.html<br/><img src="https://filipvanlaenen.github.io/portuguese_ep_polls/2020-12-11-CESOP–UCP-seating-plan.png"/>]]></description>
@@ -220,30 +244,6 @@
       <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2020-10-08-Eurosondagem.png" length="277195" type="image/png"/>
       <pubDate>Sat, 17 Oct 2020 16:00:36 +0200</pubDate>
       <dc:date>2020-10-17T16:00:36.666105+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by ICS/ISCTE, 14–24 September 2020 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2020-09-24-ICSISCTE.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by ICS/ISCTE, 14–24 September 2020<br/>Details on https://filipvanlaenen.github.io/portuguese_ep_polls/2020-09-24-ICSISCTE.html<br/><img src="https://filipvanlaenen.github.io/portuguese_ep_polls/2020-09-24-ICSISCTE-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2020-09-24-ICSISCTE-seating-plan.png" length="370829" type="image/png"/>
-      <pubDate>Sun, 4 Oct 2020 14:53:51 +0200</pubDate>
-      <dc:date>2020-10-04T14:53:51.393467+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by ICS/ISCTE, 14–24 September 2020 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2020-09-24-ICSISCTE.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by ICS/ISCTE, 14–24 September 2020<br/>Details on https://filipvanlaenen.github.io/portuguese_ep_polls/2020-09-24-ICSISCTE.html<br/><img src="https://filipvanlaenen.github.io/portuguese_ep_polls/2020-09-24-ICSISCTE-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2020-09-24-ICSISCTE-seats.png" length="226694" type="image/png"/>
-      <pubDate>Sun, 4 Oct 2020 14:53:51 +0200</pubDate>
-      <dc:date>2020-10-04T14:53:51.393467+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by ICS/ISCTE, 14–24 September 2020 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2020-09-24-ICSISCTE.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by ICS/ISCTE, 14–24 September 2020<br/>Details on https://filipvanlaenen.github.io/portuguese_ep_polls/2020-09-24-ICSISCTE.html<br/><img src="https://filipvanlaenen.github.io/portuguese_ep_polls/2020-09-24-ICSISCTE.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2020-09-24-ICSISCTE.png" length="287371" type="image/png"/>
-      <pubDate>Sun, 4 Oct 2020 14:53:51 +0200</pubDate>
-      <dc:date>2020-10-04T14:53:51.393467+02:00</dc:date>
     </item>
   </channel>
 </rss>
