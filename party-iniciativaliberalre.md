@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.0% | 0.9–5.3% | 0.8–5.6% | 0.7–6.0% | 0.5–6.6% |
+| N/A | [Poll Average](average.html) | 3.6% | 1.1–5.4% | 0.9–5.7% | 0.8–6.0% | 0.6–6.6% |
+| [22 December 2020–3 January 2021](2021-01-03-Pitagórica.html) | Pitagórica <br> Observador and TVI | 2.9% | 2.2–3.9% | 2.0–4.2% | 1.8–4.5% | 1.5–5.0% |
+| [17–27 December 2020](2020-12-27-Pitagórica.html) | Pitagórica <br> Observador and TVI | 3.3% | 2.6–4.5% | 2.4–4.8% | 2.2–5.1% | 1.9–5.6% |
 | [19–22 December 2020](2020-12-22-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias | 3.4% | 2.7–4.4% | 2.6–4.7% | 2.4–5.0% | 2.1–5.5% |
 | [17–20 December 2020](2020-12-20-Pitagórica.html) | Pitagórica <br> Observador and TVI | 2.4% | 1.8–3.4% | 1.6–3.6% | 1.4–3.9% | 1.2–4.4% |
 | [14–18 December 2020](2020-12-18-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 4.5% | 3.6–5.8% | 3.3–6.1% | 3.1–6.4% | 2.7–7.1% |
@@ -99,14 +101,14 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0.8% | 100% | Last Result |
-| 0.5–1.5% | 29% | 99.2% |  |
-| 1.5–2.5% | 13% | 70% |  |
-| 2.5–3.5% | 16% | 57% | Median |
-| 3.5–4.5% | 18% | 41% |  |
-| 4.5–5.5% | 17% | 23% |  |
-| 5.5–6.5% | 6% | 6% |  |
-| 6.5–7.5% | 0.5% | 0.5% |  |
+| 0.0–0.5% | 0.2% | 100% | Last Result |
+| 0.5–1.5% | 17% | 99.8% |  |
+| 1.5–2.5% | 9% | 83% |  |
+| 2.5–3.5% | 22% | 74% |  |
+| 3.5–4.5% | 24% | 52% | Median |
+| 4.5–5.5% | 21% | 28% |  |
+| 5.5–6.5% | 7% | 7% |  |
+| 6.5–7.5% | 0.6% | 0.6% |  |
 | 7.5–8.5% | 0% | 0% |  |
 
 
@@ -119,6 +121,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [22 December 2020–3 January 2021](2021-01-03-Pitagórica.html) | Pitagórica <br> Observador and TVI | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [17–27 December 2020](2020-12-27-Pitagórica.html) | Pitagórica <br> Observador and TVI | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [19–22 December 2020](2020-12-22-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [17–20 December 2020](2020-12-20-Pitagórica.html) | Pitagórica <br> Observador and TVI | 0 | 0 | 0 | 0 | 0–1 |
 | [14–18 December 2020](2020-12-18-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -209,8 +213,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 68% | 100% | Last Result, Median |
-| 1 | 32% | 32% |  |
+| 0 | 60% | 100% | Last Result, Median |
+| 1 | 40% | 40% |  |
 | 2 | 0% | 0% |  |
 
 
