@@ -10,7 +10,9 @@ Last result: **27.7%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 26.9% | 23.2–30.7% | 22.3–31.4% | 21.6–31.9% | 20.3–32.8% |
+| N/A | [Poll Average](average.html) | 27.7% | 23.6–30.8% | 22.7–31.5% | 22.0–32.0% | 20.8–32.9% |
+| [29 December 2020–10 January 2021](2021-01-10-Pitagórica.html) | Pitagórica <br> Observador and TVI | 28.0% | 25.8–30.4% | 25.1–31.0% | 24.6–31.6% | 23.6–32.8% |
+| [4–7 January 2021](2021-01-07-Intercampus.html) | Intercampus | 24.0% | 21.9–26.4% | 21.3–27.1% | 20.8–27.6% | 19.8–28.8% |
 | [22 December 2020–3 January 2021](2021-01-03-Pitagórica.html) | Pitagórica <br> Observador and TVI | 26.2% | 24.1–28.6% | 23.5–29.2% | 22.9–29.8% | 21.9–31.0% |
 | [17–27 December 2020](2020-12-27-Pitagórica.html) | Pitagórica <br> Observador and TVI | 28.0% | 25.8–30.4% | 25.1–31.0% | 24.6–31.6% | 23.6–32.8% |
 | [19–22 December 2020](2020-12-22-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias | 25.4% | 23.5–27.4% | 23.0–28.0% | 22.5–28.5% | 21.6–29.5% |
@@ -101,22 +103,21 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 17.5–18.5% | 0% | 100% |  |
 | 18.5–19.5% | 0.1% | 100% |  |
-| 19.5–20.5% | 0.5% | 99.9% |  |
-| 20.5–21.5% | 2% | 99.3% |  |
-| 21.5–22.5% | 4% | 98% |  |
-| 22.5–23.5% | 7% | 94% |  |
-| 23.5–24.5% | 10% | 87% |  |
-| 24.5–25.5% | 12% | 77% |  |
-| 25.5–26.5% | 11% | 65% |  |
-| 26.5–27.5% | 10% | 54% | Median |
-| 27.5–28.5% | 9% | 44% | Last Result |
-| 28.5–29.5% | 12% | 35% |  |
-| 29.5–30.5% | 12% | 23% |  |
-| 30.5–31.5% | 8% | 12% |  |
+| 19.5–20.5% | 0.3% | 99.9% |  |
+| 20.5–21.5% | 1.1% | 99.7% |  |
+| 21.5–22.5% | 3% | 98.6% |  |
+| 22.5–23.5% | 5% | 96% |  |
+| 23.5–24.5% | 8% | 90% |  |
+| 24.5–25.5% | 10% | 82% |  |
+| 25.5–26.5% | 10% | 72% |  |
+| 26.5–27.5% | 10% | 62% |  |
+| 27.5–28.5% | 11% | 52% | Last Result, Median |
+| 28.5–29.5% | 14% | 41% |  |
+| 29.5–30.5% | 13% | 27% |  |
+| 30.5–31.5% | 9% | 13% |  |
 | 31.5–32.5% | 3% | 4% |  |
-| 32.5–33.5% | 0.7% | 0.8% |  |
+| 32.5–33.5% | 0.8% | 1.0% |  |
 | 33.5–34.5% | 0.1% | 0.1% |  |
 | 34.5–35.5% | 0% | 0% |  |
 
@@ -130,6 +131,8 @@ Last result: **6** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6 | 5–7 | 5–8 | 5–8 | 5–8 |
+| [29 December 2020–10 January 2021](2021-01-10-Pitagórica.html) | Pitagórica <br> Observador and TVI | 7 | 6–7 | 6–7 | 6–7 | 5–8 |
+| [4–7 January 2021](2021-01-07-Intercampus.html) | Intercampus | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
 | [22 December 2020–3 January 2021](2021-01-03-Pitagórica.html) | Pitagórica <br> Observador and TVI | 6 | 6–7 | 5–7 | 5–7 | 5–8 |
 | [17–27 December 2020](2020-12-27-Pitagórica.html) | Pitagórica <br> Observador and TVI | 7 | 6–7 | 6–7 | 6–8 | 5–8 |
 | [19–22 December 2020](2020-12-22-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
@@ -222,10 +225,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 0.2% | 100% |  |
-| 5 | 17% | 99.8% |  |
-| 6 | 39% | 82% | Last Result, Median |
-| 7 | 34% | 43% |  |
+| 4 | 0.1% | 100% |  |
+| 5 | 12% | 99.9% |  |
+| 6 | 39% | 88% | Last Result, Median |
+| 7 | 40% | 49% |  |
 | 8 | 10% | 10% |  |
 | 9 | 0% | 0% |  |
 
