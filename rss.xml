@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/portuguese_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 16 Jan 2021 08:25:20 +0100</pubDate>
+    <pubDate>Mon, 18 Jan 2021 18:24:35 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Pitagórica for Observador and TVI, 29 December 2020–10 January 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2021-01-10-Pitagórica.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Social Democrata (EPP): 6–8 seats&lt;/li&gt;&lt;li&gt;Partido Socialista (S&amp;amp;D): 9–11 seats&lt;/li&gt;&lt;li&gt;Bloco de Esquerda (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;CDS–Partido Popular (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Iniciativa Liberal (RE): 0–1 seats&lt;/li&gt;&lt;li&gt;Chega (ID): 1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2021-01-10-Pitagórica-seats.png"
+        length="236945"
+        type="image/png"/>
+      <pubDate>Mon, 18 Jan 2021 18:24:35 +0100</pubDate>
+      <dc:date>2021-01-18T18:24:35.75327+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Pitagórica for Observador and TVI, 29 December 2020–10 January 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2021-01-10-Pitagórica.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2021-01-10-Pitagórica-coalitions-seats.png"
+        length="168293"
+        type="image/png"/>
+      <pubDate>Mon, 18 Jan 2021 18:24:35 +0100</pubDate>
+      <dc:date>2021-01-18T18:24:35.75327+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Pitagórica for Observador and TVI, 29 December 2020–10 January 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2021-01-10-Pitagórica.html</link>
@@ -16,8 +36,28 @@
       <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2021-01-10-Pitagórica.png"
         length="294524"
         type="image/png"/>
-      <pubDate>Sat, 16 Jan 2021 08:20:27 +0100</pubDate>
-      <dc:date>2021-01-16T08:20:27.401577+01:00</dc:date>
+      <pubDate>Mon, 18 Jan 2021 18:24:35 +0100</pubDate>
+      <dc:date>2021-01-18T18:24:35.75327+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Intercampus, 4–7 January 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2021-01-07-Intercampus.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Social Democrata (EPP): 5–7 seats&lt;/li&gt;&lt;li&gt;Partido Socialista (S&amp;amp;D): 8–10 seats&lt;/li&gt;&lt;li&gt;Bloco de Esquerda (GUE/NGL): 1–3 seats&lt;/li&gt;&lt;li&gt;CDS–Partido Popular (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;LIVRE (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Iniciativa Liberal (RE): 0–1 seats&lt;/li&gt;&lt;li&gt;Chega (ID): 1–3 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2021-01-07-Intercampus-seats.png"
+        length="262495"
+        type="image/png"/>
+      <pubDate>Mon, 18 Jan 2021 17:14:02 +0100</pubDate>
+      <dc:date>2021-01-18T17:14:02.556729+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Intercampus, 4–7 January 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2021-01-07-Intercampus.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2021-01-07-Intercampus-coalitions-seats.png"
+        length="175621"
+        type="image/png"/>
+      <pubDate>Mon, 18 Jan 2021 17:14:02 +0100</pubDate>
+      <dc:date>2021-01-18T17:14:02.556729+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Intercampus, 4–7 January 2021 – Voting Intentions</title>
@@ -26,8 +66,8 @@
       <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2021-01-07-Intercampus.png"
         length="308258"
         type="image/png"/>
-      <pubDate>Sat, 16 Jan 2021 08:25:20 +0100</pubDate>
-      <dc:date>2021-01-16T08:25:20.742049+01:00</dc:date>
+      <pubDate>Mon, 18 Jan 2021 17:14:02 +0100</pubDate>
+      <dc:date>2021-01-18T17:14:02.556729+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Pitagórica for Observador and TVI, 22 December 2020–3 January 2021 – Seat Projections for the Parties</title>
@@ -2519,6 +2559,6 @@
       <pubDate>Sun, 30 Jun 2019 15:14:32 +0200</pubDate>
       <dc:date>2019-06-30T15:14:32.852257+02:00</dc:date>
     </item>
-    <dc:date>2021-01-16T08:25:20.742049+01:00</dc:date>
+    <dc:date>2021-01-18T18:24:35.75327+01:00</dc:date>
   </channel>
 </rss>
