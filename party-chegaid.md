@@ -128,9 +128,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
+| N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 0–3 |
 | [29 December 2020–10 January 2021](2021-01-10-Pitagórica.html) | Pitagórica <br> Observador and TVI | 1 | 1 | 1 | 1 | 0–2 |
-| [4–7 January 2021](2021-01-07-Intercampus.html) | Intercampus | 2 | 2 | 1–2 | 1–2 | 1–3 |
+| [4–7 January 2021](2021-01-07-Intercampus.html) | Intercampus | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | [22 December 2020–3 January 2021](2021-01-03-Pitagórica.html) | Pitagórica <br> Observador and TVI | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [17–27 December 2020](2020-12-27-Pitagórica.html) | Pitagórica <br> Observador and TVI | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [19–22 December 2020](2020-12-22-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -223,10 +223,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.8% | 100% | Last Result |
-| 1 | 69% | 99.2% | Median |
-| 2 | 30% | 30% |  |
-| 3 | 0.3% | 0.3% |  |
+| 0 | 0.7% | 100% | Last Result |
+| 1 | 70% | 99.3% | Median |
+| 2 | 29% | 29% |  |
+| 3 | 0.6% | 0.6% |  |
 | 4 | 0% | 0% |  |
 
 

@@ -127,7 +127,7 @@ Last result: **3** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1 | 1 | 1–2 | 0–2 |
 | [29 December 2020–10 January 2021](2021-01-10-Pitagórica.html) | Pitagórica <br> Observador and TVI | 1 | 1 | 0–1 | 0–1 | 0–1 |
-| [4–7 January 2021](2021-01-07-Intercampus.html) | Intercampus | 1 | 1 | 1 | 1 | 0–2 |
+| [4–7 January 2021](2021-01-07-Intercampus.html) | Intercampus | 1 | 1 | 1 | 0–1 | 0–2 |
 | [22 December 2020–3 January 2021](2021-01-03-Pitagórica.html) | Pitagórica <br> Observador and TVI | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [17–27 December 2020](2020-12-27-Pitagórica.html) | Pitagórica <br> Observador and TVI | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [19–22 December 2020](2020-12-22-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias | 1 | 1 | 1 | 1 | 0–2 |
