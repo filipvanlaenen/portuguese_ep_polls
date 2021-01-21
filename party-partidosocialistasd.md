@@ -11,6 +11,7 @@ Last result: **31.5%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 38.6% | 36.1–41.8% | 35.4–42.8% | 34.9–43.7% | 33.8–45.2% |
+| [11–14 January 2021](2021-01-14-Eurosondagem.html) | Eurosondagem <br> Porto Canal and Sol | 39.0% | 37.1–41.0% | 36.5–41.5% | 36.0–42.0% | 35.1–43.0% |
 | [29 December 2020–10 January 2021](2021-01-10-Pitagórica.html) | Pitagórica <br> Observador and TVI | 41.3% | 38.9–43.9% | 38.1–44.6% | 37.5–45.2% | 36.4–46.5% |
 | [4–7 January 2021](2021-01-07-Intercampus.html) | Intercampus | 38.0% | 35.5–40.6% | 34.8–41.3% | 34.2–41.9% | 33.0–43.2% |
 | [22 December 2020–3 January 2021](2021-01-03-Pitagórica.html) | Pitagórica <br> Observador and TVI | 40.9% | 38.4–43.4% | 37.7–44.1% | 37.1–44.7% | 35.9–46.0% |
@@ -109,11 +110,11 @@ The following table shows the probability mass function per percentage block of 
 | 33.5–34.5% | 1.2% | 99.7% |  |
 | 34.5–35.5% | 4% | 98% |  |
 | 35.5–36.5% | 10% | 94% |  |
-| 36.5–37.5% | 16% | 85% |  |
+| 36.5–37.5% | 15% | 85% |  |
 | 37.5–38.5% | 18% | 69% |  |
 | 38.5–39.5% | 17% | 51% | Median |
-| 39.5–40.5% | 13% | 33% |  |
-| 40.5–41.5% | 9% | 20% |  |
+| 39.5–40.5% | 13% | 34% |  |
+| 40.5–41.5% | 9% | 21% |  |
 | 41.5–42.5% | 6% | 12% |  |
 | 42.5–43.5% | 3% | 6% |  |
 | 43.5–44.5% | 2% | 3% |  |
@@ -132,6 +133,7 @@ Last result: **8** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 9 | 9–10 | 8–10 | 8–11 | 8–11 |
+| [11–14 January 2021](2021-01-14-Eurosondagem.html) | Eurosondagem <br> Porto Canal and Sol | 9 | 9–10 | 9–10 | 9–10 | 8–10 |
 | [29 December 2020–10 January 2021](2021-01-10-Pitagórica.html) | Pitagórica <br> Observador and TVI | 10 | 9–11 | 9–11 | 9–11 | 8–11 |
 | [4–7 January 2021](2021-01-07-Intercampus.html) | Intercampus | 9 | 8–10 | 8–10 | 8–10 | 8–11 |
 | [22 December 2020–3 January 2021](2021-01-03-Pitagórica.html) | Pitagórica <br> Observador and TVI | 10 | 9–11 | 9–11 | 9–11 | 8–11 |
@@ -227,9 +229,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 7 | 0.1% | 100% |  |
-| 8 | 7% | 99.9% | Last Result |
-| 9 | 64% | 93% | Median |
-| 10 | 26% | 29% |  |
+| 8 | 6% | 99.9% | Last Result |
+| 9 | 63% | 94% | Median |
+| 10 | 28% | 30% |  |
 | 11 | 3% | 3% | Majority |
 | 12 | 0.1% | 0.1% |  |
 | 13 | 0% | 0% |  |

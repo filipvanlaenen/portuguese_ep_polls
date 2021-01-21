@@ -11,6 +11,7 @@ Last result: **12.7%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5.8% | 4.6–7.3% | 4.3–7.7% | 4.0–8.0% | 3.5–8.6% |
+| [11–14 January 2021](2021-01-14-Eurosondagem.html) | Eurosondagem <br> Porto Canal and Sol | 5.3% | 4.5–6.3% | 4.3–6.6% | 4.1–6.8% | 3.7–7.4% |
 | [29 December 2020–10 January 2021](2021-01-10-Pitagórica.html) | Pitagórica <br> Observador and TVI | 5.1% | 4.1–6.4% | 3.9–6.8% | 3.6–7.1% | 3.2–7.8% |
 | [4–7 January 2021](2021-01-07-Intercampus.html) | Intercampus | 5.6% | 4.6–7.0% | 4.3–7.4% | 4.1–7.8% | 3.6–8.5% |
 | [22 December 2020–3 January 2021](2021-01-03-Pitagórica.html) | Pitagórica <br> Observador and TVI | 4.1% | 3.3–5.3% | 3.0–5.7% | 2.8–6.0% | 2.5–6.6% |
@@ -126,6 +127,7 @@ Last result: **3** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1 | 1 | 1–2 | 0–2 |
+| [11–14 January 2021](2021-01-14-Eurosondagem.html) | Eurosondagem <br> Porto Canal and Sol | 1 | 1 | 1 | 1 | 0–1 |
 | [29 December 2020–10 January 2021](2021-01-10-Pitagórica.html) | Pitagórica <br> Observador and TVI | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [4–7 January 2021](2021-01-07-Intercampus.html) | Intercampus | 1 | 1 | 1 | 0–1 | 0–2 |
 | [22 December 2020–3 January 2021](2021-01-03-Pitagórica.html) | Pitagórica <br> Observador and TVI | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
