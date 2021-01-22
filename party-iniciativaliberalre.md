@@ -10,8 +10,9 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.9% | 1.3–5.3% | 1.1–5.7% | 1.0–5.9% | 0.8–6.5% |
+| N/A | [Poll Average](average.html) | 3.9% | 1.3–5.3% | 1.1–5.6% | 1.0–5.8% | 0.8–6.3% |
 | [11–14 January 2021](2021-01-14-Eurosondagem.html) | Eurosondagem <br> Porto Canal and Sol | 1.3% | 0.9–1.9% | 0.8–2.0% | 0.7–2.2% | 0.6–2.5% |
+| [11–14 January 2021](2021-01-14-CESOP–UCP.html) | CESOP–UCP <br> Público and RTP | 5.0% | 4.4–5.7% | 4.3–5.9% | 4.1–6.1% | 3.9–6.4% |
 | [29 December 2020–10 January 2021](2021-01-10-Pitagórica.html) | Pitagórica <br> Observador and TVI | 4.1% | 3.3–5.3% | 3.0–5.7% | 2.8–6.0% | 2.5–6.6% |
 | [4–7 January 2021](2021-01-07-Intercampus.html) | Intercampus | 3.8% | 3.0–5.0% | 2.7–5.4% | 2.6–5.7% | 2.2–6.3% |
 | [22 December 2020–3 January 2021](2021-01-03-Pitagórica.html) | Pitagórica <br> Observador and TVI | 2.9% | 2.2–3.9% | 2.0–4.2% | 1.8–4.5% | 1.5–5.0% |
@@ -108,10 +109,10 @@ The following table shows the probability mass function per percentage block of 
 | 0.5–1.5% | 14% | 100% |  |
 | 1.5–2.5% | 7% | 86% |  |
 | 2.5–3.5% | 19% | 79% |  |
-| 3.5–4.5% | 31% | 60% | Median |
-| 4.5–5.5% | 22% | 29% |  |
-| 5.5–6.5% | 6% | 6% |  |
-| 6.5–7.5% | 0.4% | 0.4% |  |
+| 3.5–4.5% | 30% | 60% | Median |
+| 4.5–5.5% | 24% | 30% |  |
+| 5.5–6.5% | 5% | 5% |  |
+| 6.5–7.5% | 0.2% | 0.2% |  |
 | 7.5–8.5% | 0% | 0% |  |
 
 
@@ -125,6 +126,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [11–14 January 2021](2021-01-14-Eurosondagem.html) | Eurosondagem <br> Porto Canal and Sol | 0 | 0 | 0 | 0 | 0 |
+| [11–14 January 2021](2021-01-14-CESOP–UCP.html) | CESOP–UCP <br> Público and RTP | 1 | 1 | 1 | 1 | 1 |
 | [29 December 2020–10 January 2021](2021-01-10-Pitagórica.html) | Pitagórica <br> Observador and TVI | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [4–7 January 2021](2021-01-07-Intercampus.html) | Intercampus | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [22 December 2020–3 January 2021](2021-01-03-Pitagórica.html) | Pitagórica <br> Observador and TVI | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -220,7 +222,7 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 55% | 100% | Last Result, Median |
-| 1 | 44% | 45% |  |
+| 1 | 45% | 45% |  |
 | 2 | 0% | 0% |  |
 
 
