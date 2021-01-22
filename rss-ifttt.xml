@@ -6,6 +6,14 @@
     <description>All Registered Polls for the European Parliament</description>
     <pubDate>Thu, 16 Jul 2020 23:32:48 +0200</pubDate>
     <item>
+      <title>Opinion Poll by CESOP–UCP for Público and RTP, 11–14 January 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2021-01-14-CESOP–UCP.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by CESOP–UCP for Público and RTP, 11–14 January 2021<br/>Details on https://filipvanlaenen.github.io/portuguese_ep_polls/2021-01-14-CESOP–UCP.html<br/><img src="https://filipvanlaenen.github.io/portuguese_ep_polls/2021-01-14-CESOP–UCP.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2021-01-14-CESOP–UCP.png" length="268402" type="image/png"/>
+      <pubDate>Fri, 22 Jan 2021 08:50:40 +0100</pubDate>
+      <dc:date>2021-01-22T08:50:40.634932+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Eurosondagem for Porto Canal and Sol, 11–14 January 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2021-01-14-Eurosondagem.html</link>
       <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Eurosondagem for Porto Canal and Sol, 11–14 January 2021<br/>Details on https://filipvanlaenen.github.io/portuguese_ep_polls/2021-01-14-Eurosondagem.html<br/><img src="https://filipvanlaenen.github.io/portuguese_ep_polls/2021-01-14-Eurosondagem.png"/>]]></description>
@@ -204,30 +212,6 @@
       <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2020-12-13-Pitagórica.png" length="289980" type="image/png"/>
       <pubDate>Sun, 3 Jan 2021 15:51:41 +0100</pubDate>
       <dc:date>2021-01-03T15:51:41.843585+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by CESOP–UCP for Público and RTP, 4–11 December 2020 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2020-12-11-CESOP–UCP.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by CESOP–UCP for Público and RTP, 4–11 December 2020<br/>Details on https://filipvanlaenen.github.io/portuguese_ep_polls/2020-12-11-CESOP–UCP.html<br/><img src="https://filipvanlaenen.github.io/portuguese_ep_polls/2020-12-11-CESOP–UCP-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2020-12-11-CESOP–UCP-seating-plan.png" length="358868" type="image/png"/>
-      <pubDate>Mon, 21 Dec 2020 16:01:58 +0100</pubDate>
-      <dc:date>2020-12-21T16:01:58.934604+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by CESOP–UCP for Público and RTP, 4–11 December 2020 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2020-12-11-CESOP–UCP.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by CESOP–UCP for Público and RTP, 4–11 December 2020<br/>Details on https://filipvanlaenen.github.io/portuguese_ep_polls/2020-12-11-CESOP–UCP.html<br/><img src="https://filipvanlaenen.github.io/portuguese_ep_polls/2020-12-11-CESOP–UCP-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2020-12-11-CESOP–UCP-seats.png" length="208926" type="image/png"/>
-      <pubDate>Mon, 21 Dec 2020 16:01:58 +0100</pubDate>
-      <dc:date>2020-12-21T16:01:58.934604+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by CESOP–UCP for Público and RTP, 4–11 December 2020 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2020-12-11-CESOP–UCP.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by CESOP–UCP for Público and RTP, 4–11 December 2020<br/>Details on https://filipvanlaenen.github.io/portuguese_ep_polls/2020-12-11-CESOP–UCP.html<br/><img src="https://filipvanlaenen.github.io/portuguese_ep_polls/2020-12-11-CESOP–UCP.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2020-12-11-CESOP–UCP.png" length="277872" type="image/png"/>
-      <pubDate>Mon, 21 Dec 2020 16:01:58 +0100</pubDate>
-      <dc:date>2020-12-21T16:01:58.934604+01:00</dc:date>
     </item>
   </channel>
 </rss>
