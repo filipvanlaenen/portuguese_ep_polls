@@ -260,7 +260,7 @@ Only polls for which at least the sample size has been published are included in
 | <a href="#livre-(greens/efa)">LIVRE (Greens/EFA)</a> | 0 | 0 | 0 |0 | 0 | 0 |
 | <a href="#iniciativa-liberal-(re)">Iniciativa Liberal (RE)</a> | 0 | 0 | 0–1 |0–1 | 0–1 | 0–1 |
 | <a href="#aliança-(re)">Aliança (RE)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
-| <a href="#chega-(id)">Chega (ID)</a> | 0 | 1 | 1–2 |1–2 | 1–2 | 0–3 |
+| <a href="#chega-(id)">Chega (ID)</a> | 0 | 1 | 1–2 |1–2 | 1–2 | 1–3 |
 
 ### Partido Socialista (S&D)
 
@@ -271,9 +271,9 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 7 | 0.1% | 100% |  |
-| 8 | 6% | 99.9% | Last Result |
-| 9 | 59% | 94% | Median |
-| 10 | 33% | 36% |  |
+| 8 | 5% | 99.9% | Last Result |
+| 9 | 58% | 94% | Median |
+| 10 | 34% | 37% |  |
 | 11 | 3% | 3% | Majority |
 | 12 | 0.1% | 0.1% |  |
 | 13 | 0% | 0% |  |
@@ -290,7 +290,7 @@ Only polls for which at least the sample size has been published are included in
 | 5 | 15% | 99.7% |  |
 | 6 | 44% | 85% | Last Result, Median |
 | 7 | 40% | 41% |  |
-| 8 | 0.8% | 0.8% |  |
+| 8 | 0.7% | 0.7% |  |
 | 9 | 0% | 0% |  |
 
 ### CDS–Partido Popular (EPP)
@@ -380,8 +380,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.5% | 100% | Last Result |
-| 1 | 56% | 99.5% | Median |
-| 2 | 43% | 43% |  |
+| 1 | 57% | 99.5% | Median |
+| 2 | 42% | 43% |  |
 | 3 | 0.6% | 0.6% |  |
 | 4 | 0% | 0% |  |
 
@@ -397,7 +397,7 @@ Only polls for which at least the sample size has been published are included in
 | Partido Socialista (S&D) | 8 | 9 | 3% | 9–10 | 8–10 | 8–11 | 8–11 |
 | CDS–Partido Popular (EPP) – Partido Social Democrata (EPP) | 7 | 6 | 0% | 5–7 | 5–7 | 5–7 | 5–8 |
 | Coligação Democrática Unitária (GUE/NGL) – Bloco de Esquerda (GUE/NGL) | 4 | 2 | 0% | 2–3 | 2–3 | 2–3 | 1–4 |
-| Chega (ID) | 0 | 1 | 0% | 1–2 | 1–2 | 1–2 | 0–3 |
+| Chega (ID) | 0 | 1 | 0% | 1–2 | 1–2 | 1–2 | 1–3 |
 | Aliança (RE) – Iniciativa Liberal (RE) | 0 | 0 | 0% | 0–1 | 0–1 | 0–1 | 0–1 |
 | Pessoas–Animais–Natureza (Greens/EFA) – LIVRE (Greens/EFA) | 0 | 0 | 0% | 0–1 | 0–1 | 0–1 | 0–1 |
 
@@ -408,9 +408,9 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 7 | 0.1% | 100% |  |
-| 8 | 6% | 99.9% | Last Result |
-| 9 | 59% | 94% | Median |
-| 10 | 33% | 36% |  |
+| 8 | 5% | 99.9% | Last Result |
+| 9 | 58% | 94% | Median |
+| 10 | 34% | 37% |  |
 | 11 | 3% | 3% | Majority |
 | 12 | 0.1% | 0.1% |  |
 | 13 | 0% | 0% |  |
@@ -447,8 +447,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.5% | 100% | Last Result |
-| 1 | 56% | 99.5% | Median |
-| 2 | 43% | 43% |  |
+| 1 | 57% | 99.5% | Median |
+| 2 | 42% | 43% |  |
 | 3 | 0.6% | 0.6% |  |
 | 4 | 0% | 0% |  |
 
@@ -476,6 +476,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 5
-+ **Lowest number of simulations done in a poll included in this average:** 131,072
-+ **Total number of simulations done in the polls included in this average:** 3,407,872
++ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Total number of simulations done in the polls included in this average:** 5,242,880
 + **Error estimate:** 3.03%
