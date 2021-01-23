@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/portuguese_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 22 Jan 2021 08:50:40 +0100</pubDate>
+    <pubDate>Sat, 23 Jan 2021 13:31:45 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Eurosondagem for Porto Canal and Sol, 11–14 January 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2021-01-14-Eurosondagem.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Social Democrata (EPP): 6–7 seats&lt;/li&gt;&lt;li&gt;Partido Socialista (S&amp;amp;D): 9–10 seats&lt;/li&gt;&lt;li&gt;Bloco de Esquerda (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;CDS–Partido Popular (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária (GUE/NGL): 1 seats&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Iniciativa Liberal (RE): 0 seats&lt;/li&gt;&lt;li&gt;Chega (ID): 1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2021-01-14-Eurosondagem-seats.png"
+        length="201131"
+        type="image/png"/>
+      <pubDate>Sat, 23 Jan 2021 12:39:46 +0100</pubDate>
+      <dc:date>2021-01-23T12:39:46.324157+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Eurosondagem for Porto Canal and Sol, 11–14 January 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2021-01-14-Eurosondagem.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2021-01-14-Eurosondagem-coalitions-seats.png"
+        length="126943"
+        type="image/png"/>
+      <pubDate>Sat, 23 Jan 2021 12:39:46 +0100</pubDate>
+      <dc:date>2021-01-23T12:39:46.324157+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Eurosondagem for Porto Canal and Sol, 11–14 January 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2021-01-14-Eurosondagem.html</link>
@@ -16,8 +36,28 @@
       <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2021-01-14-Eurosondagem.png"
         length="278125"
         type="image/png"/>
-      <pubDate>Thu, 21 Jan 2021 18:42:22 +0100</pubDate>
-      <dc:date>2021-01-21T18:42:22.983021+01:00</dc:date>
+      <pubDate>Sat, 23 Jan 2021 12:39:46 +0100</pubDate>
+      <dc:date>2021-01-23T12:39:46.324157+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by CESOP–UCP for Público and RTP, 11–14 January 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2021-01-14-CESOP–UCP.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Social Democrata (EPP): 6–7 seats&lt;/li&gt;&lt;li&gt;Partido Socialista (S&amp;amp;D): 9–10 seats&lt;/li&gt;&lt;li&gt;Bloco de Esquerda (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;CDS–Partido Popular (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária (GUE/NGL): 1 seats&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Iniciativa Liberal (RE): 1 seats&lt;/li&gt;&lt;li&gt;Chega (ID): 1–2 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2021-01-14-CESOP–UCP-seats.png"
+        length="213089"
+        type="image/png"/>
+      <pubDate>Sat, 23 Jan 2021 13:31:45 +0100</pubDate>
+      <dc:date>2021-01-23T13:31:45.019597+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by CESOP–UCP for Público and RTP, 11–14 January 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2021-01-14-CESOP–UCP.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2021-01-14-CESOP–UCP-coalitions-seats.png"
+        length="138348"
+        type="image/png"/>
+      <pubDate>Sat, 23 Jan 2021 13:31:45 +0100</pubDate>
+      <dc:date>2021-01-23T13:31:45.019597+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by CESOP–UCP for Público and RTP, 11–14 January 2021 – Voting Intentions</title>
@@ -26,8 +66,8 @@
       <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2021-01-14-CESOP–UCP.png"
         length="268402"
         type="image/png"/>
-      <pubDate>Fri, 22 Jan 2021 08:50:40 +0100</pubDate>
-      <dc:date>2021-01-22T08:50:40.634932+01:00</dc:date>
+      <pubDate>Sat, 23 Jan 2021 13:31:45 +0100</pubDate>
+      <dc:date>2021-01-23T13:31:45.019597+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Pitagórica for Observador and TVI, 29 December 2020–10 January 2021 – Seat Projections for the Parties</title>
@@ -2579,6 +2619,6 @@
       <pubDate>Sun, 30 Jun 2019 15:14:32 +0200</pubDate>
       <dc:date>2019-06-30T15:14:32.852257+02:00</dc:date>
     </item>
-    <dc:date>2021-01-22T08:50:40.634932+01:00</dc:date>
+    <dc:date>2021-01-23T13:31:45.019597+01:00</dc:date>
   </channel>
 </rss>
