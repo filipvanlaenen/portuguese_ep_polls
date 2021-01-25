@@ -5,6 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | PS | PSD | CDS–PP | CDU | BE | PAN | L | IL | A | CH |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 31.5% <br> 8 | 27.7% <br> 6 | 27.7% <br> 1 | 12.7% <br> 3 | 4.6% <br> 1 | 1.7% <br> 0 | 0.7% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| [7–18 January 2021](2021-01-18-Pitagórica.html) | Pitagórica <br> Observador and TVI | 39–46% <br> 9–11 | 22–29% <br> 5–7 | 1–3% <br> 0 | 4–7% <br> 0–1 | 4–7% <br> 0–1 | 1–4% <br> 0 | N/A <br> N/A | 3–7% <br> 0–1 | N/A <br> N/A | 5–9% <br> 1–2 |
 | [11–14 January 2021](2021-01-14-Eurosondagem.html) | Eurosondagem <br> Porto Canal and Sol | 36–42% <br> 9–10 | 25–31% <br> 6–7 | 1–3% <br> 0 | 4–7% <br> 1 | 5–8% <br> 1–2 | 1–3% <br> 0 | N/A <br> N/A | 1–2% <br> 0 | N/A <br> N/A | 4–7% <br> 1 |
 | [11–14 January 2021](2021-01-14-CESOP–UCP.html) | CESOP–UCP <br> Público and RTP | 37–41% <br> 9–10 | 26–30% <br> 6–7 | 1–3% <br> 0 | 5–7% <br> 1 | 6–8% <br> 1–2 | 1–3% <br> 0 | N/A <br> N/A | 4–6% <br> 1 | N/A <br> N/A | 7–9% <br> 1–2 |
 | [29 December 2020–10 January 2021](2021-01-10-Pitagórica.html) | Pitagórica <br> Observador and TVI | 38–45% <br> 9–11 | 25–32% <br> 6–8 | 1–2% <br> 0 | 4–7% <br> 0–1 | 5–9% <br> 1–2 | 1–4% <br> 0 | N/A <br> N/A | 3–6% <br> 0–1 | N/A <br> N/A | 4–8% <br> 1 |
