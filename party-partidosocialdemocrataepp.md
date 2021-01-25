@@ -10,7 +10,8 @@ Last result: **27.7%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 27.0% | 23.6–29.4% | 22.7–30.0% | 22.0–30.6% | 20.8–31.8% |
+| N/A | [Poll Average](average.html) | 26.4% | 23.3–28.9% | 22.6–29.5% | 21.9–30.0% | 20.8–30.9% |
+| [7–18 January 2021](2021-01-18-Pitagórica.html) | Pitagórica <br> Observador and TVI | 25.6% | 23.5–27.9% | 22.8–28.6% | 22.3–29.2% | 21.3–30.3% |
 | [11–14 January 2021](2021-01-14-Eurosondagem.html) | Eurosondagem <br> Porto Canal and Sol | 28.0% | 26.3–29.9% | 25.8–30.4% | 25.3–30.8% | 24.5–31.7% |
 | [11–14 January 2021](2021-01-14-CESOP–UCP.html) | CESOP–UCP <br> Público and RTP | 28.0% | 26.7–29.3% | 26.4–29.7% | 26.1–30.0% | 25.5–30.6% |
 | [29 December 2020–10 January 2021](2021-01-10-Pitagórica.html) | Pitagórica <br> Observador and TVI | 28.0% | 25.8–30.4% | 25.1–31.0% | 24.6–31.6% | 23.6–32.8% |
@@ -105,22 +106,22 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
+| 17.5–18.5% | 0% | 100% |  |
 | 18.5–19.5% | 0.1% | 100% |  |
 | 19.5–20.5% | 0.3% | 99.9% |  |
-| 20.5–21.5% | 1.1% | 99.7% |  |
-| 21.5–22.5% | 3% | 98.6% |  |
-| 22.5–23.5% | 6% | 96% |  |
-| 23.5–24.5% | 9% | 90% |  |
-| 24.5–25.5% | 11% | 82% |  |
-| 25.5–26.5% | 13% | 71% |  |
-| 26.5–27.5% | 18% | 58% | Median |
-| 27.5–28.5% | 19% | 40% | Last Result |
-| 28.5–29.5% | 13% | 21% |  |
-| 29.5–30.5% | 6% | 8% |  |
-| 30.5–31.5% | 2% | 3% |  |
-| 31.5–32.5% | 0.5% | 0.7% |  |
-| 32.5–33.5% | 0.1% | 0.2% |  |
-| 33.5–34.5% | 0% | 0% |  |
+| 20.5–21.5% | 1.2% | 99.6% |  |
+| 21.5–22.5% | 3% | 98% |  |
+| 22.5–23.5% | 7% | 95% |  |
+| 23.5–24.5% | 11% | 88% |  |
+| 24.5–25.5% | 14% | 77% |  |
+| 25.5–26.5% | 15% | 63% | Median |
+| 26.5–27.5% | 17% | 48% |  |
+| 27.5–28.5% | 16% | 31% | Last Result |
+| 28.5–29.5% | 10% | 15% |  |
+| 29.5–30.5% | 4% | 5% |  |
+| 30.5–31.5% | 0.8% | 1.0% |  |
+| 31.5–32.5% | 0.1% | 0.2% |  |
+| 32.5–33.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -131,7 +132,8 @@ Last result: **6** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
+| N/A | [Poll Average](average.html) | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
+| [7–18 January 2021](2021-01-18-Pitagórica.html) | Pitagórica <br> Observador and TVI | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
 | [11–14 January 2021](2021-01-14-Eurosondagem.html) | Eurosondagem <br> Porto Canal and Sol | 7 | 6–7 | 6–7 | 6–7 | 6–7 |
 | [11–14 January 2021](2021-01-14-CESOP–UCP.html) | CESOP–UCP <br> Público and RTP | 7 | 6–7 | 6–7 | 6–7 | 6–8 |
 | [29 December 2020–10 January 2021](2021-01-10-Pitagórica.html) | Pitagórica <br> Observador and TVI | 7 | 6–7 | 6–7 | 6–8 | 5–8 |
@@ -229,10 +231,10 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 0.3% | 100% |  |
-| 5 | 15% | 99.7% |  |
-| 6 | 44% | 85% | Last Result, Median |
-| 7 | 40% | 41% |  |
-| 8 | 0.7% | 0.7% |  |
+| 5 | 18% | 99.7% |  |
+| 6 | 51% | 82% | Last Result, Median |
+| 7 | 31% | 31% |  |
+| 8 | 0.2% | 0.2% |  |
 | 9 | 0% | 0% |  |
 
 
