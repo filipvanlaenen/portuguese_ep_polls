@@ -255,7 +255,7 @@ Only polls for which at least the sample size has been published are included in
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#partido-socialista-(s&d)">Partido Socialista (S&D)</a> | 8 | 9 | 9–10 |8–10 | 8–11 | 8–11 |
+| <a href="#partido-socialista-(s&d)">Partido Socialista (S&D)</a> | 8 | 9 | 8–10 |8–10 | 8–11 | 8–11 |
 | <a href="#partido-social-democrata-(epp)">Partido Social Democrata (EPP)</a> | 6 | 6 | 5–7 |5–7 | 5–7 | 5–7 |
 | <a href="#cds–partido-popular-(epp)">CDS–Partido Popular (EPP)</a> | 1 | 0 | 0 |0 | 0 | 0 |
 | <a href="#coligação-democrática-unitária-(gue/ngl)">Coligação Democrática Unitária (GUE/NGL)</a> | 3 | 1 | 1 |1 | 1 | 0–2 |
@@ -275,8 +275,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 7 | 0.1% | 100% |  |
-| 8 | 10% | 99.9% | Last Result |
-| 9 | 57% | 90% | Median |
+| 8 | 13% | 99.9% | Last Result |
+| 9 | 53% | 87% | Median |
 | 10 | 29% | 34% |  |
 | 11 | 4% | 4% | Majority |
 | 12 | 0.1% | 0.1% |  |
@@ -291,8 +291,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 0.3% | 100% |  |
-| 5 | 28% | 99.7% |  |
-| 6 | 56% | 72% | Last Result, Median |
+| 5 | 27% | 99.7% |  |
+| 6 | 57% | 73% | Last Result, Median |
 | 7 | 16% | 16% |  |
 | 8 | 0.1% | 0.1% |  |
 | 9 | 0% | 0% |  |
@@ -331,8 +331,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.6% | 100% |  |
-| 1 | 55% | 99.4% | Last Result, Median |
-| 2 | 43% | 44% |  |
+| 1 | 53% | 99.4% | Last Result, Median |
+| 2 | 46% | 47% |  |
 | 3 | 0.8% | 0.8% |  |
 | 4 | 0% | 0% |  |
 
@@ -368,7 +368,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 50% | 100% | Last Result, Median |
 | 1 | 49% | 50% |  |
-| 2 | 0.5% | 0.5% |  |
+| 2 | 1.0% | 1.0% |  |
 | 3 | 0% | 0% |  |
 
 ### Aliança (RE)
@@ -400,7 +400,7 @@ Only polls for which at least the sample size has been published are included in
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Partido Socialista (S&D) | 8 | 9 | 4% | 9–10 | 8–10 | 8–11 | 8–11 |
+| Partido Socialista (S&D) | 8 | 9 | 4% | 8–10 | 8–10 | 8–11 | 8–11 |
 | CDS–Partido Popular (EPP) – Partido Social Democrata (EPP) | 7 | 6 | 0% | 5–7 | 5–7 | 5–7 | 5–7 |
 | Coligação Democrática Unitária (GUE/NGL) – Bloco de Esquerda (GUE/NGL) | 4 | 2 | 0% | 2–3 | 2–3 | 2–3 | 1–4 |
 | Chega (ID) | 0 | 2 | 0% | 1–2 | 1–2 | 1–2 | 1–3 |
@@ -414,8 +414,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 7 | 0.1% | 100% |  |
-| 8 | 10% | 99.9% | Last Result |
-| 9 | 57% | 90% | Median |
+| 8 | 13% | 99.9% | Last Result |
+| 9 | 53% | 87% | Median |
 | 10 | 29% | 34% |  |
 | 11 | 4% | 4% | Majority |
 | 12 | 0.1% | 0.1% |  |
@@ -429,7 +429,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 0.3% | 100% |  |
 | 5 | 27% | 99.7% |  |
-| 6 | 56% | 72% | Median |
+| 6 | 57% | 73% | Median |
 | 7 | 16% | 16% | Last Result |
 | 8 | 0.1% | 0.1% |  |
 | 9 | 0% | 0% |  |
@@ -441,8 +441,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 2% | 100% |  |
-| 2 | 54% | 98% | Median |
-| 3 | 43% | 44% |  |
+| 2 | 52% | 98% | Median |
+| 3 | 45% | 46% |  |
 | 4 | 1.2% | 1.2% | Last Result |
 | 5 | 0% | 0% |  |
 
@@ -466,7 +466,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 50% | 100% | Last Result, Median |
 | 1 | 49% | 50% |  |
-| 2 | 0.5% | 0.5% |  |
+| 2 | 1.0% | 1.0% |  |
 | 3 | 0% | 0% |  |
 
 ### Pessoas–Animais–Natureza (Greens/EFA) – LIVRE (Greens/EFA)
@@ -483,6 +483,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 5
-+ **Lowest number of simulations done in a poll included in this average:** 131,072
-+ **Total number of simulations done in the polls included in this average:** 4,325,376
++ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Total number of simulations done in the polls included in this average:** 5,242,880
 + **Error estimate:** 3.03%
