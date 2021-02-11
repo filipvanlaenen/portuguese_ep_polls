@@ -54,6 +54,14 @@
       <dc:date>2021-01-24T11:10:40.306823+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Aximage for Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias, 9–15 January 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2021-01-15-Aximage.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Aximage for Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias, 9–15 January 2021<br/>Details on https://filipvanlaenen.github.io/portuguese_ep_polls/2021-01-15-Aximage.html<br/><img src="https://filipvanlaenen.github.io/portuguese_ep_polls/2021-01-15-Aximage.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2021-01-15-Aximage.png" length="320632" type="image/png"/>
+      <pubDate>Thu, 11 Feb 2021 18:18:27 +0100</pubDate>
+      <dc:date>2021-02-11T18:18:27.002892+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by CESOP–UCP for Público and RTP, 11–14 January 2021 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2021-01-14-CESOP–UCP.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by CESOP–UCP for Público and RTP, 11–14 January 2021<br/>Details on https://filipvanlaenen.github.io/portuguese_ep_polls/2021-01-14-CESOP–UCP.html<br/><img src="https://filipvanlaenen.github.io/portuguese_ep_polls/2021-01-14-CESOP–UCP-seating-plan.png"/>]]></description>
@@ -220,30 +228,6 @@
       <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2020-12-22-Aximage.png" length="317161" type="image/png"/>
       <pubDate>Sun, 3 Jan 2021 23:20:17 +0100</pubDate>
       <dc:date>2021-01-03T23:20:17.320259+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Pitagórica for Observador and TVI, 17–20 December 2020 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2020-12-20-Pitagórica.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Pitagórica for Observador and TVI, 17–20 December 2020<br/>Details on https://filipvanlaenen.github.io/portuguese_ep_polls/2020-12-20-Pitagórica.html<br/><img src="https://filipvanlaenen.github.io/portuguese_ep_polls/2020-12-20-Pitagórica-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2020-12-20-Pitagórica-seating-plan.png" length="363977" type="image/png"/>
-      <pubDate>Sun, 3 Jan 2021 11:22:20 +0100</pubDate>
-      <dc:date>2021-01-03T11:22:20.136605+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Pitagórica for Observador and TVI, 17–20 December 2020 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2020-12-20-Pitagórica.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Pitagórica for Observador and TVI, 17–20 December 2020<br/>Details on https://filipvanlaenen.github.io/portuguese_ep_polls/2020-12-20-Pitagórica.html<br/><img src="https://filipvanlaenen.github.io/portuguese_ep_polls/2020-12-20-Pitagórica-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2020-12-20-Pitagórica-seats.png" length="234097" type="image/png"/>
-      <pubDate>Sun, 3 Jan 2021 11:22:20 +0100</pubDate>
-      <dc:date>2021-01-03T11:22:20.136605+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Pitagórica for Observador and TVI, 17–20 December 2020 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2020-12-20-Pitagórica.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Pitagórica for Observador and TVI, 17–20 December 2020<br/>Details on https://filipvanlaenen.github.io/portuguese_ep_polls/2020-12-20-Pitagórica.html<br/><img src="https://filipvanlaenen.github.io/portuguese_ep_polls/2020-12-20-Pitagórica.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2020-12-20-Pitagórica.png" length="290748" type="image/png"/>
-      <pubDate>Sun, 3 Jan 2021 11:22:20 +0100</pubDate>
-      <dc:date>2021-01-03T11:22:20.136605+01:00</dc:date>
     </item>
   </channel>
 </rss>
