@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/portuguese_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 11 Feb 2021 18:18:27 +0100</pubDate>
+    <pubDate>Fri, 12 Feb 2021 23:12:42 +0100</pubDate>
     <item>
       <title>Opinion Poll by CESOP–UCP for Público and RTP, 24 January 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2021-01-24-CESOP–UCP.html#seats</link>
@@ -70,14 +70,34 @@
       <dc:date>2021-01-24T11:10:40.306823+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Aximage for Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias, 9–15 January 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2021-01-15-Aximage.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Social Democrata (EPP): 5–7 seats&lt;/li&gt;&lt;li&gt;Partido Socialista (S&amp;amp;D): 9–10 seats&lt;/li&gt;&lt;li&gt;Bloco de Esquerda (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;CDS–Partido Popular (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;LIVRE (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Iniciativa Liberal (RE): 0–1 seats&lt;/li&gt;&lt;li&gt;Chega (ID): 1–2 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2021-01-15-Aximage-seats.png"
+        length="251647"
+        type="image/png"/>
+      <pubDate>Fri, 12 Feb 2021 23:12:42 +0100</pubDate>
+      <dc:date>2021-02-12T23:12:42.362109+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Aximage for Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias, 9–15 January 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2021-01-15-Aximage.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2021-01-15-Aximage-coalitions-seats.png"
+        length="171400"
+        type="image/png"/>
+      <pubDate>Fri, 12 Feb 2021 23:12:42 +0100</pubDate>
+      <dc:date>2021-02-12T23:12:42.362109+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Aximage for Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias, 9–15 January 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2021-01-15-Aximage.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Partido Social Democrata (EPP): 23.3–30.2%&lt;/li&gt;&lt;li&gt;Partido Socialista (S&amp;amp;D): 36.1–43.7%&lt;/li&gt;&lt;li&gt;Bloco de Esquerda (GUE/NGL): 5.5–9.5%&lt;/li&gt;&lt;li&gt;CDS–Partido Popular (EPP): 0.3–1.8%&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária (GUE/NGL): 3.6–7.0%&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza (Greens/EFA): 2.3–5.2%&lt;/li&gt;&lt;li&gt;LIVRE (Greens/EFA): 0.2–1.6%&lt;/li&gt;&lt;li&gt;Iniciativa Liberal (RE): 2.3–5.2%&lt;/li&gt;&lt;li&gt;Chega (ID): 5.7–9.9%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2021-01-15-Aximage.png"
         length="320632"
         type="image/png"/>
-      <pubDate>Thu, 11 Feb 2021 18:18:27 +0100</pubDate>
-      <dc:date>2021-02-11T18:18:27.002892+01:00</dc:date>
+      <pubDate>Fri, 12 Feb 2021 23:12:42 +0100</pubDate>
+      <dc:date>2021-02-12T23:12:42.362109+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Eurosondagem for Porto Canal and Sol, 11–14 January 2021 – Seat Projections for the Parties</title>
@@ -2689,6 +2709,6 @@
       <pubDate>Sun, 30 Jun 2019 15:14:32 +0200</pubDate>
       <dc:date>2019-06-30T15:14:32.852257+02:00</dc:date>
     </item>
-    <dc:date>2021-02-11T18:18:27.002892+01:00</dc:date>
+    <dc:date>2021-02-12T23:12:42.362109+01:00</dc:date>
   </channel>
 </rss>
