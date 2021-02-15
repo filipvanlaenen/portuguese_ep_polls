@@ -10,7 +10,8 @@ Last result: **4.6%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.4% | 5.3–9.3% | 4.9–10.1% | 4.5–10.6% | 3.9–11.7% |
+| N/A | [Poll Average](average.html) | 7.6% | 5.4–9.3% | 4.9–10.1% | 4.5–10.6% | 3.9–11.7% |
+| [8–11 February 2021](2021-02-11-Eurosondagem.html) | Eurosondagem <br> Porto Canal and Sol | 6.9% | 6.0–8.1% | 5.8–8.4% | 5.5–8.7% | 5.1–9.3% |
 | [24 January 2021](2021-01-24-CESOP–UCP.html) | CESOP–UCP <br> Público and RTP | 8.0% | 7.5–8.5% | 7.4–8.7% | 7.3–8.8% | 7.0–9.1% |
 | [7–18 January 2021](2021-01-18-Pitagórica.html) | Pitagórica <br> Observador and TVI | 5.4% | 4.4–6.8% | 4.1–7.1% | 3.9–7.5% | 3.5–8.2% |
 | [9–15 January 2021](2021-01-15-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias | 7.2% | 6.1–8.7% | 5.7–9.2% | 5.5–9.5% | 5.0–10.3% |
@@ -111,11 +112,11 @@ The following table shows the probability mass function per percentage block of 
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0.1% | 100% |  |
 | 3.5–4.5% | 3% | 99.9% |  |
-| 4.5–5.5% | 10% | 97% | Last Result |
-| 5.5–6.5% | 19% | 87% |  |
-| 6.5–7.5% | 21% | 68% | Median |
-| 7.5–8.5% | 28% | 47% |  |
-| 8.5–9.5% | 11% | 19% |  |
+| 4.5–5.5% | 9% | 97% | Last Result |
+| 5.5–6.5% | 16% | 88% |  |
+| 6.5–7.5% | 22% | 73% |  |
+| 7.5–8.5% | 31% | 50% | Median |
+| 8.5–9.5% | 11% | 20% |  |
 | 9.5–10.5% | 5% | 8% |  |
 | 10.5–11.5% | 2% | 3% |  |
 | 11.5–12.5% | 0.5% | 0.6% |  |
@@ -132,6 +133,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 0–3 |
+| [8–11 February 2021](2021-02-11-Eurosondagem.html) | Eurosondagem <br> Porto Canal and Sol | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [24 January 2021](2021-01-24-CESOP–UCP.html) | CESOP–UCP <br> Público and RTP | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [7–18 January 2021](2021-01-18-Pitagórica.html) | Pitagórica <br> Observador and TVI | 1 | 1 | 1 | 0–1 | 0–2 |
 | [9–15 January 2021](2021-01-15-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -232,8 +234,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.6% | 100% |  |
-| 1 | 60% | 99.4% | Last Result, Median |
-| 2 | 38% | 39% |  |
+| 1 | 57% | 99.4% | Last Result, Median |
+| 2 | 41% | 42% |  |
 | 3 | 0.7% | 0.7% |  |
 | 4 | 0% | 0% |  |
 
