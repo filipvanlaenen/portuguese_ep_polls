@@ -237,9 +237,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 5 | 18% | 100% |  |
-| 6 | 59% | 82% | Last Result, Median |
-| 7 | 24% | 24% |  |
+| 5 | 17% | 100% |  |
+| 6 | 60% | 83% | Last Result, Median |
+| 7 | 23% | 23% |  |
 | 8 | 0.3% | 0.3% |  |
 | 9 | 0% | 0% |  |
 
