@@ -6,6 +6,14 @@
     <description>All Registered Polls for the European Parliament</description>
     <pubDate>Thu, 28 Jan 2021 21:33:52 +0100</pubDate>
     <item>
+      <title>Opinion Poll by Intercampus for Correio da Manhã and Negócios, 4–10 March 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2021-03-10-Intercampus.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Intercampus for Correio da Manhã and Negócios, 4–10 March 2021<br/>Details on https://filipvanlaenen.github.io/portuguese_ep_polls/2021-03-10-Intercampus.html<br/><img src="https://filipvanlaenen.github.io/portuguese_ep_polls/2021-03-10-Intercampus.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2021-03-10-Intercampus.png" length="318077" type="image/png"/>
+      <pubDate>Thu, 18 Mar 2021 17:45:24 +0100</pubDate>
+      <dc:date>2021-03-18T17:45:24.861162+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Eurosondagem, 1–4 March 2021 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2021-03-04-Eurosondagem.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Eurosondagem, 1–4 March 2021<br/>Details on https://filipvanlaenen.github.io/portuguese_ep_polls/2021-03-04-Eurosondagem.html<br/><img src="https://filipvanlaenen.github.io/portuguese_ep_polls/2021-03-04-Eurosondagem-seating-plan.png"/>]]></description>
@@ -220,30 +228,6 @@
       <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2021-01-14-Eurosondagem.png" length="278125" type="image/png"/>
       <pubDate>Sat, 23 Jan 2021 12:39:46 +0100</pubDate>
       <dc:date>2021-01-23T12:39:46.324157+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Pitagórica for Observador and TVI, 29 December 2020–10 January 2021 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2021-01-10-Pitagórica.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Pitagórica for Observador and TVI, 29 December 2020–10 January 2021<br/>Details on https://filipvanlaenen.github.io/portuguese_ep_polls/2021-01-10-Pitagórica.html<br/><img src="https://filipvanlaenen.github.io/portuguese_ep_polls/2021-01-10-Pitagórica-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2021-01-10-Pitagórica-seating-plan.png" length="370790" type="image/png"/>
-      <pubDate>Mon, 18 Jan 2021 18:24:35 +0100</pubDate>
-      <dc:date>2021-01-18T18:24:35.75327+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Pitagórica for Observador and TVI, 29 December 2020–10 January 2021 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2021-01-10-Pitagórica.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Pitagórica for Observador and TVI, 29 December 2020–10 January 2021<br/>Details on https://filipvanlaenen.github.io/portuguese_ep_polls/2021-01-10-Pitagórica.html<br/><img src="https://filipvanlaenen.github.io/portuguese_ep_polls/2021-01-10-Pitagórica-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2021-01-10-Pitagórica-seats.png" length="236945" type="image/png"/>
-      <pubDate>Mon, 18 Jan 2021 18:24:35 +0100</pubDate>
-      <dc:date>2021-01-18T18:24:35.75327+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Pitagórica for Observador and TVI, 29 December 2020–10 January 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2021-01-10-Pitagórica.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Pitagórica for Observador and TVI, 29 December 2020–10 January 2021<br/>Details on https://filipvanlaenen.github.io/portuguese_ep_polls/2021-01-10-Pitagórica.html<br/><img src="https://filipvanlaenen.github.io/portuguese_ep_polls/2021-01-10-Pitagórica.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2021-01-10-Pitagórica.png" length="294524" type="image/png"/>
-      <pubDate>Mon, 18 Jan 2021 18:24:35 +0100</pubDate>
-      <dc:date>2021-01-18T18:24:35.75327+01:00</dc:date>
     </item>
   </channel>
 </rss>
