@@ -10,7 +10,8 @@ Last result: **31.5%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 38.3% | 34.8–42.6% | 34.4–43.8% | 34.0–44.7% | 33.3–46.3% |
+| N/A | [Poll Average](average.html) | 38.2% | 34.8–42.6% | 34.4–43.8% | 34.0–44.7% | 33.3–46.3% |
+| [4–10 March 2021](2021-03-10-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 37.6% | 35.1–40.1% | 34.4–40.8% | 33.8–41.5% | 32.7–42.7% |
 | [1–4 March 2021](2021-03-04-Eurosondagem.html) | Eurosondagem | 39.5% | 37.6–41.5% | 37.0–42.1% | 36.5–42.6% | 35.6–43.5% |
 | [17–20 February 2021](2021-02-20-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias | 37.6% | 35.5–39.8% | 34.9–40.4% | 34.3–41.0% | 33.3–42.0% |
 | [8–13 February 2021](2021-02-13-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 37.6% | 35.1–40.2% | 34.4–40.9% | 33.8–41.5% | 32.7–42.8% |
@@ -115,12 +116,12 @@ The following table shows the probability mass function per percentage block of 
 | 30.5–31.5% | 0% | 100% | Last Result |
 | 31.5–32.5% | 0.1% | 100% |  |
 | 32.5–33.5% | 0.7% | 99.9% |  |
-| 33.5–34.5% | 6% | 99.2% |  |
+| 33.5–34.5% | 6% | 99.1% |  |
 | 34.5–35.5% | 14% | 93% |  |
 | 35.5–36.5% | 11% | 79% |  |
 | 36.5–37.5% | 10% | 69% |  |
 | 37.5–38.5% | 12% | 58% | Median |
-| 38.5–39.5% | 12% | 47% |  |
+| 38.5–39.5% | 12% | 46% |  |
 | 39.5–40.5% | 10% | 34% |  |
 | 40.5–41.5% | 8% | 24% |  |
 | 41.5–42.5% | 6% | 16% |  |
@@ -142,6 +143,7 @@ Last result: **8** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 9 | 8–10 | 8–11 | 8–11 | 8–11 |
+| [4–10 March 2021](2021-03-10-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 9 | 8–10 | 8–10 | 8–10 | 8–10 |
 | [1–4 March 2021](2021-03-04-Eurosondagem.html) | Eurosondagem | 10 | 9–10 | 9–11 | 9–11 | 8–11 |
 | [17–20 February 2021](2021-02-20-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias | 9 | 8–10 | 8–10 | 8–10 | 8–10 |
 | [8–13 February 2021](2021-02-13-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 9 | 8–10 | 8–10 | 8–10 | 8–11 |
@@ -246,8 +248,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 8 | 15% | 100% | Last Result |
-| 9 | 47% | 85% | Median |
-| 10 | 32% | 37% |  |
+| 9 | 46% | 85% | Median |
+| 10 | 34% | 39% |  |
 | 11 | 5% | 5% | Majority |
 | 12 | 0.1% | 0.1% |  |
 | 13 | 0% | 0% |  |
