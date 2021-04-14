@@ -10,7 +10,8 @@ Last result: **31.5%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 39.0% | 34.9–42.8% | 34.4–43.9% | 34.1–44.8% | 33.4–46.3% |
+| N/A | [Poll Average](average.html) | 39.1% | 34.9–42.8% | 34.4–43.9% | 34.1–44.8% | 33.4–46.3% |
+| [5–8 April 2021](2021-04-08-Eurosondagem.html) | Eurosondagem <br> Porto Canal and Sol | 39.6% | 37.7–41.6% | 37.1–42.2% | 36.6–42.6% | 35.7–43.6% |
 | [24–27 March 2021](2021-03-27-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias | 39.8% | 37.6–42.0% | 37.0–42.6% | 36.5–43.1% | 35.5–44.2% |
 | [4–10 March 2021](2021-03-10-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 37.6% | 35.1–40.1% | 34.4–40.8% | 33.8–41.5% | 32.7–42.7% |
 | [1–4 March 2021](2021-03-04-Eurosondagem.html) | Eurosondagem | 39.5% | 37.6–41.5% | 37.0–42.1% | 36.5–42.6% | 35.6–43.5% |
@@ -144,6 +145,7 @@ Last result: **8** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 9 | 8–10 | 8–11 | 8–11 | 8–11 |
+| [5–8 April 2021](2021-04-08-Eurosondagem.html) | Eurosondagem <br> Porto Canal and Sol | 10 | 9–10 | 9–10 | 9–11 | 8–11 |
 | [24–27 March 2021](2021-03-27-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias | 10 | 9–10 | 9–10 | 9–11 | 8–11 |
 | [4–10 March 2021](2021-03-10-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 9 | 8–10 | 8–10 | 8–10 | 8–10 |
 | [1–4 March 2021](2021-03-04-Eurosondagem.html) | Eurosondagem | 10 | 9–10 | 9–11 | 9–11 | 8–11 |
@@ -251,8 +253,8 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 8 | 13% | 100% | Last Result |
 | 9 | 44% | 87% | Median |
-| 10 | 38% | 43% |  |
-| 11 | 5% | 6% | Majority |
+| 10 | 37% | 43% |  |
+| 11 | 5% | 5% | Majority |
 | 12 | 0.1% | 0.1% |  |
 | 13 | 0% | 0% |  |
 
