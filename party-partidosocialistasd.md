@@ -146,7 +146,7 @@ Last result: **8** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 9 | 8–10 | 8–10 | 8–10 | 8–11 |
 | [7–13 April 2021](2021-04-13-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 9 | 8–9 | 8–9 | 8–10 | 7–10 |
-| [5–13 April 2021](2021-04-13-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 9 | 8–10 | 8–10 | 8–10 | 8–10 |
+| [5–13 April 2021](2021-04-13-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 9 | 8–9 | 8–10 | 8–10 | 8–10 |
 | [5–8 April 2021](2021-04-08-Eurosondagem.html) | Eurosondagem <br> Porto Canal and Sol | 10 | 9–10 | 9–10 | 9–11 | 8–11 |
 | [24–27 March 2021](2021-03-27-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias | 10 | 9–10 | 9–10 | 9–11 | 8–11 |
 | [4–10 March 2021](2021-03-10-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 9 | 8–10 | 8–10 | 8–10 | 8–10 |
@@ -254,9 +254,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 7 | 0.4% | 100% |  |
-| 8 | 22% | 99.6% | Last Result |
-| 9 | 52% | 77% | Median |
-| 10 | 24% | 25% |  |
+| 8 | 25% | 99.6% | Last Result |
+| 9 | 50% | 75% | Median |
+| 10 | 23% | 24% |  |
 | 11 | 1.5% | 1.5% | Majority |
 | 12 | 0% | 0% |  |
 
