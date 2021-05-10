@@ -6,6 +6,14 @@
     <description>All Registered Polls for the European Parliament</description>
     <pubDate>Thu, 28 Jan 2021 21:33:52 +0100</pubDate>
     <item>
+      <title>Opinion Poll by Aximage for Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias, 22–25 April 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2021-04-25-Aximage.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Aximage for Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias, 22–25 April 2021<br/>Details on https://filipvanlaenen.github.io/portuguese_ep_polls/2021-04-25-Aximage.html<br/><img src="https://filipvanlaenen.github.io/portuguese_ep_polls/2021-04-25-Aximage.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2021-04-25-Aximage.png" length="314442" type="image/png"/>
+      <pubDate>Mon, 10 May 2021 19:41:23 +0200</pubDate>
+      <dc:date>2021-05-10T19:41:23.160426+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Intercampus for Correio da Manhã and Negócios, 7–13 April 2021 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2021-04-13-Intercampus.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Intercampus for Correio da Manhã and Negócios, 7–13 April 2021<br/>Details on https://filipvanlaenen.github.io/portuguese_ep_polls/2021-04-13-Intercampus.html<br/><img src="https://filipvanlaenen.github.io/portuguese_ep_polls/2021-04-13-Intercampus-seating-plan.png"/>]]></description>
@@ -220,30 +228,6 @@
       <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2021-02-11-Eurosondagem.png" length="283591" type="image/png"/>
       <pubDate>Sun, 14 Feb 2021 20:29:15 +0100</pubDate>
       <dc:date>2021-02-14T20:29:15.113316+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by CESOP–UCP for Público and RTP, 24 January 2021 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2021-01-24-CESOP–UCP.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by CESOP–UCP for Público and RTP, 24 January 2021<br/>Details on https://filipvanlaenen.github.io/portuguese_ep_polls/2021-01-24-CESOP–UCP.html<br/><img src="https://filipvanlaenen.github.io/portuguese_ep_polls/2021-01-24-CESOP–UCP-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2021-01-24-CESOP–UCP-seating-plan.png" length="367393" type="image/png"/>
-      <pubDate>Thu, 28 Jan 2021 16:56:05 +0100</pubDate>
-      <dc:date>2021-01-28T16:56:05.77729+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by CESOP–UCP for Público and RTP, 24 January 2021 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2021-01-24-CESOP–UCP.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by CESOP–UCP for Público and RTP, 24 January 2021<br/>Details on https://filipvanlaenen.github.io/portuguese_ep_polls/2021-01-24-CESOP–UCP.html<br/><img src="https://filipvanlaenen.github.io/portuguese_ep_polls/2021-01-24-CESOP–UCP-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2021-01-24-CESOP–UCP-seats.png" length="237688" type="image/png"/>
-      <pubDate>Thu, 28 Jan 2021 16:56:05 +0100</pubDate>
-      <dc:date>2021-01-28T16:56:05.77729+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by CESOP–UCP for Público and RTP, 24 January 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2021-01-24-CESOP–UCP.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by CESOP–UCP for Público and RTP, 24 January 2021<br/>Details on https://filipvanlaenen.github.io/portuguese_ep_polls/2021-01-24-CESOP–UCP.html<br/><img src="https://filipvanlaenen.github.io/portuguese_ep_polls/2021-01-24-CESOP–UCP.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2021-01-24-CESOP–UCP.png" length="276027" type="image/png"/>
-      <pubDate>Thu, 28 Jan 2021 16:56:05 +0100</pubDate>
-      <dc:date>2021-01-28T16:56:05.77729+01:00</dc:date>
     </item>
   </channel>
 </rss>
