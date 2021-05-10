@@ -10,7 +10,8 @@ Last result: **31.5%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 37.5% | 34.5–40.8% | 34.0–41.6% | 33.6–42.2% | 32.3–43.4% |
+| N/A | [Poll Average](average.html) | 37.8% | 35.0–40.5% | 34.2–41.2% | 33.5–41.8% | 32.2–42.9% |
+| [22–25 April 2021](2021-04-25-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias | 38.2% | 36.1–40.4% | 35.5–41.0% | 34.9–41.5% | 33.9–42.6% |
 | [7–13 April 2021](2021-04-13-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 36.1% | 33.7–38.7% | 33.0–39.4% | 32.4–40.0% | 31.2–41.3% |
 | [5–13 April 2021](2021-04-13-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 37.0% | 34.9–39.3% | 34.3–39.9% | 33.8–40.4% | 32.7–41.5% |
 | [5–8 April 2021](2021-04-08-Eurosondagem.html) | Eurosondagem <br> Porto Canal and Sol | 39.6% | 37.7–41.6% | 37.1–42.2% | 36.6–42.6% | 35.7–43.6% |
@@ -118,22 +119,21 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 29.5–30.5% | 0% | 100% |  |
-| 30.5–31.5% | 0.1% | 100% | Last Result |
-| 31.5–32.5% | 0.5% | 99.8% |  |
-| 32.5–33.5% | 2% | 99.3% |  |
-| 33.5–34.5% | 8% | 98% |  |
-| 34.5–35.5% | 16% | 89% |  |
-| 35.5–36.5% | 13% | 73% |  |
-| 36.5–37.5% | 11% | 60% | Median |
-| 37.5–38.5% | 12% | 49% |  |
-| 38.5–39.5% | 13% | 37% |  |
-| 39.5–40.5% | 11% | 24% |  |
-| 40.5–41.5% | 7% | 13% |  |
-| 41.5–42.5% | 4% | 5% |  |
-| 42.5–43.5% | 1.2% | 2% |  |
-| 43.5–44.5% | 0.3% | 0.4% |  |
-| 44.5–45.5% | 0.1% | 0.1% |  |
-| 45.5–46.5% | 0% | 0% |  |
+| 30.5–31.5% | 0.2% | 100% | Last Result |
+| 31.5–32.5% | 0.6% | 99.8% |  |
+| 32.5–33.5% | 2% | 99.2% |  |
+| 33.5–34.5% | 4% | 97% |  |
+| 34.5–35.5% | 8% | 93% |  |
+| 35.5–36.5% | 13% | 84% |  |
+| 36.5–37.5% | 17% | 71% |  |
+| 37.5–38.5% | 18% | 55% | Median |
+| 38.5–39.5% | 16% | 37% |  |
+| 39.5–40.5% | 11% | 21% |  |
+| 40.5–41.5% | 6% | 10% |  |
+| 41.5–42.5% | 3% | 3% |  |
+| 42.5–43.5% | 0.7% | 0.9% |  |
+| 43.5–44.5% | 0.1% | 0.2% |  |
+| 44.5–45.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -144,7 +144,8 @@ Last result: **8** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9 | 8–10 | 8–10 | 8–10 | 8–11 |
+| N/A | [Poll Average](average.html) | 9 | 8–10 | 8–10 | 8–10 | 7–11 |
+| [22–25 April 2021](2021-04-25-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias | 9 | 9–10 | 8–10 | 8–10 | 8–10 |
 | [7–13 April 2021](2021-04-13-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 9 | 8–9 | 8–9 | 8–10 | 7–10 |
 | [5–13 April 2021](2021-04-13-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 9 | 8–9 | 8–10 | 8–10 | 8–10 |
 | [5–8 April 2021](2021-04-08-Eurosondagem.html) | Eurosondagem <br> Porto Canal and Sol | 10 | 9–10 | 9–10 | 9–11 | 8–11 |
@@ -253,11 +254,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 7 | 0.4% | 100% |  |
-| 8 | 25% | 99.6% | Last Result |
-| 9 | 50% | 75% | Median |
-| 10 | 23% | 24% |  |
-| 11 | 1.5% | 1.5% | Majority |
+| 7 | 0.5% | 100% |  |
+| 8 | 23% | 99.5% | Last Result |
+| 9 | 55% | 76% | Median |
+| 10 | 20% | 21% |  |
+| 11 | 1.1% | 1.1% | Majority |
 | 12 | 0% | 0% |  |
 
 
