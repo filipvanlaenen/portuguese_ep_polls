@@ -273,9 +273,9 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 7 | 0.5% | 100% |  |
-| 8 | 23% | 99.5% | Last Result |
-| 9 | 55% | 76% | Median |
-| 10 | 20% | 21% |  |
+| 8 | 24% | 99.5% | Last Result |
+| 9 | 54% | 76% | Median |
+| 10 | 21% | 22% |  |
 | 11 | 1.1% | 1.1% | Majority |
 | 12 | 0% | 0% |  |
 
@@ -288,9 +288,9 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 0.5% | 100% |  |
-| 5 | 16% | 99.5% |  |
-| 6 | 46% | 83% | Last Result, Median |
-| 7 | 36% | 38% |  |
+| 5 | 17% | 99.5% |  |
+| 6 | 44% | 82% | Last Result, Median |
+| 7 | 37% | 38% |  |
 | 8 | 2% | 2% |  |
 | 9 | 0% | 0% |  |
 
@@ -329,7 +329,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 33% | 100% | Last Result |
 | 2 | 66% | 67% | Median |
-| 3 | 0.8% | 0.8% |  |
+| 3 | 0.9% | 0.9% |  |
 | 4 | 0% | 0% |  |
 
 ### Pessoas–Animais–Natureza (Greens/EFA)
@@ -340,8 +340,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 78% | 100% | Last Result, Median |
-| 1 | 22% | 22% |  |
+| 0 | 77% | 100% | Last Result, Median |
+| 1 | 22% | 23% |  |
 | 2 | 0.1% | 0.1% |  |
 | 3 | 0% | 0% |  |
 
@@ -411,9 +411,9 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 7 | 0.5% | 100% |  |
-| 8 | 23% | 99.5% | Last Result |
-| 9 | 55% | 76% | Median |
-| 10 | 20% | 21% |  |
+| 8 | 24% | 99.5% | Last Result |
+| 9 | 54% | 76% | Median |
+| 10 | 21% | 22% |  |
 | 11 | 1.1% | 1.1% | Majority |
 | 12 | 0% | 0% |  |
 
@@ -424,9 +424,9 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 0.4% | 100% |  |
-| 5 | 13% | 99.6% |  |
-| 6 | 48% | 86% | Median |
-| 7 | 37% | 38% | Last Result |
+| 5 | 14% | 99.6% |  |
+| 6 | 46% | 85% | Median |
+| 7 | 37% | 39% | Last Result |
 | 8 | 2% | 2% |  |
 | 9 | 0% | 0% |  |
 
@@ -438,7 +438,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 0.4% | 100% |  |
 | 2 | 33% | 99.6% |  |
-| 3 | 64% | 67% | Median |
+| 3 | 63% | 67% | Median |
 | 4 | 3% | 3% | Last Result |
 | 5 | 0% | 0% |  |
 
@@ -471,8 +471,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 78% | 100% | Last Result, Median |
-| 1 | 22% | 22% |  |
+| 0 | 77% | 100% | Last Result, Median |
+| 1 | 22% | 23% |  |
 | 2 | 0.1% | 0.1% |  |
 | 3 | 0% | 0% |  |
 
@@ -480,6 +480,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 4
-+ **Lowest number of simulations done in a poll included in this average:** 524,288
-+ **Total number of simulations done in the polls included in this average:** 3,670,016
++ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Total number of simulations done in the polls included in this average:** 4,194,304
 + **Error estimate:** 1.83%
