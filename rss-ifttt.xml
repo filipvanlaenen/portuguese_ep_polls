@@ -6,6 +6,14 @@
     <description>All Registered Polls for the European Parliament</description>
     <pubDate>Thu, 28 Jan 2021 21:33:52 +0100</pubDate>
     <item>
+      <title>Opinion Poll by CESOP–UCP for Público and RTP, 3–7 May 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2021-05-07-CESOP–UCP.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by CESOP–UCP for Público and RTP, 3–7 May 2021<br/>Details on https://filipvanlaenen.github.io/portuguese_ep_polls/2021-05-07-CESOP–UCP.html<br/><img src="https://filipvanlaenen.github.io/portuguese_ep_polls/2021-05-07-CESOP–UCP.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2021-05-07-CESOP–UCP.png" length="280578" type="image/png"/>
+      <pubDate>Fri, 14 May 2021 19:13:09 +0200</pubDate>
+      <dc:date>2021-05-14T19:13:09.374814+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Aximage for Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias, 22–25 April 2021 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2021-04-25-Aximage.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Aximage for Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias, 22–25 April 2021<br/>Details on https://filipvanlaenen.github.io/portuguese_ep_polls/2021-04-25-Aximage.html<br/><img src="https://filipvanlaenen.github.io/portuguese_ep_polls/2021-04-25-Aximage-seating-plan.png"/>]]></description>
@@ -220,30 +228,6 @@
       <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2021-02-13-Intercampus.png" length="320614" type="image/png"/>
       <pubDate>Sun, 21 Feb 2021 08:59:17 +0100</pubDate>
       <dc:date>2021-02-21T08:59:17.009025+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Eurosondagem for Porto Canal and Sol, 8–11 February 2021 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2021-02-11-Eurosondagem.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Eurosondagem for Porto Canal and Sol, 8–11 February 2021<br/>Details on https://filipvanlaenen.github.io/portuguese_ep_polls/2021-02-11-Eurosondagem.html<br/><img src="https://filipvanlaenen.github.io/portuguese_ep_polls/2021-02-11-Eurosondagem-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2021-02-11-Eurosondagem-seating-plan.png" length="362720" type="image/png"/>
-      <pubDate>Sun, 14 Feb 2021 20:29:15 +0100</pubDate>
-      <dc:date>2021-02-14T20:29:15.113316+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Eurosondagem for Porto Canal and Sol, 8–11 February 2021 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2021-02-11-Eurosondagem.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Eurosondagem for Porto Canal and Sol, 8–11 February 2021<br/>Details on https://filipvanlaenen.github.io/portuguese_ep_polls/2021-02-11-Eurosondagem.html<br/><img src="https://filipvanlaenen.github.io/portuguese_ep_polls/2021-02-11-Eurosondagem-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2021-02-11-Eurosondagem-seats.png" length="226394" type="image/png"/>
-      <pubDate>Sun, 14 Feb 2021 20:29:15 +0100</pubDate>
-      <dc:date>2021-02-14T20:29:15.113316+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Eurosondagem for Porto Canal and Sol, 8–11 February 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2021-02-11-Eurosondagem.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Eurosondagem for Porto Canal and Sol, 8–11 February 2021<br/>Details on https://filipvanlaenen.github.io/portuguese_ep_polls/2021-02-11-Eurosondagem.html<br/><img src="https://filipvanlaenen.github.io/portuguese_ep_polls/2021-02-11-Eurosondagem.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2021-02-11-Eurosondagem.png" length="283591" type="image/png"/>
-      <pubDate>Sun, 14 Feb 2021 20:29:15 +0100</pubDate>
-      <dc:date>2021-02-14T20:29:15.113316+01:00</dc:date>
     </item>
   </channel>
 </rss>
