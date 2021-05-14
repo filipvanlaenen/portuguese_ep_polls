@@ -8,7 +8,17 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/portuguese_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 10 May 2021 19:51:32 +0200</pubDate>
+    <pubDate>Fri, 14 May 2021 19:13:09 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by CESOP–UCP for Público and RTP, 3–7 May 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2021-05-07-CESOP–UCP.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Social Democrata (EPP): 25.4–30.7%&lt;/li&gt;&lt;li&gt;Partido Socialista (S&amp;amp;D): 35.2–40.9%&lt;/li&gt;&lt;li&gt;Bloco de Esquerda (GUE/NGL): 6.6–9.8%&lt;/li&gt;&lt;li&gt;CDS–Partido Popular (EPP): 2.2–4.2%&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária (GUE/NGL): 3.9–6.4%&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza (Greens/EFA): 2.2–4.2%&lt;/li&gt;&lt;li&gt;Iniciativa Liberal (RE): 3.9–6.4%&lt;/li&gt;&lt;li&gt;Chega (ID): 4.7–7.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2021-05-07-CESOP–UCP.png"
+        length="280578"
+        type="image/png"/>
+      <pubDate>Fri, 14 May 2021 19:13:09 +0200</pubDate>
+      <dc:date>2021-05-14T19:13:09.374814+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Aximage for Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias, 22–25 April 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2021-04-25-Aximage.html#seats</link>
@@ -3009,6 +3019,6 @@
       <pubDate>Sun, 30 Jun 2019 15:14:32 +0200</pubDate>
       <dc:date>2019-06-30T15:14:32.852257+02:00</dc:date>
     </item>
-    <dc:date>2021-05-10T19:51:32.801095+02:00</dc:date>
+    <dc:date>2021-05-14T19:13:09.374814+02:00</dc:date>
   </channel>
 </rss>
