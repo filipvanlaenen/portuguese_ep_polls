@@ -6,6 +6,14 @@
     <description>All Registered Polls for the European Parliament</description>
     <pubDate>Thu, 28 Jan 2021 21:33:52 +0100</pubDate>
     <item>
+      <title>Opinion Poll by Intercampus for Correio da Manhã and Negócios, 8–16 June 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2021-06-16-Intercampus.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Intercampus for Correio da Manhã and Negócios, 8–16 June 2021<br/>Details on https://filipvanlaenen.github.io/portuguese_ep_polls/2021-06-16-Intercampus.html<br/><img src="https://filipvanlaenen.github.io/portuguese_ep_polls/2021-06-16-Intercampus.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2021-06-16-Intercampus.png" length="328374" type="image/png"/>
+      <pubDate>Tue, 29 Jun 2021 09:02:04 +0200</pubDate>
+      <dc:date>2021-06-29T09:02:04.601202+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Eurosondagem for Porto Canal and Sol, 31 May–3 June 2021 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2021-06-03-Eurosondagem.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Eurosondagem for Porto Canal and Sol, 31 May–3 June 2021<br/>Details on https://filipvanlaenen.github.io/portuguese_ep_polls/2021-06-03-Eurosondagem.html<br/><img src="https://filipvanlaenen.github.io/portuguese_ep_polls/2021-06-03-Eurosondagem-seating-plan.png"/>]]></description>
@@ -220,30 +228,6 @@
       <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2021-04-08-Eurosondagem.png" length="279630" type="image/png"/>
       <pubDate>Wed, 14 Apr 2021 07:30:09 +0200</pubDate>
       <dc:date>2021-04-14T07:30:09.601011+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Aximage for Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias, 24–27 March 2021 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2021-03-27-Aximage.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Aximage for Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias, 24–27 March 2021<br/>Details on https://filipvanlaenen.github.io/portuguese_ep_polls/2021-03-27-Aximage.html<br/><img src="https://filipvanlaenen.github.io/portuguese_ep_polls/2021-03-27-Aximage-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2021-03-27-Aximage-seating-plan.png" length="385700" type="image/png"/>
-      <pubDate>Tue, 13 Apr 2021 15:35:12 +0200</pubDate>
-      <dc:date>2021-04-13T15:35:12.487556+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Aximage for Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias, 24–27 March 2021 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2021-03-27-Aximage.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Aximage for Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias, 24–27 March 2021<br/>Details on https://filipvanlaenen.github.io/portuguese_ep_polls/2021-03-27-Aximage.html<br/><img src="https://filipvanlaenen.github.io/portuguese_ep_polls/2021-03-27-Aximage-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2021-03-27-Aximage-seats.png" length="260546" type="image/png"/>
-      <pubDate>Tue, 13 Apr 2021 15:35:12 +0200</pubDate>
-      <dc:date>2021-04-13T15:35:12.487556+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Aximage for Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias, 24–27 March 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2021-03-27-Aximage.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Aximage for Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias, 24–27 March 2021<br/>Details on https://filipvanlaenen.github.io/portuguese_ep_polls/2021-03-27-Aximage.html<br/><img src="https://filipvanlaenen.github.io/portuguese_ep_polls/2021-03-27-Aximage.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2021-03-27-Aximage.png" length="314872" type="image/png"/>
-      <pubDate>Tue, 13 Apr 2021 15:35:12 +0200</pubDate>
-      <dc:date>2021-04-13T15:35:12.487556+02:00</dc:date>
     </item>
   </channel>
 </rss>
