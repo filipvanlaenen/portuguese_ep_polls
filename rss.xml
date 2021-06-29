@@ -8,7 +8,17 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/portuguese_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 10 Jun 2021 07:40:31 +0200</pubDate>
+    <pubDate>Tue, 29 Jun 2021 09:02:04 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Intercampus for Correio da Manhã and Negócios, 8–16 June 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2021-06-16-Intercampus.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Social Democrata (EPP): 19.2–25.9%&lt;/li&gt;&lt;li&gt;Partido Socialista (S&amp;amp;D): 30.9–38.4%&lt;/li&gt;&lt;li&gt;Bloco de Esquerda (GUE/NGL): 6.9–11.4%&lt;/li&gt;&lt;li&gt;CDS–Partido Popular (EPP): 2.0–4.8%&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária (GUE/NGL): 4.3–8.1%&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza (Greens/EFA): 3.7–7.3%&lt;/li&gt;&lt;li&gt;LIVRE (Greens/EFA): 0.3–1.7%&lt;/li&gt;&lt;li&gt;Iniciativa Liberal (RE): 4.7–8.7%&lt;/li&gt;&lt;li&gt;Chega (ID): 7.9–12.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2021-06-16-Intercampus.png"
+        length="328374"
+        type="image/png"/>
+      <pubDate>Tue, 29 Jun 2021 09:02:04 +0200</pubDate>
+      <dc:date>2021-06-29T09:02:04.601202+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Eurosondagem for Porto Canal and Sol, 31 May–3 June 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2021-06-03-Eurosondagem.html#seats</link>
@@ -3159,6 +3169,6 @@
       <pubDate>Sun, 30 Jun 2019 15:14:32 +0200</pubDate>
       <dc:date>2019-06-30T15:14:32.852257+02:00</dc:date>
     </item>
-    <dc:date>2021-06-10T07:40:31.545631+02:00</dc:date>
+    <dc:date>2021-06-29T09:02:04.601202+02:00</dc:date>
   </channel>
 </rss>
