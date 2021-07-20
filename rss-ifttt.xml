@@ -6,6 +6,14 @@
     <description>All Registered Polls for the European Parliament</description>
     <pubDate>Thu, 28 Jan 2021 21:33:52 +0100</pubDate>
     <item>
+      <title>Opinion Poll by Aximage for Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias, 10–12 July 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2021-07-12-Aximage.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Aximage for Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias, 10–12 July 2021<br/>Details on https://filipvanlaenen.github.io/portuguese_ep_polls/2021-07-12-Aximage.html<br/><img src="https://filipvanlaenen.github.io/portuguese_ep_polls/2021-07-12-Aximage.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2021-07-12-Aximage.png" length="301593" type="image/png"/>
+      <pubDate>Tue, 20 Jul 2021 20:03:00 +0200</pubDate>
+      <dc:date>2021-07-20T20:03:00.974976+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Eurosondagem, 5–8 July 2021 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2021-07-08-Eurosondagem.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Eurosondagem, 5–8 July 2021<br/>Details on https://filipvanlaenen.github.io/portuguese_ep_polls/2021-07-08-Eurosondagem.html<br/><img src="https://filipvanlaenen.github.io/portuguese_ep_polls/2021-07-08-Eurosondagem-seating-plan.png"/>]]></description>
@@ -220,30 +228,6 @@
       <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2021-04-13-Intercampus.png" length="320273" type="image/png"/>
       <pubDate>Sat, 24 Apr 2021 16:21:40 +0200</pubDate>
       <dc:date>2021-04-24T16:21:40.743596+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by ICS/ISCTE for Expresso and SIC Notícias, 5–13 April 2021 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2021-04-13-ICSISCTE.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by ICS/ISCTE for Expresso and SIC Notícias, 5–13 April 2021<br/>Details on https://filipvanlaenen.github.io/portuguese_ep_polls/2021-04-13-ICSISCTE.html<br/><img src="https://filipvanlaenen.github.io/portuguese_ep_polls/2021-04-13-ICSISCTE-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2021-04-13-ICSISCTE-seating-plan.png" length="366490" type="image/png"/>
-      <pubDate>Sun, 25 Apr 2021 11:26:31 +0200</pubDate>
-      <dc:date>2021-04-25T11:26:31.901535+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by ICS/ISCTE for Expresso and SIC Notícias, 5–13 April 2021 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2021-04-13-ICSISCTE.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by ICS/ISCTE for Expresso and SIC Notícias, 5–13 April 2021<br/>Details on https://filipvanlaenen.github.io/portuguese_ep_polls/2021-04-13-ICSISCTE.html<br/><img src="https://filipvanlaenen.github.io/portuguese_ep_polls/2021-04-13-ICSISCTE-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2021-04-13-ICSISCTE-seats.png" length="227499" type="image/png"/>
-      <pubDate>Sun, 25 Apr 2021 11:26:31 +0200</pubDate>
-      <dc:date>2021-04-25T11:26:31.901535+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by ICS/ISCTE for Expresso and SIC Notícias, 5–13 April 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2021-04-13-ICSISCTE.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by ICS/ISCTE for Expresso and SIC Notícias, 5–13 April 2021<br/>Details on https://filipvanlaenen.github.io/portuguese_ep_polls/2021-04-13-ICSISCTE.html<br/><img src="https://filipvanlaenen.github.io/portuguese_ep_polls/2021-04-13-ICSISCTE.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2021-04-13-ICSISCTE.png" length="286228" type="image/png"/>
-      <pubDate>Sun, 25 Apr 2021 11:26:31 +0200</pubDate>
-      <dc:date>2021-04-25T11:26:31.901535+02:00</dc:date>
     </item>
   </channel>
 </rss>
