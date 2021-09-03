@@ -5,6 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | PS | PSD | CDS–PP | CDU | BE | PAN | L | IL | A | CH |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 31.5% <br> 8 | 27.7% <br> 6 | 27.7% <br> 1 | 12.7% <br> 3 | 4.6% <br> 1 | 1.7% <br> 0 | 0.7% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| [13–20 August 2021](2021-08-20-Intercampus.html) | Intercampus | 31–39% <br> 7–9 | 22–29% <br> 5–7 | 1–3% <br> 0 | 4–7% <br> 0–1 | 7–12% <br> 1–2 | 2–5% <br> 0–1 | 0–1% <br> 0 | 4–8% <br> 1–2 | N/A <br> N/A | 6–10% <br> 1–2 |
 | [16–19 August 2021](2021-08-19-Eurosondagem.html) | Eurosondagem | 38–44% <br> 9–11 | 25–30% <br> 6–7 | 1–3% <br> 0 | 5–8% <br> 1 | 4–7% <br> 1 | 2–4% <br> 0 | N/A <br> N/A | 3–6% <br> 0–1 | N/A <br> N/A | 7–11% <br> 1–2 |
 | [26–29 July 2021](2021-07-29-Eurosondagem.html) | Eurosondagem <br> Porto Canal and Sol | 38–44% <br> 9–11 | 25–30% <br> 6–7 | 1–3% <br> 0 | 5–7% <br> 1 | 4–6% <br> 0–1 | 1–3% <br> 0 | N/A <br> N/A | 2–5% <br> 0–1 | N/A <br> N/A | 7–11% <br> 1–2 |
 | [7–16 July 2021](2021-07-16-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 31–39% <br> 7–10 | 20–27% <br> 5–6 | 2–4% <br> 0–1 | 5–9% <br> 1–2 | 7–12% <br> 1–2 | 3–6% <br> 0–1 | 0–2% <br> 0 | 2–5% <br> 0–1 | N/A <br> N/A | 7–12% <br> 1–3 |
