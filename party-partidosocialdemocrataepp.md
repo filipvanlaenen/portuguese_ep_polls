@@ -10,7 +10,10 @@ Last result: **27.7%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 25.9% | 23.5–28.3% | 22.9–28.9% | 22.3–29.5% | 21.3–30.5% |
+| N/A | [Poll Average](average.html) | 25.6% | 23.2–28.1% | 22.5–28.7% | 22.0–29.3% | 20.9–30.3% |
+| [14–23 September 2021](2021-09-23-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã and Negócios | 24.6% | 22.5–27.0% | 21.9–27.6% | 21.4–28.2% | 20.4–29.4% |
+| [20–23 September 2021](2021-09-23-Eurosondagem.html) | Eurosondagem <br> Sol | 27.2% | 25.5–29.1% | 25.0–29.6% | 24.6–30.0% | 23.8–30.9% |
+| [10–19 September 2021](2021-09-19-Pitagórica.html) | Pitagórica <br> TVI | 25.1% | 23.0–27.5% | 22.4–28.2% | 21.8–28.7% | 20.8–29.9% |
 | [13–20 August 2021](2021-08-20-Intercampus.html) | Intercampus | 25.2% | 23.0–27.5% | 22.4–28.2% | 21.9–28.8% | 20.9–29.9% |
 | [16–19 August 2021](2021-08-19-Eurosondagem.html) | Eurosondagem | 27.3% | 25.6–29.1% | 25.1–29.6% | 24.7–30.1% | 23.9–30.9% |
 | [26–29 July 2021](2021-07-29-Eurosondagem.html) | Eurosondagem <br> Porto Canal and Sol | 27.3% | 25.6–29.2% | 25.1–29.7% | 24.7–30.1% | 23.9–31.0% |
@@ -131,20 +134,19 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 18.5–19.5% | 0% | 100% |  |
-| 19.5–20.5% | 0.1% | 100% |  |
-| 20.5–21.5% | 0.7% | 99.9% |  |
-| 21.5–22.5% | 3% | 99.2% |  |
-| 22.5–23.5% | 7% | 97% |  |
-| 23.5–24.5% | 13% | 90% |  |
-| 24.5–25.5% | 18% | 76% |  |
-| 25.5–26.5% | 20% | 58% | Median |
-| 26.5–27.5% | 18% | 38% |  |
-| 27.5–28.5% | 12% | 20% | Last Result |
-| 28.5–29.5% | 6% | 8% |  |
-| 29.5–30.5% | 2% | 2% |  |
-| 30.5–31.5% | 0.4% | 0.4% |  |
-| 31.5–32.5% | 0.1% | 0.1% |  |
-| 32.5–33.5% | 0% | 0% |  |
+| 19.5–20.5% | 0.2% | 100% |  |
+| 20.5–21.5% | 1.1% | 99.7% |  |
+| 21.5–22.5% | 4% | 98.6% |  |
+| 22.5–23.5% | 9% | 95% |  |
+| 23.5–24.5% | 15% | 86% |  |
+| 24.5–25.5% | 19% | 70% |  |
+| 25.5–26.5% | 19% | 51% | Median |
+| 26.5–27.5% | 16% | 32% |  |
+| 27.5–28.5% | 10% | 16% | Last Result |
+| 28.5–29.5% | 4% | 6% |  |
+| 29.5–30.5% | 1.3% | 2% |  |
+| 30.5–31.5% | 0.3% | 0.3% |  |
+| 31.5–32.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -156,6 +158,9 @@ Last result: **6** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
+| [14–23 September 2021](2021-09-23-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã and Negócios | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
+| [20–23 September 2021](2021-09-23-Eurosondagem.html) | Eurosondagem <br> Sol | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
+| [10–19 September 2021](2021-09-19-Pitagórica.html) | Pitagórica <br> TVI | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
 | [13–20 August 2021](2021-08-20-Intercampus.html) | Intercampus | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
 | [16–19 August 2021](2021-08-19-Eurosondagem.html) | Eurosondagem | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
 | [26–29 July 2021](2021-07-29-Eurosondagem.html) | Eurosondagem <br> Porto Canal and Sol | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
@@ -279,9 +284,8 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 0.1% | 100% |  |
 | 5 | 18% | 99.9% |  |
-| 6 | 66% | 82% | Last Result, Median |
-| 7 | 16% | 16% |  |
-| 8 | 0.1% | 0.1% |  |
-| 9 | 0% | 0% |  |
+| 6 | 69% | 82% | Last Result, Median |
+| 7 | 13% | 13% |  |
+| 8 | 0% | 0% |  |
 
 
