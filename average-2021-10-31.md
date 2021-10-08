@@ -10,7 +10,7 @@ The table below lists the polls on which the average is based. They are the most
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 31.5% <br> 8 | 27.7% <br> 6 | 27.7% <br> 1 | 12.7% <br> 3 | 4.6% <br> 1 | 1.7% <br> 0 | 0.7% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 | N/A | Poll Average | 34–44% <br> 8–11 | 22–29% <br> 5–7 | 1–3% <br> 0 | 4–7% <br> 0–1 | 4–11% <br> 0–2 | 1–6% <br> 0–1 | 0–1% <br> 0 | 4–7% <br> 0–1 | N/A <br> N/A | 6–11% <br> 1–2 |
-| [14–23 September 2021](2021-09-23-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã and Negócios | 33–41% <br> 8–10 | 21–28% <br> 5–7 | 1–3% <br> 0 | 4–8% <br> 1 | 8–12% <br> 1–3 | 2–5% <br> 0–1 | 0–1% <br> 0 | 4–8% <br> 0–1 | N/A <br> N/A | 7–11% <br> 1–2 |
+| [14–23 September 2021](2021-09-23-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã and Negócios | 33–41% <br> 8–10 | 21–28% <br> 5–7 | 1–3% <br> 0 | 4–8% <br> 0–1 | 8–12% <br> 1–3 | 2–5% <br> 0–1 | 0–1% <br> 0 | 4–8% <br> 0–1 | N/A <br> N/A | 7–11% <br> 1–2 |
 | [20–23 September 2021](2021-09-23-Eurosondagem.html) | Eurosondagem <br> Sol | 39–45% <br> 9–11 | 25–30% <br> 6–7 | 1–3% <br> 0 | 4–7% <br> 1 | 4–7% <br> 0–1 | 2–4% <br> 0 | N/A <br> N/A | 4–7% <br> 1 | N/A <br> N/A | 7–11% <br> 1–2 |
 | [10–19 September 2021](2021-09-19-Pitagórica.html) | Pitagórica <br> TVI | 38–45% <br> 9–11 | 22–29% <br> 5–7 | 1–3% <br> 0 | 4–8% <br> 0–1 | 5–9% <br> 1–2 | 1–3% <br> 0 | 0–1% <br> 0 | 3–7% <br> 0–1 | N/A <br> N/A | 5–9% <br> 1–2 |
 | [10–12 July 2021](2021-07-12-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias | 34–41% <br> 8–10 | 22–28% <br> 5–7 | 0–2% <br> 0 | 4–7% <br> 0–1 | 6–10% <br> 1–2 | 3–6% <br> 0–1 | N/A <br> N/A | 4–7% <br> 0–1 | N/A <br> N/A | 6–10% <br> 1–2 |
@@ -273,10 +273,10 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 7 | 0.2% | 100% |  |
-| 8 | 18% | 99.8% | Last Result |
-| 9 | 41% | 82% | Median |
-| 10 | 35% | 41% |  |
-| 11 | 5% | 6% | Majority |
+| 8 | 16% | 99.8% | Last Result |
+| 9 | 41% | 84% | Median |
+| 10 | 37% | 43% |  |
+| 11 | 6% | 6% | Majority |
 | 12 | 0.1% | 0.1% |  |
 | 13 | 0% | 0% |  |
 
@@ -289,8 +289,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 0.1% | 100% |  |
-| 5 | 18% | 99.9% |  |
-| 6 | 69% | 82% | Last Result, Median |
+| 5 | 23% | 99.9% |  |
+| 6 | 64% | 77% | Last Result, Median |
 | 7 | 13% | 13% |  |
 | 8 | 0% | 0% |  |
 
@@ -314,9 +314,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 4% | 100% |  |
-| 1 | 95% | 96% | Median |
-| 2 | 0.7% | 0.7% |  |
+| 0 | 5% | 100% |  |
+| 1 | 95% | 95% | Median |
+| 2 | 0.6% | 0.6% |  |
 | 3 | 0% | 0% | Last Result |
 
 ### Bloco de Esquerda (GUE/NGL)
@@ -330,7 +330,7 @@ Only polls for which at least the sample size has been published are included in
 | 0 | 3% | 100% |  |
 | 1 | 56% | 97% | Last Result, Median |
 | 2 | 39% | 40% |  |
-| 3 | 1.4% | 1.4% |  |
+| 3 | 1.0% | 1.0% |  |
 | 4 | 0% | 0% |  |
 
 ### Pessoas–Animais–Natureza (Greens/EFA)
@@ -341,8 +341,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 73% | 100% | Last Result, Median |
-| 1 | 27% | 27% |  |
+| 0 | 75% | 100% | Last Result, Median |
+| 1 | 25% | 25% |  |
 | 2 | 0% | 0% |  |
 
 ### LIVRE (Greens/EFA)
@@ -364,8 +364,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 6% | 100% | Last Result |
-| 1 | 93% | 94% | Median |
-| 2 | 0.7% | 0.7% |  |
+| 1 | 94% | 94% | Median |
+| 2 | 0.5% | 0.5% |  |
 | 3 | 0% | 0% |  |
 
 ### Aliança (RE)
@@ -383,8 +383,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 45% | 100% |  |
-| 2 | 55% | 55% | Median |
+| 1 | 42% | 100% |  |
+| 2 | 57% | 58% | Median |
 | 3 | 0.1% | 0.1% |  |
 | 4 | 0% | 0% |  |
 
@@ -411,10 +411,10 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 7 | 0.2% | 100% |  |
-| 8 | 18% | 99.8% | Last Result |
-| 9 | 41% | 82% | Median |
-| 10 | 35% | 41% |  |
-| 11 | 5% | 6% | Majority |
+| 8 | 16% | 99.8% | Last Result |
+| 9 | 41% | 84% | Median |
+| 10 | 37% | 43% |  |
+| 11 | 6% | 6% | Majority |
 | 12 | 0.1% | 0.1% |  |
 | 13 | 0% | 0% |  |
 
@@ -425,8 +425,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 0.1% | 100% |  |
-| 5 | 18% | 99.9% |  |
-| 6 | 69% | 82% | Median |
+| 5 | 23% | 99.9% |  |
+| 6 | 64% | 77% | Median |
 | 7 | 13% | 13% | Last Result |
 | 8 | 0% | 0% |  |
 
@@ -439,7 +439,7 @@ Only polls for which at least the sample size has been published are included in
 | 1 | 5% | 100% |  |
 | 2 | 57% | 95% | Median |
 | 3 | 37% | 38% |  |
-| 4 | 2% | 2% | Last Result |
+| 4 | 1.1% | 1.1% | Last Result |
 | 5 | 0% | 0% |  |
 
 ### Chega (ID)
@@ -449,8 +449,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 45% | 100% |  |
-| 2 | 55% | 55% | Median |
+| 1 | 42% | 100% |  |
+| 2 | 57% | 58% | Median |
 | 3 | 0.1% | 0.1% |  |
 | 4 | 0% | 0% |  |
 
@@ -461,8 +461,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 6% | 100% | Last Result |
-| 1 | 93% | 94% | Median |
-| 2 | 0.7% | 0.7% |  |
+| 1 | 94% | 94% | Median |
+| 2 | 0.5% | 0.5% |  |
 | 3 | 0% | 0% |  |
 
 ### Pessoas–Animais–Natureza (Greens/EFA) – LIVRE (Greens/EFA)
@@ -471,8 +471,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 73% | 100% | Last Result, Median |
-| 1 | 27% | 27% |  |
+| 0 | 75% | 100% | Last Result, Median |
+| 1 | 25% | 25% |  |
 | 2 | 0% | 0% |  |
 
 
@@ -480,5 +480,5 @@ Only polls for which at least the sample size has been published are included in
 
 + **Number of polls included in this average:** 4
 + **Lowest number of simulations done in a poll included in this average:** 131,072
-+ **Total number of simulations done in the polls included in this average:** 1,835,008
-+ **Error estimate:** 3.03%
++ **Total number of simulations done in the polls included in this average:** 3,276,800
++ **Error estimate:** 1.97%
