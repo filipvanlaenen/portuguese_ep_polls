@@ -159,7 +159,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [14–23 September 2021](2021-09-23-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã and Negócios | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [20–23 September 2021](2021-09-23-Eurosondagem.html) | Eurosondagem <br> Sol | 2 | 2 | 1–2 | 1–2 | 1–2 |
+| [20–23 September 2021](2021-09-23-Eurosondagem.html) | Eurosondagem <br> Sol | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [10–19 September 2021](2021-09-19-Pitagórica.html) | Pitagórica <br> TVI | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [13–20 August 2021](2021-08-20-Intercampus.html) | Intercampus | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [16–19 August 2021](2021-08-19-Eurosondagem.html) | Eurosondagem | 2 | 2 | 1–2 | 1–2 | 1–2 |
@@ -283,8 +283,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 42% | 100% |  |
-| 2 | 57% | 58% | Median |
+| 1 | 43% | 100% |  |
+| 2 | 57% | 57% | Median |
 | 3 | 0.1% | 0.1% |  |
 | 4 | 0% | 0% |  |
 
