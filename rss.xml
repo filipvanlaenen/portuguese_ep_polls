@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/portuguese_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 09 Oct 2021 21:31:19 +0200</pubDate>
+    <pubDate>Sun, 24 Oct 2021 15:39:23 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Eurosondagem for Porto Canal and Sol, 18–21 October 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2021-10-21-Eurosondagem.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Social Democrata (EPP): 6–7 seats&lt;/li&gt;&lt;li&gt;Partido Socialista (S&amp;amp;D): 8–10 seats&lt;/li&gt;&lt;li&gt;Bloco de Esquerda (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;CDS–Partido Popular (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária (GUE/NGL): 1 seats&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Iniciativa Liberal (RE): 1 seats&lt;/li&gt;&lt;li&gt;Chega (ID): 1–2 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2021-10-21-Eurosondagem-seats.png"
+        length="238794"
+        type="image/png"/>
+      <pubDate>Sun, 24 Oct 2021 15:39:23 +0200</pubDate>
+      <dc:date>2021-10-24T15:39:23.240764+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Eurosondagem for Porto Canal and Sol, 18–21 October 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2021-10-21-Eurosondagem.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2021-10-21-Eurosondagem-coalitions-seats.png"
+        length="165084"
+        type="image/png"/>
+      <pubDate>Sun, 24 Oct 2021 15:39:23 +0200</pubDate>
+      <dc:date>2021-10-24T15:39:23.240764+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Eurosondagem for Porto Canal and Sol, 18–21 October 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2021-10-21-Eurosondagem.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Social Democrata (EPP): 24.9–30.3%&lt;/li&gt;&lt;li&gt;Partido Socialista (S&amp;amp;D): 35.2–41.2%&lt;/li&gt;&lt;li&gt;Bloco de Esquerda (GUE/NGL): 3.9–6.6%&lt;/li&gt;&lt;li&gt;CDS–Partido Popular (EPP): 1.7–3.7%&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária (GUE/NGL): 4.4–7.2%&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza (Greens/EFA): 2.0–4.0%&lt;/li&gt;&lt;li&gt;Iniciativa Liberal (RE): 4.3–7.1%&lt;/li&gt;&lt;li&gt;Chega (ID): 7.6–11.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2021-10-21-Eurosondagem.png"
+        length="286051"
+        type="image/png"/>
+      <pubDate>Sun, 24 Oct 2021 15:39:23 +0200</pubDate>
+      <dc:date>2021-10-24T15:39:23.240764+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Intercampus for CMTV, Correio da Manhã and Negócios, 14–23 September 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2021-09-23-Intercampus.html#seats</link>
@@ -3459,6 +3489,6 @@
       <pubDate>Sun, 30 Jun 2019 15:14:32 +0200</pubDate>
       <dc:date>2019-06-30T15:14:32.852257+02:00</dc:date>
     </item>
-    <dc:date>2021-10-09T21:31:19.649789+02:00</dc:date>
+    <dc:date>2021-10-24T15:39:23.240764+02:00</dc:date>
   </channel>
 </rss>
