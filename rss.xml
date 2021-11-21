@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/portuguese_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 21 Nov 2021 10:36:04 +0100</pubDate>
+    <pubDate>Sun, 21 Nov 2021 13:32:25 +0100</pubDate>
     <item>
       <title>Opinion Poll by CESOP–UCP, 29 October–4 November 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2021-11-04-CESOP–UCP.html#seats</link>
@@ -38,6 +38,36 @@
         type="image/png"/>
       <pubDate>Sun, 21 Nov 2021 10:36:04 +0100</pubDate>
       <dc:date>2021-11-21T10:36:04.847827+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Aximage for Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias, 28–31 October 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2021-10-31-Aximage.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Social Democrata (EPP): 5–6 seats&lt;/li&gt;&lt;li&gt;Partido Socialista (S&amp;amp;D): 8–10 seats&lt;/li&gt;&lt;li&gt;Bloco de Esquerda (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;CDS–Partido Popular (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Iniciativa Liberal (RE): 0–1 seats&lt;/li&gt;&lt;li&gt;Chega (ID): 1–2 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2021-10-31-Aximage-seats.png"
+        length="262307"
+        type="image/png"/>
+      <pubDate>Sun, 21 Nov 2021 13:32:25 +0100</pubDate>
+      <dc:date>2021-11-21T13:32:25.571835+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Aximage for Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias, 28–31 October 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2021-10-31-Aximage.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2021-10-31-Aximage-coalitions-seats.png"
+        length="174997"
+        type="image/png"/>
+      <pubDate>Sun, 21 Nov 2021 13:32:25 +0100</pubDate>
+      <dc:date>2021-11-21T13:32:25.571835+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Aximage for Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias, 28–31 October 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2021-10-31-Aximage.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Social Democrata (EPP): 21.6–27.5%&lt;/li&gt;&lt;li&gt;Partido Socialista (S&amp;amp;D): 35.2–41.9%&lt;/li&gt;&lt;li&gt;Bloco de Esquerda (GUE/NGL): 7.1–11.0%&lt;/li&gt;&lt;li&gt;CDS–Partido Popular (EPP): 1.2–3.2%&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária (GUE/NGL): 3.4–6.3%&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza (Greens/EFA): 1.9–4.3%&lt;/li&gt;&lt;li&gt;Iniciativa Liberal (RE): 3.5–6.4%&lt;/li&gt;&lt;li&gt;Chega (ID): 6.1–9.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2021-10-31-Aximage.png"
+        length="301714"
+        type="image/png"/>
+      <pubDate>Sun, 21 Nov 2021 13:32:25 +0100</pubDate>
+      <dc:date>2021-11-21T13:32:25.571835+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Eurosondagem for Porto Canal and Sol, 26–29 July 2021 – Seat Projections for the Parties</title>
@@ -3339,6 +3369,6 @@
       <pubDate>Sun, 30 Jun 2019 15:14:32 +0200</pubDate>
       <dc:date>2019-06-30T15:14:32+02:00</dc:date>
     </item>
-    <dc:date>2021-11-21T10:36:04.847827+01:00</dc:date>
+    <dc:date>2021-11-21T13:32:25.571835+01:00</dc:date>
   </channel>
 </rss>
