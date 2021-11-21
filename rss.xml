@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/portuguese_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 20 Nov 2021 19:58:16 +0100</pubDate>
+    <pubDate>Sun, 21 Nov 2021 10:36:04 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by CESOP–UCP, 29 October–4 November 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2021-11-04-CESOP–UCP.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Social Democrata (EPP): 6–8 seats&lt;/li&gt;&lt;li&gt;Partido Socialista (S&amp;amp;D): 8–10 seats&lt;/li&gt;&lt;li&gt;Bloco de Esquerda (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;CDS–Partido Popular (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Iniciativa Liberal (RE): 0–1 seats&lt;/li&gt;&lt;li&gt;Chega (ID): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2021-11-04-CESOP–UCP-seats.png"
+        length="250388"
+        type="image/png"/>
+      <pubDate>Sun, 21 Nov 2021 10:36:04 +0100</pubDate>
+      <dc:date>2021-11-21T10:36:04.847827+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by CESOP–UCP, 29 October–4 November 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2021-11-04-CESOP–UCP.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2021-11-04-CESOP–UCP-coalitions-seats.png"
+        length="184958"
+        type="image/png"/>
+      <pubDate>Sun, 21 Nov 2021 10:36:04 +0100</pubDate>
+      <dc:date>2021-11-21T10:36:04.847827+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by CESOP–UCP, 29 October–4 November 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2021-11-04-CESOP–UCP.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2021-11-04-CESOP–UCP.png"
         length="281852"
         type="image/png"/>
-      <pubDate>Sat, 20 Nov 2021 19:58:16 +0100</pubDate>
-      <dc:date>2021-11-20T19:58:16.01472+01:00</dc:date>
+      <pubDate>Sun, 21 Nov 2021 10:36:04 +0100</pubDate>
+      <dc:date>2021-11-21T10:36:04.847827+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Eurosondagem for Porto Canal and Sol, 26–29 July 2021 – Seat Projections for the Parties</title>
@@ -3319,6 +3339,6 @@
       <pubDate>Sun, 30 Jun 2019 15:14:32 +0200</pubDate>
       <dc:date>2019-06-30T15:14:32+02:00</dc:date>
     </item>
-    <dc:date>2021-11-20T19:58:16.01472+01:00</dc:date>
+    <dc:date>2021-11-21T10:36:04.847827+01:00</dc:date>
   </channel>
 </rss>
