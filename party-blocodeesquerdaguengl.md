@@ -10,9 +10,9 @@ Last result: **4.6%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.0% | 6.0–8.2% | 5.7–8.5% | 5.4–8.8% | 5.0–9.4% |
+| N/A | [Poll Average](average.html) | 7.9% | 6.3–9.8% | 6.0–10.2% | 5.7–10.7% | 5.2–11.4% |
 | [29 October–4 November 2021](2021-11-04-CESOP–UCP.html) | CESOP–UCP | 6.9% | 6.0–8.2% | 5.7–8.5% | 5.4–8.8% | 5.0–9.4% |
-| [28–31 October 2021](2021-10-31-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias | 8.8% | N/A | N/A | N/A | N/A |
+| [28–31 October 2021](2021-10-31-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias | 8.8% | 7.7–10.3% | 7.3–10.7% | 7.1–11.0% | 6.5–11.7% |
 | [18–21 October 2021](2021-10-21-Eurosondagem.html) | Eurosondagem <br> Porto Canal and Sol | 5.1% | N/A | N/A | N/A | N/A |
 | [14–23 September 2021](2021-09-23-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã and Negócios | 9.7% | N/A | N/A | N/A | N/A |
 | [20–23 September 2021](2021-09-23-Eurosondagem.html) | Eurosondagem <br> Sol | 5.0% | N/A | N/A | N/A | N/A |
@@ -136,14 +136,16 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 3.5–4.5% | 0.1% | 100% |  |
-| 4.5–5.5% | 3% | 99.9% | Last Result |
-| 5.5–6.5% | 26% | 97% |  |
-| 6.5–7.5% | 43% | 71% | Median |
-| 7.5–8.5% | 23% | 27% |  |
-| 8.5–9.5% | 4% | 5% |  |
-| 9.5–10.5% | 0.4% | 0.4% |  |
-| 10.5–11.5% | 0% | 0% |  |
+| 3.5–4.5% | 0% | 100% |  |
+| 4.5–5.5% | 2% | 100% | Last Result |
+| 5.5–6.5% | 13% | 98% |  |
+| 6.5–7.5% | 25% | 85% |  |
+| 7.5–8.5% | 25% | 60% | Median |
+| 8.5–9.5% | 21% | 34% |  |
+| 9.5–10.5% | 10% | 13% |  |
+| 10.5–11.5% | 3% | 3% |  |
+| 11.5–12.5% | 0.3% | 0.4% |  |
+| 12.5–13.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -156,7 +158,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [29 October–4 November 2021](2021-11-04-CESOP–UCP.html) | CESOP–UCP | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [28–31 October 2021](2021-10-31-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias |  |  |  |  |  |
+| [28–31 October 2021](2021-10-31-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [18–21 October 2021](2021-10-21-Eurosondagem.html) | Eurosondagem <br> Porto Canal and Sol |  |  |  |  |  |
 | [14–23 September 2021](2021-09-23-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã and Negócios |  |  |  |  |  |
 | [20–23 September 2021](2021-09-23-Eurosondagem.html) | Eurosondagem <br> Sol |  |  |  |  |  |
@@ -282,8 +284,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 86% | 100% | Last Result, Median |
-| 2 | 14% | 14% |  |
-| 3 | 0% | 0% |  |
+| 1 | 52% | 100% | Last Result, Median |
+| 2 | 48% | 48% |  |
+| 3 | 0.2% | 0.2% |  |
+| 4 | 0% | 0% |  |
 
 
