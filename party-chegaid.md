@@ -167,7 +167,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [29 October–4 November 2021](2021-11-04-CESOP–UCP.html) | CESOP–UCP | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [21 October–1 November 2021](2021-11-01-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias |  |  |  |  |  |
 | [28–31 October 2021](2021-10-31-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [18–21 October 2021](2021-10-21-Eurosondagem.html) | Eurosondagem <br> Porto Canal and Sol | 2 | 2 | 1–2 | 1–2 | 1–3 |
+| [18–21 October 2021](2021-10-21-Eurosondagem.html) | Eurosondagem <br> Porto Canal and Sol | 2 | 2 | 2 | 1–2 | 1–3 |
 | [14–23 September 2021](2021-09-23-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã and Negócios |  |  |  |  |  |
 | [20–23 September 2021](2021-09-23-Eurosondagem.html) | Eurosondagem <br> Sol |  |  |  |  |  |
 | [10–19 September 2021](2021-09-19-Pitagórica.html) | Pitagórica <br> TVI |  |  |  |  |  |
@@ -295,7 +295,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 1.4% | 100% | Last Result |
 | 1 | 62% | 98.6% | Median |
 | 2 | 36% | 36% |  |
-| 3 | 0.3% | 0.3% |  |
+| 3 | 0.2% | 0.2% |  |
 | 4 | 0% | 0% |  |
 
 
