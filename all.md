@@ -5,6 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | PS | PSD | CDS–PP | CDU | BE | PAN | L | IL | A | CH |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 31.5% <br> 8 | 27.7% <br> 6 | 27.7% <br> 1 | 12.7% <br> 3 | 4.6% <br> 1 | 1.7% <br> 0 | 0.7% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| [7–14 December 2021](2021-12-14-Intercampus.html) | Intercampus <br> CMTV and Correio da Manhã | 32–39% <br> 7–10 | 23–31% <br> 5–7 | 1–3% <br> 0 | 3–6% <br> 0–1 | 5–9% <br> 1–2 | 2–5% <br> 0–1 | 0–2% <br> 0 | 5–9% <br> 1–2 | N/A <br> N/A | 7–12% <br> 1–2 |
 | [10–15 November 2021](2021-11-15-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 35–42% <br> 8–10 | 29–36% <br> 6–8 | 0–2% <br> 0 | 4–7% <br> 0–1 | 4–8% <br> 0–1 | 1–3% <br> 0 | N/A <br> N/A | 3–6% <br> 0–1 | N/A <br> N/A | 5–9% <br> 1–2 |
 | [5–11 November 2021](2021-11-11-Intercampus.html) | Intercampus <br> CMTV and Correio da Manhã | 35–43% <br> 8–11 | 25–32% <br> 6–8 | 1–3% <br> 0 | 4–7% <br> 0–1 | 6–10% <br> 1–2 | 3–6% <br> 0–1 | 0–1% <br> 0 | 3–6% <br> 0–1 | N/A <br> N/A | 5–9% <br> 1–2 |
 | [29 October–4 November 2021](2021-11-04-CESOP–UCP.html) | CESOP–UCP | 36–42% <br> 8–10 | 27–33% <br> 6–8 | 1–3% <br> 0 | 4–7% <br> 0–1 | 5–9% <br> 1–2 | 2–4% <br> 0–1 | N/A <br> N/A | 4–7% <br> 0–1 | N/A <br> N/A | 4–7% <br> 0–1 |
