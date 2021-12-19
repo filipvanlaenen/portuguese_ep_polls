@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/portuguese_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 17 Dec 2021 19:57:13 +0100</pubDate>
+    <pubDate>Sun, 19 Dec 2021 12:53:13 +0100</pubDate>
     <item>
       <title>Opinion Poll by Intercampus for CMTV and Correio da Manhã, 7–14 December 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2021-12-14-Intercampus.html#seats</link>
@@ -38,6 +38,66 @@
         type="image/png"/>
       <pubDate>Fri, 17 Dec 2021 19:57:13 +0100</pubDate>
       <dc:date>2021-12-17T19:57:13.834564+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Aximage for Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias, 9–13 December 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2021-12-13-Aximage.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Social Democrata (EPP): 7–9 seats&lt;/li&gt;&lt;li&gt;Partido Socialista (S&amp;amp;D): 7–10 seats&lt;/li&gt;&lt;li&gt;Bloco de Esquerda (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;CDS–Partido Popular (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Iniciativa Liberal (RE): 0–1 seats&lt;/li&gt;&lt;li&gt;Chega (ID): 1–2 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2021-12-13-Aximage-seats.png"
+        length="242687"
+        type="image/png"/>
+      <pubDate>Sun, 19 Dec 2021 12:48:33 +0100</pubDate>
+      <dc:date>2021-12-19T12:48:33.701467+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Aximage for Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias, 9–13 December 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2021-12-13-Aximage.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2021-12-13-Aximage-coalitions-seats.png"
+        length="178315"
+        type="image/png"/>
+      <pubDate>Sun, 19 Dec 2021 12:48:33 +0100</pubDate>
+      <dc:date>2021-12-19T12:48:33.701467+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Aximage for Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias, 9–13 December 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2021-12-13-Aximage.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Social Democrata (EPP): 29.0–37.7%&lt;/li&gt;&lt;li&gt;Partido Socialista (S&amp;amp;D): 31.1–40.0%&lt;/li&gt;&lt;li&gt;Bloco de Esquerda (GUE/NGL): 5.3–10.2%&lt;/li&gt;&lt;li&gt;CDS–Partido Popular (EPP): 0.6–2.9%&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária (GUE/NGL): 3.5–7.6%&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza (Greens/EFA): 1.4–4.4%&lt;/li&gt;&lt;li&gt;Iniciativa Liberal (RE): 2.4–6.0%&lt;/li&gt;&lt;li&gt;Chega (ID): 4.4–8.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2021-12-13-Aximage.png"
+        length="316328"
+        type="image/png"/>
+      <pubDate>Sun, 19 Dec 2021 12:48:33 +0100</pubDate>
+      <dc:date>2021-12-19T12:48:33.701467+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Pitagórica for CNN Portugal and TVI, 7–12 December 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2021-12-12-Pitagórica.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Social Democrata (EPP): 6–8 seats&lt;/li&gt;&lt;li&gt;Partido Socialista (S&amp;amp;D): 8–10 seats&lt;/li&gt;&lt;li&gt;Bloco de Esquerda (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;CDS–Partido Popular (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Iniciativa Liberal (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Chega (ID): 1–2 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2021-12-12-Pitagórica-seats.png"
+        length="234205"
+        type="image/png"/>
+      <pubDate>Sun, 19 Dec 2021 12:53:13 +0100</pubDate>
+      <dc:date>2021-12-19T12:53:13.374618+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Pitagórica for CNN Portugal and TVI, 7–12 December 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2021-12-12-Pitagórica.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2021-12-12-Pitagórica-coalitions-seats.png"
+        length="165826"
+        type="image/png"/>
+      <pubDate>Sun, 19 Dec 2021 12:53:13 +0100</pubDate>
+      <dc:date>2021-12-19T12:53:13.374618+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Pitagórica for CNN Portugal and TVI, 7–12 December 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2021-12-12-Pitagórica.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Social Democrata (EPP): 28.2–35.4%&lt;/li&gt;&lt;li&gt;Partido Socialista (S&amp;amp;D): 33.3–40.8%&lt;/li&gt;&lt;li&gt;Bloco de Esquerda (GUE/NGL): 3.5–7.0%&lt;/li&gt;&lt;li&gt;CDS–Partido Popular (EPP): 0.4–2.1%&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária (GUE/NGL): 4.3–8.1%&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza (Greens/EFA): 2.0–4.7%&lt;/li&gt;&lt;li&gt;Iniciativa Liberal (RE): 4.3–8.1%&lt;/li&gt;&lt;li&gt;Chega (ID): 4.6–8.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2021-12-12-Pitagórica.png"
+        length="295589"
+        type="image/png"/>
+      <pubDate>Sun, 19 Dec 2021 12:53:13 +0100</pubDate>
+      <dc:date>2021-12-19T12:53:13.374618+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Pitagórica for CNN Portugal and TVI, 10–15 November 2021 – Seat Projections for the Parties</title>
@@ -3549,6 +3609,6 @@
       <pubDate>Sun, 30 Jun 2019 15:14:32 +0200</pubDate>
       <dc:date>2019-06-30T15:14:32+02:00</dc:date>
     </item>
-    <dc:date>2021-12-17T19:57:13.834564+01:00</dc:date>
+    <dc:date>2021-12-19T12:53:13.374618+01:00</dc:date>
   </channel>
 </rss>
