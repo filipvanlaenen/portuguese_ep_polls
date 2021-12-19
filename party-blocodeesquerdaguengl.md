@@ -10,8 +10,10 @@ Last result: **4.6%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.5% | 4.7–9.0% | 4.4–9.6% | 4.1–10.1% | 3.6–11.0% |
+| N/A | [Poll Average](average.html) | 6.3% | 4.5–8.2% | 4.2–8.7% | 3.9–9.2% | 3.4–10.2% |
 | [7–14 December 2021](2021-12-14-Intercampus.html) | Intercampus <br> CMTV and Correio da Manhã | 6.6% | 5.5–8.1% | 5.2–8.5% | 4.9–8.9% | 4.4–9.7% |
+| [9–13 December 2021](2021-12-13-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias | 7.4% | 6.0–9.2% | 5.6–9.8% | 5.3–10.2% | 4.7–11.2% |
+| [7–12 December 2021](2021-12-12-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 5.0% | 4.0–6.3% | 3.7–6.6% | 3.5–7.0% | 3.1–7.6% |
 | [10–15 November 2021](2021-11-15-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 5.4% | 4.4–6.8% | 4.1–7.2% | 3.9–7.5% | 3.5–8.2% |
 | [5–11 November 2021](2021-11-11-Intercampus.html) | Intercampus <br> CMTV and Correio da Manhã | 7.7% | 6.5–9.2% | 6.1–9.7% | 5.8–10.1% | 5.3–10.9% |
 | [29 October–4 November 2021](2021-11-04-CESOP–UCP.html) | CESOP–UCP | 6.9% | 6.0–8.2% | 5.7–8.5% | 5.4–8.8% | 5.0–9.4% |
@@ -141,16 +143,16 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 0.4% | 100% |  |
-| 3.5–4.5% | 7% | 99.6% |  |
-| 4.5–5.5% | 20% | 92% | Last Result |
-| 5.5–6.5% | 23% | 73% |  |
-| 6.5–7.5% | 20% | 49% | Median |
-| 7.5–8.5% | 14% | 29% |  |
-| 8.5–9.5% | 9% | 15% |  |
-| 9.5–10.5% | 4% | 5% |  |
-| 10.5–11.5% | 1.1% | 1.2% |  |
-| 11.5–12.5% | 0.1% | 0.2% |  |
+| 2.5–3.5% | 0.8% | 100% |  |
+| 3.5–4.5% | 10% | 99.2% |  |
+| 4.5–5.5% | 22% | 89% | Last Result |
+| 5.5–6.5% | 24% | 68% | Median |
+| 6.5–7.5% | 23% | 43% |  |
+| 7.5–8.5% | 14% | 20% |  |
+| 8.5–9.5% | 5% | 6% |  |
+| 9.5–10.5% | 1.2% | 2% |  |
+| 10.5–11.5% | 0.3% | 0.3% |  |
+| 11.5–12.5% | 0% | 0% |  |
 | 12.5–13.5% | 0% | 0% |  |
 
 
@@ -162,8 +164,10 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
+| N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
 | [7–14 December 2021](2021-12-14-Intercampus.html) | Intercampus <br> CMTV and Correio da Manhã | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [9–13 December 2021](2021-12-13-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [7–12 December 2021](2021-12-12-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [10–15 November 2021](2021-11-15-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 1 | 1 | 1 | 0–1 | 0–2 |
 | [5–11 November 2021](2021-11-11-Intercampus.html) | Intercampus <br> CMTV and Correio da Manhã | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [29 October–4 November 2021](2021-11-04-CESOP–UCP.html) | CESOP–UCP | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -294,10 +298,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 2% | 100% |  |
-| 1 | 76% | 98% | Last Result, Median |
-| 2 | 22% | 22% |  |
-| 3 | 0.1% | 0.1% |  |
-| 4 | 0% | 0% |  |
+| 0 | 3% | 100% |  |
+| 1 | 85% | 97% | Last Result, Median |
+| 2 | 12% | 12% |  |
+| 3 | 0% | 0% |  |
 
 
