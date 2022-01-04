@@ -10,7 +10,8 @@ Last result: **1.7%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.9% | 1.9–4.0% | 1.6–4.4% | 1.5–4.7% | 1.2–5.4% |
+| N/A | [Poll Average](average.html) | 2.9% | 1.9–4.0% | 1.7–4.4% | 1.5–4.7% | 1.2–5.4% |
+| [10–20 December 2021](2021-12-20-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 2.0% | 1.5–2.7% | 1.4–3.0% | 1.3–3.1% | 1.1–3.5% |
 | [7–14 December 2021](2021-12-14-Intercampus.html) | Intercampus <br> CMTV and Correio da Manhã | 3.5% | 2.7–4.6% | 2.5–5.0% | 2.3–5.3% | 2.0–5.9% |
 | [9–13 December 2021](2021-12-13-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias | 2.5% | 1.8–3.7% | 1.6–4.1% | 1.4–4.4% | 1.1–5.0% |
 | [7–12 December 2021](2021-12-12-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 3.0% | 2.3–4.1% | 2.1–4.4% | 2.0–4.7% | 1.7–5.3% |
@@ -143,8 +144,8 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% |  |
-| 0.5–1.5% | 4% | 100% |  |
-| 1.5–2.5% | 30% | 96% | Last Result |
+| 0.5–1.5% | 3% | 100% |  |
+| 1.5–2.5% | 31% | 97% | Last Result |
 | 2.5–3.5% | 43% | 66% | Median |
 | 3.5–4.5% | 19% | 23% |  |
 | 4.5–5.5% | 3% | 4% |  |
@@ -161,6 +162,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [10–20 December 2021](2021-12-20-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 0 | 0 | 0 | 0 | 0 |
 | [7–14 December 2021](2021-12-14-Intercampus.html) | Intercampus <br> CMTV and Correio da Manhã | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [9–13 December 2021](2021-12-13-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [7–12 December 2021](2021-12-12-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
