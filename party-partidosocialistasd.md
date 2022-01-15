@@ -10,7 +10,11 @@ Last result: **31.5%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 37.1% | 33.9–39.9% | 33.0–40.7% | 32.3–41.3% | 30.8–42.5% |
+| N/A | [Poll Average](average.html) | 37.7% | 34.0–40.7% | 33.0–41.5% | 32.2–42.2% | 30.8–43.7% |
+| [4–10 January 2022](2022-01-10-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã and Negócios | 35.3% | 32.9–37.8% | 32.2–38.5% | 31.6–39.2% | 30.5–40.4% |
+| [6–10 January 2022](2022-01-10-CESOP–UCP.html) | CESOP–UCP <br> Público and RTP | 39.0% | 37.3–40.8% | 36.7–41.3% | 36.3–41.7% | 35.5–42.6% |
+| [30 December 2021–9 January 2022](2022-01-09-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 39.7% | 37.1–42.3% | 36.4–43.0% | 35.8–43.7% | 34.6–44.9% |
+| [28 December 2021–5 January 2022](2022-01-05-CESOP–UCP.html) | CESOP–UCP <br> Público and RTP | 38.0% | N/A | N/A | N/A | N/A |
 | [10–20 December 2021](2021-12-20-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 38.0% | 35.9–40.1% | 35.3–40.7% | 34.8–41.2% | 33.9–42.2% |
 | [7–14 December 2021](2021-12-14-Intercampus.html) | Intercampus <br> CMTV and Correio da Manhã | 35.5% | 33.0–38.0% | 32.4–38.8% | 31.8–39.4% | 30.6–40.6% |
 | [9–13 December 2021](2021-12-13-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias | 35.4% | 32.6–38.4% | 31.8–39.2% | 31.1–40.0% | 29.8–41.4% |
@@ -146,21 +150,22 @@ The following table shows the probability mass function per percentage block of 
 | 27.5–28.5% | 0% | 100% |  |
 | 28.5–29.5% | 0.1% | 100% |  |
 | 29.5–30.5% | 0.3% | 99.9% |  |
-| 30.5–31.5% | 0.8% | 99.6% | Last Result |
+| 30.5–31.5% | 0.9% | 99.6% | Last Result |
 | 31.5–32.5% | 2% | 98.8% |  |
 | 32.5–33.5% | 4% | 97% |  |
-| 33.5–34.5% | 8% | 92% |  |
-| 34.5–35.5% | 11% | 85% |  |
-| 35.5–36.5% | 14% | 73% |  |
-| 36.5–37.5% | 17% | 59% | Median |
-| 37.5–38.5% | 16% | 42% |  |
-| 38.5–39.5% | 13% | 27% |  |
-| 39.5–40.5% | 8% | 14% |  |
-| 40.5–41.5% | 4% | 6% |  |
-| 41.5–42.5% | 1.4% | 2% |  |
-| 42.5–43.5% | 0.4% | 0.4% |  |
-| 43.5–44.5% | 0.1% | 0.1% |  |
-| 44.5–45.5% | 0% | 0% |  |
+| 33.5–34.5% | 7% | 92% |  |
+| 34.5–35.5% | 9% | 86% |  |
+| 35.5–36.5% | 11% | 77% |  |
+| 36.5–37.5% | 14% | 66% |  |
+| 37.5–38.5% | 15% | 52% | Median |
+| 38.5–39.5% | 15% | 37% |  |
+| 39.5–40.5% | 11% | 22% |  |
+| 40.5–41.5% | 6% | 11% |  |
+| 41.5–42.5% | 3% | 5% |  |
+| 42.5–43.5% | 1.1% | 2% |  |
+| 43.5–44.5% | 0.4% | 0.6% |  |
+| 44.5–45.5% | 0.1% | 0.2% |  |
+| 45.5–46.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -171,7 +176,11 @@ Last result: **8** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9 | 8–10 | 8–10 | 8–10 | 7–10 |
+| N/A | [Poll Average](average.html) | 9 | 8–10 | 8–10 | 8–10 | 7–11 |
+| [4–10 January 2022](2022-01-10-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã and Negócios | 8 | 8–9 | 8–9 | 7–10 | 7–10 |
+| [6–10 January 2022](2022-01-10-CESOP–UCP.html) | CESOP–UCP <br> Público and RTP | 10 | 9–10 | 9–10 | 9–11 | 9–11 |
+| [30 December 2021–9 January 2022](2022-01-09-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 9 | 9–10 | 8–10 | 8–10 | 8–11 |
+| [28 December 2021–5 January 2022](2022-01-05-CESOP–UCP.html) | CESOP–UCP <br> Público and RTP |  |  |  |  |  |
 | [10–20 December 2021](2021-12-20-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 9 | 8–10 | 8–10 | 8–10 | 8–10 |
 | [7–14 December 2021](2021-12-14-Intercampus.html) | Intercampus <br> CMTV and Correio da Manhã | 8 | 8–9 | 8–9 | 7–10 | 7–10 |
 | [9–13 December 2021](2021-12-13-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias | 8 | 8–9 | 7–9 | 7–10 | 7–10 |
@@ -307,10 +316,10 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 7 | 2% | 100% |  |
-| 8 | 30% | 98% | Last Result |
-| 9 | 55% | 68% | Median |
-| 10 | 13% | 13% |  |
-| 11 | 0.2% | 0.2% | Majority |
+| 8 | 26% | 98% | Last Result |
+| 9 | 46% | 72% | Median |
+| 10 | 24% | 25% |  |
+| 11 | 1.0% | 1.0% | Majority |
 | 12 | 0% | 0% |  |
 
 
