@@ -10,7 +10,12 @@ Last result: **27.7%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 30.6% | 28.1–33.7% | 27.4–34.8% | 26.8–35.9% | 25.6–37.7% |
+| N/A | [Poll Average](average.html) | 29.6% | 27.2–31.9% | 26.5–32.6% | 25.9–33.2% | 24.8–34.3% |
+| [13–16 January 2022](2022-01-16-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 28.8% | 26.5–31.2% | 25.9–31.9% | 25.3–32.5% | 24.3–33.7% |
+| [12–15 January 2022](2022-01-15-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 29.6% | N/A | N/A | N/A | N/A |
+| [11–14 January 2022](2022-01-14-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 29.3% | N/A | N/A | N/A | N/A |
+| [10–13 January 2022](2022-01-13-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 29.8% | N/A | N/A | N/A | N/A |
+| [6–12 January 2022](2022-01-12-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias | 28.5% | 26.5–30.6% | 26.0–31.2% | 25.5–31.7% | 24.6–32.7% |
 | [4–10 January 2022](2022-01-10-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã and Negócios | 29.3% | 27.0–31.7% | 26.4–32.4% | 25.8–33.0% | 24.7–34.2% |
 | [6–10 January 2022](2022-01-10-CESOP–UCP.html) | CESOP–UCP <br> Público and RTP | 30.0% | 28.4–31.7% | 27.9–32.2% | 27.5–32.6% | 26.8–33.5% |
 | [30 December 2021–9 January 2022](2022-01-09-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 30.0% | 27.7–32.5% | 27.0–33.2% | 26.5–33.8% | 25.4–35.0% |
@@ -148,24 +153,20 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 22.5–23.5% | 0% | 100% |  |
-| 23.5–24.5% | 0.1% | 100% |  |
-| 24.5–25.5% | 0.4% | 99.9% |  |
-| 25.5–26.5% | 1.4% | 99.5% |  |
-| 26.5–27.5% | 4% | 98% |  |
-| 27.5–28.5% | 9% | 94% | Last Result |
-| 28.5–29.5% | 16% | 85% |  |
-| 29.5–30.5% | 20% | 70% |  |
-| 30.5–31.5% | 18% | 50% | Median |
-| 31.5–32.5% | 13% | 32% |  |
-| 32.5–33.5% | 8% | 19% |  |
-| 33.5–34.5% | 5% | 11% |  |
-| 34.5–35.5% | 3% | 6% |  |
-| 35.5–36.5% | 2% | 3% |  |
-| 36.5–37.5% | 0.9% | 1.4% |  |
-| 37.5–38.5% | 0.4% | 0.6% |  |
-| 38.5–39.5% | 0.1% | 0.2% |  |
-| 39.5–40.5% | 0% | 0.1% |  |
-| 40.5–41.5% | 0% | 0% |  |
+| 23.5–24.5% | 0.3% | 100% |  |
+| 24.5–25.5% | 1.2% | 99.7% |  |
+| 25.5–26.5% | 4% | 98% |  |
+| 26.5–27.5% | 9% | 95% |  |
+| 27.5–28.5% | 15% | 86% | Last Result |
+| 28.5–29.5% | 20% | 71% |  |
+| 29.5–30.5% | 21% | 51% | Median |
+| 30.5–31.5% | 16% | 30% |  |
+| 31.5–32.5% | 9% | 14% |  |
+| 32.5–33.5% | 4% | 5% |  |
+| 33.5–34.5% | 1.2% | 1.5% |  |
+| 34.5–35.5% | 0.3% | 0.3% |  |
+| 35.5–36.5% | 0% | 0.1% |  |
+| 36.5–37.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -176,7 +177,12 @@ Last result: **6** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 7–8 | 6–8 | 6–9 | 6–9 |
+| N/A | [Poll Average](average.html) | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
+| [13–16 January 2022](2022-01-16-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 7 | 6–7 | 6–8 | 6–8 | 6–8 |
+| [12–15 January 2022](2022-01-15-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI |  |  |  |  |  |
+| [11–14 January 2022](2022-01-14-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI |  |  |  |  |  |
+| [10–13 January 2022](2022-01-13-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI |  |  |  |  |  |
+| [6–12 January 2022](2022-01-12-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias | 7 | 6–7 | 6–7 | 6–8 | 6–8 |
 | [4–10 January 2022](2022-01-10-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã and Negócios | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
 | [6–10 January 2022](2022-01-10-CESOP–UCP.html) | CESOP–UCP <br> Público and RTP | 7 | 7–8 | 7–8 | 7–8 | 6–8 |
 | [30 December 2021–9 January 2022](2022-01-09-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
@@ -315,11 +321,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 6 | 9% | 100% | Last Result |
-| 7 | 57% | 91% | Median |
-| 8 | 31% | 34% |  |
-| 9 | 3% | 3% |  |
-| 10 | 0.1% | 0.1% |  |
-| 11 | 0% | 0% | Majority |
+| 5 | 0.2% | 100% |  |
+| 6 | 20% | 99.8% | Last Result |
+| 7 | 61% | 80% | Median |
+| 8 | 19% | 19% |  |
+| 9 | 0.2% | 0.2% |  |
+| 10 | 0% | 0% |  |
 
 
