@@ -10,7 +10,11 @@ Last result: **4.6%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.5% | 4.8–8.8% | 4.5–9.4% | 4.2–9.9% | 3.7–10.9% |
+| N/A | [Poll Average](average.html) | 5.8% | 4.4–8.8% | 4.1–9.4% | 3.9–9.9% | 3.4–10.9% |
+| [16–19 January 2022](2022-01-19-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 4.9% | 4.0–6.2% | 3.7–6.6% | 3.5–7.0% | 3.1–7.7% |
+| [15–18 January 2022](2022-01-18-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 5.1% | N/A | N/A | N/A | N/A |
+| [12–18 January 2022](2022-01-18-CESOP–UCP.html) | CESOP–UCP <br> Público and RTP | 5.0% | 4.3–5.8% | 4.2–6.1% | 4.0–6.3% | 3.7–6.7% |
+| [14–17 January 2022](2022-01-17-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 4.4% | N/A | N/A | N/A | N/A |
 | [13–16 January 2022](2022-01-16-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 5.9% | 4.9–7.3% | 4.6–7.7% | 4.3–8.1% | 3.8–8.8% |
 | [12–15 January 2022](2022-01-15-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 5.9% | N/A | N/A | N/A | N/A |
 | [11–14 January 2022](2022-01-14-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 6.7% | N/A | N/A | N/A | N/A |
@@ -153,12 +157,12 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 0.2% | 100% |  |
-| 3.5–4.5% | 6% | 99.8% |  |
-| 4.5–5.5% | 20% | 94% | Last Result |
-| 5.5–6.5% | 27% | 74% | Median |
-| 6.5–7.5% | 20% | 48% |  |
-| 7.5–8.5% | 15% | 28% |  |
+| 2.5–3.5% | 0.9% | 100% |  |
+| 3.5–4.5% | 13% | 99.1% |  |
+| 4.5–5.5% | 31% | 86% | Last Result |
+| 5.5–6.5% | 16% | 55% | Median |
+| 6.5–7.5% | 12% | 39% |  |
+| 7.5–8.5% | 14% | 26% |  |
 | 8.5–9.5% | 9% | 13% |  |
 | 9.5–10.5% | 3% | 4% |  |
 | 10.5–11.5% | 0.8% | 1.0% |  |
@@ -174,7 +178,11 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
+| N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
+| [16–19 January 2022](2022-01-19-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| [15–18 January 2022](2022-01-18-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI |  |  |  |  |  |
+| [12–18 January 2022](2022-01-18-CESOP–UCP.html) | CESOP–UCP <br> Público and RTP | 1 | 1 | 1 | 1 | 0–1 |
+| [14–17 January 2022](2022-01-17-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI |  |  |  |  |  |
 | [13–16 January 2022](2022-01-16-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 1 | 1 | 1 | 1–2 | 0–2 |
 | [12–15 January 2022](2022-01-15-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI |  |  |  |  |  |
 | [11–14 January 2022](2022-01-14-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI |  |  |  |  |  |
@@ -318,9 +326,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 1.3% | 100% |  |
-| 1 | 76% | 98.7% | Last Result, Median |
-| 2 | 22% | 22% |  |
+| 0 | 3% | 100% |  |
+| 1 | 76% | 97% | Last Result, Median |
+| 2 | 21% | 21% |  |
 | 3 | 0.1% | 0.1% |  |
 | 4 | 0% | 0% |  |
 
