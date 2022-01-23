@@ -10,7 +10,9 @@ Last result: **31.5%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 37.1% | 34.4–39.5% | 33.6–40.2% | 32.8–40.7% | 31.5–41.9% |
+| N/A | [Poll Average](average.html) | 36.6% | 32.9–39.3% | 31.9–40.0% | 31.1–40.6% | 29.7–41.8% |
+| [18–21 January 2022](2022-01-21-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 33.4% | 31.0–35.9% | 30.3–36.6% | 29.8–37.2% | 28.6–38.5% |
+| [17–20 January 2022](2022-01-20-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 34.7% | N/A | N/A | N/A | N/A |
 | [16–19 January 2022](2022-01-19-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 36.5% | 34.1–39.1% | 33.4–39.8% | 32.8–40.4% | 31.6–41.7% |
 | [15–18 January 2022](2022-01-18-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 38.7% | N/A | N/A | N/A | N/A |
 | [12–18 January 2022](2022-01-18-CESOP–UCP.html) | CESOP–UCP <br> Público and RTP | 37.0% | 35.4–38.7% | 35.0–39.1% | 34.6–39.5% | 33.8–40.3% |
@@ -156,21 +158,23 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 28.5–29.5% | 0% | 100% |  |
-| 29.5–30.5% | 0.1% | 100% |  |
-| 30.5–31.5% | 0.4% | 99.9% | Last Result |
-| 31.5–32.5% | 1.3% | 99.4% |  |
-| 32.5–33.5% | 3% | 98% |  |
-| 33.5–34.5% | 6% | 95% |  |
-| 34.5–35.5% | 11% | 89% |  |
-| 35.5–36.5% | 17% | 78% |  |
-| 36.5–37.5% | 21% | 61% | Median |
-| 37.5–38.5% | 18% | 40% |  |
-| 38.5–39.5% | 12% | 21% |  |
-| 39.5–40.5% | 6% | 9% |  |
+| 26.5–27.5% | 0% | 100% |  |
+| 27.5–28.5% | 0.1% | 100% |  |
+| 28.5–29.5% | 0.3% | 99.9% |  |
+| 29.5–30.5% | 1.0% | 99.6% |  |
+| 30.5–31.5% | 2% | 98.6% | Last Result |
+| 31.5–32.5% | 4% | 96% |  |
+| 32.5–33.5% | 6% | 92% |  |
+| 33.5–34.5% | 8% | 86% |  |
+| 34.5–35.5% | 11% | 77% |  |
+| 35.5–36.5% | 15% | 67% |  |
+| 36.5–37.5% | 18% | 52% | Median |
+| 37.5–38.5% | 16% | 34% |  |
+| 38.5–39.5% | 10% | 18% |  |
+| 39.5–40.5% | 5% | 8% |  |
 | 40.5–41.5% | 2% | 3% |  |
-| 41.5–42.5% | 0.7% | 0.9% |  |
-| 42.5–43.5% | 0.1% | 0.2% |  |
+| 41.5–42.5% | 0.6% | 0.7% |  |
+| 42.5–43.5% | 0.1% | 0.1% |  |
 | 43.5–44.5% | 0% | 0% |  |
 
 
@@ -182,7 +186,9 @@ Last result: **8** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9 | 8–9 | 8–10 | 8–10 | 7–10 |
+| N/A | [Poll Average](average.html) | 9 | 8–9 | 7–10 | 7–10 | 7–10 |
+| [18–21 January 2022](2022-01-21-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 8 | 7–8 | 7–9 | 7–9 | 7–9 |
+| [17–20 January 2022](2022-01-20-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI |  |  |  |  |  |
 | [16–19 January 2022](2022-01-19-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 9 | 8–9 | 8–9 | 8–10 | 7–10 |
 | [15–18 January 2022](2022-01-18-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI |  |  |  |  |  |
 | [12–18 January 2022](2022-01-18-CESOP–UCP.html) | CESOP–UCP <br> Público and RTP | 9 | 9 | 9 | 8–10 | 8–10 |
@@ -330,10 +336,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 7 | 0.9% | 100% |  |
-| 8 | 27% | 99.1% | Last Result |
-| 9 | 63% | 72% | Median |
-| 10 | 10% | 10% |  |
+| 7 | 5% | 100% |  |
+| 8 | 31% | 95% | Last Result |
+| 9 | 54% | 63% | Median |
+| 10 | 9% | 9% |  |
 | 11 | 0.1% | 0.1% | Majority |
 | 12 | 0% | 0% |  |
 
