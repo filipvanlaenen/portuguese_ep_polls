@@ -10,7 +10,8 @@ Last result: **31.5%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 36.4% | 33.2–39.0% | 32.4–39.8% | 31.8–40.4% | 30.7–41.6% |
+| N/A | [Poll Average](average.html) | 36.3% | 33.2–38.9% | 32.4–39.7% | 31.8–40.3% | 30.7–41.5% |
+| [22–25 January 2022](2022-01-25-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 36.7% | 34.2–39.2% | 33.5–40.0% | 32.9–40.6% | 31.8–41.8% |
 | [21–24 January 2022](2022-01-24-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 37.0% | 34.6–39.6% | 33.9–40.3% | 33.3–40.9% | 32.1–42.2% |
 | [20–23 January 2022](2022-01-23-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 35.4% | N/A | N/A | N/A | N/A |
 | [19–22 January 2022](2022-01-22-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 34.2% | N/A | N/A | N/A | N/A |
@@ -164,18 +165,18 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 27.5–28.5% | 0% | 100% |  |
 | 28.5–29.5% | 0.1% | 100% |  |
-| 29.5–30.5% | 0.3% | 99.9% |  |
-| 30.5–31.5% | 1.4% | 99.6% | Last Result |
+| 29.5–30.5% | 0.4% | 99.9% |  |
+| 30.5–31.5% | 1.5% | 99.6% | Last Result |
 | 31.5–32.5% | 4% | 98% |  |
 | 32.5–33.5% | 7% | 94% |  |
-| 33.5–34.5% | 10% | 87% |  |
-| 34.5–35.5% | 13% | 77% |  |
-| 35.5–36.5% | 16% | 64% | Median |
-| 36.5–37.5% | 18% | 47% |  |
-| 37.5–38.5% | 14% | 29% |  |
-| 38.5–39.5% | 9% | 15% |  |
+| 33.5–34.5% | 11% | 87% |  |
+| 34.5–35.5% | 13% | 76% |  |
+| 35.5–36.5% | 17% | 62% | Median |
+| 36.5–37.5% | 18% | 46% |  |
+| 37.5–38.5% | 14% | 28% |  |
+| 38.5–39.5% | 8% | 14% |  |
 | 39.5–40.5% | 4% | 6% |  |
-| 40.5–41.5% | 2% | 2% |  |
+| 40.5–41.5% | 1.4% | 2% |  |
 | 41.5–42.5% | 0.4% | 0.5% |  |
 | 42.5–43.5% | 0.1% | 0.1% |  |
 | 43.5–44.5% | 0% | 0% |  |
@@ -190,6 +191,7 @@ Last result: **8** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 9 | 8–9 | 8–10 | 8–10 | 7–10 |
+| [22–25 January 2022](2022-01-25-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 9 | 8–10 | 8–10 | 8–10 | 7–10 |
 | [21–24 January 2022](2022-01-24-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 9 | 8–10 | 8–10 | 8–10 | 8–10 |
 | [20–23 January 2022](2022-01-23-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI |  |  |  |  |  |
 | [19–22 January 2022](2022-01-22-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI |  |  |  |  |  |
@@ -344,9 +346,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 7 | 2% | 100% |  |
-| 8 | 32% | 98% | Last Result |
-| 9 | 57% | 66% | Median |
-| 10 | 8% | 8% |  |
+| 8 | 35% | 98% | Last Result |
+| 9 | 55% | 63% | Median |
+| 10 | 7% | 7% |  |
 | 11 | 0.1% | 0.1% | Majority |
 | 12 | 0% | 0% |  |
 
