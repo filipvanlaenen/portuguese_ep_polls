@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/portuguese_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 26 Jan 2022 19:22:16 +0100</pubDate>
+    <pubDate>Thu, 27 Jan 2022 17:21:31 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Pitagórica for CNN Portugal and TVI, 22–25 January 2022 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2022-01-25-Pitagórica.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Social Democrata (EPP): 6–8 seats&lt;/li&gt;&lt;li&gt;Partido Socialista (S&amp;amp;D): 8–10 seats&lt;/li&gt;&lt;li&gt;Bloco de Esquerda (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;CDS–Partido Popular (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;LIVRE (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Iniciativa Liberal (RE): 0–1 seats&lt;/li&gt;&lt;li&gt;Chega (ID): 1–2 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2022-01-25-Pitagórica-seats.png"
+        length="251473"
+        type="image/png"/>
+      <pubDate>Thu, 27 Jan 2022 17:21:31 +0100</pubDate>
+      <dc:date>2022-01-27T17:21:31.267735+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Pitagórica for CNN Portugal and TVI, 22–25 January 2022 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2022-01-25-Pitagórica.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2022-01-25-Pitagórica-coalitions-seats.png"
+        length="172339"
+        type="image/png"/>
+      <pubDate>Thu, 27 Jan 2022 17:21:31 +0100</pubDate>
+      <dc:date>2022-01-27T17:21:31.267735+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Pitagórica for CNN Portugal and TVI, 22–25 January 2022 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2022-01-25-Pitagórica.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Social Democrata (EPP): 27.4–34.7%&lt;/li&gt;&lt;li&gt;Partido Socialista (S&amp;amp;D): 32.9–40.6%&lt;/li&gt;&lt;li&gt;Bloco de Esquerda (GUE/NGL): 5.0–9.0%&lt;/li&gt;&lt;li&gt;CDS–Partido Popular (EPP): 1.0–3.2%&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária (GUE/NGL): 2.9–6.2%&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza (Greens/EFA): 0.5–2.1%&lt;/li&gt;&lt;li&gt;LIVRE (Greens/EFA): 0.9–3.0%&lt;/li&gt;&lt;li&gt;Iniciativa Liberal (RE): 2.5–5.6%&lt;/li&gt;&lt;li&gt;Chega (ID): 5.0–9.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2022-01-25-Pitagórica.png"
+        length="315662"
+        type="image/png"/>
+      <pubDate>Thu, 27 Jan 2022 17:21:31 +0100</pubDate>
+      <dc:date>2022-01-27T17:21:31.267735+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Pitagórica for CNN Portugal and TVI, 21–24 January 2022 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2022-01-24-Pitagórica.html#seats</link>
@@ -3939,6 +3969,6 @@
       <pubDate>Sun, 30 Jun 2019 15:14:32 +0200</pubDate>
       <dc:date>2019-06-30T15:14:32+02:00</dc:date>
     </item>
-    <dc:date>2022-01-26T19:22:16.452932+01:00</dc:date>
+    <dc:date>2022-01-27T17:21:31.267735+01:00</dc:date>
   </channel>
 </rss>
