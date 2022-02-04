@@ -5,12 +5,12 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | PS | PSD | CDS–PP | CDU | BE | PAN | L | IL | A | CH |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 31.5% <br> 8 | 27.7% <br> 6 | 27.7% <br> 1 | 12.7% <br> 3 | 4.6% <br> 1 | 1.7% <br> 0 | 0.7% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 32–40% <br> 8–10 | 27–36% <br> 6–9 | 1–3% <br> 0 | 3–8% <br> 0–1 | 4–10% <br> 1–2 | 1–5% <br> 0–1 | 0–3% <br> 0 | 2–7% <br> 0–1 | N/A <br> N/A | 5–9% <br> 1–2 |
-| [22–25 January 2022](2022-01-25-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 33–41% <br> 8–10 | 27–35% <br> 6–8 | 1–3% <br> 0 | 3–6% <br> 0–1 | 5–9% <br> 1–2 | 0–2% <br> 0 | 1–3% <br> 0 | 3–6% <br> 0–1 | N/A <br> N/A | 5–9% <br> 1–2 |
+| N/A | [Poll Average](average.html) | 32–39% <br> 8–9 | 27–36% <br> 6–9 | 1–2% <br> 0 | 4–8% <br> 0–1 | 4–10% <br> 1–2 | 1–5% <br> 0–1 | 0–3% <br> 0 | 2–7% <br> 0–1 | N/A <br> N/A | 4–9% <br> 1–2 |
+| [24–28 January 2022](2022-01-28-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 33–40% <br> 8–9 | 30–36% <br> 7–8 | 1–3% <br> 0 | 4–7% <br> 1 | 4–7% <br> 0–1 | 1–2% <br> 0 | 1–3% <br> 0 | 4–7% <br> 0–1 | N/A <br> N/A | 4–7% <br> 1 |
+| [19–26 January 2022](2022-01-26-CESOP–UCP.html) | CESOP–UCP <br> Público and RTP | 34–38% <br> 8–9 | 31–35% <br> 8–9 | 1–3% <br> 0 | 4–6% <br> 1 | 5–7% <br> 1 | 1–3% <br> 0 | 1–3% <br> 0 | 5–7% <br> 1 | N/A <br> N/A | 5–7% <br> 1 |
+| [18–24 January 2022](2022-01-24-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 32–38% <br> 8–9 | 30–36% <br> 7–8 | 1–2% <br> 0 | 5–8% <br> 1 | 4–7% <br> 0–1 | 1–3% <br> 0 | 1–2% <br> 0 | 5–8% <br> 1 | N/A <br> N/A | 5–8% <br> 1 |
 | [16–21 January 2022](2022-01-21-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias | 31–37% <br> 7–9 | 31–37% <br> 8–9 | 1–3% <br> 0 | 3–6% <br> 0–1 | 5–8% <br> 1–2 | 2–5% <br> 0–1 | 1–2% <br> 0 | 2–4% <br> 0–1 | N/A <br> N/A | 6–10% <br> 1–2 |
-| [12–18 January 2022](2022-01-18-CESOP–UCP.html) | CESOP–UCP <br> Público and RTP | 35–40% <br> 8–10 | 31–35% <br> 7–9 | 1–3% <br> 0 | 4–6% <br> 1 | 4–6% <br> 1 | 1–3% <br> 0 | 1–3% <br> 0 | 4–6% <br> 1 | N/A <br> N/A | 5–7% <br> 1 |
 | [4–10 January 2022](2022-01-10-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã and Negócios | 32–39% <br> 7–10 | 26–33% <br> 6–8 | 1–2% <br> 0 | 4–8% <br> 1–2 | 7–11% <br> 1–2 | 3–6% <br> 0–1 | 0–2% <br> 0 | 4–8% <br> 1 | N/A <br> N/A | 5–9% <br> 1–2 |
-| [10–20 December 2021](2021-12-20-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 35–41% <br> 8–10 | 28–34% <br> 6–8 | 1–3% <br> 0 | 5–8% <br> 1 | 4–7% <br> 0–1 | 1–3% <br> 0 | N/A <br> N/A | 3–5% <br> 0–1 | N/A <br> N/A | 6–9% <br> 1–2 |
 | 26 May 2019 | General Election | 31.5% <br> 8 | 27.7% <br> 6 | 27.7% <br> 1 | 12.7% <br> 3 | 4.6% <br> 1 | 1.7% <br> 0 | 0.7% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
