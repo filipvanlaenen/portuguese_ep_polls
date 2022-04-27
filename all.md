@@ -5,6 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | PS | PSD | CDS–PP | CDU | BE | PAN | L | IL | A | CH |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 31.5% <br> 8 | 27.7% <br> 6 | 27.7% <br> 1 | 12.7% <br> 3 | 4.6% <br> 1 | 1.7% <br> 0 | 0.7% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| [12–18 April 2022](2022-04-18-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias | 37–44% <br> 9–11 | 22–28% <br> 5–7 | 1–4% <br> 0 | 3–6% <br> 0–1 | 3–6% <br> 0–1 | 1–3% <br> 0 | 1–3% <br> 0 | 6–10% <br> 1–2 | N/A <br> N/A | 6–10% <br> 1–2 |
 | [15–20 February 2022](2022-02-20-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 33–41% <br> 8–10 | 28–36% <br> 6–9 | 1–3% <br> 0 | 3–6% <br> 0–1 | 3–6% <br> 0–1 | 1–3% <br> 0 | 2–4% <br> 0–1 | 6–10% <br> 1–2 | N/A <br> N/A | 4–8% <br> 1 |
 | [24–28 January 2022](2022-01-28-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 33–40% <br> 8–9 | 30–36% <br> 7–8 | 1–3% <br> 0 | 4–7% <br> 1 | 4–7% <br> 0–1 | 1–2% <br> 0 | 1–3% <br> 0 | 4–7% <br> 0–1 | N/A <br> N/A | 4–7% <br> 1 |
 | [23–26 January 2022](2022-01-26-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
