@@ -10,7 +10,7 @@ Last result: **4.6%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.9% | 3.5–6.8% | 3.2–7.3% | 3.0–7.7% | 2.6–8.5% |
+| N/A | [Poll Average](average.html) | 4.8% | 3.5–6.6% | 3.3–7.1% | 3.0–7.5% | 2.7–8.3% |
 | [7–15 May 2022](2022-05-15-Intercampus.html) | Intercampus | 5.9% | 4.8–7.3% | 4.5–7.7% | 4.3–8.1% | 3.8–8.8% |
 | [12–18 April 2022](2022-04-18-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias | 4.0% | 3.2–5.0% | 3.0–5.3% | 2.8–5.5% | 2.5–6.1% |
 | [15–20 February 2022](2022-02-20-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 4.5% | 3.6–5.8% | 3.3–6.1% | 3.1–6.5% | 2.7–7.1% |
@@ -172,13 +172,13 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0.3% | 100% |  |
-| 2.5–3.5% | 11% | 99.7% |  |
-| 3.5–4.5% | 29% | 88% |  |
-| 4.5–5.5% | 24% | 59% | Last Result, Median |
-| 5.5–6.5% | 21% | 35% |  |
-| 6.5–7.5% | 11% | 14% |  |
-| 7.5–8.5% | 3% | 3% |  |
-| 8.5–9.5% | 0.4% | 0.4% |  |
+| 2.5–3.5% | 10% | 99.7% |  |
+| 3.5–4.5% | 32% | 89% |  |
+| 4.5–5.5% | 28% | 57% | Last Result, Median |
+| 5.5–6.5% | 18% | 28% |  |
+| 6.5–7.5% | 8% | 10% |  |
+| 7.5–8.5% | 2% | 2% |  |
+| 8.5–9.5% | 0.3% | 0.3% |  |
 | 9.5–10.5% | 0% | 0% |  |
 
 
@@ -352,8 +352,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 27% | 100% |  |
-| 1 | 71% | 73% | Last Result, Median |
+| 0 | 25% | 100% |  |
+| 1 | 73% | 75% | Last Result, Median |
 | 2 | 2% | 2% |  |
 | 3 | 0% | 0% |  |
 

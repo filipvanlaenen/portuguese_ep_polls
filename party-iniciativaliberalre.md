@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8.0% | 6.7–9.4% | 6.4–9.8% | 6.1–10.1% | 5.6–10.9% |
+| N/A | [Poll Average](average.html) | 7.8% | 6.5–9.2% | 6.1–9.7% | 5.8–10.0% | 5.3–10.8% |
 | [7–15 May 2022](2022-05-15-Intercampus.html) | Intercampus | 7.9% | 6.6–9.4% | 6.3–9.9% | 6.0–10.3% | 5.4–11.1% |
 | [12–18 April 2022](2022-04-18-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias | 7.9% | 6.8–9.3% | 6.5–9.7% | 6.2–10.0% | 5.8–10.7% |
 | [15–20 February 2022](2022-02-20-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 7.3% | 6.1–8.9% | 5.8–9.3% | 5.5–9.7% | 5.0–10.5% |
@@ -175,13 +175,13 @@ The following table shows the probability mass function per percentage block of 
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0% | 100% |  |
-| 4.5–5.5% | 0.5% | 100% |  |
-| 5.5–6.5% | 7% | 99.5% |  |
-| 6.5–7.5% | 26% | 93% |  |
-| 7.5–8.5% | 38% | 67% | Median |
-| 8.5–9.5% | 22% | 29% |  |
-| 9.5–10.5% | 6% | 7% |  |
-| 10.5–11.5% | 1.0% | 1.1% |  |
+| 4.5–5.5% | 1.2% | 100% |  |
+| 5.5–6.5% | 10% | 98.8% |  |
+| 6.5–7.5% | 29% | 89% |  |
+| 7.5–8.5% | 35% | 60% | Median |
+| 8.5–9.5% | 19% | 25% |  |
+| 9.5–10.5% | 5% | 6% |  |
+| 10.5–11.5% | 0.8% | 0.9% |  |
 | 11.5–12.5% | 0.1% | 0.1% |  |
 | 12.5–13.5% | 0% | 0% |  |
 
@@ -357,8 +357,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 50% | 100% | Median |
-| 2 | 50% | 50% |  |
+| 1 | 55% | 100% | Median |
+| 2 | 44% | 45% |  |
 | 3 | 0.1% | 0.1% |  |
 | 4 | 0% | 0% |  |
 
