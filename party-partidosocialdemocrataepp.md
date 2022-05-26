@@ -10,7 +10,8 @@ Last result: **27.7%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 28.2% | 23.9–33.3% | 23.3–34.2% | 22.7–34.9% | 21.8–36.2% |
+| N/A | [Poll Average](average.html) | 23.4% | 20.0–26.5% | 19.3–27.2% | 18.7–27.8% | 17.7–28.9% |
+| [7–15 May 2022](2022-05-15-Intercampus.html) | Intercampus | 21.3% | 19.3–23.5% | 18.7–24.2% | 18.2–24.7% | 17.3–25.8% |
 | [12–18 April 2022](2022-04-18-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias | 25.2% | 23.3–27.2% | 22.7–27.8% | 22.3–28.3% | 21.4–29.3% |
 | [15–20 February 2022](2022-02-20-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 31.7% | 29.3–34.2% | 28.6–34.9% | 28.1–35.5% | 27.0–36.7% |
 | [24–28 January 2022](2022-01-28-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 32.9% | 30.8–35.1% | 30.2–35.8% | 29.6–36.3% | 28.6–37.4% |
@@ -169,26 +170,22 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 19.5–20.5% | 0% | 100% |  |
-| 20.5–21.5% | 0.3% | 100% |  |
-| 21.5–22.5% | 2% | 99.7% |  |
-| 22.5–23.5% | 5% | 98% |  |
-| 23.5–24.5% | 10% | 93% |  |
-| 24.5–25.5% | 13% | 83% |  |
-| 25.5–26.5% | 11% | 70% |  |
-| 26.5–27.5% | 7% | 59% |  |
-| 27.5–28.5% | 4% | 53% | Last Result, Median |
-| 28.5–29.5% | 5% | 49% |  |
-| 29.5–30.5% | 7% | 44% |  |
-| 30.5–31.5% | 10% | 37% |  |
-| 31.5–32.5% | 10% | 27% |  |
-| 32.5–33.5% | 8% | 16% |  |
-| 33.5–34.5% | 5% | 8% |  |
-| 34.5–35.5% | 2% | 3% |  |
-| 35.5–36.5% | 0.9% | 1.2% |  |
-| 36.5–37.5% | 0.2% | 0.3% |  |
-| 37.5–38.5% | 0.1% | 0.1% |  |
-| 38.5–39.5% | 0% | 0% |  |
+| 15.5–16.5% | 0% | 100% |  |
+| 16.5–17.5% | 0.4% | 99.9% |  |
+| 17.5–18.5% | 2% | 99.6% |  |
+| 18.5–19.5% | 5% | 98% |  |
+| 19.5–20.5% | 9% | 93% |  |
+| 20.5–21.5% | 12% | 84% |  |
+| 21.5–22.5% | 12% | 72% |  |
+| 22.5–23.5% | 12% | 60% | Median |
+| 23.5–24.5% | 13% | 48% |  |
+| 24.5–25.5% | 14% | 35% |  |
+| 25.5–26.5% | 11% | 21% |  |
+| 26.5–27.5% | 6% | 10% |  |
+| 27.5–28.5% | 2% | 3% | Last Result |
+| 28.5–29.5% | 0.7% | 0.8% |  |
+| 29.5–30.5% | 0.1% | 0.1% |  |
+| 30.5–31.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -199,7 +196,8 @@ Last result: **6** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 6–8 | 5–8 | 5–8 | 5–9 |
+| N/A | [Poll Average](average.html) | 6 | 5–6 | 4–6 | 4–7 | 4–7 |
+| [7–15 May 2022](2022-05-15-Intercampus.html) | Intercampus | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | [12–18 April 2022](2022-04-18-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
 | [15–20 February 2022](2022-02-20-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 8 | 7–8 | 7–8 | 6–9 | 6–9 |
 | [24–28 January 2022](2022-01-28-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 8 | 7–8 | 7–8 | 7–8 | 7–9 |
@@ -360,11 +358,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 5 | 6% | 100% |  |
-| 6 | 41% | 94% | Last Result |
-| 7 | 27% | 53% | Median |
-| 8 | 23% | 25% |  |
-| 9 | 2% | 2% |  |
-| 10 | 0% | 0% |  |
+| 4 | 5% | 100% |  |
+| 5 | 45% | 95% |  |
+| 6 | 46% | 50% | Last Result, Median |
+| 7 | 4% | 4% |  |
+| 8 | 0% | 0% |  |
 
 

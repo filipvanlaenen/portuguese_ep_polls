@@ -10,7 +10,8 @@ Last result: **31.5%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 39.1% | 35.5–42.2% | 34.7–42.9% | 34.0–43.5% | 32.7–44.7% |
+| N/A | [Poll Average](average.html) | 40.1% | 37.6–42.5% | 36.8–43.2% | 36.2–43.8% | 34.9–45.0% |
+| [7–15 May 2022](2022-05-15-Intercampus.html) | Intercampus | 39.4% | 36.9–42.0% | 36.2–42.8% | 35.6–43.4% | 34.5–44.6% |
 | [12–18 April 2022](2022-04-18-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias | 40.6% | 38.5–42.9% | 37.8–43.5% | 37.3–44.1% | 36.3–45.2% |
 | [15–20 February 2022](2022-02-20-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 37.2% | 34.7–39.8% | 34.0–40.5% | 33.4–41.1% | 32.2–42.4% |
 | [24–28 January 2022](2022-01-28-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 36.6% | 34.4–38.9% | 33.8–39.5% | 33.2–40.1% | 32.2–41.2% |
@@ -169,23 +170,22 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 29.5–30.5% | 0% | 100% |  |
-| 30.5–31.5% | 0.1% | 100% | Last Result |
-| 31.5–32.5% | 0.3% | 99.9% |  |
-| 32.5–33.5% | 1.1% | 99.6% |  |
-| 33.5–34.5% | 3% | 98% |  |
-| 34.5–35.5% | 6% | 96% |  |
-| 35.5–36.5% | 9% | 90% |  |
-| 36.5–37.5% | 11% | 81% |  |
-| 37.5–38.5% | 13% | 70% |  |
-| 38.5–39.5% | 14% | 57% | Median |
-| 39.5–40.5% | 14% | 43% |  |
-| 40.5–41.5% | 13% | 29% |  |
-| 41.5–42.5% | 9% | 16% |  |
-| 42.5–43.5% | 5% | 7% |  |
-| 43.5–44.5% | 2% | 2% |  |
-| 44.5–45.5% | 0.5% | 0.6% |  |
-| 45.5–46.5% | 0.1% | 0.1% |  |
+| 30.5–31.5% | 0% | 100% | Last Result |
+| 31.5–32.5% | 0% | 100% |  |
+| 32.5–33.5% | 0% | 100% |  |
+| 33.5–34.5% | 0.2% | 99.9% |  |
+| 34.5–35.5% | 0.9% | 99.7% |  |
+| 35.5–36.5% | 3% | 98.8% |  |
+| 36.5–37.5% | 6% | 96% |  |
+| 37.5–38.5% | 11% | 90% |  |
+| 38.5–39.5% | 17% | 79% |  |
+| 39.5–40.5% | 20% | 61% | Median |
+| 40.5–41.5% | 18% | 41% |  |
+| 41.5–42.5% | 13% | 23% |  |
+| 42.5–43.5% | 6% | 10% |  |
+| 43.5–44.5% | 3% | 3% |  |
+| 44.5–45.5% | 0.7% | 0.9% |  |
+| 45.5–46.5% | 0.2% | 0.2% |  |
 | 46.5–47.5% | 0% | 0% |  |
 
 
@@ -197,7 +197,8 @@ Last result: **8** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9 | 8–10 | 8–11 | 8–11 | 8–11 |
+| N/A | [Poll Average](average.html) | 10 | 9–11 | 9–11 | 9–11 | 8–11 |
+| [7–15 May 2022](2022-05-15-Intercampus.html) | Intercampus | 10 | 9–11 | 9–11 | 9–11 | 8–11 |
 | [12–18 April 2022](2022-04-18-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias | 10 | 9–11 | 9–11 | 9–11 | 9–11 |
 | [15–20 February 2022](2022-02-20-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 9 | 8–10 | 8–10 | 8–10 | 7–10 |
 | [24–28 January 2022](2022-01-28-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 9 | 8–9 | 8–9 | 8–9 | 8–10 |
@@ -358,12 +359,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 7 | 0.4% | 100% |  |
-| 8 | 12% | 99.6% | Last Result |
-| 9 | 42% | 87% | Median |
-| 10 | 40% | 46% |  |
-| 11 | 6% | 6% | Majority |
-| 12 | 0.1% | 0.1% |  |
+| 8 | 1.2% | 100% | Last Result |
+| 9 | 28% | 98.8% |  |
+| 10 | 59% | 71% | Median |
+| 11 | 11% | 11% | Majority |
+| 12 | 0.2% | 0.2% |  |
 | 13 | 0% | 0% |  |
 
 
