@@ -10,7 +10,12 @@ Last result: **27.7%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 25.2% | 20.5–32.7% | 19.7–33.7% | 19.0–34.5% | 17.9–35.9% |
+| N/A | [Poll Average](average.html) | 29.1% | 21.7–31.8% | 20.8–32.4% | 20.2–33.0% | 19.0–34.0% |
+| [11–15 July 2022](2022-07-15-CESOP–UCP.html) | CESOP–UCP | 30.1% | 28.1–32.1% | 27.6–32.7% | 27.1–33.2% | 26.2–34.2% |
+| [6–11 July 2022](2022-07-11-Intercampus.html) | Intercampus <br> CMTV | 22.5% | 20.4–24.8% | 19.8–25.4% | 19.3–26.0% | 18.4–27.1% |
+| [5–10 July 2022](2022-07-10-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias | 30.1% | 28.1–32.3% | 27.5–32.9% | 27.1–33.4% | 26.1–34.4% |
+| [21 June–4 July 2022](2022-07-04-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 24.9% | N/A | N/A | N/A | N/A |
+| [8–14 June 2022](2022-06-14-Intercampus.html) | Intercampus <br> CMTV and Correio da Manhã | 24.5% | N/A | N/A | N/A | N/A |
 | [7–15 May 2022](2022-05-15-Intercampus.html) | Intercampus | 21.3% | 19.3–23.5% | 18.7–24.2% | 18.2–24.7% | 17.3–25.8% |
 | [12–18 April 2022](2022-04-18-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias | 25.2% | 23.3–27.2% | 22.7–27.8% | 22.3–28.3% | 21.4–29.3% |
 | [15–20 February 2022](2022-02-20-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 31.7% | 29.3–34.2% | 28.6–34.9% | 28.1–35.5% | 27.0–36.7% |
@@ -170,30 +175,26 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 15.5–16.5% | 0% | 100% |  |
-| 16.5–17.5% | 0.2% | 100% |  |
-| 17.5–18.5% | 1.1% | 99.7% |  |
-| 18.5–19.5% | 3% | 98.6% |  |
-| 19.5–20.5% | 6% | 95% |  |
-| 20.5–21.5% | 8% | 90% |  |
-| 21.5–22.5% | 8% | 81% |  |
-| 22.5–23.5% | 8% | 73% |  |
-| 23.5–24.5% | 9% | 65% |  |
-| 24.5–25.5% | 9% | 56% | Median |
-| 25.5–26.5% | 8% | 47% |  |
-| 26.5–27.5% | 5% | 40% |  |
-| 27.5–28.5% | 3% | 35% | Last Result |
-| 28.5–29.5% | 3% | 32% |  |
-| 29.5–30.5% | 5% | 29% |  |
-| 30.5–31.5% | 7% | 24% |  |
-| 31.5–32.5% | 7% | 18% |  |
-| 32.5–33.5% | 5% | 11% |  |
-| 33.5–34.5% | 3% | 6% |  |
-| 34.5–35.5% | 2% | 2% |  |
-| 35.5–36.5% | 0.6% | 0.8% |  |
-| 36.5–37.5% | 0.2% | 0.2% |  |
-| 37.5–38.5% | 0% | 0% |  |
-| 38.5–39.5% | 0% | 0% |  |
+| 16.5–17.5% | 0% | 100% |  |
+| 17.5–18.5% | 0.2% | 100% |  |
+| 18.5–19.5% | 0.9% | 99.8% |  |
+| 19.5–20.5% | 3% | 98.9% |  |
+| 20.5–21.5% | 5% | 96% |  |
+| 21.5–22.5% | 8% | 91% |  |
+| 22.5–23.5% | 7% | 83% |  |
+| 23.5–24.5% | 5% | 76% |  |
+| 24.5–25.5% | 3% | 71% |  |
+| 25.5–26.5% | 2% | 68% |  |
+| 26.5–27.5% | 3% | 66% |  |
+| 27.5–28.5% | 7% | 63% | Last Result |
+| 28.5–29.5% | 14% | 56% | Median |
+| 29.5–30.5% | 16% | 43% |  |
+| 30.5–31.5% | 14% | 26% |  |
+| 31.5–32.5% | 8% | 12% |  |
+| 32.5–33.5% | 3% | 4% |  |
+| 33.5–34.5% | 0.9% | 1.1% |  |
+| 34.5–35.5% | 0.2% | 0.2% |  |
+| 35.5–36.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -204,7 +205,12 @@ Last result: **6** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 5–8 | 5–8 | 4–8 | 4–9 |
+| N/A | [Poll Average](average.html) | 7 | 5–8 | 5–8 | 5–8 | 4–8 |
+| [11–15 July 2022](2022-07-15-CESOP–UCP.html) | CESOP–UCP | 7 | 7–8 | 6–8 | 6–8 | 6–8 |
+| [6–11 July 2022](2022-07-11-Intercampus.html) | Intercampus <br> CMTV | 5 | 5–6 | 5–6 | 5–6 | 4–7 |
+| [5–10 July 2022](2022-07-10-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias | 7 | 7–8 | 7–8 | 6–8 | 6–9 |
+| [21 June–4 July 2022](2022-07-04-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI |  |  |  |  |  |
+| [8–14 June 2022](2022-06-14-Intercampus.html) | Intercampus <br> CMTV and Correio da Manhã |  |  |  |  |  |
 | [7–15 May 2022](2022-05-15-Intercampus.html) | Intercampus | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | [12–18 April 2022](2022-04-18-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
 | [15–20 February 2022](2022-02-20-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 8 | 7–8 | 7–8 | 6–9 | 6–9 |
@@ -366,12 +372,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 3% | 100% |  |
-| 5 | 30% | 97% |  |
-| 6 | 32% | 67% | Last Result, Median |
-| 7 | 18% | 35% |  |
-| 8 | 15% | 17% |  |
-| 9 | 1.5% | 1.5% |  |
+| 4 | 0.7% | 100% |  |
+| 5 | 17% | 99.3% |  |
+| 6 | 19% | 82% | Last Result |
+| 7 | 51% | 63% | Median |
+| 8 | 11% | 11% |  |
+| 9 | 0.2% | 0.2% |  |
 | 10 | 0% | 0% |  |
 
 
