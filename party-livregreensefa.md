@@ -10,7 +10,8 @@ Last result: **0.7%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.1% | 1.5–2.8% | 1.3–3.1% | 1.2–3.3% | 1.0–3.8% |
+| N/A | [Poll Average](average.html) | 1.9% | 1.2–2.8% | 1.0–3.0% | 0.8–3.3% | 0.6–3.8% |
+| [28 July–10 August 2022](2022-08-10-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 1.2% | 0.8–1.9% | 0.7–2.0% | 0.7–2.2% | 0.5–2.6% |
 | [3–10 August 2022](2022-08-10-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã and Negócios | 2.1% | 1.6–3.1% | 1.4–3.4% | 1.3–3.6% | 1.0–4.2% |
 | [11–15 July 2022](2022-07-15-CESOP–UCP.html) | CESOP–UCP | 2.0% | 1.5–2.8% | 1.4–3.0% | 1.3–3.2% | 1.1–3.6% |
 | [6–11 July 2022](2022-07-11-Intercampus.html) | Intercampus <br> CMTV | 1.8% | 1.3–2.7% | 1.1–3.0% | 1.0–3.2% | 0.8–3.7% |
@@ -176,11 +177,11 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0% | 100% |  |
-| 0.5–1.5% | 14% | 100% | Last Result |
-| 1.5–2.5% | 66% | 86% | Median |
-| 2.5–3.5% | 19% | 20% |  |
-| 3.5–4.5% | 1.1% | 1.2% |  |
+| 0.0–0.5% | 0.2% | 100% |  |
+| 0.5–1.5% | 27% | 99.8% | Last Result |
+| 1.5–2.5% | 56% | 73% | Median |
+| 2.5–3.5% | 16% | 18% |  |
+| 3.5–4.5% | 1.1% | 1.1% |  |
 | 4.5–5.5% | 0% | 0% |  |
 
 
@@ -193,6 +194,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [28 July–10 August 2022](2022-08-10-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 0 | 0 | 0 | 0 | 0 |
 | [3–10 August 2022](2022-08-10-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã and Negócios | 0 | 0 | 0 | 0 | 0–1 |
 | [11–15 July 2022](2022-07-15-CESOP–UCP.html) | CESOP–UCP | 0 | 0 | 0 | 0 | 0 |
 | [6–11 July 2022](2022-07-11-Intercampus.html) | Intercampus <br> CMTV | 0 | 0 | 0 | 0 | 0 |
