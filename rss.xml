@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/portuguese_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 09 Oct 2022 14:32:29 +0200</pubDate>
+    <pubDate>Sun, 09 Oct 2022 14:57:39 +0200</pubDate>
     <item>
       <title>Opinion Poll by Aximage for Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias, 21–24 September 2022 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2022-09-24-Aximage.html#seats</link>
@@ -38,6 +38,36 @@
         type="image/png"/>
       <pubDate>Sun, 09 Oct 2022 14:32:29 +0200</pubDate>
       <dc:date>2022-10-09T14:32:29.535397+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by ICS/ISCTE for Expresso and SIC Notícias, 10–18 September 2022 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2022-09-18-ICSISCTE.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Social Democrata (EPP): 6–7 seats&lt;/li&gt;&lt;li&gt;Partido Socialista (S&amp;amp;D): 8–10 seats&lt;/li&gt;&lt;li&gt;Bloco de Esquerda (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;CDS–Partido Popular (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;LIVRE (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Iniciativa Liberal (RE): 0–1 seats&lt;/li&gt;&lt;li&gt;Chega (ID): 2–3 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2022-09-18-ICSISCTE-seats.png"
+        length="256987"
+        type="image/png"/>
+      <pubDate>Sun, 09 Oct 2022 14:57:39 +0200</pubDate>
+      <dc:date>2022-10-09T14:57:39.414812+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by ICS/ISCTE for Expresso and SIC Notícias, 10–18 September 2022 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2022-09-18-ICSISCTE.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2022-09-18-ICSISCTE-coalitions-seats.png"
+        length="168596"
+        type="image/png"/>
+      <pubDate>Sun, 09 Oct 2022 14:57:39 +0200</pubDate>
+      <dc:date>2022-10-09T14:57:39.414812+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by ICS/ISCTE for Expresso and SIC Notícias, 10–18 September 2022 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2022-09-18-ICSISCTE.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Social Democrata (EPP): 24.9–31.1%&lt;/li&gt;&lt;li&gt;Partido Socialista (S&amp;amp;D): 33.5–40.2%&lt;/li&gt;&lt;li&gt;Bloco de Esquerda (GUE/NGL): 2.8–5.5%&lt;/li&gt;&lt;li&gt;CDS–Partido Popular (EPP): 0.1–0.9%&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária (GUE/NGL): 2.8–5.5%&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza (Greens/EFA): 2.0–4.4%&lt;/li&gt;&lt;li&gt;LIVRE (Greens/EFA): 0.1–0.9%&lt;/li&gt;&lt;li&gt;Iniciativa Liberal (RE): 2.0–4.4%&lt;/li&gt;&lt;li&gt;Chega (ID): 8.9–13.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2022-09-18-ICSISCTE.png"
+        length="304808"
+        type="image/png"/>
+      <pubDate>Sun, 09 Oct 2022 14:57:39 +0200</pubDate>
+      <dc:date>2022-10-09T14:57:39.414812+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Intercampus for CMTV, Correio da Manhã and Negócios, 9–15 September 2022 – Seat Projections for the Parties</title>
@@ -4419,6 +4449,6 @@
       <pubDate>Sun, 30 Jun 2019 15:14:32 +0200</pubDate>
       <dc:date>2019-06-30T15:14:32+02:00</dc:date>
     </item>
-    <dc:date>2022-10-09T14:32:29.535397+02:00</dc:date>
+    <dc:date>2022-10-09T14:57:39.414812+02:00</dc:date>
   </channel>
 </rss>
