@@ -5,6 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | PS | PSD | CDS–PP | CDU | BE | PAN | L | IL | A | CH |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 31.5% <br> 8 | 27.7% <br> 6 | 27.7% <br> 1 | 12.7% <br> 3 | 4.6% <br> 1 | 1.7% <br> 0 | 0.7% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| [15–20 November 2022](2022-11-20-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã and Negócios | 25–32% <br> 6–8 | 23–30% <br> 6–8 | 1–3% <br> 0 | 5–9% <br> 1–2 | 5–10% <br> 1–2 | 2–4% <br> 0–1 | 2–4% <br> 0–1 | 6–10% <br> 1–2 | N/A <br> N/A | 11–17% <br> 2–4 |
 | [17–22 October 2022](2022-10-22-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã and Negócios | 30–37% <br> 7–9 | 26–33% <br> 6–8 | 0–2% <br> 0 | 2–5% <br> 0–1 | 5–9% <br> 1–2 | 1–4% <br> 0 | 2–4% <br> 0–1 | 7–11% <br> 1–2 | N/A <br> N/A | 9–14% <br> 2–3 |
 | [11–17 October 2022](2022-10-17-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 33–40% <br> 8–10 | 27–33% <br> 6–8 | 1–3% <br> 0 | 3–5% <br> 0–1 | 3–5% <br> 0–1 | 1–2% <br> 0 | 0–2% <br> 0 | 6–10% <br> 1–2 | N/A <br> N/A | 7–11% <br> 1–2 |
 | [21–24 September 2022](2022-09-24-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias | 31–38% <br> 8–9 | 28–34% <br> 7–9 | 1–3% <br> 0 | 2–5% <br> 0–1 | 3–5% <br> 0–1 | 2–4% <br> 0–1 | 1–3% <br> 0 | 5–9% <br> 1–2 | N/A <br> N/A | 7–11% <br> 1–2 |
