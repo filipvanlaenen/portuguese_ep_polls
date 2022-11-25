@@ -10,7 +10,8 @@ Last result: **31.5%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 35.3% | 32.3–38.1% | 31.5–38.8% | 30.8–39.4% | 29.4–40.6% |
+| N/A | [Poll Average](average.html) | 35.0% | 28.3–38.0% | 27.3–38.8% | 26.5–39.4% | 25.1–40.6% |
+| [15–20 November 2022](2022-11-20-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã and Negócios | 28.8% | 26.5–31.2% | 25.8–31.9% | 25.3–32.5% | 24.2–33.7% |
 | [17–22 October 2022](2022-10-22-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã and Negócios | 33.3% | 30.9–35.8% | 30.2–36.5% | 29.6–37.1% | 28.5–38.3% |
 | [11–17 October 2022](2022-10-17-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 36.2% | 34.1–38.4% | 33.5–39.0% | 33.0–39.6% | 32.0–40.6% |
 | [21–24 September 2022](2022-09-24-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias | 34.4% | 32.3–36.6% | 31.7–37.3% | 31.2–37.8% | 30.3–38.9% |
@@ -182,18 +183,22 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 26.5–27.5% | 0% | 100% |  |
-| 27.5–28.5% | 0.1% | 100% |  |
-| 28.5–29.5% | 0.5% | 99.9% |  |
-| 29.5–30.5% | 1.4% | 99.4% |  |
-| 30.5–31.5% | 3% | 98% | Last Result |
-| 31.5–32.5% | 7% | 95% |  |
-| 32.5–33.5% | 11% | 88% |  |
-| 33.5–34.5% | 15% | 77% |  |
-| 34.5–35.5% | 17% | 62% | Median |
-| 35.5–36.5% | 17% | 46% |  |
-| 36.5–37.5% | 14% | 29% |  |
-| 37.5–38.5% | 9% | 15% |  |
+| 22.5–23.5% | 0% | 100% |  |
+| 23.5–24.5% | 0.2% | 100% |  |
+| 24.5–25.5% | 0.7% | 99.8% |  |
+| 25.5–26.5% | 2% | 99.1% |  |
+| 26.5–27.5% | 4% | 97% |  |
+| 27.5–28.5% | 5% | 94% |  |
+| 28.5–29.5% | 5% | 89% |  |
+| 29.5–30.5% | 4% | 84% |  |
+| 30.5–31.5% | 3% | 79% | Last Result |
+| 31.5–32.5% | 4% | 76% |  |
+| 32.5–33.5% | 6% | 72% |  |
+| 33.5–34.5% | 10% | 66% |  |
+| 34.5–35.5% | 13% | 56% | Median |
+| 35.5–36.5% | 15% | 43% |  |
+| 36.5–37.5% | 13% | 28% |  |
+| 37.5–38.5% | 8% | 15% |  |
 | 38.5–39.5% | 4% | 6% |  |
 | 39.5–40.5% | 2% | 2% |  |
 | 40.5–41.5% | 0.4% | 0.5% |  |
@@ -209,7 +214,8 @@ Last result: **8** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9 | 8–9 | 8–9 | 7–10 | 7–10 |
+| N/A | [Poll Average](average.html) | 8 | 7–9 | 7–9 | 6–10 | 6–10 |
+| [15–20 November 2022](2022-11-20-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã and Negócios | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
 | [17–22 October 2022](2022-10-22-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã and Negócios | 8 | 7–9 | 7–9 | 7–9 | 7–10 |
 | [11–17 October 2022](2022-10-17-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 9 | 8–9 | 8–9 | 8–10 | 7–10 |
 | [21–24 September 2022](2022-09-24-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias | 9 | 8–9 | 8–9 | 8–9 | 7–10 |
@@ -383,10 +389,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 7 | 4% | 100% |  |
-| 8 | 43% | 96% | Last Result |
-| 9 | 49% | 53% | Median |
-| 10 | 4% | 4% |  |
+| 6 | 3% | 100% |  |
+| 7 | 17% | 97% |  |
+| 8 | 34% | 80% | Last Result, Median |
+| 9 | 43% | 46% |  |
+| 10 | 3% | 3% |  |
 | 11 | 0% | 0% | Majority |
 
 

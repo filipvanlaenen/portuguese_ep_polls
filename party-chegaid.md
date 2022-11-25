@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10.0% | 8.3–12.0% | 7.9–12.6% | 7.6–13.0% | 6.9–13.9% |
+| N/A | [Poll Average](average.html) | 10.3% | 8.3–14.0% | 7.9–14.8% | 7.6–15.5% | 7.0–16.7% |
+| [15–20 November 2022](2022-11-20-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã and Negócios | 13.6% | 11.9–15.5% | 11.4–16.0% | 11.1–16.5% | 10.3–17.5% |
 | [17–22 October 2022](2022-10-22-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã and Negócios | 10.9% | 9.4–12.7% | 9.0–13.2% | 8.6–13.6% | 8.0–14.5% |
 | [11–17 October 2022](2022-10-17-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 9.3% | 8.1–10.7% | 7.8–11.1% | 7.5–11.5% | 7.0–12.2% |
 | [21–24 September 2022](2022-09-24-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias | 8.9% | 7.7–10.3% | 7.4–10.7% | 7.1–11.1% | 6.6–11.8% |
@@ -190,15 +191,18 @@ The following table shows the probability mass function per percentage block of 
 | 4.5–5.5% | 0% | 100% |  |
 | 5.5–6.5% | 0.1% | 100% |  |
 | 6.5–7.5% | 2% | 99.9% |  |
-| 7.5–8.5% | 12% | 98% |  |
-| 8.5–9.5% | 23% | 86% |  |
-| 9.5–10.5% | 25% | 62% | Median |
-| 10.5–11.5% | 21% | 37% |  |
-| 11.5–12.5% | 11% | 16% |  |
-| 12.5–13.5% | 4% | 5% |  |
-| 13.5–14.5% | 0.9% | 1.0% |  |
-| 14.5–15.5% | 0.1% | 0.1% |  |
-| 15.5–16.5% | 0% | 0% |  |
+| 7.5–8.5% | 11% | 98% |  |
+| 8.5–9.5% | 21% | 86% |  |
+| 9.5–10.5% | 19% | 65% | Median |
+| 10.5–11.5% | 14% | 46% |  |
+| 11.5–12.5% | 10% | 32% |  |
+| 12.5–13.5% | 8% | 22% |  |
+| 13.5–14.5% | 7% | 13% |  |
+| 14.5–15.5% | 4% | 6% |  |
+| 15.5–16.5% | 2% | 2% |  |
+| 16.5–17.5% | 0.5% | 0.6% |  |
+| 17.5–18.5% | 0.1% | 0.1% |  |
+| 18.5–19.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -209,7 +213,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
+| N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 1–4 | 1–4 |
+| [15–20 November 2022](2022-11-20-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã and Negócios | 3 | 3–4 | 2–4 | 2–4 | 2–4 |
 | [17–22 October 2022](2022-10-22-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã and Negócios | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [11–17 October 2022](2022-10-17-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 2 | 2 | 1–2 | 1–2 | 1–3 |
 | [21–24 September 2022](2022-09-24-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias | 2 | 2 | 1–2 | 1–2 | 1–3 |
@@ -385,8 +390,9 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 5% | 100% |  |
-| 2 | 80% | 95% | Median |
-| 3 | 15% | 15% |  |
-| 4 | 0% | 0% |  |
+| 2 | 65% | 95% | Median |
+| 3 | 27% | 31% |  |
+| 4 | 4% | 4% |  |
+| 5 | 0% | 0% |  |
 
 
