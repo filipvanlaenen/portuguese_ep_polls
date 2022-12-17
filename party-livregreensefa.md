@@ -10,10 +10,10 @@ Last result: **0.7%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.8% | 0.2–2.7% | 0.2–3.0% | 0.1–3.2% | 0.1–3.7% |
+| N/A | [Poll Average](average.html) | 1.9% | 0.3–2.8% | 0.2–3.0% | 0.1–3.2% | 0.1–3.7% |
 | [12–14 December 2022](2022-12-14-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã and Negócios | 2.0% | 1.4–2.9% | 1.3–3.1% | 1.1–3.3% | 0.9–3.8% |
 | [15–20 November 2022](2022-11-20-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã and Negócios | 2.6% | 2.0–3.7% | 1.8–4.0% | 1.6–4.3% | 1.4–4.8% |
-| [11–17 November 2022](2022-11-17-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 2.1% | N/A | N/A | N/A | N/A |
+| [11–17 November 2022](2022-11-17-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 2.1% | 1.5–2.9% | 1.4–3.1% | 1.3–3.3% | 1.1–3.7% |
 | [17–22 October 2022](2022-10-22-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã and Negócios | 2.6% | 2.0–3.7% | 1.8–4.0% | 1.6–4.3% | 1.4–4.8% |
 | [11–17 October 2022](2022-10-17-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 1.0% | 0.7–1.6% | 0.6–1.7% | 0.5–1.9% | 0.4–2.2% |
 | [21–24 September 2022](2022-09-24-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias | 2.1% | 1.6–2.9% | 1.4–3.1% | 1.3–3.3% | 1.1–3.8% |
@@ -185,10 +185,10 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 27% | 100% |  |
-| 0.5–1.5% | 14% | 73% | Last Result |
-| 1.5–2.5% | 43% | 58% | Median |
-| 2.5–3.5% | 14% | 15% |  |
+| 0.0–0.5% | 20% | 100% |  |
+| 0.5–1.5% | 13% | 80% | Last Result |
+| 1.5–2.5% | 50% | 66% | Median |
+| 2.5–3.5% | 16% | 17% |  |
 | 3.5–4.5% | 0.8% | 0.8% |  |
 | 4.5–5.5% | 0% | 0% |  |
 
@@ -204,7 +204,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [12–14 December 2022](2022-12-14-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã and Negócios | 0 | 0 | 0 | 0 | 0–1 |
 | [15–20 November 2022](2022-11-20-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã and Negócios | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| [11–17 November 2022](2022-11-17-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI |  |  |  |  |  |
+| [11–17 November 2022](2022-11-17-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 0 | 0 | 0 | 0 | 0 |
 | [17–22 October 2022](2022-10-22-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã and Negócios | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [11–17 October 2022](2022-10-17-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 0 | 0 | 0 | 0 | 0 |
 | [21–24 September 2022](2022-09-24-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias | 0 | 0 | 0 | 0 | 0 |
