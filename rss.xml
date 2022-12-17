@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/portuguese_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 25 Nov 2022 20:09:39 +0100</pubDate>
+    <pubDate>Sat, 17 Dec 2022 18:33:42 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Intercampus for CMTV, Correio da Manhã and Negócios, 12–14 December 2022 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2022-12-14-Intercampus.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Social Democrata (EPP): 5–7 seats&lt;/li&gt;&lt;li&gt;Partido Socialista (S&amp;amp;D): 7–9 seats&lt;/li&gt;&lt;li&gt;Bloco de Esquerda (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;CDS–Partido Popular (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;LIVRE (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Iniciativa Liberal (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Chega (ID): 2–3 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2022-12-14-Intercampus-seats.png"
+        length="276921"
+        type="image/png"/>
+      <pubDate>Sat, 17 Dec 2022 18:33:42 +0100</pubDate>
+      <dc:date>2022-12-17T18:33:42.149689+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Intercampus for CMTV, Correio da Manhã and Negócios, 12–14 December 2022 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2022-12-14-Intercampus.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2022-12-14-Intercampus-coalitions-seats.png"
+        length="197763"
+        type="image/png"/>
+      <pubDate>Sat, 17 Dec 2022 18:33:42 +0100</pubDate>
+      <dc:date>2022-12-17T18:33:42.149689+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Intercampus for CMTV, Correio da Manhã and Negócios, 12–14 December 2022 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2022-12-14-Intercampus.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Social Democrata (EPP): 22.3–29.0%&lt;/li&gt;&lt;li&gt;Partido Socialista (S&amp;amp;D): 27.8–34.9%&lt;/li&gt;&lt;li&gt;Bloco de Esquerda (GUE/NGL): 6.7–11.0%&lt;/li&gt;&lt;li&gt;CDS–Partido Popular (EPP): 1.4–3.7%&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária (GUE/NGL): 3.1–6.2%&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza (Greens/EFA): 2.1–4.8%&lt;/li&gt;&lt;li&gt;LIVRE (Greens/EFA): 1.1–3.3%&lt;/li&gt;&lt;li&gt;Iniciativa Liberal (RE): 6.7–11.0%&lt;/li&gt;&lt;li&gt;Chega (ID): 8.8–13.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2022-12-14-Intercampus.png"
+        length="333393"
+        type="image/png"/>
+      <pubDate>Sat, 17 Dec 2022 18:33:42 +0100</pubDate>
+      <dc:date>2022-12-17T18:33:42.149689+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Intercampus for CMTV, Correio da Manhã and Negócios, 15–20 November 2022 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2022-11-20-Intercampus.html#seats</link>
@@ -4539,6 +4569,6 @@
       <pubDate>Sun, 30 Jun 2019 15:14:32 +0200</pubDate>
       <dc:date>2019-06-30T15:14:32+02:00</dc:date>
     </item>
-    <dc:date>2022-11-25T20:09:39.165915+01:00</dc:date>
+    <dc:date>2022-12-17T18:33:42.149689+01:00</dc:date>
   </channel>
 </rss>
