@@ -10,7 +10,9 @@ Last result: **1.7%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.8% | 1.2–3.9% | 1.0–4.2% | 0.8–4.4% | 0.6–5.0% |
+| N/A | [Poll Average](average.html) | 2.8% | 0.6–3.9% | 0.5–4.2% | 0.4–4.4% | 0.3–5.0% |
+| [9–15 December 2022](2022-12-15-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 0.6% | 0.4–1.1% | 0.3–1.3% | 0.3–1.4% | 0.2–1.7% |
+| [3–15 December 2022](2022-12-15-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 3.0% | 2.3–3.9% | 2.1–4.1% | 2.0–4.4% | 1.7–4.9% |
 | [12–14 December 2022](2022-12-14-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã and Negócios | 3.2% | 2.5–4.2% | 2.2–4.5% | 2.1–4.8% | 1.8–5.4% |
 | [15–20 November 2022](2022-11-20-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã and Negócios | 2.6% | 2.0–3.7% | 1.8–4.0% | 1.6–4.3% | 1.4–4.8% |
 | [11–17 November 2022](2022-11-17-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 1.2% | 0.8–1.9% | 0.7–2.0% | 0.7–2.2% | 0.5–2.6% |
@@ -185,9 +187,9 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0.2% | 100% |  |
-| 0.5–1.5% | 18% | 99.8% |  |
-| 1.5–2.5% | 19% | 81% | Last Result |
+| 0.0–0.5% | 8% | 100% |  |
+| 0.5–1.5% | 17% | 92% |  |
+| 1.5–2.5% | 13% | 75% | Last Result |
 | 2.5–3.5% | 43% | 62% | Median |
 | 3.5–4.5% | 17% | 19% |  |
 | 4.5–5.5% | 2% | 2% |  |
@@ -204,6 +206,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [9–15 December 2022](2022-12-15-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 0 | 0 | 0 | 0 | 0 |
+| [3–15 December 2022](2022-12-15-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [12–14 December 2022](2022-12-14-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã and Negócios | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [15–20 November 2022](2022-11-20-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã and Negócios | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [11–17 November 2022](2022-11-17-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 0 | 0 | 0 | 0 | 0 |
