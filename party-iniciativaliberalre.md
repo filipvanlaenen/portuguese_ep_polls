@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.0% | 1.9–9.0% | 1.7–9.6% | 1.5–10.1% | 1.2–11.1% |
+| N/A | [Poll Average](average.html) | 5.3% | 1.8–9.3% | 1.6–9.9% | 1.4–10.3% | 1.2–11.2% |
 | [9–15 December 2022](2022-12-15-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 5.2% | 4.3–6.3% | 4.1–6.6% | 3.9–6.9% | 3.5–7.5% |
 | [3–15 December 2022](2022-12-15-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 2.0% | 1.5–2.8% | 1.3–3.0% | 1.2–3.2% | 1.0–3.6% |
 | [12–14 December 2022](2022-12-14-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã and Negócios | 8.6% | 7.3–10.2% | 7.0–10.6% | 6.7–11.0% | 6.1–11.8% |
@@ -188,18 +188,18 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 3% | 100% |  |
-| 1.5–2.5% | 17% | 97% |  |
-| 2.5–3.5% | 5% | 80% |  |
-| 3.5–4.5% | 4% | 75% |  |
-| 4.5–5.5% | 14% | 71% |  |
-| 5.5–6.5% | 16% | 57% | Median |
-| 6.5–7.5% | 14% | 41% |  |
-| 7.5–8.5% | 12% | 26% |  |
-| 8.5–9.5% | 9% | 14% |  |
-| 9.5–10.5% | 4% | 5% |  |
-| 10.5–11.5% | 1.1% | 1.3% |  |
-| 11.5–12.5% | 0.2% | 0.2% |  |
+| 0.5–1.5% | 4% | 100% |  |
+| 1.5–2.5% | 23% | 96% |  |
+| 2.5–3.5% | 6% | 73% |  |
+| 3.5–4.5% | 6% | 67% |  |
+| 4.5–5.5% | 16% | 61% | Median |
+| 5.5–6.5% | 11% | 45% |  |
+| 6.5–7.5% | 6% | 35% |  |
+| 7.5–8.5% | 11% | 29% |  |
+| 8.5–9.5% | 11% | 18% |  |
+| 9.5–10.5% | 5% | 7% |  |
+| 10.5–11.5% | 2% | 2% |  |
+| 11.5–12.5% | 0.2% | 0.3% |  |
 | 12.5–13.5% | 0% | 0% |  |
 
 
@@ -390,10 +390,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 26% | 100% | Last Result |
-| 1 | 50% | 74% | Median |
-| 2 | 24% | 24% |  |
-| 3 | 0.2% | 0.2% |  |
+| 0 | 34% | 100% | Last Result |
+| 1 | 38% | 66% | Median |
+| 2 | 28% | 28% |  |
+| 3 | 0.3% | 0.3% |  |
 | 4 | 0% | 0% |  |
 
 

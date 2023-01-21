@@ -10,7 +10,7 @@ Last result: **27.7%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 29.3% | 25.1–32.1% | 24.1–32.8% | 23.4–33.4% | 22.2–34.5% |
+| N/A | [Poll Average](average.html) | 28.6% | 24.6–31.5% | 23.8–32.3% | 23.2–32.9% | 22.0–34.0% |
 | [9–15 December 2022](2022-12-15-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 30.4% | 28.4–32.5% | 27.9–33.1% | 27.4–33.7% | 26.5–34.7% |
 | [3–15 December 2022](2022-12-15-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 28.8% | 26.8–30.9% | 26.3–31.5% | 25.8–32.0% | 24.9–33.0% |
 | [12–14 December 2022](2022-12-14-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã and Negócios | 25.5% | 23.4–27.8% | 22.8–28.4% | 22.3–29.0% | 21.4–30.1% |
@@ -189,22 +189,21 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 19.5–20.5% | 0% | 100% |  |
 | 20.5–21.5% | 0.2% | 100% |  |
-| 21.5–22.5% | 0.7% | 99.8% |  |
-| 22.5–23.5% | 2% | 99.1% |  |
-| 23.5–24.5% | 4% | 97% |  |
-| 24.5–25.5% | 6% | 93% |  |
-| 25.5–26.5% | 7% | 87% |  |
-| 26.5–27.5% | 8% | 80% |  |
-| 27.5–28.5% | 11% | 72% | Last Result |
-| 28.5–29.5% | 14% | 61% | Median |
-| 29.5–30.5% | 16% | 46% |  |
-| 30.5–31.5% | 14% | 30% |  |
-| 31.5–32.5% | 9% | 16% |  |
-| 32.5–33.5% | 4% | 7% |  |
-| 33.5–34.5% | 2% | 2% |  |
-| 34.5–35.5% | 0.4% | 0.5% |  |
-| 35.5–36.5% | 0.1% | 0.1% |  |
-| 36.5–37.5% | 0% | 0% |  |
+| 21.5–22.5% | 0.9% | 99.8% |  |
+| 22.5–23.5% | 3% | 98.8% |  |
+| 23.5–24.5% | 6% | 96% |  |
+| 24.5–25.5% | 8% | 91% |  |
+| 25.5–26.5% | 9% | 83% |  |
+| 26.5–27.5% | 11% | 73% |  |
+| 27.5–28.5% | 13% | 63% | Last Result |
+| 28.5–29.5% | 15% | 50% | Median |
+| 29.5–30.5% | 14% | 35% |  |
+| 30.5–31.5% | 11% | 21% |  |
+| 31.5–32.5% | 6% | 10% |  |
+| 32.5–33.5% | 3% | 4% |  |
+| 33.5–34.5% | 0.8% | 1.0% |  |
+| 34.5–35.5% | 0.2% | 0.2% |  |
+| 35.5–36.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -215,7 +214,7 @@ Last result: **6** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 6–8 | 6–8 | 5–8 | 5–9 |
+| N/A | [Poll Average](average.html) | 7 | 6–7 | 6–8 | 5–8 | 5–8 |
 | [9–15 December 2022](2022-12-15-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 7 | 7–8 | 6–8 | 6–8 | 6–8 |
 | [3–15 December 2022](2022-12-15-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 7 | 6–7 | 6–7 | 6–8 | 6–8 |
 | [12–14 December 2022](2022-12-14-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã and Negócios | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
@@ -394,11 +393,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 5 | 3% | 100% |  |
-| 6 | 28% | 97% | Last Result |
-| 7 | 48% | 69% | Median |
-| 8 | 19% | 20% |  |
-| 9 | 1.0% | 1.0% |  |
+| 5 | 4% | 100% |  |
+| 6 | 37% | 96% | Last Result |
+| 7 | 51% | 59% | Median |
+| 8 | 8% | 8% |  |
+| 9 | 0.1% | 0.1% |  |
 | 10 | 0% | 0% |  |
 
 
