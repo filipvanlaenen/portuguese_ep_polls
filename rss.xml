@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/portuguese_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 20 Feb 2023 19:01:18 +0100</pubDate>
+    <pubDate>Thu, 23 Feb 2023 21:47:58 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by CESOP–UCP for Público and RTP, 9–17 February 2023 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2023-02-17-CESOP–UCP.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Social Democrata (EPP): 7–8 seats&lt;/li&gt;&lt;li&gt;Partido Socialista (S&amp;amp;D): 7–9 seats&lt;/li&gt;&lt;li&gt;Bloco de Esquerda (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;CDS–Partido Popular (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;LIVRE (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Iniciativa Liberal (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Chega (ID): 2–3 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2023-02-17-CESOP–UCP-seats.png"
+        length="254344"
+        type="image/png"/>
+      <pubDate>Thu, 23 Feb 2023 21:47:58 +0100</pubDate>
+      <dc:date>2023-02-23T21:47:58.237411+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by CESOP–UCP for Público and RTP, 9–17 February 2023 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2023-02-17-CESOP–UCP.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2023-02-17-CESOP–UCP-coalitions-seats.png"
+        length="171843"
+        type="image/png"/>
+      <pubDate>Thu, 23 Feb 2023 21:47:58 +0100</pubDate>
+      <dc:date>2023-02-23T21:47:58.237411+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by CESOP–UCP for Público and RTP, 9–17 February 2023 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2023-02-17-CESOP–UCP.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Social Democrata (EPP): 28.2–34.0%&lt;/li&gt;&lt;li&gt;Partido Socialista (S&amp;amp;D): 29.2–35.0%&lt;/li&gt;&lt;li&gt;Bloco de Esquerda (GUE/NGL): 5.6–8.7%&lt;/li&gt;&lt;li&gt;CDS–Partido Popular (EPP): 0.5–1.8%&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária (GUE/NGL): 2.9–5.4%&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza (Greens/EFA): 1.3–3.1%&lt;/li&gt;&lt;li&gt;LIVRE (Greens/EFA): 1.3–3.1%&lt;/li&gt;&lt;li&gt;Iniciativa Liberal (RE): 6.5–9.8%&lt;/li&gt;&lt;li&gt;Chega (ID): 9.2–13.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2023-02-17-CESOP–UCP.png"
+        length="310970"
+        type="image/png"/>
+      <pubDate>Thu, 23 Feb 2023 21:47:58 +0100</pubDate>
+      <dc:date>2023-02-23T21:47:58.237411+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Intercampus for CMTV, Correio da Manhã and Negócios, 3–10 February 2023 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2023-02-10-Intercampus.html#seats</link>
@@ -4779,6 +4809,6 @@
       <pubDate>Sun, 30 Jun 2019 15:14:32 +0200</pubDate>
       <dc:date>2019-06-30T15:14:32+02:00</dc:date>
     </item>
-    <dc:date>2023-02-20T19:01:18.812313+01:00</dc:date>
+    <dc:date>2023-02-23T21:47:58.237411+01:00</dc:date>
   </channel>
 </rss>
