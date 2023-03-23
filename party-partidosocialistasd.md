@@ -11,6 +11,7 @@ Last result: **31.5%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 30.5% | 26.9–33.3% | 26.1–34.0% | 25.5–34.5% | 24.3–35.6% |
+| [9–15 March 2023](2023-03-15-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã and Negócios | 28.4% | 26.1–30.8% | 25.5–31.5% | 25.0–32.1% | 23.9–33.3% |
 | [9–17 February 2023](2023-02-17-CESOP–UCP.html) | CESOP–UCP <br> Público and RTP | 32.0% | 30.2–34.0% | 29.7–34.5% | 29.2–35.0% | 28.3–35.9% |
 | [3–10 February 2023](2023-02-10-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã and Negócios | 28.4% | 26.1–30.8% | 25.5–31.6% | 24.9–32.1% | 23.9–33.3% |
 | [11–17 January 2023](2023-01-17-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 26.9% | 25.0–29.0% | 24.5–29.6% | 24.0–30.1% | 23.1–31.1% |
@@ -199,8 +200,8 @@ The following table shows the probability mass function per percentage block of 
 | 25.5–26.5% | 5% | 97% |  |
 | 26.5–27.5% | 8% | 93% |  |
 | 27.5–28.5% | 11% | 84% |  |
-| 28.5–29.5% | 12% | 74% |  |
-| 29.5–30.5% | 13% | 62% | Median |
+| 28.5–29.5% | 12% | 73% |  |
+| 29.5–30.5% | 13% | 61% | Median |
 | 30.5–31.5% | 15% | 49% | Last Result |
 | 31.5–32.5% | 15% | 34% |  |
 | 32.5–33.5% | 11% | 19% |  |
@@ -220,6 +221,7 @@ Last result: **8** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 7 | 6–8 | 6–8 | 6–9 | 6–9 |
+| [9–15 March 2023](2023-03-15-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã and Negócios | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
 | [9–17 February 2023](2023-02-17-CESOP–UCP.html) | CESOP–UCP <br> Público and RTP | 8 | 7–8 | 7–9 | 7–9 | 7–9 |
 | [3–10 February 2023](2023-02-10-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã and Negócios | 7 | 6–7 | 6–8 | 6–8 | 5–8 |
 | [11–17 January 2023](2023-01-17-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 6 | 6–7 | 6–7 | 5–7 | 5–7 |
@@ -403,10 +405,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 5 | 0.3% | 100% |  |
-| 6 | 15% | 99.7% |  |
-| 7 | 44% | 85% | Median |
-| 8 | 38% | 41% | Last Result |
+| 5 | 0.2% | 100% |  |
+| 6 | 10% | 99.8% |  |
+| 7 | 45% | 90% | Median |
+| 8 | 41% | 45% | Last Result |
 | 9 | 3% | 3% |  |
 | 10 | 0% | 0% |  |
 
