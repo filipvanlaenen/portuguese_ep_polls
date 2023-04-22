@@ -10,7 +10,9 @@ Last result: **27.7%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 29.4% | 25.8–32.3% | 25.0–33.0% | 24.4–33.5% | 23.3–34.5% |
+| N/A | [Poll Average](average.html) | 28.6% | 25.4–31.5% | 24.5–32.2% | 23.9–32.7% | 22.7–33.9% |
+| [6–12 April 2023](2023-04-12-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã and Negócios | 26.9% | 24.5–29.4% | 23.9–30.1% | 23.3–30.8% | 22.2–32.0% |
+| [11–20 March 2023](2023-03-20-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 30.0% | 28.0–32.1% | 27.4–32.7% | 26.9–33.2% | 26.0–34.3% |
 | [9–15 March 2023](2023-03-15-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã and Negócios | 27.2% | 25.0–29.6% | 24.4–30.3% | 23.9–30.9% | 22.8–32.1% |
 | [9–17 February 2023](2023-02-17-CESOP–UCP.html) | CESOP–UCP <br> Público and RTP | 31.0% | 29.2–33.0% | 28.7–33.5% | 28.2–34.0% | 27.4–34.9% |
 | [3–10 February 2023](2023-02-10-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã and Negócios | 27.6% | 25.3–30.0% | 24.7–30.7% | 24.1–31.3% | 23.1–32.5% |
@@ -193,23 +195,23 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 20.5–21.5% | 0% | 100% |  |
-| 21.5–22.5% | 0.1% | 100% |  |
-| 22.5–23.5% | 0.6% | 99.8% |  |
-| 23.5–24.5% | 2% | 99.2% |  |
-| 24.5–25.5% | 5% | 97% |  |
-| 25.5–26.5% | 9% | 92% |  |
-| 26.5–27.5% | 11% | 83% |  |
-| 27.5–28.5% | 12% | 72% | Last Result |
-| 28.5–29.5% | 12% | 60% | Median |
-| 29.5–30.5% | 14% | 48% |  |
-| 30.5–31.5% | 15% | 34% |  |
-| 31.5–32.5% | 11% | 19% |  |
-| 32.5–33.5% | 6% | 8% |  |
-| 33.5–34.5% | 2% | 2% |  |
-| 34.5–35.5% | 0.4% | 0.5% |  |
-| 35.5–36.5% | 0.1% | 0.1% |  |
-| 36.5–37.5% | 0% | 0% |  |
+| 19.5–20.5% | 0% | 100% |  |
+| 20.5–21.5% | 0.1% | 100% |  |
+| 21.5–22.5% | 0.3% | 99.9% |  |
+| 22.5–23.5% | 1.2% | 99.6% |  |
+| 23.5–24.5% | 3% | 98% |  |
+| 24.5–25.5% | 7% | 95% |  |
+| 25.5–26.5% | 10% | 88% |  |
+| 26.5–27.5% | 13% | 78% |  |
+| 27.5–28.5% | 14% | 66% | Last Result |
+| 28.5–29.5% | 16% | 51% | Median |
+| 29.5–30.5% | 15% | 35% |  |
+| 30.5–31.5% | 11% | 20% |  |
+| 31.5–32.5% | 6% | 9% |  |
+| 32.5–33.5% | 2% | 3% |  |
+| 33.5–34.5% | 0.7% | 0.8% |  |
+| 34.5–35.5% | 0.1% | 0.2% |  |
+| 35.5–36.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -220,7 +222,9 @@ Last result: **6** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
+| N/A | [Poll Average](average.html) | 7 | 6–7 | 6–8 | 6–8 | 5–8 |
+| [6–12 April 2023](2023-04-12-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã and Negócios | 6 | 6–7 | 6–7 | 5–7 | 5–8 |
+| [11–20 March 2023](2023-03-20-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 7 | 7–8 | 6–8 | 6–8 | 6–8 |
 | [9–15 March 2023](2023-03-15-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã and Negócios | 6 | 6–7 | 6–7 | 6–8 | 5–8 |
 | [9–17 February 2023](2023-02-17-CESOP–UCP.html) | CESOP–UCP <br> Público and RTP | 8 | 7–8 | 7–8 | 7–8 | 6–9 |
 | [3–10 February 2023](2023-02-10-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã and Negócios | 6 | 6–7 | 6–7 | 6–7 | 5–8 |
@@ -405,11 +409,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 5 | 0.9% | 100% |  |
-| 6 | 30% | 99.1% | Last Result |
-| 7 | 41% | 69% | Median |
-| 8 | 28% | 28% |  |
-| 9 | 0.5% | 0.5% |  |
+| 5 | 2% | 100% |  |
+| 6 | 34% | 98% | Last Result |
+| 7 | 54% | 64% | Median |
+| 8 | 9% | 9% |  |
+| 9 | 0.1% | 0.1% |  |
 | 10 | 0% | 0% |  |
 
 
