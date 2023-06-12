@@ -5,9 +5,8 @@ The table below lists the most recent polls (less than 30 days old) registered a
 | Period     | Polling firm/Commissioner(s) | PS | PSD | CDS–PP | CDU | BE | PAN | L | IL | A | CH |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 31.5% <br> 8 | 27.7% <br> 6 | 27.7% <br> 1 | 12.7% <br> 3 | 4.6% <br> 1 | 1.7% <br> 0 | 0.7% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 23–31% <br> 5–8 | 23–31% <br> 5–8 | 1–3% <br> 0 | 2–6% <br> 0–1 | 5–12% <br> 1–3 | 2–6% <br> 0–1 | 2–4% <br> 0–1 | 5–10% <br> 1–2 | N/A <br> N/A | 10–17% <br> 2–4 |
-| [4–5 May 2023](2023-05-05-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã and Negócios | 22–29% <br> 5–7 | 22–29% <br> 5–7 | 1–3% <br> 0 | 3–6% <br> 0–1 | 7–12% <br> 1–3 | 2–4% <br> 0–1 | 1–4% <br> 0–1 | 6–11% <br> 1–2 | N/A <br> N/A | 12–18% <br> 3–4 |
-| [10–14 April 2023](2023-04-14-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias | 25–32% <br> 6–8 | 26–32% <br> 6–8 | 1–2% <br> 0 | 2–5% <br> 0–1 | 5–8% <br> 1–2 | 3–6% <br> 0–1 | 2–4% <br> 0–1 | 5–8% <br> 1–2 | N/A <br> N/A | 10–14% <br> 2–3 |
+| N/A | [Poll Average](average.html) | 21–28% <br> 5–7 | 23–30% <br> 5–7 | 2–4% <br> 0–1 | 3–6% <br> 0–1 | 8–13% <br> 2–3 | 3–6% <br> 0–1 | 2–4% <br> 0–1 | 7–11% <br> 1–2 | N/A <br> N/A | 10–16% <br> 2–4 |
+| [25–31 May 2023](2023-05-31-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã and Negócios | 21–28% <br> 5–7 | 23–30% <br> 5–7 | 1–4% <br> 0–1 | 3–6% <br> 0–1 | 8–13% <br> 2–3 | 3–6% <br> 0–1 | 1–4% <br> 0–1 | 7–11% <br> 1–2 | N/A <br> N/A | 11–16% <br> 2–4 |
 | 26 May 2019 | General Election | 31.5% <br> 8 | 27.7% <br> 6 | 27.7% <br> 1 | 12.7% <br> 3 | 4.6% <br> 1 | 1.7% <br> 0 | 0.7% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
