@@ -5,8 +5,9 @@ The table below lists the most recent polls (less than 30 days old) registered a
 | Period     | Polling firm/Commissioner(s) | PS | PSD | CDS–PP | CDU | BE | PAN | L | IL | A | CH |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 31.5% <br> 8 | 27.7% <br> 6 | 27.7% <br> 1 | 12.7% <br> 3 | 4.6% <br> 1 | 1.7% <br> 0 | 0.7% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 21–28% <br> 5–7 | 23–30% <br> 5–7 | 2–4% <br> 0–1 | 3–6% <br> 0–1 | 8–13% <br> 2–3 | 3–6% <br> 0–1 | 2–4% <br> 0–1 | 7–11% <br> 1–2 | N/A <br> N/A | 10–16% <br> 2–4 |
+| N/A | [Poll Average](average.html) | 22–33% <br> 5–8 | 24–32% <br> 5–8 | 1–4% <br> 0 | 3–6% <br> 0–1 | 4–12% <br> 1–3 | 1–6% <br> 0–1 | 1–4% <br> 0 | 3–11% <br> 0–2 | N/A <br> N/A | 11–16% <br> 2–3 |
 | [25–31 May 2023](2023-05-31-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã and Negócios | 21–28% <br> 5–7 | 23–30% <br> 5–7 | 1–4% <br> 0–1 | 3–6% <br> 0–1 | 8–13% <br> 2–3 | 3–6% <br> 0–1 | 1–4% <br> 0–1 | 7–11% <br> 1–2 | N/A <br> N/A | 11–16% <br> 2–4 |
+| [13–28 May 2023](2023-05-28-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 28–34% <br> 7–8 | 27–33% <br> 6–8 | 1–2% <br> 0 | 4–6% <br> 0–1 | 4–6% <br> 0–1 | 1–3% <br> 0 | 1–2% <br> 0 | 3–5% <br> 0–1 | N/A <br> N/A | 11–15% <br> 2–3 |
 | 26 May 2019 | General Election | 31.5% <br> 8 | 27.7% <br> 6 | 27.7% <br> 1 | 12.7% <br> 3 | 4.6% <br> 1 | 1.7% <br> 0 | 0.7% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
