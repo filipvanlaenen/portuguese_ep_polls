@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/portuguese_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 12 Jun 2023 18:13:33 +0200</pubDate>
+    <pubDate>Fri, 23 Jun 2023 20:24:34 +0200</pubDate>
     <item>
       <title>Opinion Poll by Intercampus for CMTV, Correio da Manhã and Negócios, 25–31 May 2023 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2023-05-31-Intercampus.html#seats</link>
@@ -38,6 +38,36 @@
         type="image/png"/>
       <pubDate>Mon, 12 Jun 2023 18:13:33 +0200</pubDate>
       <dc:date>2023-06-12T18:13:33.469202+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by ICS/ISCTE for Expresso and SIC Notícias, 13–28 May 2023 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2023-05-28-ICSISCTE.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Social Democrata (EPP): 6–8 seats&lt;/li&gt;&lt;li&gt;Partido Socialista (S&amp;amp;D): 7–8 seats&lt;/li&gt;&lt;li&gt;Bloco de Esquerda (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;CDS–Partido Popular (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;LIVRE (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Iniciativa Liberal (RE): 0–1 seats&lt;/li&gt;&lt;li&gt;Chega (ID): 2–3 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2023-05-28-ICSISCTE-seats.png"
+        length="279408"
+        type="image/png"/>
+      <pubDate>Fri, 23 Jun 2023 20:24:34 +0200</pubDate>
+      <dc:date>2023-06-23T20:24:34.445206+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by ICS/ISCTE for Expresso and SIC Notícias, 13–28 May 2023 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2023-05-28-ICSISCTE.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2023-05-28-ICSISCTE-coalitions-seats.png"
+        length="183029"
+        type="image/png"/>
+      <pubDate>Fri, 23 Jun 2023 20:24:34 +0200</pubDate>
+      <dc:date>2023-06-23T20:24:34.445206+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by ICS/ISCTE for Expresso and SIC Notícias, 13–28 May 2023 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2023-05-28-ICSISCTE.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Social Democrata (EPP): 27.5–32.6%&lt;/li&gt;&lt;li&gt;Partido Socialista (S&amp;amp;D): 28.4–33.7%&lt;/li&gt;&lt;li&gt;Bloco de Esquerda (GUE/NGL): 3.9–6.4%&lt;/li&gt;&lt;li&gt;CDS–Partido Popular (EPP): 0.6–1.7%&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária (GUE/NGL): 3.9–6.4%&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza (Greens/EFA): 1.3–3.0%&lt;/li&gt;&lt;li&gt;LIVRE (Greens/EFA): 0.6–1.7%&lt;/li&gt;&lt;li&gt;Iniciativa Liberal (RE): 3.0–5.3%&lt;/li&gt;&lt;li&gt;Chega (ID): 11.2–15.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2023-05-28-ICSISCTE.png"
+        length="305267"
+        type="image/png"/>
+      <pubDate>Fri, 23 Jun 2023 20:24:34 +0200</pubDate>
+      <dc:date>2023-06-23T20:24:34.445206+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Intercampus for CMTV, Correio da Manhã and Negócios, 4–5 May 2023 – Seat Projections for the Parties</title>
@@ -4989,6 +5019,6 @@
       <pubDate>Sun, 30 Jun 2019 15:14:32 +0200</pubDate>
       <dc:date>2019-06-30T15:14:32+02:00</dc:date>
     </item>
-    <dc:date>2023-06-12T18:13:33.469202+02:00</dc:date>
+    <dc:date>2023-06-23T20:24:34.445206+02:00</dc:date>
   </channel>
 </rss>
