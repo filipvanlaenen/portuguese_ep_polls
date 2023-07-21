@@ -5,6 +5,8 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | PS | PSD | CDS–PP | CDU | BE | PAN | L | IL | A | CH |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 31.5% <br> 8 | 27.7% <br> 6 | 27.7% <br> 1 | 12.7% <br> 3 | 4.6% <br> 1 | 1.7% <br> 0 | 0.7% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| [6–15 July 2023](2023-07-15-CESOP–UCP.html) | CESOP–UCP <br> Público and RTP | 29–35% <br> 7–9 | 30–36% <br> 7–9 | 1–2% <br> 0 | 3–5% <br> 0–1 | 6–9% <br> 1–2 | 1–2% <br> 0 | 1–3% <br> 0 | 6–9% <br> 1–2 | N/A <br> N/A | 8–12% <br> 2–3 |
+| [3–6 July 2023](2023-07-06-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã and Negócios | 22–29% <br> 5–7 | 21–28% <br> 5–7 | 1–2% <br> 0 | 3–7% <br> 0–1 | 7–12% <br> 1–3 | 3–7% <br> 0–1 | 2–4% <br> 0–1 | 8–12% <br> 1–3 | N/A <br> N/A | 11–17% <br> 2–4 |
 | [1–21 June 2023](2023-06-21-CESOP–UCP.html) | CESOP–UCP | 30–34% <br> 7–8 | 33–38% <br> 8–9 | 1–2% <br> 0 | 2–4% <br> 0–1 | 5–7% <br> 1 | 1–2% <br> 0 | 1–2% <br> 0 | 5–7% <br> 1 | N/A <br> N/A | 8–11% <br> 1–2 |
 | [25–31 May 2023](2023-05-31-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã and Negócios | 21–28% <br> 5–7 | 23–30% <br> 5–7 | 1–4% <br> 0–1 | 3–6% <br> 0–1 | 8–13% <br> 2–3 | 3–6% <br> 0–1 | 1–4% <br> 0–1 | 7–11% <br> 1–2 | N/A <br> N/A | 11–16% <br> 2–4 |
 | [13–28 May 2023](2023-05-28-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 28–34% <br> 7–8 | 27–33% <br> 6–8 | 1–2% <br> 0 | 4–6% <br> 0–1 | 4–6% <br> 0–1 | 1–3% <br> 0 | 1–2% <br> 0 | 3–5% <br> 0–1 | N/A <br> N/A | 11–15% <br> 2–3 |
