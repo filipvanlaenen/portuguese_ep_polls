@@ -10,7 +10,8 @@ Last result: **27.7%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 27.9% | 23.7–33.8% | 22.9–34.6% | 22.2–35.2% | 21.0–36.3% |
+| N/A | [Poll Average](average.html) | 30.2% | 25.1–34.3% | 24.3–34.9% | 23.7–35.5% | 22.5–36.5% |
+| [7–11 August 2023](2023-08-11-Intercampus.html) | Intercampus <br> CMTV | 26.5% | 24.3–28.9% | 23.7–29.6% | 23.2–30.2% | 22.1–31.4% |
 | [6–15 July 2023](2023-07-15-CESOP–UCP.html) | CESOP–UCP <br> Público and RTP | 33.0% | 31.1–34.9% | 30.6–35.5% | 30.2–36.0% | 29.3–36.9% |
 | [6–11 July 2023](2023-07-11-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias | 27.8% | 25.8–29.9% | 25.2–30.4% | 24.8–31.0% | 23.8–32.0% |
 | [3–6 July 2023](2023-07-06-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã and Negócios | 24.6% | 22.4–26.9% | 21.8–27.5% | 21.3–28.1% | 20.4–29.2% |
@@ -114,7 +115,7 @@ Last result: **27.7%** (General Election of 26 May 2019)
 | [29 December 2020–10 January 2021](2021-01-10-Pitagórica.html) | Pitagórica <br> Observador and TVI | 28.0% | 25.8–30.4% | 25.1–31.0% | 24.6–31.6% | 23.6–32.8% |
 | [4–7 January 2021](2021-01-07-Intercampus.html) | Intercampus | 24.0% | 21.9–26.4% | 21.3–27.1% | 20.8–27.6% | 19.8–28.8% |
 | [22 December 2020–3 January 2021](2021-01-03-Pitagórica.html) | Pitagórica <br> Observador and TVI | 26.2% | 24.1–28.6% | 23.5–29.2% | 22.9–29.8% | 21.9–31.0% |
-| [17–27 December 2020](2020-12-27-Pitagórica.html) | Pitagórica <br> Observador and TVI | 28.0% | 25.8–30.4% | 25.1–31.0% | 24.6–31.6% | 23.6–32.8% |
+| [17–27 December 2020](2020-12-27-Pitagórica.html) | Pitagórica <br> Observador and TVI | 27.8% | 25.8–30.4% | 25.1–31.0% | 24.6–31.6% | 23.6–32.8% |
 | [19–22 December 2020](2020-12-22-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias | 25.4% | 23.5–27.4% | 23.0–28.0% | 22.5–28.5% | 21.6–29.5% |
 | [17–20 December 2020](2020-12-20-Pitagórica.html) | Pitagórica <br> Observador and TVI | 28.5% | 26.2–30.8% | 25.6–31.5% | 25.1–32.1% | 24.0–33.3% |
 | [14–18 December 2020](2020-12-18-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 23.5% | 21.4–25.9% | 20.8–26.5% | 20.3–27.1% | 19.4–28.2% |
@@ -125,10 +126,10 @@ Last result: **27.7%** (General Election of 26 May 2019)
 | [11–25 November 2020](2020-11-25-ICSISCTE.html) | ICS/ISCTE | 25.1% | 23.2–27.1% | 22.6–27.7% | 22.2–28.2% | 21.3–29.2% |
 | [9–16 November 2020](2020-11-16-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 24.1% | 22.0–26.4% | 21.4–27.1% | 20.9–27.6% | 19.9–28.8% |
 | [2–5 November 2020](2020-11-05-Eurosondagem.html) | Eurosondagem <br> Porto Canal and Sol | 29.7% | 27.9–31.6% | 27.4–32.1% | 26.9–32.6% | 26.1–33.5% |
-| [22–26 October 2020](2020-10-26-Aximage.html) | Aximage | 27.1% | 25.0–29.3% | 24.4–30.0% | 23.9–30.5% | 22.9–31.6% |
+| [22–26 October 2020](2020-10-26-Aximage.html) | Aximage | 26.9% | 25.0–29.3% | 24.4–30.0% | 23.9–30.5% | 22.9–31.6% |
 | [6–11 October 2020](2020-10-11-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 24.8% | 22.6–27.1% | 22.0–27.7% | 21.5–28.3% | 20.5–29.5% |
 | [5–8 October 2020](2020-10-08-Eurosondagem.html) | Eurosondagem | 29.0% | 27.2–30.9% | 26.7–31.4% | 26.3–31.9% | 25.5–32.8% |
-| [14–24 September 2020](2020-09-24-ICSISCTE.html) | ICS/ISCTE | 27.2% | 25.3–29.3% | 24.7–29.9% | 24.2–30.4% | 23.3–31.4% |
+| [14–24 September 2020](2020-09-24-ICSISCTE.html) | ICS/ISCTE | 27.0% | 25.3–29.3% | 24.7–29.9% | 24.2–30.4% | 23.3–31.4% |
 | [12–15 September 2020](2020-09-15-Aximage.html) | Aximage | 23.9% | 21.7–26.2% | 21.2–26.9% | 20.6–27.5% | 19.7–28.6% |
 | [7–10 September 2020](2020-09-10-Eurosondagem.html) | Eurosondagem | 28.2% | 26.4–30.0% | 25.9–30.6% | 25.5–31.0% | 24.7–31.9% |
 | [4–9 September 2020](2020-09-09-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 24.3% | 22.1–26.6% | 21.6–27.3% | 21.0–27.8% | 20.1–29.0% |
@@ -173,10 +174,10 @@ Last result: **27.7%** (General Election of 26 May 2019)
 | [23–29 September 2019](2019-09-29-GfKMetris.html) | GfK Metris <br> Expresso and SIC Notícias | 28.4% | 26.9–30.1% | 26.4–30.5% | 26.0–30.9% | 25.3–31.7% |
 | [26–29 September 2019](2019-09-29-CESOP–UCP.html) | CESOP–UCP <br> Público and RTP | 29.7% | 28.7–30.7% | 28.4–31.0% | 28.1–31.3% | 27.6–31.8% |
 | [25–28 September 2019](2019-09-28-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 27.7% | 25.4–30.1% | 24.8–30.8% | 24.2–31.4% | 23.2–32.6% |
-| [24–27 September 2019](2019-09-27-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 26.5% | 24.3–28.9% | 23.7–29.6% | 23.1–30.2% | 22.1–31.4% |
+| [24–27 September 2019](2019-09-27-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 26.3% | 24.3–28.9% | 23.7–29.6% | 23.1–30.2% | 22.1–31.4% |
 | [23–26 September 2019](2019-09-26-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 26.7% | 24.4–29.1% | 23.8–29.8% | 23.3–30.4% | 22.3–31.5% |
 | [22–25 September 2019](2019-09-25-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 26.8% | 24.6–29.2% | 24.0–29.9% | 23.4–30.5% | 22.4–31.7% |
-| [21–25 September 2019](2019-09-25-Aximage.html) | Aximage <br> Jornal Económico | 25.2% | 23.0–27.5% | 22.4–28.2% | 21.9–28.8% | 20.9–30.0% |
+| [21–25 September 2019](2019-09-25-Aximage.html) | Aximage <br> Jornal Económico | 25.1% | 23.0–27.5% | 22.4–28.2% | 21.9–28.8% | 20.9–30.0% |
 | [21–24 September 2019](2019-09-24-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 27.0% | 24.8–29.4% | 24.1–30.1% | 23.6–30.7% | 22.6–31.9% |
 | [20–23 September 2019](2019-09-23-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 28.5% | 26.2–31.0% | 25.6–31.6% | 25.0–32.3% | 24.0–33.4% |
 | [19–22 September 2019](2019-09-22-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 27.7% | 25.4–30.1% | 24.8–30.8% | 24.2–31.4% | 23.2–32.6% |
@@ -203,26 +204,25 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 18.5–19.5% | 0% | 100% |  |
-| 19.5–20.5% | 0.2% | 100% |  |
-| 20.5–21.5% | 0.9% | 99.8% |  |
-| 21.5–22.5% | 3% | 98.9% |  |
-| 22.5–23.5% | 5% | 96% |  |
-| 23.5–24.5% | 8% | 91% |  |
-| 24.5–25.5% | 9% | 83% |  |
-| 25.5–26.5% | 10% | 74% |  |
-| 26.5–27.5% | 10% | 64% |  |
-| 27.5–28.5% | 9% | 54% | Last Result, Median |
-| 28.5–29.5% | 7% | 44% |  |
-| 29.5–30.5% | 4% | 38% |  |
-| 30.5–31.5% | 5% | 33% |  |
-| 31.5–32.5% | 8% | 28% |  |
-| 32.5–33.5% | 9% | 21% |  |
-| 33.5–34.5% | 7% | 12% |  |
-| 34.5–35.5% | 4% | 5% |  |
-| 35.5–36.5% | 1.2% | 2% |  |
-| 36.5–37.5% | 0.3% | 0.3% |  |
-| 37.5–38.5% | 0% | 0% |  |
+| 19.5–20.5% | 0% | 100% |  |
+| 20.5–21.5% | 0.1% | 100% |  |
+| 21.5–22.5% | 0.4% | 99.9% |  |
+| 22.5–23.5% | 2% | 99.5% |  |
+| 23.5–24.5% | 4% | 98% |  |
+| 24.5–25.5% | 8% | 94% |  |
+| 25.5–26.5% | 11% | 86% |  |
+| 26.5–27.5% | 11% | 75% |  |
+| 27.5–28.5% | 8% | 65% | Last Result |
+| 28.5–29.5% | 5% | 57% |  |
+| 29.5–30.5% | 4% | 52% | Median |
+| 30.5–31.5% | 6% | 49% |  |
+| 31.5–32.5% | 11% | 42% |  |
+| 32.5–33.5% | 13% | 31% |  |
+| 33.5–34.5% | 10% | 18% |  |
+| 34.5–35.5% | 5% | 8% |  |
+| 35.5–36.5% | 2% | 2% |  |
+| 36.5–37.5% | 0.4% | 0.5% |  |
+| 37.5–38.5% | 0.1% | 0.1% |  |
 | 38.5–39.5% | 0% | 0% |  |
 
 
@@ -234,7 +234,8 @@ Last result: **6** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 5–8 | 5–8 | 5–9 | 5–9 |
+| N/A | [Poll Average](average.html) | 7 | 6–8 | 6–9 | 6–9 | 5–9 |
+| [7–11 August 2023](2023-08-11-Intercampus.html) | Intercampus <br> CMTV | 6 | 6–7 | 6–7 | 5–7 | 5–8 |
 | [6–15 July 2023](2023-07-15-CESOP–UCP.html) | CESOP–UCP <br> Público and RTP | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
 | [6–11 July 2023](2023-07-11-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias | 7 | 6–7 | 6–7 | 6–8 | 6–8 |
 | [3–6 July 2023](2023-07-06-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã and Negócios | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
@@ -429,12 +430,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 0.1% | 100% |  |
-| 5 | 10% | 99.9% |  |
-| 6 | 34% | 90% | Last Result |
-| 7 | 25% | 56% | Median |
-| 8 | 27% | 31% |  |
-| 9 | 4% | 4% |  |
+| 5 | 2% | 100% |  |
+| 6 | 30% | 98% | Last Result |
+| 7 | 23% | 68% | Median |
+| 8 | 39% | 45% |  |
+| 9 | 6% | 6% |  |
 | 10 | 0% | 0% |  |
 
 

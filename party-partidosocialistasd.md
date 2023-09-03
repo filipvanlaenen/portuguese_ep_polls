@@ -10,7 +10,8 @@ Last result: **31.5%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 28.8% | 24.3–32.8% | 23.5–33.6% | 22.8–34.2% | 21.6–35.3% |
+| N/A | [Poll Average](average.html) | 30.2% | 26.4–33.3% | 25.6–33.9% | 25.0–34.5% | 23.8–35.5% |
+| [7–11 August 2023](2023-08-11-Intercampus.html) | Intercampus <br> CMTV | 27.8% | 25.6–30.3% | 25.0–31.0% | 24.4–31.6% | 23.4–32.7% |
 | [6–15 July 2023](2023-07-15-CESOP–UCP.html) | CESOP–UCP <br> Público and RTP | 32.0% | 30.2–33.9% | 29.6–34.5% | 29.2–35.0% | 28.3–35.9% |
 | [6–11 July 2023](2023-07-11-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias | 28.8% | 26.8–30.9% | 26.2–31.5% | 25.7–32.0% | 24.8–33.0% |
 | [3–6 July 2023](2023-07-06-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã and Negócios | 25.2% | 23.1–27.5% | 22.5–28.2% | 21.9–28.8% | 21.0–29.9% |
@@ -54,10 +55,10 @@ Last result: **31.5%** (General Election of 26 May 2019)
 | [21–24 January 2022](2022-01-24-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 37.0% | 34.6–39.6% | 33.9–40.3% | 33.3–40.9% | 32.1–42.2% |
 | [18–24 January 2022](2022-01-24-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 35.0% | 33.1–37.0% | 32.6–37.5% | 32.1–38.0% | 31.2–39.0% |
 | [20–23 January 2022](2022-01-23-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 35.4% | N/A | N/A | N/A | N/A |
-| [19–22 January 2022](2022-01-22-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 34.2% | N/A | N/A | N/A | N/A |
+| [19–22 January 2022](2022-01-22-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 34.0% | N/A | N/A | N/A | N/A |
 | [18–21 January 2022](2022-01-21-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 33.4% | 31.0–35.9% | 30.3–36.6% | 29.8–37.2% | 28.6–38.5% |
 | [16–21 January 2022](2022-01-21-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias | 33.8% | 31.9–35.8% | 31.3–36.3% | 30.9–36.8% | 30.0–37.8% |
-| [17–20 January 2022](2022-01-20-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 34.7% | N/A | N/A | N/A | N/A |
+| [17–20 January 2022](2022-01-20-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 34.5% | N/A | N/A | N/A | N/A |
 | [16–19 January 2022](2022-01-19-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 36.5% | 34.1–39.1% | 33.4–39.8% | 32.8–40.4% | 31.6–41.7% |
 | [15–18 January 2022](2022-01-18-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 38.7% | N/A | N/A | N/A | N/A |
 | [12–18 January 2022](2022-01-18-CESOP–UCP.html) | CESOP–UCP <br> Público and RTP | 37.0% | 35.4–38.7% | 35.0–39.1% | 34.6–39.5% | 33.8–40.3% |
@@ -116,7 +117,7 @@ Last result: **31.5%** (General Election of 26 May 2019)
 | [22 December 2020–3 January 2021](2021-01-03-Pitagórica.html) | Pitagórica <br> Observador and TVI | 40.9% | 38.4–43.4% | 37.7–44.1% | 37.1–44.7% | 35.9–46.0% |
 | [17–27 December 2020](2020-12-27-Pitagórica.html) | Pitagórica <br> Observador and TVI | 39.7% | 37.3–42.3% | 36.6–43.0% | 36.0–43.6% | 34.8–44.9% |
 | [19–22 December 2020](2020-12-22-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias | 38.5% | 36.4–40.8% | 35.8–41.4% | 35.3–41.9% | 34.2–43.0% |
-| [17–20 December 2020](2020-12-20-Pitagórica.html) | Pitagórica <br> Observador and TVI | 40.4% | 37.9–42.9% | 37.2–43.7% | 36.6–44.3% | 35.4–45.5% |
+| [17–20 December 2020](2020-12-20-Pitagórica.html) | Pitagórica <br> Observador and TVI | 40.2% | 37.9–42.9% | 37.2–43.7% | 36.6–44.3% | 35.4–45.5% |
 | [14–18 December 2020](2020-12-18-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 38.0% | 35.5–40.6% | 34.8–41.3% | 34.2–41.9% | 33.0–43.2% |
 | [10–13 December 2020](2020-12-13-Pitagórica.html) | Pitagórica <br> Observador and TVI | 42.0% | 39.5–44.5% | 38.8–45.3% | 38.2–45.9% | 37.0–47.1% |
 | [4–11 December 2020](2020-12-11-CESOP–UCP.html) | CESOP–UCP <br> Público and RTP | 37.0% | 35.3–38.8% | 34.9–39.3% | 34.5–39.7% | 33.7–40.5% |
@@ -125,10 +126,10 @@ Last result: **31.5%** (General Election of 26 May 2019)
 | [11–25 November 2020](2020-11-25-ICSISCTE.html) | ICS/ISCTE | 39.0% | 36.9–41.3% | 36.2–41.9% | 35.7–42.5% | 34.7–43.5% |
 | [9–16 November 2020](2020-11-16-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 37.1% | 34.7–39.7% | 34.0–40.4% | 33.4–41.0% | 32.3–42.2% |
 | [2–5 November 2020](2020-11-05-Eurosondagem.html) | Eurosondagem <br> Porto Canal and Sol | 38.3% | 36.3–40.3% | 35.8–40.8% | 35.3–41.3% | 34.4–42.3% |
-| [22–26 October 2020](2020-10-26-Aximage.html) | Aximage | 35.6% | 33.3–38.0% | 32.7–38.7% | 32.1–39.2% | 31.0–40.4% |
+| [22–26 October 2020](2020-10-26-Aximage.html) | Aximage | 35.4% | 33.3–38.0% | 32.7–38.7% | 32.1–39.2% | 31.0–40.4% |
 | [6–11 October 2020](2020-10-11-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 37.5% | 35.1–40.1% | 34.4–40.8% | 33.8–41.4% | 32.6–42.7% |
 | [5–8 October 2020](2020-10-08-Eurosondagem.html) | Eurosondagem | 38.8% | 36.9–40.8% | 36.3–41.4% | 35.8–41.9% | 34.9–42.8% |
-| [14–24 September 2020](2020-09-24-ICSISCTE.html) | ICS/ISCTE | 37.3% | 35.2–39.6% | 34.6–40.2% | 34.0–40.7% | 33.0–41.8% |
+| [14–24 September 2020](2020-09-24-ICSISCTE.html) | ICS/ISCTE | 37.0% | 35.2–39.6% | 34.6–40.2% | 34.0–40.7% | 33.0–41.8% |
 | [12–15 September 2020](2020-09-15-Aximage.html) | Aximage | 37.6% | 35.2–40.2% | 34.5–41.0% | 33.9–41.6% | 32.7–42.8% |
 | [7–10 September 2020](2020-09-10-Eurosondagem.html) | Eurosondagem | 38.5% | 36.5–40.4% | 36.0–41.0% | 35.5–41.5% | 34.6–42.4% |
 | [4–9 September 2020](2020-09-09-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 37.5% | 35.0–40.0% | 34.3–40.7% | 33.7–41.4% | 32.6–42.6% |
@@ -176,7 +177,7 @@ Last result: **31.5%** (General Election of 26 May 2019)
 | [24–27 September 2019](2019-09-27-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 37.2% | 34.7–39.8% | 34.0–40.5% | 33.4–41.1% | 32.2–42.4% |
 | [23–26 September 2019](2019-09-26-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 37.8% | 35.3–40.4% | 34.6–41.2% | 34.0–41.8% | 32.9–43.0% |
 | [22–25 September 2019](2019-09-25-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 38.3% | 35.8–40.9% | 35.1–41.7% | 34.5–42.3% | 33.3–43.5% |
-| [21–25 September 2019](2019-09-25-Aximage.html) | Aximage <br> Jornal Económico | 37.3% | 34.9–39.9% | 34.2–40.6% | 33.5–41.3% | 32.4–42.5% |
+| [21–25 September 2019](2019-09-25-Aximage.html) | Aximage <br> Jornal Económico | 37.4% | 34.9–39.9% | 34.2–40.6% | 33.5–41.3% | 32.4–42.5% |
 | [21–24 September 2019](2019-09-24-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 36.3% | 33.9–38.9% | 33.2–39.6% | 32.6–40.3% | 31.4–41.5% |
 | [20–23 September 2019](2019-09-23-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 36.0% | 33.5–38.6% | 32.8–39.3% | 32.3–39.9% | 31.1–41.2% |
 | [19–22 September 2019](2019-09-22-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 37.7% | 35.2–40.3% | 34.5–41.0% | 33.9–41.6% | 32.7–42.9% |
@@ -203,25 +204,23 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 18.5–19.5% | 0% | 100% |  |
-| 19.5–20.5% | 0.1% | 100% |  |
-| 20.5–21.5% | 0.4% | 99.9% |  |
-| 21.5–22.5% | 1.4% | 99.5% |  |
-| 22.5–23.5% | 3% | 98% |  |
-| 23.5–24.5% | 6% | 95% |  |
-| 24.5–25.5% | 8% | 88% |  |
-| 25.5–26.5% | 9% | 80% |  |
-| 26.5–27.5% | 9% | 72% |  |
-| 27.5–28.5% | 10% | 63% |  |
-| 28.5–29.5% | 10% | 53% | Median |
-| 29.5–30.5% | 10% | 43% |  |
-| 30.5–31.5% | 10% | 33% | Last Result |
-| 31.5–32.5% | 10% | 22% |  |
-| 32.5–33.5% | 7% | 12% |  |
-| 33.5–34.5% | 4% | 5% |  |
-| 34.5–35.5% | 1.2% | 2% |  |
-| 35.5–36.5% | 0.3% | 0.3% |  |
-| 36.5–37.5% | 0% | 0% |  |
+| 21.5–22.5% | 0% | 100% |  |
+| 22.5–23.5% | 0.3% | 99.9% |  |
+| 23.5–24.5% | 1.2% | 99.7% |  |
+| 24.5–25.5% | 3% | 98.5% |  |
+| 25.5–26.5% | 7% | 95% |  |
+| 26.5–27.5% | 10% | 89% |  |
+| 27.5–28.5% | 11% | 79% |  |
+| 28.5–29.5% | 11% | 68% |  |
+| 29.5–30.5% | 11% | 57% | Median |
+| 30.5–31.5% | 13% | 46% | Last Result |
+| 31.5–32.5% | 14% | 33% |  |
+| 32.5–33.5% | 11% | 18% |  |
+| 33.5–34.5% | 5% | 8% |  |
+| 34.5–35.5% | 2% | 2% |  |
+| 35.5–36.5% | 0.4% | 0.5% |  |
+| 36.5–37.5% | 0.1% | 0.1% |  |
+| 37.5–38.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -232,7 +231,8 @@ Last result: **8** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 6–8 | 5–8 | 5–8 | 5–9 |
+| N/A | [Poll Average](average.html) | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
+| [7–11 August 2023](2023-08-11-Intercampus.html) | Intercampus <br> CMTV | 7 | 6–7 | 6–8 | 6–8 | 5–8 |
 | [6–15 July 2023](2023-07-15-CESOP–UCP.html) | CESOP–UCP <br> Público and RTP | 8 | 7–8 | 7–8 | 7–9 | 7–9 |
 | [6–11 July 2023](2023-07-11-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
 | [3–6 July 2023](2023-07-06-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã and Negócios | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
@@ -427,10 +427,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 5 | 9% | 100% |  |
-| 6 | 26% | 90% |  |
-| 7 | 32% | 64% | Median |
-| 8 | 30% | 32% | Last Result |
+| 5 | 0.4% | 100% |  |
+| 6 | 21% | 99.6% |  |
+| 7 | 34% | 78% | Median |
+| 8 | 42% | 45% | Last Result |
 | 9 | 2% | 2% |  |
 | 10 | 0% | 0% |  |
 
