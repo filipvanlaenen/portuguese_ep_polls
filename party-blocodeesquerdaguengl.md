@@ -10,7 +10,8 @@ Last result: **4.6%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.5% | 6.3–9.2% | 6.0–9.7% | 5.7–10.1% | 5.3–11.0% |
+| N/A | [Poll Average](average.html) | 6.4% | 5.3–7.8% | 4.9–8.2% | 4.7–8.6% | 4.2–9.3% |
+| [9–14 September 2023](2023-09-14-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã and Negócios | 6.4% | 5.2–7.8% | 4.9–8.2% | 4.7–8.6% | 4.2–9.3% |
 | [7–11 August 2023](2023-08-11-Intercampus.html) | Intercampus <br> CMTV | 8.1% | 6.8–9.7% | 6.5–10.1% | 6.2–10.5% | 5.6–11.3% |
 | [6–15 July 2023](2023-07-15-CESOP–UCP.html) | CESOP–UCP <br> Público and RTP | 7.0% | 6.0–8.1% | 5.8–8.4% | 5.5–8.7% | 5.1–9.3% |
 | [6–11 July 2023](2023-07-11-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias | 8.0% | 6.9–9.4% | 6.6–9.8% | 6.3–10.1% | 5.8–10.8% |
@@ -204,16 +205,15 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 3.5–4.5% | 0% | 100% |  |
-| 4.5–5.5% | 1.4% | 100% | Last Result |
-| 5.5–6.5% | 16% | 98.5% |  |
-| 6.5–7.5% | 34% | 83% |  |
-| 7.5–8.5% | 29% | 49% | Median |
-| 8.5–9.5% | 14% | 20% |  |
-| 9.5–10.5% | 5% | 6% |  |
-| 10.5–11.5% | 1.0% | 1.2% |  |
-| 11.5–12.5% | 0.1% | 0.2% |  |
-| 12.5–13.5% | 0% | 0% |  |
+| 2.5–3.5% | 0% | 100% |  |
+| 3.5–4.5% | 2% | 100% |  |
+| 4.5–5.5% | 15% | 98% | Last Result |
+| 5.5–6.5% | 37% | 83% | Median |
+| 6.5–7.5% | 31% | 46% |  |
+| 7.5–8.5% | 12% | 15% |  |
+| 8.5–9.5% | 2% | 3% |  |
+| 9.5–10.5% | 0.3% | 0.3% |  |
+| 10.5–11.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -224,7 +224,8 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| N/A | [Poll Average](average.html) | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| [9–14 September 2023](2023-09-14-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã and Negócios | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [7–11 August 2023](2023-08-11-Intercampus.html) | Intercampus <br> CMTV | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [6–15 July 2023](2023-07-15-CESOP–UCP.html) | CESOP–UCP <br> Público and RTP | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [6–11 July 2023](2023-07-11-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -420,9 +421,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 58% | 100% | Last Result, Median |
-| 2 | 41% | 42% |  |
-| 3 | 0.2% | 0.2% |  |
-| 4 | 0% | 0% |  |
+| 0 | 0.1% | 100% |  |
+| 1 | 92% | 99.9% | Last Result, Median |
+| 2 | 8% | 8% |  |
+| 3 | 0% | 0% |  |
 
 

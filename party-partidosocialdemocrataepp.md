@@ -10,7 +10,8 @@ Last result: **27.7%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 30.2% | 25.1–34.3% | 24.3–34.9% | 23.7–35.5% | 22.5–36.5% |
+| N/A | [Poll Average](average.html) | 28.7% | 26.4–31.1% | 25.8–31.8% | 25.2–32.4% | 24.2–33.6% |
+| [9–14 September 2023](2023-09-14-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã and Negócios | 28.7% | 26.4–31.1% | 25.8–31.8% | 25.2–32.4% | 24.2–33.6% |
 | [7–11 August 2023](2023-08-11-Intercampus.html) | Intercampus <br> CMTV | 26.5% | 24.3–28.9% | 23.7–29.6% | 23.2–30.2% | 22.1–31.4% |
 | [6–15 July 2023](2023-07-15-CESOP–UCP.html) | CESOP–UCP <br> Público and RTP | 33.0% | 31.1–34.9% | 30.6–35.5% | 30.2–36.0% | 29.3–36.9% |
 | [6–11 July 2023](2023-07-11-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias | 27.8% | 25.8–29.9% | 25.2–30.4% | 24.8–31.0% | 23.8–32.0% |
@@ -204,26 +205,21 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 19.5–20.5% | 0% | 100% |  |
-| 20.5–21.5% | 0.1% | 100% |  |
-| 21.5–22.5% | 0.4% | 99.9% |  |
-| 22.5–23.5% | 2% | 99.5% |  |
-| 23.5–24.5% | 4% | 98% |  |
-| 24.5–25.5% | 8% | 94% |  |
-| 25.5–26.5% | 11% | 86% |  |
-| 26.5–27.5% | 11% | 75% |  |
-| 27.5–28.5% | 8% | 65% | Last Result |
-| 28.5–29.5% | 5% | 57% |  |
-| 29.5–30.5% | 4% | 52% | Median |
-| 30.5–31.5% | 6% | 49% |  |
-| 31.5–32.5% | 11% | 42% |  |
-| 32.5–33.5% | 13% | 31% |  |
-| 33.5–34.5% | 10% | 18% |  |
-| 34.5–35.5% | 5% | 8% |  |
-| 35.5–36.5% | 2% | 2% |  |
-| 36.5–37.5% | 0.4% | 0.5% |  |
-| 37.5–38.5% | 0.1% | 0.1% |  |
-| 38.5–39.5% | 0% | 0% |  |
+| 21.5–22.5% | 0% | 100% |  |
+| 22.5–23.5% | 0.1% | 100% |  |
+| 23.5–24.5% | 0.8% | 99.8% |  |
+| 24.5–25.5% | 3% | 99.1% |  |
+| 25.5–26.5% | 8% | 96% |  |
+| 26.5–27.5% | 15% | 89% |  |
+| 27.5–28.5% | 20% | 74% | Last Result |
+| 28.5–29.5% | 21% | 54% | Median |
+| 29.5–30.5% | 16% | 32% |  |
+| 30.5–31.5% | 10% | 16% |  |
+| 31.5–32.5% | 4% | 6% |  |
+| 32.5–33.5% | 1.5% | 2% |  |
+| 33.5–34.5% | 0.4% | 0.5% |  |
+| 34.5–35.5% | 0.1% | 0.1% |  |
+| 35.5–36.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -234,7 +230,8 @@ Last result: **6** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 6–8 | 6–9 | 6–9 | 5–9 |
+| N/A | [Poll Average](average.html) | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
+| [9–14 September 2023](2023-09-14-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã and Negócios | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
 | [7–11 August 2023](2023-08-11-Intercampus.html) | Intercampus <br> CMTV | 6 | 6–7 | 6–7 | 5–7 | 5–8 |
 | [6–15 July 2023](2023-07-15-CESOP–UCP.html) | CESOP–UCP <br> Público and RTP | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
 | [6–11 July 2023](2023-07-11-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias | 7 | 6–7 | 6–7 | 6–8 | 6–8 |
@@ -430,11 +427,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 5 | 2% | 100% |  |
-| 6 | 30% | 98% | Last Result |
-| 7 | 23% | 68% | Median |
-| 8 | 39% | 45% |  |
-| 9 | 6% | 6% |  |
+| 5 | 0.2% | 100% |  |
+| 6 | 24% | 99.8% | Last Result |
+| 7 | 65% | 76% | Median |
+| 8 | 10% | 10% |  |
+| 9 | 0.1% | 0.1% |  |
 | 10 | 0% | 0% |  |
 
 
