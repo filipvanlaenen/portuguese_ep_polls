@@ -5,9 +5,9 @@ The table below lists the most recent polls (less than 30 days old) registered a
 | Period     | Polling firm/Commissioner(s) | PS | PSD | CDS–PP | CDU | BE | PAN | L | IL | A | CH |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 31.5% <br> 8 | 27.7% <br> 6 | 27.7% <br> 1 | 12.7% <br> 3 | 4.6% <br> 1 | 1.7% <br> 0 | 0.7% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 26–33% <br> 6–8 | 23–32% <br> 5–8 | 0–4% <br> 0–1 | 3–6% <br> 0–1 | 5–9% <br> 1–2 | 1–5% <br> 0–1 | 2–4% <br> 0–1 | 4–11% <br> 1–2 | N/A <br> N/A | 11–16% <br> 2–4 |
+| N/A | [Poll Average](average.html) | 26–34% <br> 6–8 | 22–31% <br> 5–8 | 0–4% <br> 0–1 | 3–7% <br> 0–1 | 5–9% <br> 1–2 | 1–5% <br> 0–1 | 1–4% <br> 0–1 | 2–11% <br> 0–2 | N/A <br> N/A | 11–16% <br> 2–4 |
 | [2–5 October 2023](2023-10-05-Aximage.html) | Aximage <br> CNN Portugal and TVI | 26–33% <br> 6–8 | 22–29% <br> 5–7 | 2–4% <br> 0–1 | 3–6% <br> 0–1 | 5–10% <br> 1–2 | 2–5% <br> 0–1 | 2–4% <br> 0–1 | 4–7% <br> 0–1 | N/A <br> N/A | 11–17% <br> 2–4 |
-| [16–25 September 2023](2023-09-25-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [16–25 September 2023](2023-09-25-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 28–34% <br> 7–8 | 22–28% <br> 5–7 | 1–3% <br> 0 | 5–8% <br> 1–2 | 5–8% <br> 1–2 | 1–3% <br> 0 | 1–3% <br> 0 | 2–4% <br> 0–1 | N/A <br> N/A | 11–16% <br> 2–4 |
 | [9–14 September 2023](2023-09-14-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã and Negócios | 26–34% <br> 6–8 | 25–32% <br> 6–8 | 0–2% <br> 0 | 3–6% <br> 0–1 | 5–9% <br> 1–2 | 1–4% <br> 0 | 1–4% <br> 0 | 7–12% <br> 1–3 | N/A <br> N/A | 10–16% <br> 2–4 |
 | 26 May 2019 | General Election | 31.5% <br> 8 | 27.7% <br> 6 | 27.7% <br> 1 | 12.7% <br> 3 | 4.6% <br> 1 | 1.7% <br> 0 | 0.7% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
