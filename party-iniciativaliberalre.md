@@ -10,9 +10,9 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.3% | 4.7–10.4% | 4.3–11.0% | 4.0–11.4% | 3.5–12.3% |
+| N/A | [Poll Average](average.html) | 5.4% | 2.8–10.0% | 2.5–10.6% | 2.3–11.1% | 1.9–12.1% |
 | [2–5 October 2023](2023-10-05-Aximage.html) | Aximage <br> CNN Portugal and TVI | 5.3% | 4.3–6.7% | 4.0–7.1% | 3.8–7.4% | 3.4–8.1% |
-| [16–25 September 2023](2023-09-25-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 3.0% | N/A | N/A | N/A | N/A |
+| [16–25 September 2023](2023-09-25-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 3.0% | 2.3–3.9% | 2.2–4.2% | 2.0–4.4% | 1.7–4.9% |
 | [9–14 September 2023](2023-09-14-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã and Negócios | 9.3% | 7.9–11.0% | 7.5–11.4% | 7.2–11.8% | 6.6–12.7% |
 | [7–11 August 2023](2023-08-11-Intercampus.html) | Intercampus <br> CMTV | 8.2% | 7.0–9.8% | 6.6–10.3% | 6.3–10.7% | 5.7–11.5% |
 | [6–15 July 2023](2023-07-15-CESOP–UCP.html) | CESOP–UCP <br> Público and RTP | 7.0% | 6.0–8.1% | 5.8–8.4% | 5.5–8.7% | 5.1–9.3% |
@@ -209,18 +209,18 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 0.5% | 100% |  |
-| 3.5–4.5% | 8% | 99.5% |  |
-| 4.5–5.5% | 20% | 92% |  |
-| 5.5–6.5% | 16% | 72% |  |
-| 6.5–7.5% | 7% | 56% | Median |
-| 7.5–8.5% | 10% | 49% |  |
-| 8.5–9.5% | 16% | 38% |  |
-| 9.5–10.5% | 14% | 22% |  |
-| 10.5–11.5% | 6% | 8% |  |
-| 11.5–12.5% | 2% | 2% |  |
-| 12.5–13.5% | 0.3% | 0.3% |  |
+| 1.5–2.5% | 6% | 100% |  |
+| 2.5–3.5% | 20% | 94% |  |
+| 3.5–4.5% | 12% | 74% |  |
+| 4.5–5.5% | 14% | 62% | Median |
+| 5.5–6.5% | 11% | 48% |  |
+| 6.5–7.5% | 5% | 37% |  |
+| 7.5–8.5% | 7% | 32% |  |
+| 8.5–9.5% | 11% | 26% |  |
+| 9.5–10.5% | 9% | 15% |  |
+| 10.5–11.5% | 4% | 6% |  |
+| 11.5–12.5% | 1.1% | 1.4% |  |
+| 12.5–13.5% | 0.2% | 0.2% |  |
 | 13.5–14.5% | 0% | 0% |  |
 
 
@@ -232,9 +232,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 0–3 |
+| N/A | [Poll Average](average.html) | 1 | 0–2 | 0–2 | 0–2 | 0–3 |
 | [2–5 October 2023](2023-10-05-Aximage.html) | Aximage <br> CNN Portugal and TVI | 1 | 1 | 1 | 0–1 | 0–2 |
-| [16–25 September 2023](2023-09-25-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias |  |  |  |  |  |
+| [16–25 September 2023](2023-09-25-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [9–14 September 2023](2023-09-14-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã and Negócios | 2 | 2 | 1–2 | 1–3 | 1–3 |
 | [7–11 August 2023](2023-08-11-Intercampus.html) | Intercampus <br> CMTV | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [6–15 July 2023](2023-07-15-CESOP–UCP.html) | CESOP–UCP <br> Público and RTP | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -431,10 +431,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 2% | 100% | Last Result |
-| 1 | 51% | 98% | Median |
-| 2 | 45% | 47% |  |
-| 3 | 2% | 2% |  |
+| 0 | 30% | 100% | Last Result |
+| 1 | 38% | 70% | Median |
+| 2 | 30% | 31% |  |
+| 3 | 1.3% | 1.3% |  |
 | 4 | 0% | 0% |  |
 
 
