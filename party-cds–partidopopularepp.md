@@ -10,7 +10,9 @@ Last result: **27.7%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.0% | 0.7–3.2% | 0.6–3.5% | 0.5–3.8% | 0.3–4.5% |
+| N/A | [Poll Average](average.html) | 1.8% | 1.2–2.6% | 1.1–2.8% | 1.0–3.0% | 0.8–3.5% |
+| [18–24 October 2023](2023-10-24-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias | 1.6% | 1.2–2.3% | 1.1–2.6% | 0.9–2.7% | 0.8–3.1% |
+| [18–23 October 2023](2023-10-23-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã and Negócios | 1.7% | 1.2–2.5% | 1.0–2.8% | 0.9–3.0% | 0.7–3.5% |
 | [2–5 October 2023](2023-10-05-Aximage.html) | Aximage <br> CNN Portugal and TVI | 2.7% | 2.0–3.7% | 1.8–4.0% | 1.6–4.3% | 1.4–4.8% |
 | [16–25 September 2023](2023-09-25-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 2.0% | 1.5–2.8% | 1.3–3.0% | 1.2–3.2% | 1.0–3.6% |
 | [9–14 September 2023](2023-09-14-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã and Negócios | 0.8% | 0.5–1.5% | 0.4–1.7% | 0.4–1.9% | 0.2–2.3% |
@@ -207,12 +209,12 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 4% | 100% |  |
-| 0.5–1.5% | 31% | 96% |  |
-| 1.5–2.5% | 37% | 65% | Median |
-| 2.5–3.5% | 23% | 27% |  |
-| 3.5–4.5% | 4% | 5% |  |
-| 4.5–5.5% | 0.4% | 0.4% |  |
+| 0.0–0.5% | 0% | 100% |  |
+| 0.5–1.5% | 28% | 100% |  |
+| 1.5–2.5% | 61% | 72% | Median |
+| 2.5–3.5% | 11% | 11% |  |
+| 3.5–4.5% | 0.4% | 0.4% |  |
+| 4.5–5.5% | 0% | 0% |  |
 | 5.5–6.5% | 0% | 0% |  |
 | 6.5–7.5% | 0% | 0% |  |
 | 7.5–8.5% | 0% | 0% |  |
@@ -246,7 +248,9 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0–1 | 0–1 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [18–24 October 2023](2023-10-24-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias | 0 | 0 | 0 | 0 | 0 |
+| [18–23 October 2023](2023-10-23-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã and Negócios | 0 | 0 | 0 | 0 | 0 |
 | [2–5 October 2023](2023-10-05-Aximage.html) | Aximage <br> CNN Portugal and TVI | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [16–25 September 2023](2023-09-25-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 0 | 0 | 0 | 0 | 0 |
 | [9–14 September 2023](2023-09-14-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã and Negócios | 0 | 0 | 0 | 0 | 0 |
@@ -445,8 +449,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 97% | 100% | Median |
-| 1 | 3% | 3% | Last Result |
+| 0 | 99.8% | 100% | Median |
+| 1 | 0.2% | 0.2% | Last Result |
 | 2 | 0% | 0% |  |
 
 
