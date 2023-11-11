@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/portuguese_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 05 Nov 2023 17:54:30 +0100</pubDate>
+    <pubDate>Sat, 11 Nov 2023 10:04:41 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Intercampus for CMTV, Correio da Manhã and Negócios, 7–8 November 2023 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2023-11-08-Intercampus.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Pessoas–Animais–Natureza (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;LIVRE (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Iniciativa Liberal (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Partido Social Democrata (EPP): 6–8 seats&lt;/li&gt;&lt;li&gt;CDS–Partido Popular (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Bloco de Esquerda (GUE/NGL): 1–3 seats&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Chega (ID): 3–5 seats&lt;/li&gt;&lt;li&gt;Partido Socialista (S&amp;amp;D): 4–6 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2023-11-08-Intercampus-seats.png"
+        length="308111"
+        type="image/png"/>
+      <pubDate>Sat, 11 Nov 2023 10:04:41 +0100</pubDate>
+      <dc:date>2023-11-11T10:04:41.42401+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Intercampus for CMTV, Correio da Manhã and Negócios, 7–8 November 2023 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2023-11-08-Intercampus.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2023-11-08-Intercampus-coalitions-seats.png"
+        length="215868"
+        type="image/png"/>
+      <pubDate>Sat, 11 Nov 2023 10:04:41 +0100</pubDate>
+      <dc:date>2023-11-11T10:04:41.42401+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Intercampus for CMTV, Correio da Manhã and Negócios, 7–8 November 2023 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2023-11-08-Intercampus.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Pessoas–Animais–Natureza (Greens/EFA): 1.8–4.5%&lt;/li&gt;&lt;li&gt;LIVRE (Greens/EFA): 2.2–5.1%&lt;/li&gt;&lt;li&gt;Iniciativa Liberal (RE): 6.6–11.2%&lt;/li&gt;&lt;li&gt;Partido Social Democrata (EPP): 23.7–30.8%&lt;/li&gt;&lt;li&gt;CDS–Partido Popular (EPP): 1.5–4.1%&lt;/li&gt;&lt;li&gt;Bloco de Esquerda (GUE/NGL): 7.7–12.5%&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária (GUE/NGL): 2.7–5.9%&lt;/li&gt;&lt;li&gt;Chega (ID): 13.4–19.3%&lt;/li&gt;&lt;li&gt;Partido Socialista (S&amp;amp;D): 19.1–25.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2023-11-08-Intercampus.png"
+        length="344407"
+        type="image/png"/>
+      <pubDate>Sat, 11 Nov 2023 10:04:41 +0100</pubDate>
+      <dc:date>2023-11-11T10:04:41.42401+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Aximage for Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias, 18–24 October 2023 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2023-10-24-Aximage.html#seats</link>
@@ -5319,6 +5349,6 @@
       <pubDate>Sun, 30 Jun 2019 15:14:32 +0200</pubDate>
       <dc:date>2019-06-30T15:14:32+02:00</dc:date>
     </item>
-    <dc:date>2023-11-05T17:54:30.800539+01:00</dc:date>
+    <dc:date>2023-11-11T10:04:41.42401+01:00</dc:date>
   </channel>
 </rss>
