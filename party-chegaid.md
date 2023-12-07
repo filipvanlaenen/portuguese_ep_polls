@@ -248,7 +248,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 3–4 | 3–4 | 3–4 | 2–5 |
 | [15–24 November 2023](2023-11-24-CESOP–UCP.html) | CESOP–UCP <br> Antena 1, Público and RTP | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
-| [18–23 November 2023](2023-11-23-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
+| [18–23 November 2023](2023-11-23-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | [14–17 November 2023](2023-11-17-Intercampus.html) | Intercampus <br> CMTV | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | [10–13 November 2023](2023-11-13-Aximage.html) | Aximage <br> CNN Portugal and TVI | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
 | [7–8 November 2023](2023-11-08-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã and Negócios | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
@@ -456,8 +456,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% |  |
 | 2 | 0.7% | 100% |  |
 | 3 | 37% | 99.3% |  |
-| 4 | 60% | 62% | Median |
-| 5 | 2% | 2% |  |
+| 4 | 61% | 62% | Median |
+| 5 | 1.1% | 1.1% |  |
 | 6 | 0% | 0% |  |
 
 
