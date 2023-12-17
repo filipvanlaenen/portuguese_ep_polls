@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/portuguese_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 07 Dec 2023 18:13:34 +0100</pubDate>
+    <pubDate>Sat, 16 Dec 2023 22:36:07 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Consulmark2 for Euronews and Sol, 30 November–6 December 2023 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2023-12-06-Consulmark2.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Pessoas–Animais–Natureza (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;LIVRE (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Iniciativa Liberal (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Partido Social Democrata (EPP): 6–8 seats&lt;/li&gt;&lt;li&gt;CDS–Partido Popular (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Bloco de Esquerda (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Chega (ID): 3–5 seats&lt;/li&gt;&lt;li&gt;Partido Socialista (S&amp;amp;D): 5–7 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2023-12-06-Consulmark2-seats.png"
+        length="270511"
+        type="image/png"/>
+      <pubDate>Sat, 16 Dec 2023 22:36:07 +0100</pubDate>
+      <dc:date>2023-12-16T22:36:07.301888+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Consulmark2 for Euronews and Sol, 30 November–6 December 2023 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2023-12-06-Consulmark2.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2023-12-06-Consulmark2-coalitions-seats.png"
+        length="190439"
+        type="image/png"/>
+      <pubDate>Sat, 16 Dec 2023 22:36:07 +0100</pubDate>
+      <dc:date>2023-12-16T22:36:07.301888+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Consulmark2 for Euronews and Sol, 30 November–6 December 2023 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2023-12-06-Consulmark2.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Pessoas–Animais–Natureza (Greens/EFA): 0.7–2.7%&lt;/li&gt;&lt;li&gt;LIVRE (Greens/EFA): 1.3–3.8%&lt;/li&gt;&lt;li&gt;Iniciativa Liberal (RE): 5.0–9.1%&lt;/li&gt;&lt;li&gt;Partido Social Democrata (EPP): 26.5–34.0%&lt;/li&gt;&lt;li&gt;CDS–Partido Popular (EPP): 1.3–3.8%&lt;/li&gt;&lt;li&gt;Bloco de Esquerda (GUE/NGL): 3.0–6.3%&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária (GUE/NGL): 1.2–3.6%&lt;/li&gt;&lt;li&gt;Chega (ID): 14.3–20.5%&lt;/li&gt;&lt;li&gt;Partido Socialista (S&amp;amp;D): 22.7–29.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2023-12-06-Consulmark2.png"
+        length="324378"
+        type="image/png"/>
+      <pubDate>Sat, 16 Dec 2023 22:36:07 +0100</pubDate>
+      <dc:date>2023-12-16T22:36:07.301888+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by CESOP–UCP for Antena 1, Público and RTP, 15–24 November 2023 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2023-11-24-CESOP–UCP.html#seats</link>
@@ -5469,6 +5499,6 @@
       <pubDate>Sun, 30 Jun 2019 15:14:32 +0200</pubDate>
       <dc:date>2019-06-30T15:14:32+02:00</dc:date>
     </item>
-    <dc:date>2023-12-07T18:13:34.302739+01:00</dc:date>
+    <dc:date>2023-12-16T22:36:07.301888+01:00</dc:date>
   </channel>
 </rss>
