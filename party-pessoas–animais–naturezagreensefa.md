@@ -10,7 +10,9 @@ Last result: **1.7%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.0% | 0.7–3.3% | 0.5–3.6% | 0.4–3.9% | 0.3–4.4% |
+| N/A | [Poll Average](average.html) | 2.6% | 0.8–4.3% | 0.6–4.7% | 0.5–5.0% | 0.3–5.6% |
+| [18–23 December 2023](2023-12-23-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias | 3.7% | 3.0–4.7% | 2.8–5.0% | 2.6–5.3% | 2.3–5.8% |
+| [18–21 December 2023](2023-12-21-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã and Negócios | 3.4% | 2.7–4.6% | 2.4–4.9% | 2.3–5.2% | 1.9–5.8% |
 | [17–20 December 2023](2023-12-20-Consulmark2.html) | Consulmark2 <br> Euronews and Sol | 0.7% | 0.5–1.3% | 0.4–1.5% | 0.4–1.6% | 0.2–2.0% |
 | [30 November–6 December 2023](2023-12-06-Consulmark2.html) | Consulmark2 <br> Euronews and Sol | 1.4% | 0.9–2.3% | 0.8–2.5% | 0.7–2.7% | 0.5–3.2% |
 | [15–24 November 2023](2023-11-24-CESOP–UCP.html) | CESOP–UCP <br> Antena 1, Público and RTP | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.0% | 1.1–3.4% |
@@ -216,13 +218,14 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 5% | 100% |  |
-| 0.5–1.5% | 30% | 95% |  |
-| 1.5–2.5% | 34% | 64% | Last Result, Median |
-| 2.5–3.5% | 24% | 30% |  |
-| 3.5–4.5% | 5% | 6% |  |
-| 4.5–5.5% | 0.3% | 0.3% |  |
-| 5.5–6.5% | 0% | 0% |  |
+| 0.0–0.5% | 4% | 100% |  |
+| 0.5–1.5% | 23% | 96% |  |
+| 1.5–2.5% | 22% | 73% | Last Result |
+| 2.5–3.5% | 23% | 51% | Median |
+| 3.5–4.5% | 22% | 29% |  |
+| 4.5–5.5% | 6% | 6% |  |
+| 5.5–6.5% | 0.5% | 0.5% |  |
+| 6.5–7.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -233,7 +236,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0–1 | 0–1 |
+| N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [18–23 December 2023](2023-12-23-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [18–21 December 2023](2023-12-21-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã and Negócios | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [17–20 December 2023](2023-12-20-Consulmark2.html) | Consulmark2 <br> Euronews and Sol | 0 | 0 | 0 | 0 | 0 |
 | [30 November–6 December 2023](2023-12-06-Consulmark2.html) | Consulmark2 <br> Euronews and Sol | 0 | 0 | 0 | 0 | 0 |
 | [15–24 November 2023](2023-11-24-CESOP–UCP.html) | CESOP–UCP <br> Antena 1, Público and RTP | 0 | 0 | 0 | 0 | 0 |
@@ -441,8 +446,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 97% | 100% | Last Result, Median |
-| 1 | 3% | 3% |  |
+| 0 | 82% | 100% | Last Result, Median |
+| 1 | 18% | 18% |  |
 | 2 | 0% | 0% |  |
 
 

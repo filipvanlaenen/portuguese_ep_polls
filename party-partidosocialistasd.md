@@ -10,7 +10,9 @@ Last result: **31.5%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 28.4% | 25.6–33.8% | 24.9–34.7% | 24.3–35.4% | 23.3–36.6% |
+| N/A | [Poll Average](average.html) | 28.8% | 25.9–34.6% | 25.1–35.6% | 24.5–36.3% | 23.4–37.7% |
+| [18–23 December 2023](2023-12-23-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias | 34.2% | 32.1–36.4% | 31.5–37.0% | 31.0–37.5% | 30.0–38.6% |
+| [18–21 December 2023](2023-12-21-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã and Negócios | 29.3% | 27.0–31.7% | 26.4–32.4% | 25.8–33.0% | 24.8–34.2% |
 | [17–20 December 2023](2023-12-20-Consulmark2.html) | Consulmark2 <br> Euronews and Sol | 26.5% | 24.6–28.6% | 24.1–29.2% | 23.6–29.7% | 22.7–30.7% |
 | [30 November–6 December 2023](2023-12-06-Consulmark2.html) | Consulmark2 <br> Euronews and Sol | 26.1% | 23.8–28.5% | 23.2–29.2% | 22.7–29.8% | 21.6–31.0% |
 | [15–24 November 2023](2023-11-24-CESOP–UCP.html) | CESOP–UCP <br> Antena 1, Público and RTP | 28.0% | 26.4–29.8% | 25.9–30.3% | 25.5–30.8% | 24.7–31.6% |
@@ -218,23 +220,24 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 20.5–21.5% | 0% | 100% |  |
 | 21.5–22.5% | 0.1% | 100% |  |
-| 22.5–23.5% | 0.7% | 99.9% |  |
-| 23.5–24.5% | 2% | 99.2% |  |
-| 24.5–25.5% | 6% | 97% |  |
-| 25.5–26.5% | 11% | 91% |  |
-| 26.5–27.5% | 15% | 79% |  |
-| 27.5–28.5% | 15% | 64% | Median |
-| 28.5–29.5% | 10% | 49% |  |
-| 29.5–30.5% | 6% | 38% |  |
+| 22.5–23.5% | 0.5% | 99.9% |  |
+| 23.5–24.5% | 2% | 99.4% |  |
+| 24.5–25.5% | 5% | 97% |  |
+| 25.5–26.5% | 10% | 92% |  |
+| 26.5–27.5% | 14% | 83% |  |
+| 27.5–28.5% | 15% | 69% |  |
+| 28.5–29.5% | 13% | 53% | Median |
+| 29.5–30.5% | 8% | 41% |  |
 | 30.5–31.5% | 5% | 32% | Last Result |
-| 31.5–32.5% | 7% | 27% |  |
-| 32.5–33.5% | 8% | 20% |  |
-| 33.5–34.5% | 6% | 12% |  |
-| 34.5–35.5% | 4% | 6% |  |
-| 35.5–36.5% | 1.5% | 2% |  |
-| 36.5–37.5% | 0.4% | 0.5% |  |
-| 37.5–38.5% | 0.1% | 0.1% |  |
-| 38.5–39.5% | 0% | 0% |  |
+| 31.5–32.5% | 5% | 27% |  |
+| 32.5–33.5% | 5% | 22% |  |
+| 33.5–34.5% | 6% | 17% |  |
+| 34.5–35.5% | 5% | 10% |  |
+| 35.5–36.5% | 3% | 5% |  |
+| 36.5–37.5% | 1.4% | 2% |  |
+| 37.5–38.5% | 0.5% | 0.6% |  |
+| 38.5–39.5% | 0.1% | 0.1% |  |
+| 39.5–40.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -246,6 +249,8 @@ Last result: **8** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 7 | 6–8 | 6–9 | 6–9 | 5–9 |
+| [18–23 December 2023](2023-12-23-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias | 8 | 8–9 | 8–9 | 7–9 | 7–10 |
+| [18–21 December 2023](2023-12-21-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã and Negócios | 7 | 7–8 | 6–8 | 6–8 | 6–9 |
 | [17–20 December 2023](2023-12-20-Consulmark2.html) | Consulmark2 <br> Euronews and Sol | 6 | 6–7 | 6–7 | 6–7 | 5–8 |
 | [30 November–6 December 2023](2023-12-06-Consulmark2.html) | Consulmark2 <br> Euronews and Sol | 6 | 6–7 | 6–7 | 5–7 | 5–8 |
 | [15–24 November 2023](2023-11-24-CESOP–UCP.html) | CESOP–UCP <br> Antena 1, Público and RTP | 7 | 6–7 | 6–7 | 6–8 | 6–8 |
@@ -453,12 +458,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 5 | 0.8% | 100% |  |
-| 6 | 24% | 99.2% |  |
-| 7 | 42% | 75% | Median |
-| 8 | 25% | 33% | Last Result |
-| 9 | 8% | 8% |  |
-| 10 | 0.1% | 0.1% |  |
+| 5 | 0.6% | 100% |  |
+| 6 | 20% | 99.4% |  |
+| 7 | 49% | 79% | Median |
+| 8 | 23% | 31% | Last Result |
+| 9 | 7% | 8% |  |
+| 10 | 0.3% | 0.3% |  |
 | 11 | 0% | 0% | Majority |
 
 
