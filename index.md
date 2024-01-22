@@ -2,15 +2,14 @@
 
 The table below lists the most recent polls (less than 30 days old) registered and analyzed so far.
 
-| Period     | Polling firm/Commissioner(s) | PS | PSD | CDS–PP | CDU | BE | PAN | L | IL | A | CH |
-|:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| 26 May 2019 | General Election | 31.5% <br> 8 | 27.7% <br> 6 | 27.7% <br> 1 | 12.7% <br> 3 | 4.6% <br> 1 | 1.7% <br> 0 | 0.7% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 24–36% <br> 6–9 | 23–31% <br> 5–8 | 1–3% <br> 0 | 2–4% <br> 0–1 | 5–12% <br> 1–3 | 0–5% <br> 0–1 | 1–4% <br> 0–1 | 3–10% <br> 0–2 | N/A <br> N/A | 12–18% <br> 3–4 |
-| [18–23 December 2023](2023-12-23-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias | 31–38% <br> 7–9 | 22–28% <br> 5–7 | 1–2% <br> 0 | 2–4% <br> 0–1 | 5–8% <br> 1–2 | 3–5% <br> 0–1 | 1–3% <br> 0 | 3–6% <br> 0–1 | N/A <br> N/A | 14–19% <br> 3–4 |
-| [18–21 December 2023](2023-12-21-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã and Negócios | 26–33% <br> 6–8 | 23–30% <br> 5–7 | 1–3% <br> 0 | 2–4% <br> 0–1 | 8–13% <br> 2–3 | 2–5% <br> 0–1 | 2–5% <br> 0–1 | 6–10% <br> 1–2 | N/A <br> N/A | 11–16% <br> 2–4 |
-| [17–20 December 2023](2023-12-20-Consulmark2.html) | Consulmark2 <br> Euronews and Sol | 24–30% <br> 6–7 | 25–31% <br> 6–8 | 1–3% <br> 0 | 2–4% <br> 0–1 | 6–10% <br> 1–2 | 0–2% <br> 0 | 1–4% <br> 0 | 4–8% <br> 1–2 | N/A <br> N/A | 13–18% <br> 3–4 |
-| [15–24 November 2023](2023-11-24-CESOP–UCP.html) | CESOP–UCP <br> Antena 1, Público and RTP | 25–31% <br> 6–8 | 26–32% <br> 6–8 | 1–3% <br> 0 | 2–4% <br> 0–1 | 5–8% <br> 1–2 | 1–3% <br> 0 | 1–3% <br> 0 | 7–11% <br> 1–2 | N/A <br> N/A | 14–18% <br> 3–4 |
-| 26 May 2019 | General Election | 31.5% <br> 8 | 27.7% <br> 6 | 27.7% <br> 1 | 12.7% <br> 3 | 4.6% <br> 1 | 1.7% <br> 0 | 0.7% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| Period     | Polling firm/Commissioner(s) | PS | PSD | CDS–PP | CDU | BE | PAN | L | IL | A | CH | AD |
+|:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| 26 May 2019 | General Election | 31.5% <br> 8 | 27.7% <br> 6 | 27.7% <br> 1 | 12.7% <br> 3 | 4.6% <br> 1 | 1.7% <br> 0 | 0.7% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| N/A | [Poll Average](average.html) | 24–37% <br> 6–9 | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0–1 | 5–12% <br> 1–3 | 1–5% <br> 0–1 | 1–4% <br> 0–1 | 3–9% <br> 0–2 | N/A <br> N/A | 12–20% <br> 2–5 | 24–31% <br> 5–7 |
+| [11–17 January 2024](2024-01-17-Consulmark2.html) | Consulmark2 <br> Euronews and Sol | 24–30% <br> 6–7 | N/A <br> N/A | N/A <br> N/A | 2–5% <br> 0–1 | 6–9% <br> 1–2 | 1–2% <br> 0 | 1–3% <br> 0 | 5–8% <br> 1–2 | N/A <br> N/A | 15–20% <br> 3–5 | 25–31% <br> 6–8 |
+| [18–23 December 2023](2023-12-23-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias | 31–38% <br> 7–9 | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0–1 | 5–8% <br> 1–2 | 3–5% <br> 0–1 | 1–3% <br> 0 | 3–6% <br> 0–1 | N/A <br> N/A | 14–19% <br> 3–4 | 23–29% <br> 5–7 |
+| [18–21 December 2023](2023-12-21-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã and Negócios | 26–33% <br> 6–8 | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0–1 | 8–13% <br> 2–3 | 2–5% <br> 0–1 | 2–5% <br> 0–1 | 6–10% <br> 1–2 | N/A <br> N/A | 11–16% <br> 2–4 | 24–32% <br> 6–8 |
+| 26 May 2019 | General Election | 31.5% <br> 8 | 27.7% <br> 6 | 27.7% <br> 1 | 12.7% <br> 3 | 4.6% <br> 1 | 1.7% <br> 0 | 0.7% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
 
@@ -27,6 +26,7 @@ Only polls for which at least the sample size has been published are included in
 + **IL:** Iniciativa Liberal (RE)
 + **A:** Aliança (RE)
 + **CH:** Chega (ID)
++ **AD:** Aliança Democrática (EPP)
 + **N/A (single party):** Party not included the published results
 + **N/A (entire row):** Calculation for this opinion poll not started yet
 
