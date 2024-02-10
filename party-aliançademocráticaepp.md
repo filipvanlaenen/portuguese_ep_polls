@@ -10,7 +10,11 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 27.4% | 24.9–29.8% | 24.2–30.5% | 23.7–31.1% | 22.7–32.3% |
+| N/A | [Poll Average](average.html) | 30.2% | 26.8–33.1% | 26.1–33.7% | 25.6–34.2% | 24.5–35.2% |
+| [24 January–1 February 2024](2024-02-01-CESOP–UCP.html) | CESOP–UCP <br> Antena 1, Público and RTP | 32.0% | 30.3–33.7% | 29.8–34.2% | 29.4–34.7% | 28.6–35.5% |
+| [16–25 January 2024](2024-01-25-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 27.0% | N/A | N/A | N/A | N/A |
+| [16–20 January 2024](2024-01-20-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã and Negócios | 24.3% | N/A | N/A | N/A | N/A |
+| [16–20 January 2024](2024-01-20-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias | 27.3% | N/A | N/A | N/A | N/A |
 | [11–17 January 2024](2024-01-17-Consulmark2.html) | Consulmark2 <br> Euronews and Sol | 28.1% | 26.1–30.2% | 25.6–30.8% | 25.1–31.3% | 24.2–32.3% |
 | [18–23 December 2023](2023-12-23-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias | 26.0% | 24.1–28.0% | 23.5–28.6% | 23.0–29.1% | 22.2–30.1% |
 | [18–21 December 2023](2023-12-21-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã and Negócios | 27.8% | 25.6–30.2% | 25.0–30.9% | 24.4–31.5% | 23.4–32.7% |
@@ -241,20 +245,22 @@ The following table shows the probability mass function per percentage block of 
 | 18.5–19.5% | 0% | 100% |  |
 | 19.5–20.5% | 0% | 100% |  |
 | 20.5–21.5% | 0% | 100% |  |
-| 21.5–22.5% | 0.3% | 100% |  |
-| 22.5–23.5% | 2% | 99.6% |  |
-| 23.5–24.5% | 5% | 98% |  |
-| 24.5–25.5% | 11% | 93% |  |
-| 25.5–26.5% | 17% | 82% |  |
-| 26.5–27.5% | 20% | 66% | Median |
-| 27.5–28.5% | 19% | 46% |  |
-| 28.5–29.5% | 14% | 27% |  |
-| 29.5–30.5% | 8% | 13% |  |
-| 30.5–31.5% | 3% | 5% |  |
-| 31.5–32.5% | 1.1% | 1.4% |  |
-| 32.5–33.5% | 0.3% | 0.3% |  |
-| 33.5–34.5% | 0% | 0.1% |  |
-| 34.5–35.5% | 0% | 0% |  |
+| 21.5–22.5% | 0% | 100% |  |
+| 22.5–23.5% | 0.1% | 100% |  |
+| 23.5–24.5% | 0.4% | 99.9% |  |
+| 24.5–25.5% | 2% | 99.5% |  |
+| 25.5–26.5% | 5% | 98% |  |
+| 26.5–27.5% | 10% | 92% |  |
+| 27.5–28.5% | 12% | 82% |  |
+| 28.5–29.5% | 12% | 70% |  |
+| 29.5–30.5% | 11% | 58% | Median |
+| 30.5–31.5% | 14% | 46% |  |
+| 31.5–32.5% | 15% | 32% |  |
+| 32.5–33.5% | 11% | 17% |  |
+| 33.5–34.5% | 5% | 6% |  |
+| 34.5–35.5% | 1.3% | 2% |  |
+| 35.5–36.5% | 0.2% | 0.2% |  |
+| 36.5–37.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -265,7 +271,11 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 6–7 | 6–7 | 5–7 | 5–8 |
+| N/A | [Poll Average](average.html) | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
+| [24 January–1 February 2024](2024-02-01-CESOP–UCP.html) | CESOP–UCP <br> Antena 1, Público and RTP | 8 | 7–8 | 7–8 | 7–8 | 7–9 |
+| [16–25 January 2024](2024-01-25-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias |  |  |  |  |  |
+| [16–20 January 2024](2024-01-20-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã and Negócios |  |  |  |  |  |
+| [16–20 January 2024](2024-01-20-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias |  |  |  |  |  |
 | [11–17 January 2024](2024-01-17-Consulmark2.html) | Consulmark2 <br> Euronews and Sol | 7 | 6–7 | 6–7 | 6–8 | 6–8 |
 | [18–23 December 2023](2023-12-23-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias | 6 | 6–7 | 5–7 | 5–7 | 5–7 |
 | [18–21 December 2023](2023-12-21-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã and Negócios | 7 | 6–7 | 6–7 | 6–8 | 5–8 |
@@ -481,10 +491,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
-| 5 | 3% | 100% |  |
-| 6 | 48% | 97% | Median |
-| 7 | 47% | 49% |  |
-| 8 | 2% | 2% |  |
-| 9 | 0% | 0% |  |
+| 5 | 0.1% | 100% |  |
+| 6 | 18% | 99.9% |  |
+| 7 | 52% | 82% | Median |
+| 8 | 29% | 30% |  |
+| 9 | 0.6% | 0.6% |  |
+| 10 | 0% | 0% |  |
 
 
