@@ -10,7 +10,23 @@ Last result: **0.7%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.9% | 1.1–3.8% | 0.8–4.1% | 0.7–4.4% | 0.5–4.9% |
+| N/A | [Poll Average](average.html) | 3.0% | 1.7–4.3% | 1.5–4.6% | 1.3–4.8% | 1.0–5.3% |
+| [1–3 March 2024](2024-03-03-Duplimétrica.html) | Duplimétrica | 3.0% | 2.3–4.1% | 2.1–4.4% | 1.9–4.7% | 1.6–5.3% |
+| [29 February–2 March 2024](2024-03-02-Duplimétrica.html) | Duplimétrica | 4.0% | N/A | N/A | N/A | N/A |
+| [28 February–1 March 2024](2024-03-01-Duplimétrica.html) | Duplimétrica | 3.0% | N/A | N/A | N/A | N/A |
+| [27–29 February 2024](2024-02-29-Duplimétrica.html) | Duplimétrica | 4.0% | 3.1–5.2% | 2.9–5.6% | 2.7–5.9% | 2.3–6.5% |
+| [26–28 February 2024](2024-02-28-Duplimétrica.html) | Duplimétrica | 4.0% | N/A | N/A | N/A | N/A |
+| [25–27 February 2024](2024-02-27-Duplimétrica.html) | Duplimétrica | 4.0% | N/A | N/A | N/A | N/A |
+| [23–27 February 2024](2024-02-27-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias | 1.7% | 1.3–2.5% | 1.1–2.7% | 1.0–2.9% | 0.9–3.3% |
+| [24–26 February 2024](2024-02-26-Duplimétrica.html) | Duplimétrica | 3.0% | N/A | N/A | N/A | N/A |
+| [22–26 February 2024](2024-02-26-CESOP–UCP.html) | CESOP–UCP <br> Antena 1, Público and RTP | 4.0% | 3.3–4.8% | 3.2–5.0% | 3.0–5.2% | 2.7–5.7% |
+| [17–25 February 2024](2024-02-25-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.2–3.1% | 1.1–3.5% |
+| [23–25 February 2024](2024-02-25-Duplimétrica.html) | Duplimétrica | 3.0% | N/A | N/A | N/A | N/A |
+| [22–24 February 2024](2024-02-24-Duplimétrica.html) | Duplimétrica | 4.0% | N/A | N/A | N/A | N/A |
+| [21–23 February 2024](2024-02-23-Duplimétrica.html) | Duplimétrica | 3.0% | N/A | N/A | N/A | N/A |
+| [19–21 February 2024](2024-02-21-CESOP–UCP.html) | CESOP–UCP <br> Antena 1, Público and RTP | 3.0% | N/A | N/A | N/A | N/A |
+| [10–20 February 2024](2024-02-20-Duplimétrica.html) | Duplimétrica | 3.0% | N/A | N/A | N/A | N/A |
+| [8–17 February 2024](2024-02-17-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã and Negócios | 3.7% | 3.0–4.5% | 2.9–4.7% | 2.7–4.9% | 2.5–5.3% |
 | [8–13 February 2024](2024-02-13-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias | 2.9% | 2.2–3.8% | 2.1–4.0% | 1.9–4.3% | 1.6–4.7% |
 | [6–12 February 2024](2024-02-12-Consulmark2.html) | Consulmark2 <br> Euronews and Sol | 2.9% | 2.2–3.8% | 2.1–4.0% | 1.9–4.3% | 1.6–4.7% |
 | [6–10 February 2024](2024-02-10-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã and Negócios | 3.1% | 2.4–4.2% | 2.2–4.6% | 2.0–4.8% | 1.7–5.4% |
@@ -226,13 +242,13 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0.7% | 100% |  |
-| 0.5–1.5% | 17% | 99.3% | Last Result |
-| 1.5–2.5% | 18% | 82% |  |
-| 2.5–3.5% | 48% | 65% | Median |
-| 3.5–4.5% | 15% | 17% |  |
-| 4.5–5.5% | 1.4% | 1.4% |  |
-| 5.5–6.5% | 0.1% | 0.1% |  |
+| 0.0–0.5% | 0% | 100% |  |
+| 0.5–1.5% | 7% | 100% | Last Result |
+| 1.5–2.5% | 30% | 93% |  |
+| 2.5–3.5% | 32% | 63% | Median |
+| 3.5–4.5% | 26% | 31% |  |
+| 4.5–5.5% | 5% | 5% |  |
+| 5.5–6.5% | 0.2% | 0.2% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
 
@@ -244,7 +260,23 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [1–3 March 2024](2024-03-03-Duplimétrica.html) | Duplimétrica | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [29 February–2 March 2024](2024-03-02-Duplimétrica.html) | Duplimétrica |  |  |  |  |  |
+| [28 February–1 March 2024](2024-03-01-Duplimétrica.html) | Duplimétrica |  |  |  |  |  |
+| [27–29 February 2024](2024-02-29-Duplimétrica.html) | Duplimétrica | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [26–28 February 2024](2024-02-28-Duplimétrica.html) | Duplimétrica |  |  |  |  |  |
+| [25–27 February 2024](2024-02-27-Duplimétrica.html) | Duplimétrica |  |  |  |  |  |
+| [23–27 February 2024](2024-02-27-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias | 0 | 0 | 0 | 0 | 0 |
+| [24–26 February 2024](2024-02-26-Duplimétrica.html) | Duplimétrica |  |  |  |  |  |
+| [22–26 February 2024](2024-02-26-CESOP–UCP.html) | CESOP–UCP <br> Antena 1, Público and RTP | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [17–25 February 2024](2024-02-25-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 0 | 0 | 0 | 0 | 0 |
+| [23–25 February 2024](2024-02-25-Duplimétrica.html) | Duplimétrica |  |  |  |  |  |
+| [22–24 February 2024](2024-02-24-Duplimétrica.html) | Duplimétrica |  |  |  |  |  |
+| [21–23 February 2024](2024-02-23-Duplimétrica.html) | Duplimétrica |  |  |  |  |  |
+| [19–21 February 2024](2024-02-21-CESOP–UCP.html) | CESOP–UCP <br> Antena 1, Público and RTP |  |  |  |  |  |
+| [10–20 February 2024](2024-02-20-Duplimétrica.html) | Duplimétrica |  |  |  |  |  |
+| [8–17 February 2024](2024-02-17-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã and Negócios | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [8–13 February 2024](2024-02-13-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [6–12 February 2024](2024-02-12-Consulmark2.html) | Consulmark2 <br> Euronews and Sol | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [6–10 February 2024](2024-02-10-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã and Negócios | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -462,8 +494,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 92% | 100% | Last Result, Median |
-| 1 | 8% | 8% |  |
+| 0 | 80% | 100% | Last Result, Median |
+| 1 | 20% | 20% |  |
 | 2 | 0% | 0% |  |
 
 
