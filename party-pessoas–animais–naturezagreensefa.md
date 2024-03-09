@@ -10,7 +10,14 @@ Last result: **1.7%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.9% | 1.0–3.1% | 0.8–3.4% | 0.7–3.7% | 0.5–4.2% |
+| N/A | [Poll Average](average.html) | 1.7% | 0.9–3.9% | 0.8–4.4% | 0.7–4.8% | 0.5–5.5% |
+| [5–7 March 2024](2024-03-07-Duplimétrica.html) | Duplimétrica | 1.0% | 0.6–1.8% | 0.5–2.0% | 0.5–2.2% | 0.3–2.6% |
+| [4–6 March 2024](2024-03-06-Duplimétrica.html) | Duplimétrica | 1.0% | N/A | N/A | N/A | N/A |
+| [4–6 March 2024](2024-03-06-Consulmark2.html) | Consulmark2 <br> Euronews and Sol | 1.2% | 0.9–1.9% | 0.8–2.1% | 0.7–2.3% | 0.5–2.7% |
+| [3–5 March 2024](2024-03-05-Duplimétrica.html) | Duplimétrica | 1.0% | N/A | N/A | N/A | N/A |
+| [28 February–5 March 2024](2024-03-05-CESOP–UCP.html) | CESOP–UCP <br> Antena 1, Público and RTP | 1.0% | 0.8–1.3% | 0.7–1.4% | 0.7–1.5% | 0.6–1.7% |
+| [28 February–4 March 2024](2024-03-04-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã and Negócios | 4.0% | 3.2–5.0% | 3.0–5.3% | 2.8–5.6% | 2.5–6.1% |
+| [2–4 March 2024](2024-03-04-Duplimétrica.html) | Duplimétrica | 1.0% | N/A | N/A | N/A | N/A |
 | [1–3 March 2024](2024-03-03-Duplimétrica.html) | Duplimétrica | 1.0% | 0.6–1.8% | 0.5–2.0% | 0.5–2.2% | 0.3–2.6% |
 | [29 February–2 March 2024](2024-03-02-Duplimétrica.html) | Duplimétrica | 1.0% | N/A | N/A | N/A | N/A |
 | [28 February–1 March 2024](2024-03-01-Duplimétrica.html) | Duplimétrica | 1.0% | N/A | N/A | N/A | N/A |
@@ -242,13 +249,14 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 1.1% | 100% |  |
-| 0.5–1.5% | 32% | 98.9% |  |
-| 1.5–2.5% | 44% | 67% | Last Result, Median |
-| 2.5–3.5% | 19% | 23% |  |
-| 3.5–4.5% | 4% | 4% |  |
-| 4.5–5.5% | 0.1% | 0.1% |  |
-| 5.5–6.5% | 0% | 0% |  |
+| 0.0–0.5% | 1.0% | 100% |  |
+| 0.5–1.5% | 45% | 99.0% |  |
+| 1.5–2.5% | 31% | 54% | Last Result, Median |
+| 2.5–3.5% | 9% | 23% |  |
+| 3.5–4.5% | 9% | 13% |  |
+| 4.5–5.5% | 4% | 4% |  |
+| 5.5–6.5% | 0.4% | 0.5% |  |
+| 6.5–7.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -259,7 +267,14 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–1 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| [5–7 March 2024](2024-03-07-Duplimétrica.html) | Duplimétrica | 0 | 0 | 0 | 0 | 0 |
+| [4–6 March 2024](2024-03-06-Duplimétrica.html) | Duplimétrica |  |  |  |  |  |
+| [4–6 March 2024](2024-03-06-Consulmark2.html) | Consulmark2 <br> Euronews and Sol | 0 | 0 | 0 | 0 | 0 |
+| [3–5 March 2024](2024-03-05-Duplimétrica.html) | Duplimétrica |  |  |  |  |  |
+| [28 February–5 March 2024](2024-03-05-CESOP–UCP.html) | CESOP–UCP <br> Antena 1, Público and RTP | 0 | 0 | 0 | 0 | 0 |
+| [28 February–4 March 2024](2024-03-04-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã and Negócios | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [2–4 March 2024](2024-03-04-Duplimétrica.html) | Duplimétrica |  |  |  |  |  |
 | [1–3 March 2024](2024-03-03-Duplimétrica.html) | Duplimétrica | 0 | 0 | 0 | 0 | 0 |
 | [29 February–2 March 2024](2024-03-02-Duplimétrica.html) | Duplimétrica |  |  |  |  |  |
 | [28 February–1 March 2024](2024-03-01-Duplimétrica.html) | Duplimétrica |  |  |  |  |  |
@@ -493,8 +508,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 98% | 100% | Last Result, Median |
-| 1 | 2% | 2% |  |
+| 0 | 91% | 100% | Last Result, Median |
+| 1 | 9% | 9% |  |
 | 2 | 0% | 0% |  |
 
 
