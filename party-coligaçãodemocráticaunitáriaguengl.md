@@ -10,10 +10,11 @@ Last result: **12.7%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.2% | 2.1–5.0% | 1.9–5.3% | 1.7–5.5% | 1.4–6.0% |
+| N/A | [Poll Average](average.html) | 3.0% | 2.0–4.9% | 1.9–5.3% | 1.7–5.5% | 1.4–5.9% |
 | [5–7 March 2024](2024-03-07-Duplimétrica.html) | Duplimétrica | 3.0% | 2.3–4.1% | 2.1–4.4% | 1.9–4.7% | 1.6–5.3% |
 | [4–6 March 2024](2024-03-06-Duplimétrica.html) | Duplimétrica | 3.0% | N/A | N/A | N/A | N/A |
 | [4–6 March 2024](2024-03-06-Consulmark2.html) | Consulmark2 <br> Euronews and Sol | 2.5% | 1.9–3.4% | 1.8–3.6% | 1.6–3.8% | 1.4–4.3% |
+| [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 2.3% | 1.9–2.8% | 1.8–2.9% | 1.7–3.1% | 1.6–3.3% |
 | [3–5 March 2024](2024-03-05-Duplimétrica.html) | Duplimétrica | 4.0% | N/A | N/A | N/A | N/A |
 | [28 February–5 March 2024](2024-03-05-CESOP–UCP.html) | CESOP–UCP <br> Antena 1, Público and RTP | 5.0% | 4.5–5.6% | 4.3–5.8% | 4.2–5.9% | 3.9–6.2% |
 | [28 February–4 March 2024](2024-03-04-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã and Negócios | 2.2% | 1.7–3.1% | 1.6–3.3% | 1.4–3.5% | 1.2–4.0% |
@@ -250,11 +251,11 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% |  |
-| 0.5–1.5% | 1.2% | 100% |  |
-| 1.5–2.5% | 24% | 98.8% |  |
-| 2.5–3.5% | 36% | 75% | Median |
-| 3.5–4.5% | 20% | 39% |  |
-| 4.5–5.5% | 16% | 19% |  |
+| 0.5–1.5% | 1.1% | 100% |  |
+| 1.5–2.5% | 31% | 98.9% |  |
+| 2.5–3.5% | 35% | 68% | Median |
+| 3.5–4.5% | 17% | 33% |  |
+| 4.5–5.5% | 14% | 16% |  |
 | 5.5–6.5% | 2% | 2% |  |
 | 6.5–7.5% | 0% | 0% |  |
 | 7.5–8.5% | 0% | 0% |  |
@@ -277,6 +278,7 @@ Last result: **3** seats (General Election of 26 May 2019)
 | [5–7 March 2024](2024-03-07-Duplimétrica.html) | Duplimétrica | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [4–6 March 2024](2024-03-06-Duplimétrica.html) | Duplimétrica |  |  |  |  |  |
 | [4–6 March 2024](2024-03-06-Consulmark2.html) | Consulmark2 <br> Euronews and Sol | 0 | 0 | 0 | 0 | 0–1 |
+| [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 0 | 0 | 0 | 0 | 0 |
 | [3–5 March 2024](2024-03-05-Duplimétrica.html) | Duplimétrica |  |  |  |  |  |
 | [28 February–5 March 2024](2024-03-05-CESOP–UCP.html) | CESOP–UCP <br> Antena 1, Público and RTP | 1 | 1 | 1 | 1 | 0–1 |
 | [28 February–4 March 2024](2024-03-04-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã and Negócios | 0 | 0 | 0 | 0 | 0 |
@@ -514,8 +516,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 71% | 100% | Median |
-| 1 | 29% | 29% |  |
+| 0 | 75% | 100% | Median |
+| 1 | 25% | 25% |  |
 | 2 | 0% | 0% |  |
 | 3 | 0% | 0% | Last Result |
 
