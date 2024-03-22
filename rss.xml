@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/portuguese_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 09 Mar 2024 18:57:46 +0100</pubDate>
+    <pubDate>Fri, 22 Mar 2024 20:50:47 +0100</pubDate>
     <item>
       <title>Opinion Poll by Duplimétrica, 5–7 March 2024 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2024-03-07-Duplimétrica.html#seats</link>
@@ -68,6 +68,36 @@
         type="image/png"/>
       <pubDate>Sat, 09 Mar 2024 18:31:31 +0100</pubDate>
       <dc:date>2024-03-09T18:31:31.569707+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for Euronews, 23 February–5 March 2024 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2024-03-05-Ipsos.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Bloco de Esquerda (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;LIVRE (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Chega (ID): 3 seats&lt;/li&gt;&lt;li&gt;Iniciativa Liberal (RE): 0–1 seats&lt;/li&gt;&lt;li&gt;Partido Socialista (S&amp;amp;D): 6–8 seats&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Aliança Democrática (EPP): 7–9 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2024-03-05-Ipsos-seats.png"
+        length="238954"
+        type="image/png"/>
+      <pubDate>Fri, 22 Mar 2024 20:50:47 +0100</pubDate>
+      <dc:date>2024-03-22T20:50:47.645371+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for Euronews, 23 February–5 March 2024 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2024-03-05-Ipsos.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2024-03-05-Ipsos-coalitions-seats.png"
+        length="170134"
+        type="image/png"/>
+      <pubDate>Fri, 22 Mar 2024 20:50:47 +0100</pubDate>
+      <dc:date>2024-03-22T20:50:47.645371+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for Euronews, 23 February–5 March 2024 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2024-03-05-Ipsos.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Bloco de Esquerda (GUE/NGL): 3.6–5.4%&lt;/li&gt;&lt;li&gt;LIVRE (Greens/EFA): 2.9–4.5%&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza (Greens/EFA): 1.6–2.8%&lt;/li&gt;&lt;li&gt;Chega (ID): 12.7–15.8%&lt;/li&gt;&lt;li&gt;Iniciativa Liberal (RE): 3.7–5.5%&lt;/li&gt;&lt;li&gt;Partido Socialista (S&amp;amp;D): 27.6–31.6%&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária (GUE/NGL): 1.7–3.1%&lt;/li&gt;&lt;li&gt;Aliança Democrática (EPP): 32.3–36.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2024-03-05-Ipsos.png"
+        length="271159"
+        type="image/png"/>
+      <pubDate>Fri, 22 Mar 2024 20:50:47 +0100</pubDate>
+      <dc:date>2024-03-22T20:50:47.645371+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by CESOP–UCP for Antena 1, Público and RTP, 28 February–5 March 2024 – Seat Projections for the Parties</title>
@@ -6099,6 +6129,6 @@
       <pubDate>Sun, 30 Jun 2019 15:14:32 +0200</pubDate>
       <dc:date>2019-06-30T15:14:32+02:00</dc:date>
     </item>
-    <dc:date>2024-03-09T18:57:46.457918+01:00</dc:date>
+    <dc:date>2024-03-22T20:50:47.645371+01:00</dc:date>
   </channel>
 </rss>
