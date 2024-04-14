@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/portuguese_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 14 Apr 2024 18:25:52 +0200</pubDate>
+    <pubDate>Sun, 14 Apr 2024 21:05:37 +0200</pubDate>
     <item>
       <title>Opinion Poll by Duplimétrica, 5–7 March 2024 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2024-03-07-Duplimétrica.html#seats</link>
@@ -76,8 +76,8 @@
       <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2024-03-05-Ipsos-seats.png"
         length="238954"
         type="image/png"/>
-      <pubDate>Fri, 22 Mar 2024 20:50:47 +0100</pubDate>
-      <dc:date>2024-03-22T20:50:47.645371+01:00</dc:date>
+      <pubDate>Sun, 14 Apr 2024 21:05:37 +0200</pubDate>
+      <dc:date>2024-04-14T21:05:37.912518+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for Euronews, 23 February–5 March 2024 – Seat Projections for a Selection of Coalitions</title>
@@ -86,8 +86,8 @@
       <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2024-03-05-Ipsos-coalitions-seats.png"
         length="170134"
         type="image/png"/>
-      <pubDate>Fri, 22 Mar 2024 20:50:47 +0100</pubDate>
-      <dc:date>2024-03-22T20:50:47.645371+01:00</dc:date>
+      <pubDate>Sun, 14 Apr 2024 21:05:37 +0200</pubDate>
+      <dc:date>2024-04-14T21:05:37.912518+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for Euronews, 23 February–5 March 2024 – Voting Intentions</title>
@@ -96,8 +96,8 @@
       <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2024-03-05-Ipsos.png"
         length="271159"
         type="image/png"/>
-      <pubDate>Fri, 22 Mar 2024 20:50:47 +0100</pubDate>
-      <dc:date>2024-03-22T20:50:47.645371+01:00</dc:date>
+      <pubDate>Sun, 14 Apr 2024 21:05:37 +0200</pubDate>
+      <dc:date>2024-04-14T21:05:37.912518+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by CESOP–UCP for Antena 1, Público and RTP, 28 February–5 March 2024 – Seat Projections for the Parties</title>
@@ -6129,6 +6129,6 @@
       <pubDate>Sun, 30 Jun 2019 15:14:32 +0200</pubDate>
       <dc:date>2019-06-30T15:14:32+02:00</dc:date>
     </item>
-    <dc:date>2024-04-14T18:25:52.489542+02:00</dc:date>
+    <dc:date>2024-04-14T21:05:37.912518+02:00</dc:date>
   </channel>
 </rss>
