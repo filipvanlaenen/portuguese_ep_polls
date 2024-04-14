@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/portuguese_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 22 Mar 2024 20:50:47 +0100</pubDate>
+    <pubDate>Sun, 14 Apr 2024 18:25:52 +0200</pubDate>
     <item>
       <title>Opinion Poll by Duplimétrica, 5–7 March 2024 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2024-03-07-Duplimétrica.html#seats</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2024-03-07-Duplimétrica-seats.png"
         length="240265"
         type="image/png"/>
-      <pubDate>Sat, 09 Mar 2024 18:24:22 +0100</pubDate>
-      <dc:date>2024-03-09T18:24:22.78716+01:00</dc:date>
+      <pubDate>Sun, 14 Apr 2024 18:05:08 +0200</pubDate>
+      <dc:date>2024-04-14T18:05:08.221224+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Duplimétrica, 5–7 March 2024 – Seat Projections for a Selection of Coalitions</title>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2024-03-07-Duplimétrica-coalitions-seats.png"
         length="175547"
         type="image/png"/>
-      <pubDate>Sat, 09 Mar 2024 18:24:22 +0100</pubDate>
-      <dc:date>2024-03-09T18:24:22.78716+01:00</dc:date>
+      <pubDate>Sun, 14 Apr 2024 18:05:08 +0200</pubDate>
+      <dc:date>2024-04-14T18:05:08.221224+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Duplimétrica, 5–7 March 2024 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2024-03-07-Duplimétrica.png"
         length="291768"
         type="image/png"/>
-      <pubDate>Sat, 09 Mar 2024 18:24:22 +0100</pubDate>
-      <dc:date>2024-03-09T18:24:22.78716+01:00</dc:date>
+      <pubDate>Sun, 14 Apr 2024 18:05:08 +0200</pubDate>
+      <dc:date>2024-04-14T18:05:08.221224+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Consulmark2 for Euronews and Sol, 4–6 March 2024 – Seat Projections for the Parties</title>
@@ -46,8 +46,8 @@
       <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2024-03-06-Consulmark2-seats.png"
         length="264838"
         type="image/png"/>
-      <pubDate>Sat, 09 Mar 2024 18:31:31 +0100</pubDate>
-      <dc:date>2024-03-09T18:31:31.569707+01:00</dc:date>
+      <pubDate>Sun, 14 Apr 2024 18:25:52 +0200</pubDate>
+      <dc:date>2024-04-14T18:25:52.489542+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Consulmark2 for Euronews and Sol, 4–6 March 2024 – Seat Projections for a Selection of Coalitions</title>
@@ -56,8 +56,8 @@
       <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2024-03-06-Consulmark2-coalitions-seats.png"
         length="191122"
         type="image/png"/>
-      <pubDate>Sat, 09 Mar 2024 18:31:31 +0100</pubDate>
-      <dc:date>2024-03-09T18:31:31.569707+01:00</dc:date>
+      <pubDate>Sun, 14 Apr 2024 18:25:52 +0200</pubDate>
+      <dc:date>2024-04-14T18:25:52.489542+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Consulmark2 for Euronews and Sol, 4–6 March 2024 – Voting Intentions</title>
@@ -66,8 +66,8 @@
       <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2024-03-06-Consulmark2.png"
         length="296672"
         type="image/png"/>
-      <pubDate>Sat, 09 Mar 2024 18:31:31 +0100</pubDate>
-      <dc:date>2024-03-09T18:31:31.569707+01:00</dc:date>
+      <pubDate>Sun, 14 Apr 2024 18:25:52 +0200</pubDate>
+      <dc:date>2024-04-14T18:25:52.489542+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for Euronews, 23 February–5 March 2024 – Seat Projections for the Parties</title>
@@ -6129,6 +6129,6 @@
       <pubDate>Sun, 30 Jun 2019 15:14:32 +0200</pubDate>
       <dc:date>2019-06-30T15:14:32+02:00</dc:date>
     </item>
-    <dc:date>2024-03-22T20:50:47.645371+01:00</dc:date>
+    <dc:date>2024-04-14T18:25:52.489542+02:00</dc:date>
   </channel>
 </rss>
