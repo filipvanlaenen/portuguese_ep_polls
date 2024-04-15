@@ -291,7 +291,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 3 | 3 | 3 | 3 | 2–4 |
 | [3–5 March 2024](2024-03-05-Duplimétrica.html) | Duplimétrica |  |  |  |  |  |
 | [28 February–5 March 2024](2024-03-05-CESOP–UCP.html) | CESOP–UCP <br> Antena 1, Público and RTP | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
-| [28 February–4 March 2024](2024-03-04-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã and Negócios | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
+| [28 February–4 March 2024](2024-03-04-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã and Negócios | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | [2–4 March 2024](2024-03-04-Duplimétrica.html) | Duplimétrica |  |  |  |  |  |
 | [1–3 March 2024](2024-03-03-Duplimétrica.html) | Duplimétrica | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
 | [29 February–2 March 2024](2024-03-02-Duplimétrica.html) | Duplimétrica |  |  |  |  |  |

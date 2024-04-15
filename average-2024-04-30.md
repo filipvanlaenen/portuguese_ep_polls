@@ -14,7 +14,7 @@ The table below lists the polls on which the average is based. They are the most
 | [4–6 March 2024](2024-03-06-Consulmark2.html) | Consulmark2 <br> Euronews and Sol | 24–30% <br> 5–7 | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0 | 4–7% <br> 0–1 | 1–2% <br> 0 | 3–6% <br> 0–1 | 5–8% <br> 1–2 | N/A <br> N/A | 16–21% <br> 3–5 | 27–33% <br> 6–8 |
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 28–32% <br> 6–8 | N/A <br> N/A | N/A <br> N/A | 2–3% <br> 0 | 4–5% <br> 0–1 | 2–3% <br> 0 | 3–5% <br> 0–1 | 4–6% <br> 0–1 | N/A <br> N/A | 13–16% <br> 3 | 32–37% <br> 7–9 |
 | [28 February–5 March 2024](2024-03-05-CESOP–UCP.html) | CESOP–UCP <br> Antena 1, Público and RTP | 26–30% <br> 6–7 | N/A <br> N/A | N/A <br> N/A | 4–6% <br> 1 | 4–6% <br> 1 | 1% <br> 0 | 2–4% <br> 0 | 5–7% <br> 1 | N/A <br> N/A | 15–18% <br> 3–4 | 32–36% <br> 7–9 |
-| [28 February–4 March 2024](2024-03-04-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã and Negócios | 22–28% <br> 5–7 | N/A <br> N/A | N/A <br> N/A | 1–4% <br> 0 | 4–8% <br> 1 | 3–6% <br> 0–1 | 3–6% <br> 0–1 | 7–10% <br> 1–2 | N/A <br> N/A | 14–20% <br> 3–5 | 28–35% <br> 7–8 |
+| [28 February–4 March 2024](2024-03-04-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã and Negócios | 22–28% <br> 5–7 | N/A <br> N/A | N/A <br> N/A | 1–4% <br> 0 | 4–8% <br> 1 | 3–6% <br> 0–1 | 3–6% <br> 0–1 | 7–10% <br> 1–2 | N/A <br> N/A | 14–20% <br> 3–4 | 28–35% <br> 7–8 |
 | [23–27 February 2024](2024-02-27-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias | 30–36% <br> 7–9 | N/A <br> N/A | N/A <br> N/A | 3–6% <br> 0–1 | 5–8% <br> 1–2 | 1–3% <br> 0 | 1–3% <br> 0 | 3–6% <br> 0–1 | N/A <br> N/A | 14–19% <br> 3–5 | 26–33% <br> 6–8 |
 | [17–25 February 2024](2024-02-25-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 27–33% <br> 6–8 | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0–1 | 4–7% <br> 0–1 | 1–3% <br> 0 | 1–3% <br> 0 | 3–5% <br> 0–1 | N/A <br> N/A | 15–20% <br> 3–5 | 28–34% <br> 7–8 |
 | 26 May 2019 | General Election | 31.5% <br> 8 | 27.7% <br> 6 | 27.7% <br> 1 | 12.7% <br> 3 | 4.6% <br> 1 | 1.7% <br> 0 | 0.7% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
@@ -268,7 +268,7 @@ Only polls for which at least the sample size has been published are included in
 | <a href="#partido-social-democrata-(epp)">Partido Social Democrata (EPP)</a> | 6 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#cds–partido-popular-(epp)">CDS–Partido Popular (EPP)</a> | 1 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#coligação-democrática-unitária-(gue/ngl)">Coligação Democrática Unitária (GUE/NGL)</a> | 3 | 0 | 0–1 |0–1 | 0–1 | 0–1 |
-| <a href="#bloco-de-esquerda-(gue/ngl)">Bloco de Esquerda (GUE/NGL)</a> | 1 | 1 | 1 |1 | 0–1 | 0–2 |
+| <a href="#bloco-de-esquerda-(gue/ngl)">Bloco de Esquerda (GUE/NGL)</a> | 1 | 1 | 1 |0–1 | 0–1 | 0–2 |
 | <a href="#pessoas–animais–natureza-(greens/efa)">Pessoas–Animais–Natureza (Greens/EFA)</a> | 0 | 0 | 0 |0–1 | 0–1 | 0–1 |
 | <a href="#livre-(greens/efa)">LIVRE (Greens/EFA)</a> | 0 | 0 | 0–1 |0–1 | 0–1 | 0–1 |
 | <a href="#iniciativa-liberal-(re)">Iniciativa Liberal (RE)</a> | 0 | 1 | 0–2 |0–2 | 0–2 | 0–2 |
@@ -325,8 +325,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 5% | 100% |  |
-| 1 | 94% | 95% | Last Result, Median |
-| 2 | 2% | 2% |  |
+| 1 | 93% | 95% | Last Result, Median |
+| 2 | 1.5% | 1.5% |  |
 | 3 | 0% | 0% |  |
 
 ### Pessoas–Animais–Natureza (Greens/EFA)
@@ -504,5 +504,5 @@ Only polls for which at least the sample size has been published are included in
 
 + **Number of polls included in this average:** 7
 + **Lowest number of simulations done in a poll included in this average:** 1,048,576
-+ **Total number of simulations done in the polls included in this average:** 10,485,760
++ **Total number of simulations done in the polls included in this average:** 12,582,912
 + **Error estimate:** 2.76%
