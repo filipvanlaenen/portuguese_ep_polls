@@ -287,7 +287,7 @@ Only polls for which at least the sample size has been published are included in
 | 5 | 4% | 100% |  |
 | 6 | 33% | 96% |  |
 | 7 | 46% | 62% | Median |
-| 8 | 14% | 17% | Last Result |
+| 8 | 15% | 17% | Last Result |
 | 9 | 2% | 2% |  |
 | 10 | 0% | 0% |  |
 
@@ -326,7 +326,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 5% | 100% |  |
 | 1 | 93% | 95% | Last Result, Median |
-| 2 | 1.5% | 1.5% |  |
+| 2 | 2% | 2% |  |
 | 3 | 0% | 0% |  |
 
 ### Pessoas–Animais–Natureza (Greens/EFA)
@@ -362,7 +362,7 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 14% | 100% | Last Result |
-| 1 | 74% | 86% | Median |
+| 1 | 75% | 86% | Median |
 | 2 | 11% | 11% |  |
 | 3 | 0% | 0% |  |
 
@@ -383,8 +383,8 @@ Only polls for which at least the sample size has been published are included in
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0.3% | 100% |  |
-| 3 | 42% | 99.7% |  |
-| 4 | 55% | 58% | Median |
+| 3 | 41% | 99.7% |  |
+| 4 | 56% | 58% | Median |
 | 5 | 3% | 3% |  |
 | 6 | 0% | 0% |  |
 
@@ -447,7 +447,7 @@ Only polls for which at least the sample size has been published are included in
 | 5 | 4% | 100% |  |
 | 6 | 33% | 96% |  |
 | 7 | 46% | 62% | Median |
-| 8 | 14% | 17% | Last Result |
+| 8 | 15% | 17% | Last Result |
 | 9 | 2% | 2% |  |
 | 10 | 0% | 0% |  |
 
@@ -460,8 +460,8 @@ Only polls for which at least the sample size has been published are included in
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0.3% | 100% |  |
-| 3 | 42% | 99.7% |  |
-| 4 | 55% | 58% | Median |
+| 3 | 41% | 99.7% |  |
+| 4 | 56% | 58% | Median |
 | 5 | 3% | 3% |  |
 | 6 | 0% | 0% |  |
 
@@ -472,7 +472,7 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 14% | 100% | Last Result |
-| 1 | 74% | 86% | Median |
+| 1 | 75% | 86% | Median |
 | 2 | 11% | 11% |  |
 | 3 | 0% | 0% |  |
 
@@ -483,9 +483,9 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 5% | 100% |  |
-| 1 | 69% | 95% | Median |
-| 2 | 26% | 26% |  |
-| 3 | 0.3% | 0.3% |  |
+| 1 | 70% | 95% | Median |
+| 2 | 25% | 25% |  |
+| 3 | 0.4% | 0.4% |  |
 | 4 | 0% | 0% | Last Result |
 
 ### Pessoas–Animais–Natureza (Greens/EFA) – LIVRE (Greens/EFA)
@@ -504,5 +504,5 @@ Only polls for which at least the sample size has been published are included in
 
 + **Number of polls included in this average:** 7
 + **Lowest number of simulations done in a poll included in this average:** 1,048,576
-+ **Total number of simulations done in the polls included in this average:** 12,582,912
++ **Total number of simulations done in the polls included in this average:** 13,631,488
 + **Error estimate:** 2.76%
