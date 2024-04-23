@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16.3% | 14.1–18.6% | 13.6–19.3% | 13.2–19.8% | 12.4–20.9% |
+| N/A | [Poll Average](average.html) | 18.4% | 16.7–20.2% | 16.3–20.8% | 15.9–21.2% | 15.1–22.1% |
+| [12–16 April 2024](2024-04-16-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias | 18.4% | 16.7–20.2% | 16.3–20.8% | 15.9–21.2% | 15.1–22.1% |
 | [5–7 March 2024](2024-03-07-Duplimétrica.html) | Duplimétrica | 15.0% | 13.3–17.0% | 12.8–17.6% | 12.4–18.1% | 11.6–19.1% |
 | [4–6 March 2024](2024-03-06-Duplimétrica.html) | Duplimétrica | 14.0% | N/A | N/A | N/A | N/A |
 | [4–6 March 2024](2024-03-06-Consulmark2.html) | Consulmark2 <br> Euronews and Sol | 18.2% | 16.6–20.1% | 16.1–20.6% | 15.7–21.1% | 14.9–22.0% |
@@ -53,7 +54,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [10–13 November 2023](2023-11-13-Aximage.html) | Aximage <br> CNN Portugal and TVI | 18.1% | 16.0–20.4% | 15.4–21.1% | 14.9–21.7% | 14.0–22.8% |
 | [7–8 November 2023](2023-11-08-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã and Negócios | 16.1% | 14.3–18.2% | 13.8–18.8% | 13.4–19.3% | 12.6–20.3% |
 | [18–24 October 2023](2023-10-24-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias | 14.7% | 13.2–16.4% | 12.7–16.9% | 12.4–17.3% | 11.7–18.1% |
-| [18–23 October 2023](2023-10-23-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã and Negócios | 12.7% | 11.2–14.6% | 10.7–15.2% | 10.3–15.7% | 9.6–16.6% |
+| [18–23 October 2023](2023-10-23-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã and Negócios | 12.1% | 11.2–14.6% | 10.7–15.2% | 10.3–15.7% | 9.6–16.6% |
 | [2–5 October 2023](2023-10-05-Aximage.html) | Aximage <br> CNN Portugal and TVI | 13.6% | 12.0–15.6% | 11.5–16.1% | 11.1–16.6% | 10.4–17.6% |
 | [16–25 September 2023](2023-09-25-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 13.1% | 11.6–14.7% | 11.2–15.2% | 10.9–15.6% | 10.3–16.4% |
 | [9–14 September 2023](2023-09-14-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã and Negócios | 12.9% | 11.3–14.8% | 10.8–15.3% | 10.4–15.8% | 9.7–16.7% |
@@ -261,19 +262,20 @@ The following table shows the probability mass function per percentage block of 
 | 7.5–8.5% | 0% | 100% |  |
 | 8.5–9.5% | 0% | 100% |  |
 | 9.5–10.5% | 0% | 100% |  |
-| 10.5–11.5% | 0.1% | 100% |  |
-| 11.5–12.5% | 0.6% | 99.9% |  |
-| 12.5–13.5% | 4% | 99.3% |  |
-| 13.5–14.5% | 11% | 95% |  |
-| 14.5–15.5% | 16% | 84% |  |
-| 15.5–16.5% | 23% | 67% | Median |
-| 16.5–17.5% | 20% | 45% |  |
-| 17.5–18.5% | 14% | 24% |  |
-| 18.5–19.5% | 7% | 11% |  |
-| 19.5–20.5% | 3% | 4% |  |
-| 20.5–21.5% | 0.8% | 0.9% |  |
-| 21.5–22.5% | 0.1% | 0.2% |  |
-| 22.5–23.5% | 0% | 0% |  |
+| 10.5–11.5% | 0% | 100% |  |
+| 11.5–12.5% | 0% | 100% |  |
+| 12.5–13.5% | 0% | 100% |  |
+| 13.5–14.5% | 0.1% | 100% |  |
+| 14.5–15.5% | 1.2% | 99.9% |  |
+| 15.5–16.5% | 6% | 98.7% |  |
+| 16.5–17.5% | 18% | 92% |  |
+| 17.5–18.5% | 28% | 75% | Median |
+| 18.5–19.5% | 26% | 47% |  |
+| 19.5–20.5% | 14% | 21% |  |
+| 20.5–21.5% | 5% | 7% |  |
+| 21.5–22.5% | 1.2% | 1.4% |  |
+| 22.5–23.5% | 0.2% | 0.2% |  |
+| 23.5–24.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -284,7 +286,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
+| N/A | [Poll Average](average.html) | 4 | 4–5 | 4–5 | 3–5 | 3–5 |
+| [12–16 April 2024](2024-04-16-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias | 4 | 4–5 | 4–5 | 3–5 | 3–5 |
 | [5–7 March 2024](2024-03-07-Duplimétrica.html) | Duplimétrica | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | [4–6 March 2024](2024-03-06-Duplimétrica.html) | Duplimétrica |  |  |  |  |  |
 | [4–6 March 2024](2024-03-06-Consulmark2.html) | Consulmark2 <br> Euronews and Sol | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
@@ -528,10 +531,10 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 0.3% | 100% |  |
-| 3 | 41% | 99.7% |  |
-| 4 | 56% | 58% | Median |
-| 5 | 3% | 3% |  |
+| 2 | 0% | 100% |  |
+| 3 | 4% | 100% |  |
+| 4 | 80% | 96% | Median |
+| 5 | 17% | 17% |  |
 | 6 | 0% | 0% |  |
 
 
