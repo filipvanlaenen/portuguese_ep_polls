@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/portuguese_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 26 Apr 2024 11:40:17 +0200</pubDate>
+    <pubDate>Thu, 09 May 2024 13:44:17 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Intercampus for CMTV, Correio da Manhã and Negócios, 18–23 April 2024 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2024-04-23-Intercampus.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Bloco de Esquerda (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;LIVRE (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Chega (ID): 2–4 seats&lt;/li&gt;&lt;li&gt;Iniciativa Liberal (RE): 0–1 seats&lt;/li&gt;&lt;li&gt;Partido Socialista (S&amp;amp;D): 7–9 seats&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Aliança Democrática (EPP): 6–8 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2024-04-23-Intercampus-seats.png"
+        length="252781"
+        type="image/png"/>
+      <pubDate>Thu, 09 May 2024 13:44:17 +0200</pubDate>
+      <dc:date>2024-05-09T13:44:17.324945+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Intercampus for CMTV, Correio da Manhã and Negócios, 18–23 April 2024 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2024-04-23-Intercampus.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2024-04-23-Intercampus-coalitions-seats.png"
+        length="195793"
+        type="image/png"/>
+      <pubDate>Thu, 09 May 2024 13:44:17 +0200</pubDate>
+      <dc:date>2024-05-09T13:44:17.324945+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Intercampus for CMTV, Correio da Manhã and Negócios, 18–23 April 2024 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2024-04-23-Intercampus.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Bloco de Esquerda (GUE/NGL): 5.6–9.8%&lt;/li&gt;&lt;li&gt;LIVRE (Greens/EFA): 4.2–8.0%&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza (Greens/EFA): 0.7–2.6%&lt;/li&gt;&lt;li&gt;Chega (ID): 10.6–16.0%&lt;/li&gt;&lt;li&gt;Iniciativa Liberal (RE): 3.1–6.4%&lt;/li&gt;&lt;li&gt;Partido Socialista (S&amp;amp;D): 29.7–37.3%&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária (GUE/NGL): 2.1–5.1%&lt;/li&gt;&lt;li&gt;Aliança Democrática (EPP): 24.7–31.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2024-04-23-Intercampus.png"
+        length="306022"
+        type="image/png"/>
+      <pubDate>Thu, 09 May 2024 13:44:17 +0200</pubDate>
+      <dc:date>2024-05-09T13:44:17.324945+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Aximage for Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias, 12–16 April 2024 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2024-04-16-Aximage.html#seats</link>
@@ -6159,6 +6189,6 @@
       <pubDate>Sun, 30 Jun 2019 15:14:32 +0200</pubDate>
       <dc:date>2019-06-30T15:14:32+02:00</dc:date>
     </item>
-    <dc:date>2024-04-26T11:40:17.936517+02:00</dc:date>
+    <dc:date>2024-05-09T13:44:17.324945+02:00</dc:date>
   </channel>
 </rss>
