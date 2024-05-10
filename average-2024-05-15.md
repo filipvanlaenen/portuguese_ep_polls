@@ -268,9 +268,9 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 6 | 1.4% | 100% |  |
-| 7 | 40% | 98.6% |  |
-| 8 | 50% | 59% | Last Result, Median |
-| 9 | 9% | 9% |  |
+| 7 | 39% | 98.6% |  |
+| 8 | 51% | 59% | Last Result, Median |
+| 9 | 8% | 8% |  |
 | 10 | 0.1% | 0.1% |  |
 | 11 | 0% | 0% | Majority |
 
@@ -294,8 +294,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 61% | 100% | Median |
-| 1 | 39% | 39% |  |
+| 0 | 60% | 100% | Median |
+| 1 | 40% | 40% |  |
 | 2 | 0% | 0% |  |
 | 3 | 0% | 0% | Last Result |
 
@@ -308,8 +308,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.4% | 100% |  |
-| 1 | 76% | 99.6% | Last Result, Median |
-| 2 | 24% | 24% |  |
+| 1 | 79% | 99.6% | Last Result, Median |
+| 2 | 20% | 20% |  |
 | 3 | 0% | 0% |  |
 
 ### Pessoas–Animais–Natureza (Greens/EFA)
@@ -332,7 +332,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 36% | 100% | Last Result |
 | 1 | 63% | 64% | Median |
-| 2 | 2% | 2% |  |
+| 2 | 1.4% | 1.4% |  |
 | 3 | 0% | 0% |  |
 
 ### Iniciativa Liberal (RE)
@@ -344,7 +344,7 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 12% | 100% | Last Result |
-| 1 | 87% | 88% | Median |
+| 1 | 88% | 88% | Median |
 | 2 | 0.8% | 0.8% |  |
 | 3 | 0% | 0% |  |
 
@@ -365,7 +365,7 @@ Only polls for which at least the sample size has been published are included in
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 9% | 100% |  |
-| 3 | 40% | 91% |  |
+| 3 | 41% | 91% |  |
 | 4 | 41% | 50% | Median |
 | 5 | 9% | 9% |  |
 | 6 | 0% | 0% |  |
@@ -384,8 +384,8 @@ Only polls for which at least the sample size has been published are included in
 | 3 | 0% | 100% |  |
 | 4 | 0.1% | 100% |  |
 | 5 | 12% | 99.9% |  |
-| 6 | 57% | 88% | Median |
-| 7 | 28% | 30% |  |
+| 6 | 56% | 88% | Median |
+| 7 | 29% | 32% |  |
 | 8 | 3% | 3% |  |
 | 9 | 0% | 0% |  |
 
@@ -401,7 +401,7 @@ Only polls for which at least the sample size has been published are included in
 | Partido Socialista (S&D) | 8 | 8 | 0% | 7–8 | 7–9 | 7–9 | 6–9 |
 | CDS–Partido Popular (EPP) – Partido Social Democrata (EPP) – Aliança Democrática (EPP) | 7 | 6 | 0% | 5–7 | 5–7 | 5–8 | 5–8 |
 | Chega (ID) | 0 | 4 | 0% | 3–4 | 2–5 | 2–5 | 2–5 |
-| Coligação Democrática Unitária (GUE/NGL) – Bloco de Esquerda (GUE/NGL) | 4 | 2 | 0% | 1–2 | 1–2 | 1–2 | 1–3 |
+| Coligação Democrática Unitária (GUE/NGL) – Bloco de Esquerda (GUE/NGL) | 4 | 2 | 0% | 1–2 | 1–2 | 1–3 | 1–3 |
 | Aliança (RE) – Iniciativa Liberal (RE) | 0 | 1 | 0% | 0–1 | 0–1 | 0–1 | 0–2 |
 | Pessoas–Animais–Natureza (Greens/EFA) – LIVRE (Greens/EFA) | 0 | 1 | 0% | 0–1 | 0–1 | 0–1 | 0–2 |
 
@@ -412,9 +412,9 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 6 | 1.4% | 100% |  |
-| 7 | 40% | 98.6% |  |
-| 8 | 50% | 59% | Last Result, Median |
-| 9 | 9% | 9% |  |
+| 7 | 39% | 98.6% |  |
+| 8 | 51% | 59% | Last Result, Median |
+| 9 | 8% | 8% |  |
 | 10 | 0.1% | 0.1% |  |
 | 11 | 0% | 0% | Majority |
 
@@ -426,8 +426,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 0.1% | 100% |  |
 | 5 | 12% | 99.9% |  |
-| 6 | 57% | 88% | Median |
-| 7 | 28% | 30% | Last Result |
+| 6 | 56% | 88% | Median |
+| 7 | 29% | 32% | Last Result |
 | 8 | 3% | 3% |  |
 | 9 | 0% | 0% |  |
 
@@ -440,7 +440,7 @@ Only polls for which at least the sample size has been published are included in
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 9% | 100% |  |
-| 3 | 40% | 91% |  |
+| 3 | 41% | 91% |  |
 | 4 | 41% | 50% | Median |
 | 5 | 9% | 9% |  |
 | 6 | 0% | 0% |  |
@@ -452,9 +452,9 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.1% | 100% |  |
-| 1 | 40% | 99.9% | Median |
-| 2 | 58% | 60% |  |
-| 3 | 2% | 2% |  |
+| 1 | 43% | 99.9% | Median |
+| 2 | 54% | 57% |  |
+| 3 | 3% | 3% |  |
 | 4 | 0% | 0% | Last Result |
 
 ### Aliança (RE) – Iniciativa Liberal (RE)
@@ -464,7 +464,7 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 12% | 100% | Last Result |
-| 1 | 87% | 88% | Median |
+| 1 | 88% | 88% | Median |
 | 2 | 0.8% | 0.8% |  |
 | 3 | 0% | 0% |  |
 
@@ -476,13 +476,13 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 36% | 100% | Last Result |
 | 1 | 63% | 64% | Median |
-| 2 | 2% | 2% |  |
+| 2 | 1.4% | 1.4% |  |
 | 3 | 0% | 0% |  |
 
 
 ## Technical Information
 
 + **Number of polls included in this average:** 2
-+ **Lowest number of simulations done in a poll included in this average:** 1,048,576
-+ **Total number of simulations done in the polls included in this average:** 3,145,728
-+ **Error estimate:** 0.88%
++ **Lowest number of simulations done in a poll included in this average:** 2,097,152
++ **Total number of simulations done in the polls included in this average:** 4,194,304
++ **Error estimate:** 1.01%
