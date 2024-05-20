@@ -10,8 +10,8 @@ Last result: **12.7%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.8% | 2.8–4.9% | 2.5–5.2% | 2.3–5.5% | 2.0–6.1% |
-| [6–13 May 2024](2024-05-13-Duplimétrica.html) | Duplimétrica <br> TVI | 3.0% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 3.6% | 2.5–4.7% | 2.3–5.1% | 2.1–5.4% | 1.8–6.0% |
+| [6–13 May 2024](2024-05-13-Duplimétrica.html) | Duplimétrica <br> TVI | 3.0% | 2.3–4.1% | 2.1–4.4% | 1.9–4.7% | 1.6–5.3% |
 | [18–23 April 2024](2024-04-23-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã and Negócios | 3.3% | 2.5–4.5% | 2.3–4.8% | 2.1–5.1% | 1.8–5.7% |
 | [12–16 April 2024](2024-04-16-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias | 4.1% | 3.3–5.2% | 3.1–5.4% | 2.9–5.7% | 2.6–6.2% |
 | [5–7 March 2024](2024-03-07-Duplimétrica.html) | Duplimétrica | 3.0% | 2.3–4.1% | 2.1–4.4% | 1.9–4.7% | 1.6–5.3% |
@@ -253,12 +253,13 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 5% | 100% |  |
-| 2.5–3.5% | 32% | 95% |  |
-| 3.5–4.5% | 44% | 62% | Median |
-| 4.5–5.5% | 17% | 19% |  |
-| 5.5–6.5% | 2% | 2% |  |
+| 0.0–0.5% | 0% | 100% |  |
+| 0.5–1.5% | 0.1% | 100% |  |
+| 1.5–2.5% | 10% | 99.9% |  |
+| 2.5–3.5% | 39% | 90% |  |
+| 3.5–4.5% | 37% | 51% | Median |
+| 4.5–5.5% | 12% | 14% |  |
+| 5.5–6.5% | 1.5% | 2% |  |
 | 6.5–7.5% | 0.1% | 0.1% |  |
 | 7.5–8.5% | 0% | 0% |  |
 | 8.5–9.5% | 0% | 0% |  |
@@ -277,7 +278,7 @@ Last result: **3** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [6–13 May 2024](2024-05-13-Duplimétrica.html) | Duplimétrica <br> TVI |  |  |  |  |  |
+| [6–13 May 2024](2024-05-13-Duplimétrica.html) | Duplimétrica <br> TVI | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [18–23 April 2024](2024-04-23-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã and Negócios | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [12–16 April 2024](2024-04-16-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [5–7 March 2024](2024-03-07-Duplimétrica.html) | Duplimétrica | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -521,8 +522,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 60% | 100% | Median |
-| 1 | 40% | 40% |  |
+| 0 | 69% | 100% | Median |
+| 1 | 31% | 31% |  |
 | 2 | 0% | 0% |  |
 | 3 | 0% | 0% | Last Result |
 
