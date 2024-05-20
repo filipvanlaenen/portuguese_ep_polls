@@ -11,6 +11,7 @@ Last result: **31.5%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 32.3% | 29.8–35.1% | 29.2–35.9% | 28.6–36.6% | 27.6–38.0% |
+| [6–13 May 2024](2024-05-13-Duplimétrica.html) | Duplimétrica <br> TVI | 34.0% | N/A | N/A | N/A | N/A |
 | [18–23 April 2024](2024-04-23-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã and Negócios | 33.4% | 31.0–35.9% | 30.3–36.6% | 29.7–37.3% | 28.6–38.5% |
 | [12–16 April 2024](2024-04-16-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias | 31.3% | 29.3–33.5% | 28.7–34.1% | 28.2–34.6% | 27.2–35.6% |
 | [5–7 March 2024](2024-03-07-Duplimétrica.html) | Duplimétrica | 29.0% | 26.7–31.5% | 26.1–32.2% | 25.5–32.8% | 24.4–34.0% |
@@ -279,6 +280,7 @@ Last result: **8** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8 | 7–8 | 7–9 | 7–9 | 6–9 |
+| [6–13 May 2024](2024-05-13-Duplimétrica.html) | Duplimétrica <br> TVI |  |  |  |  |  |
 | [18–23 April 2024](2024-04-23-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã and Negócios | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
 | [12–16 April 2024](2024-04-16-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias | 7 | 7–8 | 7–8 | 6–8 | 6–9 |
 | [5–7 March 2024](2024-03-07-Duplimétrica.html) | Duplimétrica | 7 | 6–7 | 6–8 | 6–8 | 6–8 |
