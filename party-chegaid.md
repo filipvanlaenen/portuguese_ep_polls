@@ -10,8 +10,11 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13.2% | 9.5–19.2% | 8.9–19.9% | 8.4–20.5% | 7.6–21.5% |
+| N/A | [Poll Average](average.html) | 10.1% | 8.6–11.7% | 8.2–12.2% | 7.9–12.7% | 7.2–13.5% |
+| [12–20 May 2024](2024-05-20-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã and Negócios | 18.1% | N/A | N/A | N/A | N/A |
+| [13–18 May 2024](2024-05-18-CESOP–UCP.html) | CESOP–UCP <br> Antena 1, Público and RTP | 15.0% | N/A | N/A | N/A | N/A |
 | [6–13 May 2024](2024-05-13-Duplimétrica.html) | Duplimétrica <br> TVI | 10.0% | 8.6–11.7% | 8.2–12.2% | 7.8–12.7% | 7.2–13.5% |
+| [27 April–8 May 2024](2024-05-08-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 18.0% | N/A | N/A | N/A | N/A |
 | [18–23 April 2024](2024-04-23-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã and Negócios | 13.1% | 11.4–15.0% | 11.0–15.5% | 10.6–16.0% | 9.9–16.9% |
 | [12–16 April 2024](2024-04-16-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias | 18.4% | 16.7–20.2% | 16.3–20.8% | 15.9–21.2% | 15.1–22.1% |
 | [5–7 March 2024](2024-03-07-Duplimétrica.html) | Duplimétrica | 15.0% | 13.3–17.0% | 12.8–17.6% | 12.4–18.1% | 11.6–19.1% |
@@ -259,25 +262,17 @@ The following table shows the probability mass function per percentage block of 
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0% | 100% |  |
 | 4.5–5.5% | 0% | 100% |  |
-| 5.5–6.5% | 0% | 100% |  |
-| 6.5–7.5% | 0.4% | 100% |  |
-| 7.5–8.5% | 3% | 99.6% |  |
-| 8.5–9.5% | 8% | 97% |  |
-| 9.5–10.5% | 11% | 89% |  |
-| 10.5–11.5% | 11% | 78% |  |
-| 11.5–12.5% | 10% | 67% |  |
-| 12.5–13.5% | 10% | 57% | Median |
-| 13.5–14.5% | 8% | 46% |  |
-| 14.5–15.5% | 4% | 39% |  |
-| 15.5–16.5% | 3% | 34% |  |
-| 16.5–17.5% | 6% | 31% |  |
-| 17.5–18.5% | 9% | 25% |  |
-| 18.5–19.5% | 9% | 16% |  |
-| 19.5–20.5% | 5% | 7% |  |
-| 20.5–21.5% | 2% | 2% |  |
-| 21.5–22.5% | 0.4% | 0.5% |  |
-| 22.5–23.5% | 0.1% | 0.1% |  |
-| 23.5–24.5% | 0% | 0% |  |
+| 5.5–6.5% | 0.1% | 100% |  |
+| 6.5–7.5% | 1.1% | 99.9% |  |
+| 7.5–8.5% | 8% | 98.8% |  |
+| 8.5–9.5% | 24% | 91% |  |
+| 9.5–10.5% | 31% | 67% | Median |
+| 10.5–11.5% | 23% | 36% |  |
+| 11.5–12.5% | 10% | 13% |  |
+| 12.5–13.5% | 3% | 3% |  |
+| 13.5–14.5% | 0.4% | 0.5% |  |
+| 14.5–15.5% | 0.1% | 0.1% |  |
+| 15.5–16.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -288,8 +283,11 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 2–4 | 2–5 | 2–5 | 1–5 |
+| N/A | [Poll Average](average.html) | 2 | 2 | 2–3 | 1–3 | 1–3 |
+| [12–20 May 2024](2024-05-20-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã and Negócios |  |  |  |  |  |
+| [13–18 May 2024](2024-05-18-CESOP–UCP.html) | CESOP–UCP <br> Antena 1, Público and RTP |  |  |  |  |  |
 | [6–13 May 2024](2024-05-13-Duplimétrica.html) | Duplimétrica <br> TVI | 2 | 2 | 2–3 | 1–3 | 1–3 |
+| [27 April–8 May 2024](2024-05-08-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias |  |  |  |  |  |
 | [18–23 April 2024](2024-04-23-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã and Negócios | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
 | [12–16 April 2024](2024-04-16-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias | 4 | 4–5 | 4–5 | 3–5 | 3–5 |
 | [5–7 March 2024](2024-03-07-Duplimétrica.html) | Duplimétrica | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
@@ -534,11 +532,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 1.0% | 100% |  |
-| 2 | 35% | 99.0% |  |
-| 3 | 30% | 63% | Median |
-| 4 | 27% | 34% |  |
-| 5 | 6% | 6% |  |
-| 6 | 0% | 0% |  |
+| 1 | 3% | 100% |  |
+| 2 | 88% | 97% | Median |
+| 3 | 9% | 9% |  |
+| 4 | 0% | 0% |  |
 
 
