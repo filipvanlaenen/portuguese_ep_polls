@@ -10,7 +10,7 @@ The table below lists the polls on which the average is based. They are the most
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 31.5% <br> 8 | 27.7% <br> 6 | 27.7% <br> 1 | 12.7% <br> 3 | 4.6% <br> 1 | 1.7% <br> 0 | 0.7% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 | N/A | Poll Average | 21–37% <br> 5–9 | N/A <br> N/A | N/A <br> N/A | 2–6% <br> 0–1 | 2–11% <br> 0–2 | 1–5% <br> 0–1 | 2–8% <br> 0–2 | 3–14% <br> 0–3 | N/A <br> N/A | 9–20% <br> 2–5 | 20–35% <br> 4–8 |
-| [12–20 May 2024](2024-05-20-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã and Negócios | 20–27% <br> 4–6 | N/A <br> N/A | N/A <br> N/A | 3–6% <br> 0–1 | 7–12% <br> 1–3 | 3–6% <br> 0–1 | 5–9% <br> 1–2 | 10–15% <br> 2–3 | N/A <br> N/A | 15–21% <br> 3–5 | 19–25% <br> 4–6 |
+| [12–20 May 2024](2024-05-20-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã and Negócios | 20–27% <br> 4–6 | N/A <br> N/A | N/A <br> N/A | 3–6% <br> 0–1 | 7–12% <br> 1–2 | 3–6% <br> 0–1 | 5–9% <br> 1–2 | 10–15% <br> 2–3 | N/A <br> N/A | 15–21% <br> 3–5 | 19–25% <br> 4–6 |
 | [13–18 May 2024](2024-05-18-CESOP–UCP.html) | CESOP–UCP <br> Antena 1, Público and RTP | 27–33% <br> 6–8 | N/A <br> N/A | N/A <br> N/A | 4–7% <br> 0–1 | 4–7% <br> 0–1 | 1–2% <br> 0 | 4–7% <br> 1 | 5–8% <br> 1 | N/A <br> N/A | 13–17% <br> 3–4 | 28–34% <br> 6–8 |
 | [6–13 May 2024](2024-05-13-Duplimétrica.html) | Duplimétrica <br> TVI | 30–38% <br> 7–9 | N/A <br> N/A | N/A <br> N/A | 2–5% <br> 0–1 | 2–5% <br> 0–1 | 0–2% <br> 0 | 2–5% <br> 0–1 | 7–12% <br> 1–2 | N/A <br> N/A | 8–13% <br> 1–3 | 28–36% <br> 7–9 |
 | [27 April–8 May 2024](2024-05-08-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 29–35% <br> 7–9 | N/A <br> N/A | N/A <br> N/A | 3–5% <br> 0–1 | 1–3% <br> 0 | 1–3% <br> 0 | 1–3% <br> 0 | 3–5% <br> 0–1 | N/A <br> N/A | 16–20% <br> 3–5 | 23–29% <br> 5–7 |
@@ -298,9 +298,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 0.8% | 100% |  |
-| 5 | 15% | 99.2% |  |
-| 6 | 13% | 84% |  |
+| 4 | 0.9% | 100% |  |
+| 5 | 15% | 99.1% |  |
+| 6 | 14% | 85% |  |
 | 7 | 32% | 71% | Median |
 | 8 | 33% | 39% | Last Result |
 | 9 | 6% | 6% |  |
@@ -368,7 +368,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 46% | 100% | Last Result |
 | 1 | 49% | 54% | Median |
-| 2 | 5% | 5% |  |
+| 2 | 4% | 4% |  |
 | 3 | 0% | 0% |  |
 
 ### Iniciativa Liberal (RE)
@@ -381,8 +381,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 11% | 100% | Last Result |
 | 1 | 43% | 89% | Median |
-| 2 | 34% | 46% |  |
-| 3 | 13% | 13% |  |
+| 2 | 33% | 46% |  |
+| 3 | 14% | 14% |  |
 | 4 | 0.1% | 0.1% |  |
 | 5 | 0% | 0% |  |
 
@@ -404,8 +404,8 @@ Only polls for which at least the sample size has been published are included in
 | 1 | 0.8% | 100% |  |
 | 2 | 22% | 99.2% |  |
 | 3 | 25% | 77% |  |
-| 4 | 45% | 52% | Median |
-| 5 | 7% | 7% |  |
+| 4 | 46% | 52% | Median |
+| 5 | 6% | 6% |  |
 | 6 | 0% | 0% |  |
 
 ### Aliança Democrática (EPP)
@@ -421,9 +421,9 @@ Only polls for which at least the sample size has been published are included in
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 3% | 100% |  |
-| 5 | 20% | 97% |  |
-| 6 | 24% | 77% |  |
-| 7 | 35% | 53% | Median |
+| 5 | 19% | 97% |  |
+| 6 | 25% | 77% |  |
+| 7 | 35% | 52% | Median |
 | 8 | 17% | 18% |  |
 | 9 | 0.9% | 0.9% |  |
 | 10 | 0% | 0% |  |
@@ -450,9 +450,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 0.8% | 100% |  |
-| 5 | 15% | 99.2% |  |
-| 6 | 13% | 84% |  |
+| 4 | 0.9% | 100% |  |
+| 5 | 15% | 99.1% |  |
+| 6 | 14% | 85% |  |
 | 7 | 32% | 71% | Median |
 | 8 | 33% | 39% | Last Result |
 | 9 | 6% | 6% |  |
@@ -466,9 +466,9 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 3% | 100% |  |
-| 5 | 20% | 97% |  |
-| 6 | 24% | 77% |  |
-| 7 | 35% | 53% | Last Result, Median |
+| 5 | 19% | 97% |  |
+| 6 | 25% | 77% |  |
+| 7 | 35% | 52% | Last Result, Median |
 | 8 | 17% | 18% |  |
 | 9 | 0.9% | 0.9% |  |
 | 10 | 0% | 0% |  |
@@ -483,8 +483,8 @@ Only polls for which at least the sample size has been published are included in
 | 1 | 0.8% | 100% |  |
 | 2 | 22% | 99.2% |  |
 | 3 | 25% | 77% |  |
-| 4 | 45% | 52% | Median |
-| 5 | 7% | 7% |  |
+| 4 | 46% | 52% | Median |
+| 5 | 6% | 6% |  |
 | 6 | 0% | 0% |  |
 
 ### Aliança (RE) – Iniciativa Liberal (RE)
@@ -495,8 +495,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 11% | 100% | Last Result |
 | 1 | 43% | 89% | Median |
-| 2 | 34% | 46% |  |
-| 3 | 13% | 13% |  |
+| 2 | 33% | 46% |  |
+| 3 | 14% | 14% |  |
 | 4 | 0.1% | 0.1% |  |
 | 5 | 0% | 0% |  |
 
@@ -508,8 +508,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 28% | 100% |  |
 | 1 | 27% | 72% |  |
-| 2 | 35% | 44% | Median |
-| 3 | 10% | 10% |  |
+| 2 | 35% | 45% | Median |
+| 3 | 9% | 9% |  |
 | 4 | 0.2% | 0.2% | Last Result |
 | 5 | 0% | 0% |  |
 
@@ -521,7 +521,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 46% | 100% | Last Result |
 | 1 | 38% | 54% | Median |
-| 2 | 14% | 16% |  |
+| 2 | 14% | 15% |  |
 | 3 | 2% | 2% |  |
 | 4 | 0% | 0% |  |
 
@@ -529,6 +529,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 4
-+ **Lowest number of simulations done in a poll included in this average:** 1,048,576
-+ **Total number of simulations done in the polls included in this average:** 5,242,880
-+ **Error estimate:** 1.66%
++ **Lowest number of simulations done in a poll included in this average:** 2,097,152
++ **Total number of simulations done in the polls included in this average:** 8,388,608
++ **Error estimate:** 1.49%

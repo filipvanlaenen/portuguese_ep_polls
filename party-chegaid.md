@@ -293,7 +293,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 2–4 | 2–5 | 2–5 | 1–5 |
 | [12–20 May 2024](2024-05-20-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã and Negócios | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
-| [13–18 May 2024](2024-05-18-CESOP–UCP.html) | CESOP–UCP <br> Antena 1, Público and RTP | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
+| [13–18 May 2024](2024-05-18-CESOP–UCP.html) | CESOP–UCP <br> Antena 1, Público and RTP | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [6–13 May 2024](2024-05-13-Duplimétrica.html) | Duplimétrica <br> TVI | 2 | 2 | 2–3 | 1–3 | 1–3 |
 | [27 April–8 May 2024](2024-05-08-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 4 | 4–5 | 4–5 | 3–5 | 3–5 |
 | [18–23 April 2024](2024-04-23-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã and Negócios | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
@@ -543,8 +543,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0.8% | 100% |  |
 | 2 | 22% | 99.2% |  |
 | 3 | 25% | 77% |  |
-| 4 | 45% | 52% | Median |
-| 5 | 7% | 7% |  |
+| 4 | 46% | 52% | Median |
+| 5 | 6% | 6% |  |
 | 6 | 0% | 0% |  |
 
 

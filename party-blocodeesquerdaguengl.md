@@ -282,7 +282,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–2 | 0–2 | 0–2 | 0–3 |
-| [12–20 May 2024](2024-05-20-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã and Negócios | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
+| [12–20 May 2024](2024-05-20-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã and Negócios | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [13–18 May 2024](2024-05-18-CESOP–UCP.html) | CESOP–UCP <br> Antena 1, Público and RTP | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [6–13 May 2024](2024-05-13-Duplimétrica.html) | Duplimétrica <br> TVI | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [27 April–8 May 2024](2024-05-08-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 0 | 0 | 0 | 0 | 0 |

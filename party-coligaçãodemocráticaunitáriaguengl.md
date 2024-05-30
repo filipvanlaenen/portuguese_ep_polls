@@ -281,7 +281,7 @@ Last result: **3** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [12–20 May 2024](2024-05-20-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã and Negócios | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [13–18 May 2024](2024-05-18-CESOP–UCP.html) | CESOP–UCP <br> Antena 1, Público and RTP | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [13–18 May 2024](2024-05-18-CESOP–UCP.html) | CESOP–UCP <br> Antena 1, Público and RTP | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [6–13 May 2024](2024-05-13-Duplimétrica.html) | Duplimétrica <br> TVI | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [27 April–8 May 2024](2024-05-08-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [18–23 April 2024](2024-04-23-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã and Negócios | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
