@@ -5,6 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | PS | PSD | CDS–PP | CDU | BE | PAN | L | IL | A | CH | AD |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 31.5% <br> 8 | 27.7% <br> 6 | 27.7% <br> 1 | 12.7% <br> 3 | 4.6% <br> 1 | 1.7% <br> 0 | 0.7% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| [17–22 May 2024](2024-05-22-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias | 27–34% <br> 6–8 | N/A <br> N/A | N/A <br> N/A | 2–5% <br> 0–1 | 5–8% <br> 1–2 | 1–3% <br> 0 | 4–7% <br> 0–1 | 6–10% <br> 1–2 | N/A <br> N/A | 13–18% <br> 3–4 | 24–30% <br> 5–7 |
 | [12–20 May 2024](2024-05-20-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã and Negócios | 20–27% <br> 4–6 | N/A <br> N/A | N/A <br> N/A | 3–6% <br> 0–1 | 7–12% <br> 1–2 | 3–6% <br> 0–1 | 5–9% <br> 1–2 | 10–15% <br> 2–3 | N/A <br> N/A | 15–21% <br> 3–5 | 19–25% <br> 4–6 |
 | [13–18 May 2024](2024-05-18-CESOP–UCP.html) | CESOP–UCP <br> Antena 1, Público and RTP | 27–33% <br> 6–8 | N/A <br> N/A | N/A <br> N/A | 4–7% <br> 0–1 | 4–7% <br> 0–1 | 1–2% <br> 0 | 4–7% <br> 1 | 5–8% <br> 1 | N/A <br> N/A | 13–17% <br> 3–4 | 28–34% <br> 6–8 |
 | [6–13 May 2024](2024-05-13-Duplimétrica.html) | Duplimétrica <br> TVI | 30–38% <br> 7–9 | N/A <br> N/A | N/A <br> N/A | 2–5% <br> 0–1 | 2–5% <br> 0–1 | 0–2% <br> 0 | 2–5% <br> 0–1 | 7–12% <br> 1–2 | N/A <br> N/A | 8–13% <br> 1–3 | 28–36% <br> 7–9 |
