@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/portuguese_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 05 Jun 2024 23:26:20 +0200</pubDate>
+    <pubDate>Thu, 06 Jun 2024 20:35:21 +0200</pubDate>
     <item>
       <title>Opinion Poll by Aximage for Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias, 17–22 May 2024 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2024-05-22-Aximage.html#seats</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2024-05-22-Aximage-seats.png"
         length="247663"
         type="image/png"/>
-      <pubDate>Wed, 05 Jun 2024 23:26:20 +0200</pubDate>
-      <dc:date>2024-06-05T23:26:20.448309+02:00</dc:date>
+      <pubDate>Thu, 06 Jun 2024 20:35:21 +0200</pubDate>
+      <dc:date>2024-06-06T20:35:21.130576+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Aximage for Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias, 17–22 May 2024 – Seat Projections for a Selection of Coalitions</title>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2024-05-22-Aximage-coalitions-seats.png"
         length="180221"
         type="image/png"/>
-      <pubDate>Wed, 05 Jun 2024 23:26:20 +0200</pubDate>
-      <dc:date>2024-06-05T23:26:20.448309+02:00</dc:date>
+      <pubDate>Thu, 06 Jun 2024 20:35:21 +0200</pubDate>
+      <dc:date>2024-06-06T20:35:21.130576+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Aximage for Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias, 17–22 May 2024 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2024-05-22-Aximage.png"
         length="309170"
         type="image/png"/>
-      <pubDate>Wed, 05 Jun 2024 23:26:20 +0200</pubDate>
-      <dc:date>2024-06-05T23:26:20.448309+02:00</dc:date>
+      <pubDate>Thu, 06 Jun 2024 20:35:21 +0200</pubDate>
+      <dc:date>2024-06-06T20:35:21.130576+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Intercampus for CMTV, Correio da Manhã and Negócios, 12–20 May 2024 – Seat Projections for the Parties</title>
@@ -6339,6 +6339,6 @@
       <pubDate>Sun, 30 Jun 2019 15:14:32 +0200</pubDate>
       <dc:date>2019-06-30T15:14:32+02:00</dc:date>
     </item>
-    <dc:date>2024-06-05T23:26:20.448309+02:00</dc:date>
+    <dc:date>2024-06-06T20:35:21.130576+02:00</dc:date>
   </channel>
 </rss>
