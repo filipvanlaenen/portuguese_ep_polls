@@ -292,7 +292,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
-| [29 May–4 June 2024](2024-06-04-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã and Negócios | 3 | 3 | 2–4 | 2–4 | 2–4 |
+| [29 May–4 June 2024](2024-06-04-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã and Negócios | 3 | 3–4 | 2–4 | 2–4 | 2–4 |
 | [27 May–3 June 2024](2024-06-03-CESOP–UCP.html) | CESOP–UCP <br> Antena 1, Público and RTP | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [17–22 May 2024](2024-05-22-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [12–20 May 2024](2024-05-20-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã and Negócios | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
@@ -545,7 +545,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 17% | 100% |  |
-| 3 | 64% | 83% | Median |
+| 3 | 63% | 83% | Median |
 | 4 | 19% | 19% |  |
 | 5 | 0.1% | 0.1% |  |
 | 6 | 0% | 0% |  |

@@ -288,7 +288,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | [29 May–4 June 2024](2024-06-04-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã and Negócios | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
-| [27 May–3 June 2024](2024-06-03-CESOP–UCP.html) | CESOP–UCP <br> Antena 1, Público and RTP | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [27 May–3 June 2024](2024-06-03-CESOP–UCP.html) | CESOP–UCP <br> Antena 1, Público and RTP | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [17–22 May 2024](2024-05-22-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [12–20 May 2024](2024-05-20-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã and Negócios | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [13–18 May 2024](2024-05-18-CESOP–UCP.html) | CESOP–UCP <br> Antena 1, Público and RTP | 1 | 1 | 1 | 1 | 1–2 |
@@ -538,8 +538,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 39% | 100% |  |
-| 2 | 54% | 61% | Median |
+| 1 | 38% | 100% |  |
+| 2 | 55% | 62% | Median |
 | 3 | 7% | 7% |  |
 | 4 | 0% | 0% |  |
 
