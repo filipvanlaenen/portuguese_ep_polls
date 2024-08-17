@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 29.4% | 26.3–32.3% | 25.6–33.0% | 25.1–33.6% | 24.1–34.6% |
+| N/A | [Poll Average](average.html) | 29.1% | 26.4–32.0% | 25.7–32.7% | 25.1–33.3% | 24.1–34.4% |
+| [19–26 July 2024](2024-07-26-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã and Negócios | 28.7% | 26.5–31.2% | 25.8–31.9% | 25.3–32.5% | 24.2–33.7% |
 | [7–13 July 2024](2024-07-13-CESOP–UCP.html) | CESOP–UCP <br> RTP | 31.0% | 29.2–33.0% | 28.6–33.6% | 28.2–34.0% | 27.3–35.0% |
 | [3–8 July 2024](2024-07-08-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias | 27.6% | 25.6–29.7% | 25.1–30.3% | 24.6–30.8% | 23.7–31.8% |
 
@@ -44,18 +45,18 @@ The following table shows the probability mass function per percentage block of 
 | 20.5–21.5% | 0% | 100% |  |
 | 21.5–22.5% | 0% | 100% |  |
 | 22.5–23.5% | 0.2% | 100% |  |
-| 23.5–24.5% | 1.0% | 99.8% |  |
-| 24.5–25.5% | 3% | 98.9% |  |
+| 23.5–24.5% | 0.9% | 99.8% |  |
+| 24.5–25.5% | 3% | 99.0% |  |
 | 25.5–26.5% | 8% | 96% |  |
-| 26.5–27.5% | 12% | 88% |  |
-| 27.5–28.5% | 14% | 75% |  |
-| 28.5–29.5% | 14% | 62% | Median |
-| 29.5–30.5% | 14% | 48% |  |
-| 30.5–31.5% | 15% | 34% |  |
-| 31.5–32.5% | 11% | 19% |  |
-| 32.5–33.5% | 6% | 8% |  |
-| 33.5–34.5% | 2% | 3% |  |
-| 34.5–35.5% | 0.5% | 0.5% |  |
+| 26.5–27.5% | 13% | 88% |  |
+| 27.5–28.5% | 16% | 75% |  |
+| 28.5–29.5% | 16% | 60% | Median |
+| 29.5–30.5% | 15% | 43% |  |
+| 30.5–31.5% | 13% | 28% |  |
+| 31.5–32.5% | 9% | 15% |  |
+| 32.5–33.5% | 4% | 6% |  |
+| 33.5–34.5% | 1.5% | 2% |  |
+| 34.5–35.5% | 0.3% | 0.4% |  |
 | 35.5–36.5% | 0.1% | 0.1% |  |
 | 36.5–37.5% | 0% | 0% |  |
 
@@ -69,6 +70,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
+| [19–26 July 2024](2024-07-26-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã and Negócios | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
 | [7–13 July 2024](2024-07-13-CESOP–UCP.html) | CESOP–UCP <br> RTP | 8 | 7–8 | 7–8 | 7–9 | 6–9 |
 | [3–8 July 2024](2024-07-08-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias | 6 | 6–7 | 6–7 | 6–7 | 5–8 |
 
@@ -86,10 +88,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
 | 5 | 0.4% | 100% |  |
-| 6 | 25% | 99.6% |  |
-| 7 | 45% | 74% | Median |
-| 8 | 27% | 29% |  |
-| 9 | 2% | 2% |  |
+| 6 | 26% | 99.6% |  |
+| 7 | 51% | 74% | Median |
+| 8 | 22% | 23% |  |
+| 9 | 1.1% | 1.1% |  |
 | 10 | 0% | 0% |  |
 
 
