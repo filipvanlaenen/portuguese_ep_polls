@@ -294,8 +294,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 76% | 100% | Last Result, Median |
-| 1 | 24% | 24% |  |
+| 0 | 75% | 100% | Last Result, Median |
+| 1 | 25% | 25% |  |
 | 2 | 0% | 0% |  |
 
 ### Bloco de Esquerda (GUE/NGL)
@@ -350,8 +350,8 @@ Only polls for which at least the sample size has been published are included in
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
 | 6 | 5% | 100% |  |
-| 7 | 42% | 95% |  |
-| 8 | 43% | 52% | Median |
+| 7 | 43% | 95% |  |
+| 8 | 42% | 52% | Median |
 | 9 | 9% | 9% |  |
 | 10 | 0.1% | 0.1% |  |
 | 11 | 0% | 0% | Majority |
@@ -404,7 +404,7 @@ Only polls for which at least the sample size has been published are included in
 | 5 | 0.3% | 100% |  |
 | 6 | 22% | 99.7% |  |
 | 7 | 52% | 77% | Median |
-| 8 | 25% | 26% |  |
+| 8 | 24% | 26% |  |
 | 9 | 1.2% | 1.2% |  |
 | 10 | 0% | 0% |  |
 
@@ -453,8 +453,8 @@ Only polls for which at least the sample size has been published are included in
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
 | 6 | 5% | 100% |  |
-| 7 | 42% | 95% |  |
-| 8 | 43% | 52% | Median |
+| 7 | 43% | 95% |  |
+| 8 | 42% | 52% | Median |
 | 9 | 9% | 9% |  |
 | 10 | 0.1% | 0.1% |  |
 | 11 | 0% | 0% | Majority |
@@ -473,7 +473,7 @@ Only polls for which at least the sample size has been published are included in
 | 5 | 0.3% | 100% |  |
 | 6 | 22% | 99.7% |  |
 | 7 | 52% | 77% | Median |
-| 8 | 25% | 26% |  |
+| 8 | 24% | 26% |  |
 | 9 | 1.2% | 1.2% |  |
 | 10 | 0% | 0% |  |
 
@@ -511,8 +511,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 14% | 100% | Last Result |
 | 1 | 63% | 86% | Median |
-| 2 | 22% | 23% |  |
-| 3 | 1.0% | 1.0% |  |
+| 2 | 23% | 23% |  |
+| 3 | 0.8% | 0.8% |  |
 | 4 | 0% | 0% |  |
 
 ### LIVRE (Greens/EFA) – Pessoas–Animais–Natureza (Greens/EFA)
@@ -531,5 +531,5 @@ Only polls for which at least the sample size has been published are included in
 
 + **Number of polls included in this average:** 3
 + **Lowest number of simulations done in a poll included in this average:** 1,048,576
-+ **Total number of simulations done in the polls included in this average:** 3,145,728
-+ **Error estimate:** 1.37%
++ **Total number of simulations done in the polls included in this average:** 4,194,304
++ **Error estimate:** 2.23%
