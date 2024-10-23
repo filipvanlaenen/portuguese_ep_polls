@@ -56,7 +56,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
-| [4–10 October 2024](2024-10-10-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 3 | 3–4 | 2–4 | 2–4 | 2–4 |
+| [4–10 October 2024](2024-10-10-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
 | [30 September–5 October 2024](2024-10-05-Aximage.html) | Aximage <br> Diário de Notícias | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [29 August–4 September 2024](2024-09-04-Intercampus.html) | Intercampus <br> CMTV | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | [19–26 July 2024](2024-07-26-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã and Negócios | 3 | 3–4 | 3–4 | 3–4 | 3–5 |
