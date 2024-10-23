@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/portuguese_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 20 Oct 2024 23:31:26 +0200</pubDate>
+    <pubDate>Wed, 23 Oct 2024 16:54:05 +0200</pubDate>
     <item>
       <title>Opinion Poll by Intercampus for Correio da Manhã and Negócios, 4–10 October 2024 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2024-10-10-Intercampus.html#seats</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2024-10-10-Intercampus-seats.png"
         length="244261"
         type="image/png"/>
-      <pubDate>Sun, 20 Oct 2024 23:24:38 +0200</pubDate>
-      <dc:date>2024-10-20T23:24:38.207187+02:00</dc:date>
+      <pubDate>Wed, 23 Oct 2024 16:54:05 +0200</pubDate>
+      <dc:date>2024-10-23T16:54:05.128702+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Intercampus for Correio da Manhã and Negócios, 4–10 October 2024 – Seat Projections for a Selection of Coalitions</title>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2024-10-10-Intercampus-coalitions-seats.png"
         length="165703"
         type="image/png"/>
-      <pubDate>Sun, 20 Oct 2024 23:24:38 +0200</pubDate>
-      <dc:date>2024-10-20T23:24:38.207187+02:00</dc:date>
+      <pubDate>Wed, 23 Oct 2024 16:54:05 +0200</pubDate>
+      <dc:date>2024-10-23T16:54:05.128702+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Intercampus for Correio da Manhã and Negócios, 4–10 October 2024 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2024-10-10-Intercampus.png"
         length="307006"
         type="image/png"/>
-      <pubDate>Sun, 20 Oct 2024 23:24:38 +0200</pubDate>
-      <dc:date>2024-10-20T23:24:38.207187+02:00</dc:date>
+      <pubDate>Wed, 23 Oct 2024 16:54:05 +0200</pubDate>
+      <dc:date>2024-10-23T16:54:05.128702+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Aximage for Diário de Notícias, 30 September–5 October 2024 – Seat Projections for the Parties</title>
@@ -189,6 +189,6 @@
       <pubDate>Mon, 23 Sep 2024 19:51:27 +0200</pubDate>
       <dc:date>2024-09-23T19:51:27.949735+02:00</dc:date>
     </item>
-    <dc:date>2024-10-20T23:31:26.170688+02:00</dc:date>
+    <dc:date>2024-10-23T16:54:05.128702+02:00</dc:date>
   </channel>
 </rss>
