@@ -49,7 +49,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [17–23 October 2024](2024-10-23-CESOP–UCP.html) | CESOP–UCP <br> Antena 1, Público and RTP | 1 | 1 | 1 | 1–2 | 1–2 |
+| [17–23 October 2024](2024-10-23-CESOP–UCP.html) | CESOP–UCP <br> Antena 1, Público and RTP | 1 | 1 | 1 | 1 | 1–2 |
 | [4–10 October 2024](2024-10-10-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [30 September–5 October 2024](2024-10-05-Aximage.html) | Aximage <br> Diário de Notícias | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [29 August–4 September 2024](2024-09-04-Intercampus.html) | Intercampus <br> CMTV | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
