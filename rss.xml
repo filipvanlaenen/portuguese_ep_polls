@@ -8,26 +8,26 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/portuguese_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 23 Nov 2024 22:36:48 +0100</pubDate>
+    <pubDate>Sun, 24 Nov 2024 21:49:50 +0100</pubDate>
     <item>
       <title>Opinion Poll by CESOP–UCP for Antena 1, Público and RTP, 17–23 October 2024 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2024-10-23-CESOP–UCP.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Coligação Democrática Unitária (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Partido Socialista (S&amp;amp;D): 6–8 seats&lt;/li&gt;&lt;li&gt;Iniciativa Liberal (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Chega (PfE): 4–5 seats&lt;/li&gt;&lt;li&gt;Bloco de Esquerda (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Aliança Democrática (EPP): 7–9 seats&lt;/li&gt;&lt;li&gt;LIVRE (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Coligação Democrática Unitária (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Partido Socialista (S&amp;amp;D): 6–8 seats&lt;/li&gt;&lt;li&gt;Iniciativa Liberal (RE): 1 seats&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Chega (PfE): 4–5 seats&lt;/li&gt;&lt;li&gt;Bloco de Esquerda (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Aliança Democrática (EPP): 7–9 seats&lt;/li&gt;&lt;li&gt;LIVRE (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2024-10-23-CESOP–UCP-seats.png"
-        length="235372"
+        length="232945"
         type="image/png"/>
-      <pubDate>Sat, 23 Nov 2024 22:36:48 +0100</pubDate>
-      <dc:date>2024-11-23T22:36:48.354373+01:00</dc:date>
+      <pubDate>Sun, 24 Nov 2024 21:49:50 +0100</pubDate>
+      <dc:date>2024-11-24T21:49:50.250564+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by CESOP–UCP for Antena 1, Público and RTP, 17–23 October 2024 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2024-10-23-CESOP–UCP.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2024-10-23-CESOP–UCP-coalitions-seats.png"
-        length="161680"
+        length="156620"
         type="image/png"/>
-      <pubDate>Sat, 23 Nov 2024 22:36:48 +0100</pubDate>
-      <dc:date>2024-11-23T22:36:48.354373+01:00</dc:date>
+      <pubDate>Sun, 24 Nov 2024 21:49:50 +0100</pubDate>
+      <dc:date>2024-11-24T21:49:50.250564+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by CESOP–UCP for Antena 1, Público and RTP, 17–23 October 2024 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2024-10-23-CESOP–UCP.png"
         length="284597"
         type="image/png"/>
-      <pubDate>Sat, 23 Nov 2024 22:36:48 +0100</pubDate>
-      <dc:date>2024-11-23T22:36:48.354373+01:00</dc:date>
+      <pubDate>Sun, 24 Nov 2024 21:49:50 +0100</pubDate>
+      <dc:date>2024-11-24T21:49:50.250564+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Intercampus for Correio da Manhã and Negócios, 4–10 October 2024 – Seat Projections for the Parties</title>
@@ -219,6 +219,6 @@
       <pubDate>Mon, 23 Sep 2024 19:51:27 +0200</pubDate>
       <dc:date>2024-09-23T19:51:27.949735+02:00</dc:date>
     </item>
-    <dc:date>2024-11-23T22:36:48.354373+01:00</dc:date>
+    <dc:date>2024-11-24T21:49:50.250564+01:00</dc:date>
   </channel>
 </rss>
