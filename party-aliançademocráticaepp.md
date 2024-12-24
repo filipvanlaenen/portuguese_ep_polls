@@ -79,7 +79,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 7 | 6–8 | 6–8 | 6–9 | 6–9 |
 | [21–27 November 2024](2024-11-27-Intercampus.html) | Intercampus <br> CMTV | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
-| [15–22 November 2024](2024-11-22-Aximage.html) | Aximage <br> Folha Nacional | 6 | 6–7 | 6–7 | 6–8 | 6–8 |
+| [15–22 November 2024](2024-11-22-Aximage.html) | Aximage <br> Folha Nacional | 7 | 6–7 | 6–7 | 6–7 | 6–8 |
 | [13–19 November 2024](2024-11-19-Aximage.html) | Aximage <br> Diário de Notícias |  |  |  |  |  |
 | [17–23 October 2024](2024-10-23-CESOP–UCP.html) | CESOP–UCP <br> Antena 1, Público and RTP | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
 | [4–10 October 2024](2024-10-10-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 7 | 6–7 | 6–8 | 6–8 | 5–8 |
@@ -103,9 +103,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
 | 5 | 0.2% | 100% |  |
-| 6 | 24% | 99.8% |  |
-| 7 | 42% | 76% | Median |
-| 8 | 30% | 35% |  |
+| 6 | 20% | 99.8% |  |
+| 7 | 45% | 79% | Median |
+| 8 | 30% | 34% |  |
 | 9 | 4% | 4% |  |
 | 10 | 0% | 0% |  |
 
