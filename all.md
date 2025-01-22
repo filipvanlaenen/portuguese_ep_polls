@@ -5,6 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | CDU | BE | PAN | L | PS | IL | A | PSD | CDS–PP | AD | CH |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 9 June 2024 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| [28 December 2024–5 January 2025](2025-01-05-Pitagórica.html) | Pitagórica <br> CNN Portugal, Jornal de Notícias, TSF and TVI | 2–6% <br> 0–1 | 3–7% <br> 0–1 | 1–3% <br> 0 | 2–5% <br> 0–1 | 23–32% <br> 5–7 | 4–8% <br> 0–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 29–38% <br> 7–9 | 13–20% <br> 3–5 |
 | [21–27 November 2024](2024-11-27-Intercampus.html) | Intercampus <br> CMTV | 2–5% <br> 0–1 | 4–8% <br> 1–2 | 2–5% <br> 0–1 | 2–5% <br> 0–1 | 27–34% <br> 6–8 | 6–11% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 25–32% <br> 6–8 | 13–19% <br> 3–4 |
 | [15–22 November 2024](2024-11-22-Aximage.html) | Aximage <br> Folha Nacional | 3–5% <br> 0–1 | 2–5% <br> 0–1 | 1–3% <br> 0 | 3–6% <br> 0–1 | 24–30% <br> 5–7 | 5–8% <br> 1 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 25–31% <br> 6–7 | 18–24% <br> 4–6 |
 | [13–19 November 2024](2024-11-19-Aximage.html) | Aximage <br> Diário de Notícias | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
