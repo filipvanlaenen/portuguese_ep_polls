@@ -89,7 +89,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | N/A | [Poll Average](average.html) | 7 | 6–8 | 6–9 | 6–9 | 6–9 |
 | [23–28 January 2025](2025-01-28-Aximage.html) | Aximage <br> Diário de Notícias | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
 | [21–26 January 2025](2025-01-26-Pitagórica.html) | Pitagórica <br> CNN Portugal, Jornal de Notícias, TSF and TVI | 8 | 7–9 | 7–9 | 7–9 | 6–10 |
-| [21–26 January 2025](2025-01-26-Intercampus.html) | Intercampus <br> Correio da Manhã | 7 | 6–7 | 6–7 | 6–8 | 5–8 |
+| [21–26 January 2025](2025-01-26-Intercampus.html) | Intercampus <br> Correio da Manhã | 7 | 6–7 | 6–8 | 6–8 | 5–8 |
 | [16–21 January 2025](2025-01-21-Aximage.html) | Aximage <br> Folha Nacional |  |  |  |  |  |
 | [9–20 January 2025](2025-01-20-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
 | [28 December 2024–5 January 2025](2025-01-05-Pitagórica.html) | Pitagórica <br> CNN Portugal, Jornal de Notícias, TSF and TVI | 8 | 7–9 | 7–9 | 7–9 | 6–10 |
@@ -118,11 +118,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
 | 5 | 0.3% | 100% |  |
-| 6 | 15% | 99.7% |  |
-| 7 | 41% | 85% | Median |
+| 6 | 14% | 99.7% |  |
+| 7 | 42% | 85% | Median |
 | 8 | 36% | 44% |  |
 | 9 | 8% | 8% |  |
-| 10 | 0.3% | 0.3% |  |
+| 10 | 0.2% | 0.2% |  |
 | 11 | 0% | 0% | Majority |
 
 

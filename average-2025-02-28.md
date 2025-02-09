@@ -321,8 +321,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 91% | 100% | Last Result, Median |
-| 1 | 9% | 9% |  |
+| 0 | 90% | 100% | Last Result, Median |
+| 1 | 10% | 10% |  |
 | 2 | 0% | 0% |  |
 
 ### LIVRE (Greens/EFA)
@@ -333,8 +333,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 55% | 100% | Last Result, Median |
-| 1 | 45% | 45% |  |
+| 0 | 57% | 100% | Last Result, Median |
+| 1 | 43% | 43% |  |
 | 2 | 0% | 0% |  |
 
 ### Partido Socialista (S&D)
@@ -352,9 +352,9 @@ Only polls for which at least the sample size has been published are included in
 | 4 | 0% | 100% |  |
 | 5 | 2% | 100% |  |
 | 6 | 31% | 98% |  |
-| 7 | 57% | 68% | Median |
-| 8 | 10% | 10% |  |
-| 9 | 0.2% | 0.2% |  |
+| 7 | 56% | 67% | Median |
+| 8 | 11% | 11% |  |
+| 9 | 0.1% | 0.1% |  |
 | 10 | 0% | 0% |  |
 
 ### Iniciativa Liberal (RE)
@@ -366,7 +366,7 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 11% | 100% | Last Result |
-| 1 | 80% | 89% | Median |
+| 1 | 79% | 89% | Median |
 | 2 | 10% | 10% |  |
 | 3 | 0% | 0% |  |
 
@@ -402,11 +402,11 @@ Only polls for which at least the sample size has been published are included in
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
 | 5 | 0.3% | 100% |  |
-| 6 | 15% | 99.7% |  |
-| 7 | 41% | 85% | Median |
+| 6 | 14% | 99.7% |  |
+| 7 | 42% | 85% | Median |
 | 8 | 36% | 44% |  |
 | 9 | 8% | 8% |  |
-| 10 | 0.3% | 0.3% |  |
+| 10 | 0.2% | 0.2% |  |
 | 11 | 0% | 0% | Majority |
 
 ### Chega (PfE)
@@ -421,8 +421,8 @@ Only polls for which at least the sample size has been published are included in
 | 1 | 0% | 100% |  |
 | 2 | 0.1% | 100% |  |
 | 3 | 15% | 99.9% |  |
-| 4 | 73% | 85% | Median |
-| 5 | 12% | 12% |  |
+| 4 | 74% | 85% | Median |
+| 5 | 11% | 12% |  |
 | 6 | 0% | 0% |  |
 
 
@@ -453,11 +453,11 @@ Only polls for which at least the sample size has been published are included in
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
 | 5 | 0.3% | 100% |  |
-| 6 | 15% | 99.7% |  |
-| 7 | 41% | 85% | Median |
+| 6 | 14% | 99.7% |  |
+| 7 | 42% | 85% | Median |
 | 8 | 36% | 44% |  |
 | 9 | 8% | 8% |  |
-| 10 | 0.3% | 0.3% |  |
+| 10 | 0.2% | 0.2% |  |
 | 11 | 0% | 0% | Majority |
 
 ### Partido Socialista (S&D)
@@ -473,9 +473,9 @@ Only polls for which at least the sample size has been published are included in
 | 4 | 0% | 100% |  |
 | 5 | 2% | 100% |  |
 | 6 | 31% | 98% |  |
-| 7 | 57% | 68% | Median |
-| 8 | 10% | 10% |  |
-| 9 | 0.2% | 0.2% |  |
+| 7 | 56% | 67% | Median |
+| 8 | 11% | 11% |  |
+| 9 | 0.1% | 0.1% |  |
 | 10 | 0% | 0% |  |
 
 ### Chega (PfE)
@@ -488,8 +488,8 @@ Only polls for which at least the sample size has been published are included in
 | 1 | 0% | 100% |  |
 | 2 | 0.1% | 100% |  |
 | 3 | 15% | 99.9% |  |
-| 4 | 73% | 85% | Median |
-| 5 | 12% | 12% |  |
+| 4 | 74% | 85% | Median |
+| 5 | 11% | 12% |  |
 | 6 | 0% | 0% |  |
 
 ### Aliança (RE) – Iniciativa Liberal (RE)
@@ -499,7 +499,7 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 11% | 100% | Last Result |
-| 1 | 80% | 89% | Median |
+| 1 | 79% | 89% | Median |
 | 2 | 10% | 10% |  |
 | 3 | 0% | 0% |  |
 
@@ -510,7 +510,7 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 44% | 100% | Last Result, Median |
-| 1 | 43% | 56% |  |
+| 1 | 42% | 56% |  |
 | 2 | 13% | 13% |  |
 | 3 | 0.3% | 0.3% |  |
 | 4 | 0% | 0% |  |
@@ -521,9 +521,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 50% | 100% | Last Result, Median |
-| 1 | 45% | 50% |  |
-| 2 | 4% | 4% |  |
+| 0 | 52% | 100% | Last Result, Median |
+| 1 | 43% | 48% |  |
+| 2 | 5% | 5% |  |
 | 3 | 0% | 0% |  |
 
 
@@ -531,5 +531,5 @@ Only polls for which at least the sample size has been published are included in
 
 + **Number of polls included in this average:** 4
 + **Lowest number of simulations done in a poll included in this average:** 1,048,576
-+ **Total number of simulations done in the polls included in this average:** 4,194,304
-+ **Error estimate:** 1.65%
++ **Total number of simulations done in the polls included in this average:** 7,340,032
++ **Error estimate:** 1.59%

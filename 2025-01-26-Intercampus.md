@@ -32,7 +32,7 @@
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | <a href="#partido-socialista-(s&d)">Partido Socialista (S&D)</a> | 0 | 7 | 6–7 |6–8 |6–8 |5–8 |
-| <a href="#aliança-democrática-(epp)">Aliança Democrática (EPP)</a> | 0 | 7 | 6–7 |6–7 |6–8 |5–8 |
+| <a href="#aliança-democrática-(epp)">Aliança Democrática (EPP)</a> | 0 | 7 | 6–7 |6–8 |6–8 |5–8 |
 | <a href="#chega-(pfe)">Chega (PfE)</a> | 0 | 4 | 3–5 |3–5 |3–5 |3–5 |
 | <a href="#iniciativa-liberal-(re)">Iniciativa Liberal (RE)</a> | 0 | 1 | 1–2 |1–2 |1–2 |1–2 |
 | <a href="#bloco-de-esquerda-(gue/ngl)">Bloco de Esquerda (GUE/NGL)</a> | 0 | 1 | 1 |1–2 |1–2 |0–2 |
@@ -53,11 +53,11 @@
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
-| 5 | 1.2% | 100% |  |
-| 6 | 34% | 98.8% |  |
-| 7 | 59% | 65% | Median |
-| 8 | 6% | 6% |  |
-| 9 | 0.2% | 0.2% |  |
+| 5 | 0.9% | 100% |  |
+| 6 | 34% | 99.1% |  |
+| 7 | 58% | 65% | Median |
+| 8 | 7% | 7% |  |
+| 9 | 0.1% | 0.1% |  |
 | 10 | 0% | 0% |  |
 
 ### Aliança Democrática (EPP)
@@ -73,10 +73,10 @@
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
-| 5 | 1.2% | 100% |  |
-| 6 | 39% | 98.8% |  |
-| 7 | 55% | 60% | Median |
-| 8 | 5% | 5% |  |
+| 5 | 1.3% | 100% |  |
+| 6 | 39% | 98.7% |  |
+| 7 | 53% | 59% | Median |
+| 8 | 6% | 6% |  |
 | 9 | 0.1% | 0.1% |  |
 | 10 | 0% | 0% |  |
 
@@ -91,11 +91,10 @@
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 12% | 100% |  |
-| 4 | 73% | 88% | Median |
-| 5 | 16% | 16% |  |
-| 6 | 0.1% | 0.1% |  |
-| 7 | 0% | 0% |  |
+| 3 | 13% | 100% |  |
+| 4 | 74% | 87% | Median |
+| 5 | 12% | 12% |  |
+| 6 | 0% | 0% |  |
 
 ### Iniciativa Liberal (RE)
 
@@ -106,8 +105,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 76% | 100% | Median |
-| 2 | 24% | 24% |  |
+| 1 | 74% | 100% | Median |
+| 2 | 26% | 26% |  |
 | 3 | 0% | 0% |  |
 
 ### Bloco de Esquerda (GUE/NGL)
@@ -131,8 +130,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 40% | 100% | Last Result |
-| 1 | 60% | 60% | Median |
+| 0 | 43% | 100% | Last Result |
+| 1 | 57% | 57% | Median |
 | 2 | 0% | 0% |  |
 
 ### Coligação Democrática Unitária (GUE/NGL)
@@ -155,8 +154,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 73% | 100% | Last Result, Median |
-| 1 | 27% | 27% |  |
+| 0 | 69% | 100% | Last Result, Median |
+| 1 | 31% | 31% |  |
 | 2 | 0% | 0% |  |
 
 
@@ -184,11 +183,11 @@
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
-| 5 | 1.2% | 100% |  |
-| 6 | 34% | 98.8% |  |
-| 7 | 59% | 65% | Median |
-| 8 | 6% | 6% |  |
-| 9 | 0.2% | 0.2% |  |
+| 5 | 0.9% | 100% |  |
+| 6 | 34% | 99.1% |  |
+| 7 | 58% | 65% | Median |
+| 8 | 7% | 7% |  |
+| 9 | 0.1% | 0.1% |  |
 | 10 | 0% | 0% |  |
 
 ### Chega (PfE)
@@ -200,11 +199,10 @@
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 12% | 100% |  |
-| 4 | 73% | 88% | Median |
-| 5 | 16% | 16% |  |
-| 6 | 0.1% | 0.1% |  |
-| 7 | 0% | 0% |  |
+| 3 | 13% | 100% |  |
+| 4 | 74% | 87% | Median |
+| 5 | 12% | 12% |  |
+| 6 | 0% | 0% |  |
 
 ### Bloco de Esquerda (GUE/NGL) – Coligação Democrática Unitária (GUE/NGL)
 
@@ -215,7 +213,7 @@
 | 0 | 0.7% | 100% | Last Result |
 | 1 | 65% | 99.3% | Median |
 | 2 | 33% | 34% |  |
-| 3 | 1.4% | 1.4% |  |
+| 3 | 1.2% | 1.2% |  |
 | 4 | 0% | 0% |  |
 
 ### LIVRE (Greens/EFA) – Pessoas–Animais–Natureza (Greens/EFA)
@@ -224,9 +222,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 26% | 100% | Last Result |
-| 1 | 61% | 74% | Median |
-| 2 | 13% | 13% |  |
+| 0 | 27% | 100% | Last Result |
+| 1 | 58% | 73% | Median |
+| 2 | 15% | 15% |  |
 | 3 | 0% | 0% |  |
 
 
@@ -241,6 +239,6 @@
 ### Calculations
 
 + **Sample size:** 560
-+ **Simulations done:** 1,048,576
-+ **Error estimate:** 1.65%
++ **Simulations done:** 2,097,152
++ **Error estimate:** 1.54%
 
