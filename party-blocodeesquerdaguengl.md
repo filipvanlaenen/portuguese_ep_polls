@@ -10,7 +10,12 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.2% | 3.0–6.3% | 2.7–6.8% | 2.5–7.2% | 2.2–8.1% |
+| N/A | [Poll Average](average.html) | 3.7% | 2.5–6.3% | 2.2–6.9% | 2.0–7.4% | 1.7–8.3% |
+| [23–28 January 2025](2025-01-28-Aximage.html) | Aximage <br> Diário de Notícias | 3.8% | 3.0–4.8% | 2.8–5.1% | 2.6–5.3% | 2.3–5.8% |
+| [21–26 January 2025](2025-01-26-Pitagórica.html) | Pitagórica <br> CNN Portugal, Jornal de Notícias, TSF and TVI | 3.0% | 2.2–4.4% | 1.9–4.8% | 1.7–5.2% | 1.4–5.9% |
+| [21–26 January 2025](2025-01-26-Intercampus.html) | Intercampus <br> Correio da Manhã | 5.9% | 4.8–7.4% | 4.5–7.8% | 4.2–8.2% | 3.7–8.9% |
+| [16–21 January 2025](2025-01-21-Aximage.html) | Aximage <br> Folha Nacional | 4.4% | N/A | N/A | N/A | N/A |
+| [9–20 January 2025](2025-01-20-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 3.0% | 2.3–3.9% | 2.2–4.2% | 2.0–4.4% | 1.7–4.9% |
 | [28 December 2024–5 January 2025](2025-01-05-Pitagórica.html) | Pitagórica <br> CNN Portugal, Jornal de Notícias, TSF and TVI | 4.2% | 3.2–5.9% | 2.9–6.3% | 2.7–6.7% | 2.2–7.6% |
 | [21–27 November 2024](2024-11-27-Intercampus.html) | Intercampus <br> CMTV | 5.8% | 4.7–7.2% | 4.4–7.6% | 4.2–8.0% | 3.7–8.7% |
 | [15–22 November 2024](2024-11-22-Aximage.html) | Aximage <br> Folha Nacional | 3.2% | 2.6–4.2% | 2.4–4.5% | 2.2–4.7% | 1.9–5.2% |
@@ -30,15 +35,15 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 3% | 100% |  |
-| 2.5–3.5% | 23% | 97% |  |
-| 3.5–4.5% | 34% | 75% | Median |
-| 4.5–5.5% | 21% | 41% |  |
-| 5.5–6.5% | 13% | 20% |  |
+| 0.5–1.5% | 0.3% | 100% |  |
+| 1.5–2.5% | 10% | 99.7% |  |
+| 2.5–3.5% | 34% | 89% |  |
+| 3.5–4.5% | 26% | 55% | Median |
+| 4.5–5.5% | 12% | 30% |  |
+| 5.5–6.5% | 10% | 18% |  |
 | 6.5–7.5% | 6% | 7% |  |
-| 7.5–8.5% | 1.3% | 1.5% |  |
-| 8.5–9.5% | 0.2% | 0.2% |  |
+| 7.5–8.5% | 2% | 2% |  |
+| 8.5–9.5% | 0.3% | 0.3% |  |
 | 9.5–10.5% | 0% | 0% |  |
 
 
@@ -50,7 +55,12 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
+| [23–28 January 2025](2025-01-28-Aximage.html) | Aximage <br> Diário de Notícias | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [21–26 January 2025](2025-01-26-Pitagórica.html) | Pitagórica <br> CNN Portugal, Jornal de Notícias, TSF and TVI | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [21–26 January 2025](2025-01-26-Intercampus.html) | Intercampus <br> Correio da Manhã | 1 | 1 | 1–2 | 1–2 | 0–2 |
+| [16–21 January 2025](2025-01-21-Aximage.html) | Aximage <br> Folha Nacional |  |  |  |  |  |
+| [9–20 January 2025](2025-01-20-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [28 December 2024–5 January 2025](2025-01-05-Pitagórica.html) | Pitagórica <br> CNN Portugal, Jornal de Notícias, TSF and TVI | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [21–27 November 2024](2024-11-27-Intercampus.html) | Intercampus <br> CMTV | 1 | 1 | 1 | 1–2 | 0–2 |
 | [15–22 November 2024](2024-11-22-Aximage.html) | Aximage <br> Folha Nacional | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -71,9 +81,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 39% | 100% | Last Result |
-| 1 | 60% | 61% | Median |
-| 2 | 0.8% | 0.8% |  |
+| 0 | 58% | 100% | Last Result, Median |
+| 1 | 40% | 42% |  |
+| 2 | 1.4% | 1.4% |  |
 | 3 | 0% | 0% |  |
 
 

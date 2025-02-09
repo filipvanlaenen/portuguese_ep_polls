@@ -10,7 +10,12 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.6% | 2.7–4.8% | 2.4–5.2% | 2.3–5.6% | 2.0–6.5% |
+| N/A | [Poll Average](average.html) | 3.4% | 2.5–4.5% | 2.3–4.9% | 2.1–5.3% | 1.8–6.0% |
+| [23–28 January 2025](2025-01-28-Aximage.html) | Aximage <br> Diário de Notícias | 3.5% | 2.8–4.5% | 2.6–4.8% | 2.4–5.0% | 2.1–5.5% |
+| [21–26 January 2025](2025-01-26-Pitagórica.html) | Pitagórica <br> CNN Portugal, Jornal de Notícias, TSF and TVI | 3.5% | 2.6–5.0% | 2.3–5.4% | 2.1–5.8% | 1.7–6.6% |
+| [21–26 January 2025](2025-01-26-Intercampus.html) | Intercampus <br> Correio da Manhã | 3.4% | 2.6–4.6% | 2.4–4.9% | 2.2–5.2% | 1.9–5.9% |
+| [16–21 January 2025](2025-01-21-Aximage.html) | Aximage <br> Folha Nacional | 3.2% | N/A | N/A | N/A | N/A |
+| [9–20 January 2025](2025-01-20-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 3.0% | 2.3–3.9% | 2.2–4.2% | 2.0–4.4% | 1.7–4.9% |
 | [28 December 2024–5 January 2025](2025-01-05-Pitagórica.html) | Pitagórica <br> CNN Portugal, Jornal de Notícias, TSF and TVI | 4.0% | 3.0–5.6% | 2.7–6.0% | 2.5–6.4% | 2.1–7.2% |
 | [21–27 November 2024](2024-11-27-Intercampus.html) | Intercampus <br> CMTV | 3.3% | 2.5–4.5% | 2.3–4.8% | 2.1–5.1% | 1.8–5.7% |
 | [15–22 November 2024](2024-11-22-Aximage.html) | Aximage <br> Folha Nacional | 3.8% | 3.0–4.8% | 2.8–5.1% | 2.6–5.3% | 2.3–5.8% |
@@ -30,15 +35,14 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 7% | 100% |  |
-| 2.5–3.5% | 42% | 93% |  |
-| 3.5–4.5% | 36% | 51% | Median |
-| 4.5–5.5% | 12% | 15% |  |
-| 5.5–6.5% | 3% | 3% |  |
-| 6.5–7.5% | 0.4% | 0.5% |  |
-| 7.5–8.5% | 0.1% | 0.1% |  |
-| 8.5–9.5% | 0% | 0% |  |
+| 0.5–1.5% | 0.1% | 100% |  |
+| 1.5–2.5% | 10% | 99.9% |  |
+| 2.5–3.5% | 46% | 90% | Median |
+| 3.5–4.5% | 34% | 44% |  |
+| 4.5–5.5% | 8% | 10% |  |
+| 5.5–6.5% | 1.2% | 1.4% |  |
+| 6.5–7.5% | 0.1% | 0.2% |  |
+| 7.5–8.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -50,6 +54,11 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [23–28 January 2025](2025-01-28-Aximage.html) | Aximage <br> Diário de Notícias | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [21–26 January 2025](2025-01-26-Pitagórica.html) | Pitagórica <br> CNN Portugal, Jornal de Notícias, TSF and TVI | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [21–26 January 2025](2025-01-26-Intercampus.html) | Intercampus <br> Correio da Manhã | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [16–21 January 2025](2025-01-21-Aximage.html) | Aximage <br> Folha Nacional |  |  |  |  |  |
+| [9–20 January 2025](2025-01-20-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [28 December 2024–5 January 2025](2025-01-05-Pitagórica.html) | Pitagórica <br> CNN Portugal, Jornal de Notícias, TSF and TVI | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [21–27 November 2024](2024-11-27-Intercampus.html) | Intercampus <br> CMTV | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [15–22 November 2024](2024-11-22-Aximage.html) | Aximage <br> Folha Nacional | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -70,8 +79,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 67% | 100% | Last Result, Median |
-| 1 | 33% | 33% |  |
+| 0 | 74% | 100% | Last Result, Median |
+| 1 | 26% | 26% |  |
 | 2 | 0% | 0% |  |
 
 
