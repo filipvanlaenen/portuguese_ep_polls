@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/portuguese_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 09 Feb 2025 16:21:15 +0100</pubDate>
+    <pubDate>Fri, 14 Mar 2025 17:52:18 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Pitagórica for CNN Portugal, Jornal de Notícias, TSF and TVI, 23–27 February 2025 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2025-02-27-Pitagórica.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Coligação Democrática Unitária (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Partido Socialista (S&amp;amp;D): 5–8 seats&lt;/li&gt;&lt;li&gt;Iniciativa Liberal (RE): 0–1 seats&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Chega (PfE): 3–5 seats&lt;/li&gt;&lt;li&gt;Bloco de Esquerda (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Aliança Democrática (EPP): 7–10 seats&lt;/li&gt;&lt;li&gt;LIVRE (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2025-02-27-Pitagórica-seats.png"
+        length="256020"
+        type="image/png"/>
+      <pubDate>Fri, 14 Mar 2025 17:52:18 +0100</pubDate>
+      <dc:date>2025-03-14T17:52:18.913637+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Pitagórica for CNN Portugal, Jornal de Notícias, TSF and TVI, 23–27 February 2025 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2025-02-27-Pitagórica.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2025-02-27-Pitagórica-coalitions-seats.png"
+        length="175434"
+        type="image/png"/>
+      <pubDate>Fri, 14 Mar 2025 17:52:18 +0100</pubDate>
+      <dc:date>2025-03-14T17:52:18.913637+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Pitagórica for CNN Portugal, Jornal de Notícias, TSF and TVI, 23–27 February 2025 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2025-02-27-Pitagórica.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Coligação Democrática Unitária (GUE/NGL): 2.1–5.8%&lt;/li&gt;&lt;li&gt;Partido Socialista (S&amp;amp;D): 23.1–31.8%&lt;/li&gt;&lt;li&gt;Iniciativa Liberal (RE): 3.3–7.6%&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza (Greens/EFA): 0.7–3.2%&lt;/li&gt;&lt;li&gt;Chega (PfE): 14.1–21.5%&lt;/li&gt;&lt;li&gt;Bloco de Esquerda (GUE/NGL): 0.7–3.2%&lt;/li&gt;&lt;li&gt;Aliança Democrática (EPP): 31.0–40.3%&lt;/li&gt;&lt;li&gt;LIVRE (Greens/EFA): 3.1–7.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2025-02-27-Pitagórica.png"
+        length="303384"
+        type="image/png"/>
+      <pubDate>Fri, 14 Mar 2025 17:52:18 +0100</pubDate>
+      <dc:date>2025-03-14T17:52:18.913637+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Aximage for Diário de Notícias, 23–28 January 2025 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2025-01-28-Aximage.html#seats</link>
@@ -429,6 +459,6 @@
       <pubDate>Mon, 23 Sep 2024 19:51:27 +0200</pubDate>
       <dc:date>2024-09-23T19:51:27.949735+02:00</dc:date>
     </item>
-    <dc:date>2025-02-09T16:21:15.612527+01:00</dc:date>
+    <dc:date>2025-03-14T17:52:18.913637+01:00</dc:date>
   </channel>
 </rss>
