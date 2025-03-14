@@ -10,7 +10,12 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.8% | 3.8–7.8% | 3.5–8.4% | 3.2–8.8% | 2.8–9.8% |
+| N/A | [Poll Average](average.html) | 4.0% | 3.2–5.0% | 3.0–5.3% | 2.8–5.6% | 2.5–6.1% |
+| [6–12 March 2025](2025-03-12-Consulmark2.html) | Consulmark2 <br> Euronews and Sol | 7.7% | N/A | N/A | N/A | N/A |
+| [4–10 March 2025](2025-03-10-Intercampus.html) | Intercampus <br> Correio da Manhã | 7.9% | N/A | N/A | N/A | N/A |
+| [6–8 March 2025](2025-03-08-Aximage.html) | Aximage <br> Diário de Notícias | 7.3% | N/A | N/A | N/A | N/A |
+| [3–6 March 2025](2025-03-06-Pitagórica.html) | Pitagórica <br> CNN Portugal, Jornal de Notícias, TSF and TVI | 6.7% | N/A | N/A | N/A | N/A |
+| [23–27 February 2025](2025-02-27-Pitagórica.html) | Pitagórica <br> CNN Portugal, Jornal de Notícias, TSF and TVI | 5.0% | 3.9–6.7% | 3.5–7.2% | 3.3–7.6% | 2.8–8.5% |
 | [23–28 January 2025](2025-01-28-Aximage.html) | Aximage <br> Diário de Notícias | 5.6% | 4.7–6.8% | 4.5–7.1% | 4.2–7.5% | 3.8–8.1% |
 | [21–26 January 2025](2025-01-26-Pitagórica.html) | Pitagórica <br> CNN Portugal, Jornal de Notícias, TSF and TVI | 6.2% | 4.9–8.1% | 4.6–8.6% | 4.3–9.1% | 3.7–10.0% |
 | [21–26 January 2025](2025-01-26-Intercampus.html) | Intercampus <br> Correio da Manhã | 7.0% | 5.8–8.6% | 5.4–9.0% | 5.1–9.4% | 4.6–10.2% |
@@ -36,17 +41,13 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 0.2% | 100% |  |
-| 2.5–3.5% | 6% | 99.8% |  |
-| 3.5–4.5% | 16% | 94% |  |
-| 4.5–5.5% | 21% | 78% |  |
-| 5.5–6.5% | 25% | 58% | Median |
-| 6.5–7.5% | 19% | 32% |  |
-| 7.5–8.5% | 10% | 13% |  |
-| 8.5–9.5% | 3% | 4% |  |
-| 9.5–10.5% | 0.6% | 0.7% |  |
-| 10.5–11.5% | 0.1% | 0.1% |  |
-| 11.5–12.5% | 0% | 0% |  |
+| 1.5–2.5% | 0.6% | 100% |  |
+| 2.5–3.5% | 22% | 99.4% |  |
+| 3.5–4.5% | 53% | 77% | Median |
+| 4.5–5.5% | 22% | 24% |  |
+| 5.5–6.5% | 2% | 3% |  |
+| 6.5–7.5% | 0.1% | 0.1% |  |
+| 7.5–8.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -57,7 +58,12 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
+| N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [6–12 March 2025](2025-03-12-Consulmark2.html) | Consulmark2 <br> Euronews and Sol |  |  |  |  |  |
+| [4–10 March 2025](2025-03-10-Intercampus.html) | Intercampus <br> Correio da Manhã |  |  |  |  |  |
+| [6–8 March 2025](2025-03-08-Aximage.html) | Aximage <br> Diário de Notícias |  |  |  |  |  |
+| [3–6 March 2025](2025-03-06-Pitagórica.html) | Pitagórica <br> CNN Portugal, Jornal de Notícias, TSF and TVI |  |  |  |  |  |
+| [23–27 February 2025](2025-02-27-Pitagórica.html) | Pitagórica <br> CNN Portugal, Jornal de Notícias, TSF and TVI | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | [23–28 January 2025](2025-01-28-Aximage.html) | Aximage <br> Diário de Notícias | 1 | 1 | 1 | 1 | 0–2 |
 | [21–26 January 2025](2025-01-26-Pitagórica.html) | Pitagórica <br> CNN Portugal, Jornal de Notícias, TSF and TVI | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | [21–26 January 2025](2025-01-26-Intercampus.html) | Intercampus <br> Correio da Manhã | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -83,9 +89,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 11% | 100% | Last Result |
-| 1 | 79% | 89% | Median |
-| 2 | 10% | 10% |  |
-| 3 | 0% | 0% |  |
+| 0 | 40% | 100% | Last Result |
+| 1 | 60% | 60% | Median |
+| 2 | 0% | 0% |  |
 
 
