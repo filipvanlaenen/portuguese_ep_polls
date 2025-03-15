@@ -311,7 +311,7 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 56% | 100% | Last Result, Median |
-| 1 | 44% | 44% |  |
+| 1 | 43% | 44% |  |
 | 2 | 0.5% | 0.5% |  |
 | 3 | 0% | 0% |  |
 
@@ -354,8 +354,8 @@ Only polls for which at least the sample size has been published are included in
 | 4 | 0% | 100% |  |
 | 5 | 0.4% | 100% |  |
 | 6 | 20% | 99.6% |  |
-| 7 | 61% | 80% | Median |
-| 8 | 18% | 18% |  |
+| 7 | 62% | 79% | Median |
+| 8 | 17% | 18% |  |
 | 9 | 0.3% | 0.3% |  |
 | 10 | 0% | 0% |  |
 
@@ -406,10 +406,10 @@ Only polls for which at least the sample size has been published are included in
 | 4 | 0% | 100% |  |
 | 5 | 4% | 100% |  |
 | 6 | 26% | 96% |  |
-| 7 | 23% | 70% | Median |
+| 7 | 22% | 70% | Median |
 | 8 | 39% | 48% |  |
 | 9 | 9% | 9% |  |
-| 10 | 0.1% | 0.1% |  |
+| 10 | 0.2% | 0.2% |  |
 | 11 | 0% | 0% | Majority |
 
 ### Chega (PfE)
@@ -422,8 +422,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 2% | 100% |  |
-| 3 | 33% | 98% |  |
+| 2 | 1.5% | 100% |  |
+| 3 | 33% | 98.5% |  |
 | 4 | 61% | 66% | Median |
 | 5 | 5% | 5% |  |
 | 6 | 0% | 0% |  |
@@ -457,10 +457,10 @@ Only polls for which at least the sample size has been published are included in
 | 4 | 0% | 100% |  |
 | 5 | 4% | 100% |  |
 | 6 | 26% | 96% |  |
-| 7 | 23% | 70% | Median |
+| 7 | 22% | 70% | Median |
 | 8 | 39% | 48% |  |
 | 9 | 9% | 9% |  |
-| 10 | 0.1% | 0.1% |  |
+| 10 | 0.2% | 0.2% |  |
 | 11 | 0% | 0% | Majority |
 
 ### Partido Socialista (S&D)
@@ -476,8 +476,8 @@ Only polls for which at least the sample size has been published are included in
 | 4 | 0% | 100% |  |
 | 5 | 0.4% | 100% |  |
 | 6 | 20% | 99.6% |  |
-| 7 | 61% | 80% | Median |
-| 8 | 18% | 18% |  |
+| 7 | 62% | 79% | Median |
+| 8 | 17% | 18% |  |
 | 9 | 0.3% | 0.3% |  |
 | 10 | 0% | 0% |  |
 
@@ -489,8 +489,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 2% | 100% |  |
-| 3 | 33% | 98% |  |
+| 2 | 1.5% | 100% |  |
+| 3 | 33% | 98.5% |  |
 | 4 | 61% | 66% | Median |
 | 5 | 5% | 5% |  |
 | 6 | 0% | 0% |  |
@@ -534,6 +534,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 5
-+ **Lowest number of simulations done in a poll included in this average:** 1,048,576
-+ **Total number of simulations done in the polls included in this average:** 8,388,608
++ **Lowest number of simulations done in a poll included in this average:** 2,097,152
++ **Total number of simulations done in the polls included in this average:** 10,485,760
 + **Error estimate:** 2.61%
