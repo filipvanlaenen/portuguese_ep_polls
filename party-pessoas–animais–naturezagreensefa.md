@@ -61,7 +61,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [6–12 March 2025](2025-03-12-Consulmark2.html) | Consulmark2 <br> Euronews and Sol | 0 | 0 | 0 | 0 | 0 |
 | [4–10 March 2025](2025-03-10-Intercampus.html) | Intercampus <br> Correio da Manhã | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [6–8 March 2025](2025-03-08-Aximage.html) | Aximage <br> Diário de Notícias | 0 | 0 | 0 | 0 | 0 |
-| [3–6 March 2025](2025-03-06-Pitagórica.html) | Pitagórica <br> CNN Portugal, Jornal de Notícias, TSF and TVI | 0 | 0 | 0 | 0 | 0–1 |
+| [3–6 March 2025](2025-03-06-Pitagórica.html) | Pitagórica <br> CNN Portugal, Jornal de Notícias, TSF and TVI | 0 | 0 | 0 | 0 | 0 |
 | [23–27 February 2025](2025-02-27-Pitagórica.html) | Pitagórica <br> CNN Portugal, Jornal de Notícias, TSF and TVI | 0 | 0 | 0 | 0 | 0 |
 | [23–28 January 2025](2025-01-28-Aximage.html) | Aximage <br> Diário de Notícias | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [21–26 January 2025](2025-01-26-Pitagórica.html) | Pitagórica <br> CNN Portugal, Jornal de Notícias, TSF and TVI | 0 | 0 | 0 | 0 | 0–1 |

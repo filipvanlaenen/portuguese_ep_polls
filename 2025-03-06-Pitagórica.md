@@ -38,7 +38,7 @@
 | <a href="#coligação-democrática-unitária-(gue/ngl)">Coligação Democrática Unitária (GUE/NGL)</a> | 0 | 0 | 0–1 |0–1 |0–1 |0–1 |
 | <a href="#bloco-de-esquerda-(gue/ngl)">Bloco de Esquerda (GUE/NGL)</a> | 0 | 0 | 0–1 |0–1 |0–1 |0–1 |
 | <a href="#livre-(greens/efa)">LIVRE (Greens/EFA)</a> | 0 | 0 | 0 |0–1 |0–1 |0–1 |
-| <a href="#pessoas–animais–natureza-(greens/efa)">Pessoas–Animais–Natureza (Greens/EFA)</a> | 0 | 0 | 0 |0 |0 |0–1 |
+| <a href="#pessoas–animais–natureza-(greens/efa)">Pessoas–Animais–Natureza (Greens/EFA)</a> | 0 | 0 | 0 |0 |0 |0 |
 
 ### Aliança Democrática (EPP)
 
@@ -55,10 +55,10 @@
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
 | 6 | 0.1% | 100% |  |
-| 7 | 11% | 99.9% |  |
-| 8 | 67% | 89% | Median |
-| 9 | 22% | 22% |  |
-| 10 | 0.6% | 0.6% |  |
+| 7 | 10% | 99.9% |  |
+| 8 | 65% | 90% | Median |
+| 9 | 24% | 25% |  |
+| 10 | 0.7% | 0.7% |  |
 | 11 | 0% | 0% | Majority |
 
 ### Partido Socialista (S&D)
@@ -75,9 +75,9 @@
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
 | 5 | 0.1% | 100% |  |
-| 6 | 16% | 99.9% |  |
-| 7 | 65% | 83% | Median |
-| 8 | 18% | 18% |  |
+| 6 | 18% | 99.9% |  |
+| 7 | 67% | 82% | Median |
+| 8 | 15% | 15% |  |
 | 9 | 0.1% | 0.1% |  |
 | 10 | 0% | 0% |  |
 
@@ -91,9 +91,9 @@
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 8% | 100% |  |
-| 3 | 80% | 92% | Median |
-| 4 | 12% | 12% |  |
+| 2 | 7% | 100% |  |
+| 3 | 81% | 93% | Median |
+| 4 | 11% | 11% |  |
 | 5 | 0% | 0% |  |
 
 ### Iniciativa Liberal (RE)
@@ -105,8 +105,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 83% | 100% | Median |
-| 2 | 17% | 17% |  |
+| 1 | 81% | 100% | Median |
+| 2 | 19% | 19% |  |
 | 3 | 0% | 0% |  |
 
 ### Coligação Democrática Unitária (GUE/NGL)
@@ -117,8 +117,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 83% | 100% | Last Result, Median |
-| 1 | 17% | 17% |  |
+| 0 | 84% | 100% | Last Result, Median |
+| 1 | 16% | 16% |  |
 | 2 | 0% | 0% |  |
 
 ### Bloco de Esquerda (GUE/NGL)
@@ -141,8 +141,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 93% | 100% | Last Result, Median |
-| 1 | 7% | 7% |  |
+| 0 | 92% | 100% | Last Result, Median |
+| 1 | 8% | 8% |  |
 | 2 | 0% | 0% |  |
 
 ### Pessoas–Animais–Natureza (Greens/EFA)
@@ -183,9 +183,9 @@
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
 | 5 | 0.1% | 100% |  |
-| 6 | 16% | 99.9% |  |
-| 7 | 65% | 83% | Median |
-| 8 | 18% | 18% |  |
+| 6 | 18% | 99.9% |  |
+| 7 | 67% | 82% | Median |
+| 8 | 15% | 15% |  |
 | 9 | 0.1% | 0.1% |  |
 | 10 | 0% | 0% |  |
 
@@ -197,9 +197,9 @@
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 8% | 100% |  |
-| 3 | 80% | 92% | Median |
-| 4 | 12% | 12% |  |
+| 2 | 7% | 100% |  |
+| 3 | 81% | 93% | Median |
+| 4 | 11% | 11% |  |
 | 5 | 0% | 0% |  |
 
 ### Coligação Democrática Unitária (GUE/NGL) – Bloco de Esquerda (GUE/NGL)
@@ -208,9 +208,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 73% | 100% | Last Result, Median |
-| 1 | 25% | 27% |  |
-| 2 | 1.5% | 1.5% |  |
+| 0 | 74% | 100% | Last Result, Median |
+| 1 | 25% | 26% |  |
+| 2 | 1.3% | 1.3% |  |
 | 3 | 0% | 0% |  |
 
 ### LIVRE (Greens/EFA) – Pessoas–Animais–Natureza (Greens/EFA)
@@ -219,8 +219,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 93% | 100% | Last Result, Median |
-| 1 | 7% | 7% |  |
+| 0 | 92% | 100% | Last Result, Median |
+| 1 | 8% | 8% |  |
 | 2 | 0% | 0% |  |
 
 
@@ -235,6 +235,6 @@
 ### Calculations
 
 + **Sample size:** 625
-+ **Simulations done:** 1,048,576
-+ **Error estimate:** 1.98%
++ **Simulations done:** 2,097,152
++ **Error estimate:** 2.06%
 
