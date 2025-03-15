@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/portuguese_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 15 Mar 2025 10:48:03 +0100</pubDate>
+    <pubDate>Sat, 15 Mar 2025 14:19:43 +0100</pubDate>
     <item>
       <title>Opinion Poll by Consulmark2 for Euronews and Sol, 6–12 March 2025 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2025-03-12-Consulmark2.html#seats</link>
@@ -76,8 +76,8 @@
       <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2025-03-08-Aximage-seats.png"
         length="249805"
         type="image/png"/>
-      <pubDate>Sat, 15 Mar 2025 10:05:13 +0100</pubDate>
-      <dc:date>2025-03-15T10:05:13.271201+01:00</dc:date>
+      <pubDate>Sat, 15 Mar 2025 13:37:45 +0100</pubDate>
+      <dc:date>2025-03-15T13:37:45.269431+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Aximage for Diário de Notícias, 6–8 March 2025 – Seat Projections for a Selection of Coalitions</title>
@@ -86,8 +86,8 @@
       <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2025-03-08-Aximage-coalitions-seats.png"
         length="169467"
         type="image/png"/>
-      <pubDate>Sat, 15 Mar 2025 10:05:13 +0100</pubDate>
-      <dc:date>2025-03-15T10:05:13.271201+01:00</dc:date>
+      <pubDate>Sat, 15 Mar 2025 13:37:45 +0100</pubDate>
+      <dc:date>2025-03-15T13:37:45.269431+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Aximage for Diário de Notícias, 6–8 March 2025 – Voting Intentions</title>
@@ -96,8 +96,8 @@
       <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2025-03-08-Aximage.png"
         length="295021"
         type="image/png"/>
-      <pubDate>Sat, 15 Mar 2025 10:05:13 +0100</pubDate>
-      <dc:date>2025-03-15T10:05:13.271201+01:00</dc:date>
+      <pubDate>Sat, 15 Mar 2025 13:37:45 +0100</pubDate>
+      <dc:date>2025-03-15T13:37:45.269431+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Pitagórica for CNN Portugal, Jornal de Notícias, TSF and TVI, 3–6 March 2025 – Seat Projections for the Parties</title>
@@ -106,8 +106,8 @@
       <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2025-03-06-Pitagórica-seats.png"
         length="240735"
         type="image/png"/>
-      <pubDate>Sat, 15 Mar 2025 10:48:03 +0100</pubDate>
-      <dc:date>2025-03-15T10:48:03.838875+01:00</dc:date>
+      <pubDate>Sat, 15 Mar 2025 14:19:43 +0100</pubDate>
+      <dc:date>2025-03-15T14:19:43.68681+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Pitagórica for CNN Portugal, Jornal de Notícias, TSF and TVI, 3–6 March 2025 – Seat Projections for a Selection of Coalitions</title>
@@ -116,8 +116,8 @@
       <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2025-03-06-Pitagórica-coalitions-seats.png"
         length="162879"
         type="image/png"/>
-      <pubDate>Sat, 15 Mar 2025 10:48:03 +0100</pubDate>
-      <dc:date>2025-03-15T10:48:03.838875+01:00</dc:date>
+      <pubDate>Sat, 15 Mar 2025 14:19:43 +0100</pubDate>
+      <dc:date>2025-03-15T14:19:43.68681+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Pitagórica for CNN Portugal, Jornal de Notícias, TSF and TVI, 3–6 March 2025 – Voting Intentions</title>
@@ -126,8 +126,8 @@
       <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2025-03-06-Pitagórica.png"
         length="297192"
         type="image/png"/>
-      <pubDate>Sat, 15 Mar 2025 10:48:03 +0100</pubDate>
-      <dc:date>2025-03-15T10:48:03.838875+01:00</dc:date>
+      <pubDate>Sat, 15 Mar 2025 14:19:43 +0100</pubDate>
+      <dc:date>2025-03-15T14:19:43.68681+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Pitagórica for CNN Portugal, Jornal de Notícias, TSF and TVI, 23–27 February 2025 – Seat Projections for the Parties</title>
@@ -579,6 +579,6 @@
       <pubDate>Mon, 23 Sep 2024 19:51:27 +0200</pubDate>
       <dc:date>2024-09-23T19:51:27.949735+02:00</dc:date>
     </item>
-    <dc:date>2025-03-15T10:48:03.838875+01:00</dc:date>
+    <dc:date>2025-03-15T14:19:43.68681+01:00</dc:date>
   </channel>
 </rss>
