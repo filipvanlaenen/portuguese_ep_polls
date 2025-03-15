@@ -10,11 +10,11 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.0% | 3.2–5.0% | 3.0–5.3% | 2.8–5.6% | 2.5–6.1% |
-| [6–12 March 2025](2025-03-12-Consulmark2.html) | Consulmark2 <br> Euronews and Sol | 7.7% | N/A | N/A | N/A | N/A |
-| [4–10 March 2025](2025-03-10-Intercampus.html) | Intercampus <br> Correio da Manhã | 7.9% | N/A | N/A | N/A | N/A |
-| [6–8 March 2025](2025-03-08-Aximage.html) | Aximage <br> Diário de Notícias | 7.3% | N/A | N/A | N/A | N/A |
-| [3–6 March 2025](2025-03-06-Pitagórica.html) | Pitagórica <br> CNN Portugal, Jornal de Notícias, TSF and TVI | 6.7% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 7.2% | 4.0–9.0% | 3.6–9.5% | 3.3–9.9% | 2.8–10.8% |
+| [6–12 March 2025](2025-03-12-Consulmark2.html) | Consulmark2 <br> Euronews and Sol | 7.7% | 6.5–9.3% | 6.1–9.8% | 5.9–10.2% | 5.3–11.0% |
+| [4–10 March 2025](2025-03-10-Intercampus.html) | Intercampus <br> Correio da Manhã | 7.9% | 6.6–9.6% | 6.3–10.1% | 6.0–10.5% | 5.4–11.4% |
+| [6–8 March 2025](2025-03-08-Aximage.html) | Aximage <br> Diário de Notícias | 7.3% | 6.1–8.9% | 5.8–9.3% | 5.5–9.7% | 5.0–10.5% |
+| [3–6 March 2025](2025-03-06-Pitagórica.html) | Pitagórica <br> CNN Portugal, Jornal de Notícias, TSF and TVI | 6.7% | 5.6–8.2% | 5.3–8.6% | 5.0–9.0% | 4.5–9.7% |
 | [23–27 February 2025](2025-02-27-Pitagórica.html) | Pitagórica <br> CNN Portugal, Jornal de Notícias, TSF and TVI | 5.0% | 3.9–6.7% | 3.5–7.2% | 3.3–7.6% | 2.8–8.5% |
 | [23–28 January 2025](2025-01-28-Aximage.html) | Aximage <br> Diário de Notícias | 5.6% | 4.7–6.8% | 4.5–7.1% | 4.2–7.5% | 3.8–8.1% |
 | [21–26 January 2025](2025-01-26-Pitagórica.html) | Pitagórica <br> CNN Portugal, Jornal de Notícias, TSF and TVI | 6.2% | 4.9–8.1% | 4.6–8.6% | 4.3–9.1% | 3.7–10.0% |
@@ -41,13 +41,18 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 0.6% | 100% |  |
-| 2.5–3.5% | 22% | 99.4% |  |
-| 3.5–4.5% | 53% | 77% | Median |
-| 4.5–5.5% | 22% | 24% |  |
-| 5.5–6.5% | 2% | 3% |  |
-| 6.5–7.5% | 0.1% | 0.1% |  |
-| 7.5–8.5% | 0% | 0% |  |
+| 1.5–2.5% | 0.1% | 100% |  |
+| 2.5–3.5% | 4% | 99.9% |  |
+| 3.5–4.5% | 11% | 95% |  |
+| 4.5–5.5% | 7% | 85% |  |
+| 5.5–6.5% | 14% | 78% |  |
+| 6.5–7.5% | 25% | 64% | Median |
+| 7.5–8.5% | 23% | 39% |  |
+| 8.5–9.5% | 12% | 16% |  |
+| 9.5–10.5% | 4% | 4% |  |
+| 10.5–11.5% | 0.7% | 0.8% |  |
+| 11.5–12.5% | 0.1% | 0.1% |  |
+| 12.5–13.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -58,11 +63,11 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [6–12 March 2025](2025-03-12-Consulmark2.html) | Consulmark2 <br> Euronews and Sol |  |  |  |  |  |
-| [4–10 March 2025](2025-03-10-Intercampus.html) | Intercampus <br> Correio da Manhã |  |  |  |  |  |
-| [6–8 March 2025](2025-03-08-Aximage.html) | Aximage <br> Diário de Notícias |  |  |  |  |  |
-| [3–6 March 2025](2025-03-06-Pitagórica.html) | Pitagórica <br> CNN Portugal, Jornal de Notícias, TSF and TVI |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
+| [6–12 March 2025](2025-03-12-Consulmark2.html) | Consulmark2 <br> Euronews and Sol | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [4–10 March 2025](2025-03-10-Intercampus.html) | Intercampus <br> Correio da Manhã | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [6–8 March 2025](2025-03-08-Aximage.html) | Aximage <br> Diário de Notícias | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [3–6 March 2025](2025-03-06-Pitagórica.html) | Pitagórica <br> CNN Portugal, Jornal de Notícias, TSF and TVI | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [23–27 February 2025](2025-02-27-Pitagórica.html) | Pitagórica <br> CNN Portugal, Jornal de Notícias, TSF and TVI | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | [23–28 January 2025](2025-01-28-Aximage.html) | Aximage <br> Diário de Notícias | 1 | 1 | 1 | 1 | 0–2 |
 | [21–26 January 2025](2025-01-26-Pitagórica.html) | Pitagórica <br> CNN Portugal, Jornal de Notícias, TSF and TVI | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
@@ -89,8 +94,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 40% | 100% | Last Result |
-| 1 | 60% | 60% | Median |
-| 2 | 0% | 0% |  |
+| 0 | 8% | 100% | Last Result |
+| 1 | 62% | 92% | Median |
+| 2 | 30% | 30% |  |
+| 3 | 0.1% | 0.1% |  |
+| 4 | 0% | 0% |  |
 
 
