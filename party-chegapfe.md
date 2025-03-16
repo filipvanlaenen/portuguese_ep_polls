@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16.7% | 13.4–18.9% | 12.6–19.6% | 12.0–20.1% | 11.0–21.3% |
+| N/A | [Poll Average](average.html) | 16.8% | 13.5–19.4% | 12.6–20.1% | 12.0–20.8% | 11.0–22.0% |
+| [11–13 March 2025](2025-03-13-Intercampus.html) | Intercampus <br> Correio da Manhã | 18.4% | 16.4–20.7% | 15.8–21.4% | 15.3–21.9% | 14.4–23.1% |
 | [6–12 March 2025](2025-03-12-Consulmark2.html) | Consulmark2 <br> Euronews and Sol | 16.5% | 14.7–18.6% | 14.2–19.2% | 13.7–19.7% | 12.9–20.7% |
 | [4–10 March 2025](2025-03-10-Intercampus.html) | Intercampus <br> Correio da Manhã | 17.4% | 15.4–19.6% | 14.9–20.3% | 14.4–20.8% | 13.5–21.9% |
 | [6–8 March 2025](2025-03-08-Aximage.html) | Aximage <br> Diário de Notícias | 17.3% | 15.5–19.4% | 14.9–20.0% | 14.5–20.5% | 13.6–21.6% |
@@ -54,16 +55,17 @@ The following table shows the probability mass function per percentage block of 
 | 11.5–12.5% | 3% | 98.7% |  |
 | 12.5–13.5% | 6% | 95% |  |
 | 13.5–14.5% | 8% | 89% |  |
-| 14.5–15.5% | 11% | 81% |  |
-| 15.5–16.5% | 18% | 70% |  |
-| 16.5–17.5% | 21% | 52% | Median |
-| 17.5–18.5% | 17% | 31% |  |
-| 18.5–19.5% | 9% | 14% |  |
-| 19.5–20.5% | 4% | 5% |  |
-| 20.5–21.5% | 1.1% | 1.4% |  |
-| 21.5–22.5% | 0.3% | 0.3% |  |
-| 22.5–23.5% | 0% | 0.1% |  |
+| 14.5–15.5% | 10% | 82% |  |
+| 15.5–16.5% | 16% | 71% |  |
+| 16.5–17.5% | 19% | 55% | Median |
+| 17.5–18.5% | 17% | 36% |  |
+| 18.5–19.5% | 11% | 19% |  |
+| 19.5–20.5% | 5% | 8% |  |
+| 20.5–21.5% | 2% | 3% |  |
+| 21.5–22.5% | 0.7% | 1.0% |  |
+| 22.5–23.5% | 0.2% | 0.2% |  |
 | 23.5–24.5% | 0% | 0% |  |
+| 24.5–25.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -74,7 +76,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 3–4 | 3–4 | 3–5 | 2–5 |
+| N/A | [Poll Average](average.html) | 4 | 3–4 | 3–5 | 3–5 | 2–5 |
+| [11–13 March 2025](2025-03-13-Intercampus.html) | Intercampus <br> Correio da Manhã | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
 | [6–12 March 2025](2025-03-12-Consulmark2.html) | Consulmark2 <br> Euronews and Sol | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
 | [4–10 March 2025](2025-03-10-Intercampus.html) | Intercampus <br> Correio da Manhã | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | [6–8 March 2025](2025-03-08-Aximage.html) | Aximage <br> Diário de Notícias | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
@@ -108,9 +111,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 1.5% | 100% |  |
-| 3 | 33% | 98.5% |  |
-| 4 | 61% | 66% | Median |
-| 5 | 5% | 5% |  |
+| 3 | 31% | 98.5% |  |
+| 4 | 60% | 68% | Median |
+| 5 | 7% | 7% |  |
 | 6 | 0% | 0% |  |
 
 
