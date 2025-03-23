@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/portuguese_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 16 Mar 2025 22:09:23 +0100</pubDate>
+    <pubDate>Sun, 23 Mar 2025 10:50:39 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by ICS/ISCTE for Expresso and SIC Notícias, 12–17 March 2025 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2025-03-17-ICSISCTE.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Coligação Democrática Unitária (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Partido Socialista (S&amp;amp;D): 5–8 seats&lt;/li&gt;&lt;li&gt;Iniciativa Liberal (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Chega (PfE): 3–4 seats&lt;/li&gt;&lt;li&gt;Bloco de Esquerda (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Aliança Democrática (EPP): 8–10 seats&lt;/li&gt;&lt;li&gt;LIVRE (Greens/EFA): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2025-03-17-ICSISCTE-seats.png"
+        length="226898"
+        type="image/png"/>
+      <pubDate>Sun, 23 Mar 2025 10:50:39 +0100</pubDate>
+      <dc:date>2025-03-23T10:50:39.75765+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by ICS/ISCTE for Expresso and SIC Notícias, 12–17 March 2025 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2025-03-17-ICSISCTE.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2025-03-17-ICSISCTE-coalitions-seats.png"
+        length="151709"
+        type="image/png"/>
+      <pubDate>Sun, 23 Mar 2025 10:50:39 +0100</pubDate>
+      <dc:date>2025-03-23T10:50:39.75765+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by ICS/ISCTE for Expresso and SIC Notícias, 12–17 March 2025 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2025-03-17-ICSISCTE.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Coligação Democrática Unitária (GUE/NGL): 1.1–4.0%&lt;/li&gt;&lt;li&gt;Partido Socialista (S&amp;amp;D): 23.9–32.5%&lt;/li&gt;&lt;li&gt;Iniciativa Liberal (RE): 5.6–10.7%&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza (Greens/EFA): 0.1–1.7%&lt;/li&gt;&lt;li&gt;Chega (PfE): 13.0–20.1%&lt;/li&gt;&lt;li&gt;Bloco de Esquerda (GUE/NGL): 0.8–3.4%&lt;/li&gt;&lt;li&gt;Aliança Democrática (EPP): 33.2–42.4%&lt;/li&gt;&lt;li&gt;LIVRE (Greens/EFA): 1.0–3.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2025-03-17-ICSISCTE.png"
+        length="293667"
+        type="image/png"/>
+      <pubDate>Sun, 23 Mar 2025 10:50:39 +0100</pubDate>
+      <dc:date>2025-03-23T10:50:39.75765+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Intercampus for Correio da Manhã, 11–13 March 2025 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2025-03-13-Intercampus.html#seats</link>
@@ -609,6 +639,6 @@
       <pubDate>Mon, 23 Sep 2024 19:51:27 +0200</pubDate>
       <dc:date>2024-09-23T19:51:27.949735+02:00</dc:date>
     </item>
-    <dc:date>2025-03-16T22:09:23.166163+01:00</dc:date>
+    <dc:date>2025-03-23T10:50:39.75765+01:00</dc:date>
   </channel>
 </rss>
