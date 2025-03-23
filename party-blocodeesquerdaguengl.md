@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.7% | 2.5–5.6% | 2.3–6.2% | 2.1–6.6% | 1.8–7.5% |
+| N/A | [Poll Average](average.html) | 3.6% | 1.8–5.6% | 1.4–6.2% | 1.2–6.6% | 0.8–7.5% |
+| [12–17 March 2025](2025-03-17-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 1.6% | 1.1–2.8% | 0.9–3.1% | 0.8–3.4% | 0.6–4.0% |
 | [11–13 March 2025](2025-03-13-Intercampus.html) | Intercampus <br> Correio da Manhã | 5.3% | 4.2–6.7% | 3.9–7.1% | 3.7–7.5% | 3.2–8.3% |
 | [6–12 March 2025](2025-03-12-Consulmark2.html) | Consulmark2 <br> Euronews and Sol | 3.4% | 2.6–4.5% | 2.4–4.9% | 2.2–5.2% | 1.9–5.8% |
 | [4–10 March 2025](2025-03-10-Intercampus.html) | Intercampus <br> Correio da Manhã | 5.5% | 4.5–7.0% | 4.2–7.4% | 3.9–7.8% | 3.4–8.6% |
@@ -40,12 +41,12 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 0.1% | 100% |  |
-| 1.5–2.5% | 10% | 99.9% |  |
-| 2.5–3.5% | 35% | 90% |  |
-| 3.5–4.5% | 27% | 55% | Median |
-| 4.5–5.5% | 17% | 28% |  |
+| 0.0–0.5% | 0.1% | 100% | Last Result |
+| 0.5–1.5% | 7% | 99.9% |  |
+| 1.5–2.5% | 17% | 93% |  |
+| 2.5–3.5% | 25% | 76% |  |
+| 3.5–4.5% | 23% | 51% | Median |
+| 4.5–5.5% | 16% | 27% |  |
 | 5.5–6.5% | 8% | 11% |  |
 | 6.5–7.5% | 2% | 3% |  |
 | 7.5–8.5% | 0.4% | 0.5% |  |
@@ -62,6 +63,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [12–17 March 2025](2025-03-17-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 0 | 0 | 0 | 0 | 0–1 |
 | [11–13 March 2025](2025-03-13-Intercampus.html) | Intercampus <br> Correio da Manhã | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | [6–12 March 2025](2025-03-12-Consulmark2.html) | Consulmark2 <br> Euronews and Sol | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [4–10 March 2025](2025-03-10-Intercampus.html) | Intercampus <br> Correio da Manhã | 1 | 1 | 1 | 0–1 | 0–2 |
@@ -93,8 +95,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 57% | 100% | Last Result, Median |
-| 1 | 43% | 43% |  |
+| 0 | 58% | 100% | Last Result, Median |
+| 1 | 41% | 42% |  |
 | 2 | 0.2% | 0.2% |  |
 | 3 | 0% | 0% |  |
 
