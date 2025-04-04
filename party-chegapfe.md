@@ -10,7 +10,10 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16.6% | 13.3–19.4% | 12.6–20.1% | 12.0–20.8% | 11.0–22.1% |
+| N/A | [Poll Average](average.html) | 16.2% | 13.8–18.4% | 13.1–19.1% | 12.6–19.7% | 11.5–20.8% |
+| [24–29 March 2025](2025-03-29-Pitagórica.html) | Pitagórica <br> CNN Portugal, Jornal de Notícias, TSF and TVI | 14.9% | 13.5–16.4% | 13.2–16.9% | 12.8–17.3% | 12.2–18.0% |
+| [20–26 March 2025](2025-03-26-Intercampus.html) | Intercampus <br> Correio da Manhã | 14.2% | 12.4–16.3% | 11.9–16.9% | 11.5–17.5% | 10.7–18.5% |
+| [17–26 March 2025](2025-03-26-CESOP-UCP.html) | CESOP-UCP <br> Público and RTP | 17.0% | 15.7–18.5% | 15.3–18.9% | 15.0–19.2% | 14.4–20.0% |
 | [12–17 March 2025](2025-03-17-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 16.2% | 14.1–18.7% | 13.5–19.4% | 13.0–20.1% | 12.1–21.3% |
 | [11–13 March 2025](2025-03-13-Intercampus.html) | Intercampus <br> Correio da Manhã | 18.4% | 16.4–20.7% | 15.8–21.4% | 15.3–21.9% | 14.4–23.1% |
 | [6–12 March 2025](2025-03-12-Consulmark2.html) | Consulmark2 <br> Euronews and Sol | 16.5% | 14.7–18.6% | 14.2–19.2% | 13.7–19.7% | 12.9–20.7% |
@@ -51,22 +54,20 @@ The following table shows the probability mass function per percentage block of 
 | 6.5–7.5% | 0% | 100% |  |
 | 7.5–8.5% | 0% | 100% |  |
 | 8.5–9.5% | 0% | 100% |  |
-| 9.5–10.5% | 0.2% | 100% |  |
-| 10.5–11.5% | 1.2% | 99.8% |  |
-| 11.5–12.5% | 4% | 98.6% |  |
-| 12.5–13.5% | 7% | 95% |  |
-| 13.5–14.5% | 9% | 88% |  |
-| 14.5–15.5% | 12% | 79% |  |
-| 15.5–16.5% | 16% | 67% |  |
-| 16.5–17.5% | 17% | 51% | Median |
-| 17.5–18.5% | 15% | 34% |  |
-| 18.5–19.5% | 10% | 19% |  |
-| 19.5–20.5% | 5% | 9% |  |
-| 20.5–21.5% | 2% | 3% |  |
-| 21.5–22.5% | 0.8% | 1.0% |  |
-| 22.5–23.5% | 0.2% | 0.3% |  |
-| 23.5–24.5% | 0% | 0.1% |  |
-| 24.5–25.5% | 0% | 0% |  |
+| 9.5–10.5% | 0.1% | 100% |  |
+| 10.5–11.5% | 0.5% | 99.9% |  |
+| 11.5–12.5% | 2% | 99.5% |  |
+| 12.5–13.5% | 6% | 98% |  |
+| 13.5–14.5% | 12% | 92% |  |
+| 14.5–15.5% | 17% | 80% |  |
+| 15.5–16.5% | 21% | 62% | Median |
+| 16.5–17.5% | 19% | 42% |  |
+| 17.5–18.5% | 13% | 22% |  |
+| 18.5–19.5% | 6% | 9% |  |
+| 19.5–20.5% | 2% | 3% |  |
+| 20.5–21.5% | 0.6% | 0.8% |  |
+| 21.5–22.5% | 0.1% | 0.2% |  |
+| 22.5–23.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -77,7 +78,10 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 3–4 | 3–5 | 3–5 | 2–5 |
+| N/A | [Poll Average](average.html) | 4 | 3–4 | 3–4 | 3–4 | 2–5 |
+| [24–29 March 2025](2025-03-29-Pitagórica.html) | Pitagórica <br> CNN Portugal, Jornal de Notícias, TSF and TVI | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
+| [20–26 March 2025](2025-03-26-Intercampus.html) | Intercampus <br> Correio da Manhã | 3 | 3–4 | 2–4 | 2–4 | 2–4 |
+| [17–26 March 2025](2025-03-26-CESOP-UCP.html) | CESOP-UCP <br> Público and RTP | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | [12–17 March 2025](2025-03-17-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 4 | 3–4 | 3–4 | 3–4 | 2–5 |
 | [11–13 March 2025](2025-03-13-Intercampus.html) | Intercampus <br> Correio da Manhã | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
 | [6–12 March 2025](2025-03-12-Consulmark2.html) | Consulmark2 <br> Euronews and Sol | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
@@ -112,11 +116,10 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 2% | 100% |  |
-| 3 | 37% | 98% |  |
-| 4 | 54% | 61% | Median |
-| 5 | 7% | 7% |  |
-| 6 | 0.1% | 0.1% |  |
-| 7 | 0% | 0% |  |
+| 2 | 1.0% | 100% |  |
+| 3 | 45% | 99.0% |  |
+| 4 | 51% | 54% | Median |
+| 5 | 2% | 2% |  |
+| 6 | 0% | 0% |  |
 
 
