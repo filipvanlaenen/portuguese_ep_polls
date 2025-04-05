@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16.2% | 13.8–18.4% | 13.1–19.1% | 12.6–19.7% | 11.5–20.8% |
+| N/A | [Poll Average](average.html) | 15.6% | 13.0–18.2% | 12.4–18.9% | 11.9–19.5% | 10.9–20.7% |
+| [27 March–3 April 2025](2025-04-03-Consulmark2.html) | Consulmark2 <br> Euronews and Sol | 13.6% | 11.9–15.5% | 11.4–16.1% | 11.0–16.6% | 10.3–17.6% |
 | [24–29 March 2025](2025-03-29-Pitagórica.html) | Pitagórica <br> CNN Portugal, Jornal de Notícias, TSF and TVI | 14.9% | 13.5–16.4% | 13.2–16.9% | 12.8–17.3% | 12.2–18.0% |
 | [20–26 March 2025](2025-03-26-Intercampus.html) | Intercampus <br> Correio da Manhã | 14.2% | 12.4–16.3% | 11.9–16.9% | 11.5–17.5% | 10.7–18.5% |
 | [17–26 March 2025](2025-03-26-CESOP-UCP.html) | CESOP-UCP <br> Público and RTP | 17.0% | 15.7–18.5% | 15.3–18.9% | 15.0–19.2% | 14.4–20.0% |
@@ -54,19 +55,19 @@ The following table shows the probability mass function per percentage block of 
 | 6.5–7.5% | 0% | 100% |  |
 | 7.5–8.5% | 0% | 100% |  |
 | 8.5–9.5% | 0% | 100% |  |
-| 9.5–10.5% | 0.1% | 100% |  |
-| 10.5–11.5% | 0.5% | 99.9% |  |
-| 11.5–12.5% | 2% | 99.5% |  |
-| 12.5–13.5% | 6% | 98% |  |
-| 13.5–14.5% | 12% | 92% |  |
-| 14.5–15.5% | 17% | 80% |  |
-| 15.5–16.5% | 21% | 62% | Median |
-| 16.5–17.5% | 19% | 42% |  |
-| 17.5–18.5% | 13% | 22% |  |
-| 18.5–19.5% | 6% | 9% |  |
-| 19.5–20.5% | 2% | 3% |  |
-| 20.5–21.5% | 0.6% | 0.8% |  |
-| 21.5–22.5% | 0.1% | 0.2% |  |
+| 9.5–10.5% | 0.2% | 100% |  |
+| 10.5–11.5% | 1.3% | 99.8% |  |
+| 11.5–12.5% | 4% | 98% |  |
+| 12.5–13.5% | 10% | 94% |  |
+| 13.5–14.5% | 15% | 84% |  |
+| 14.5–15.5% | 18% | 69% |  |
+| 15.5–16.5% | 18% | 52% | Median |
+| 16.5–17.5% | 16% | 34% |  |
+| 17.5–18.5% | 11% | 18% |  |
+| 18.5–19.5% | 5% | 7% |  |
+| 19.5–20.5% | 2% | 2% |  |
+| 20.5–21.5% | 0.5% | 0.7% |  |
+| 21.5–22.5% | 0.1% | 0.1% |  |
 | 22.5–23.5% | 0% | 0% |  |
 
 
@@ -78,7 +79,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 3–4 | 3–4 | 3–4 | 2–5 |
+| N/A | [Poll Average](average.html) | 3 | 3–4 | 3–4 | 2–4 | 2–5 |
+| [27 March–3 April 2025](2025-04-03-Consulmark2.html) | Consulmark2 <br> Euronews and Sol | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
 | [24–29 March 2025](2025-03-29-Pitagórica.html) | Pitagórica <br> CNN Portugal, Jornal de Notícias, TSF and TVI | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [20–26 March 2025](2025-03-26-Intercampus.html) | Intercampus <br> Correio da Manhã | 3 | 3–4 | 2–4 | 2–4 | 2–4 |
 | [17–26 March 2025](2025-03-26-CESOP-UCP.html) | CESOP-UCP <br> Público and RTP | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
@@ -116,9 +118,9 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 1.0% | 100% |  |
-| 3 | 45% | 99.0% |  |
-| 4 | 51% | 54% | Median |
+| 2 | 3% | 100% |  |
+| 3 | 53% | 97% | Median |
+| 4 | 42% | 44% |  |
 | 5 | 2% | 2% |  |
 | 6 | 0% | 0% |  |
 
