@@ -95,7 +95,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6 | 6–7 | 6–8 | 5–8 | 5–8 |
 | [27 March–3 April 2025](2025-04-03-Consulmark2.html) | Consulmark2 <br> Euronews and Sol | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
-| [24–29 March 2025](2025-03-29-Pitagórica.html) | Pitagórica <br> CNN Portugal, Jornal de Notícias, TSF and TVI | 7 | 6–7 | 6–7 | 6–7 | 6–8 |
+| [24–29 March 2025](2025-03-29-Pitagórica.html) | Pitagórica <br> CNN Portugal, Jornal de Notícias, TSF and TVI | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
 | [20–26 March 2025](2025-03-26-Intercampus.html) | Intercampus <br> Correio da Manhã | 6 | 6–7 | 5–7 | 5–7 | 5–8 |
 | [17–26 March 2025](2025-03-26-CESOP-UCP.html) | CESOP-UCP <br> Público and RTP | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
 | [12–17 March 2025](2025-03-17-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 6 | 6–7 | 6–7 | 5–8 | 5–8 |
@@ -136,8 +136,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
 | 5 | 4% | 100% |  |
-| 6 | 49% | 96% | Median |
-| 7 | 40% | 47% |  |
+| 6 | 50% | 96% | Median |
+| 7 | 39% | 45% |  |
 | 8 | 6% | 6% |  |
 | 9 | 0.2% | 0.2% |  |
 | 10 | 0% | 0% |  |
