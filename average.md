@@ -357,7 +357,7 @@ Only polls for which at least the sample size has been published are included in
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
 | 5 | 3% | 100% |  |
-| 6 | 40% | 97% |  |
+| 6 | 41% | 97% |  |
 | 7 | 49% | 57% | Median |
 | 8 | 8% | 8% |  |
 | 9 | 0.1% | 0.1% |  |
@@ -373,7 +373,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 8% | 100% | Last Result |
 | 1 | 69% | 92% | Median |
-| 2 | 23% | 23% |  |
+| 2 | 23% | 24% |  |
 | 3 | 0% | 0% |  |
 
 ### Aliança (RE)
@@ -410,8 +410,8 @@ Only polls for which at least the sample size has been published are included in
 | 5 | 0.8% | 100% |  |
 | 6 | 21% | 99.2% |  |
 | 7 | 36% | 78% | Median |
-| 8 | 35% | 42% |  |
-| 9 | 8% | 8% |  |
+| 8 | 34% | 42% |  |
+| 9 | 7% | 8% |  |
 | 10 | 0.1% | 0.1% |  |
 | 11 | 0% | 0% | Majority |
 
@@ -426,10 +426,10 @@ Only polls for which at least the sample size has been published are included in
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 2% | 100% |  |
-| 3 | 34% | 98% |  |
+| 3 | 33% | 98% |  |
 | 4 | 45% | 65% | Median |
 | 5 | 19% | 19% |  |
-| 6 | 0.5% | 0.5% |  |
+| 6 | 0.6% | 0.6% |  |
 | 7 | 0% | 0% |  |
 
 
@@ -462,8 +462,8 @@ Only polls for which at least the sample size has been published are included in
 | 5 | 0.8% | 100% |  |
 | 6 | 21% | 99.2% |  |
 | 7 | 36% | 78% | Median |
-| 8 | 35% | 42% |  |
-| 9 | 8% | 8% |  |
+| 8 | 34% | 42% |  |
+| 9 | 7% | 8% |  |
 | 10 | 0.1% | 0.1% |  |
 | 11 | 0% | 0% | Majority |
 
@@ -479,7 +479,7 @@ Only polls for which at least the sample size has been published are included in
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
 | 5 | 3% | 100% |  |
-| 6 | 40% | 97% |  |
+| 6 | 41% | 97% |  |
 | 7 | 49% | 57% | Median |
 | 8 | 8% | 8% |  |
 | 9 | 0.1% | 0.1% |  |
@@ -494,10 +494,10 @@ Only polls for which at least the sample size has been published are included in
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 2% | 100% |  |
-| 3 | 34% | 98% |  |
+| 3 | 33% | 98% |  |
 | 4 | 45% | 65% | Median |
 | 5 | 19% | 19% |  |
-| 6 | 0.5% | 0.5% |  |
+| 6 | 0.6% | 0.6% |  |
 | 7 | 0% | 0% |  |
 
 ### Aliança (RE) – Iniciativa Liberal (RE)
@@ -508,7 +508,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 8% | 100% | Last Result |
 | 1 | 69% | 92% | Median |
-| 2 | 23% | 23% |  |
+| 2 | 23% | 24% |  |
 | 3 | 0% | 0% |  |
 
 ### Bloco de Esquerda (GUE/NGL) – Coligação Democrática Unitária (GUE/NGL)
@@ -538,6 +538,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 6
-+ **Lowest number of simulations done in a poll included in this average:** 1,048,576
-+ **Total number of simulations done in the polls included in this average:** 10,485,760
++ **Lowest number of simulations done in a poll included in this average:** 2,097,152
++ **Total number of simulations done in the polls included in this average:** 12,582,912
 + **Error estimate:** 2.10%
