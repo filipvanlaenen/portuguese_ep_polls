@@ -75,7 +75,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [27 March–3 April 2025](2025-04-03-Consulmark2.html) | Consulmark2 <br> Euronews and Sol | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [24–29 March 2025](2025-03-29-Pitagórica.html) | Pitagórica <br> CNN Portugal, Jornal de Notícias, TSF and TVI | 1 | 1 | 1 | 1 | 0–1 |
 | [20–26 March 2025](2025-03-26-Intercampus.html) | Intercampus <br> Correio da Manhã | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [17–26 March 2025](2025-03-26-CESOP–UCP.html) | CESOP–UCP <br> Público and RTP | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| [17–26 March 2025](2025-03-26-CESOP–UCP.html) | CESOP–UCP <br> Público and RTP | 1 | 1 | 1 | 0–1 | 0–1 |
 | [12–17 March 2025](2025-03-17-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 0 | 0 | 0 | 0 | 0–1 |
 | [11–13 March 2025](2025-03-13-Intercampus.html) | Intercampus <br> Correio da Manhã | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [6–12 March 2025](2025-03-12-Consulmark2.html) | Consulmark2 <br> Euronews and Sol | 0 | 0 | 0 | 0 | 0–1 |

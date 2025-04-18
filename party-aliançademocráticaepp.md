@@ -106,7 +106,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [27 March–3 April 2025](2025-04-03-Consulmark2.html) | Consulmark2 <br> Euronews and Sol | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
 | [24–29 March 2025](2025-03-29-Pitagórica.html) | Pitagórica <br> CNN Portugal, Jornal de Notícias, TSF and TVI | 8 | 8–9 | 7–9 | 7–9 | 7–9 |
 | [20–26 March 2025](2025-03-26-Intercampus.html) | Intercampus <br> Correio da Manhã | 7 | 7–8 | 6–8 | 6–8 | 6–9 |
-| [17–26 March 2025](2025-03-26-CESOP–UCP.html) | CESOP–UCP <br> Público and RTP | 7 | 6–7 | 6–8 | 6–8 | 6–8 |
+| [17–26 March 2025](2025-03-26-CESOP–UCP.html) | CESOP–UCP <br> Público and RTP | 7 | 6–7 | 6–7 | 6–8 | 6–8 |
 | [12–17 March 2025](2025-03-17-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 9 | 8–10 | 8–10 | 8–10 | 7–11 |
 | [11–13 March 2025](2025-03-13-Intercampus.html) | Intercampus <br> Correio da Manhã | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
 | [6–12 March 2025](2025-03-12-Consulmark2.html) | Consulmark2 <br> Euronews and Sol | 8 | 7–8 | 7–9 | 7–9 | 6–9 |
@@ -147,8 +147,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 0.8% | 100% |  |
 | 6 | 21% | 99.2% |  |
 | 7 | 36% | 78% | Median |
-| 8 | 35% | 42% |  |
-| 9 | 8% | 8% |  |
+| 8 | 34% | 42% |  |
+| 9 | 7% | 8% |  |
 | 10 | 0.1% | 0.1% |  |
 | 11 | 0% | 0% | Majority |
 
