@@ -10,13 +10,14 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 27.9% | 25.3–30.9% | 24.5–31.8% | 23.8–32.6% | 22.5–34.0% |
+| N/A | [Poll Average](average.html) | 28.1% | 25.5–31.0% | 24.7–31.8% | 24.0–32.5% | 22.6–33.9% |
+| [5–14 April 2025](2025-04-14-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 29.0% | 27.0–31.1% | 26.5–31.7% | 26.0–32.3% | 25.0–33.3% |
 | [4–9 April 2025](2025-04-09-Intercampus.html) | Intercampus <br> Correio da Manhã | 28.8% | 26.3–31.5% | 25.6–32.2% | 25.0–32.9% | 23.9–34.2% |
 | [4–8 April 2025](2025-04-08-Aximage.html) | Aximage <br> Diário de Notícias | 30.1% | 27.9–32.5% | 27.3–33.2% | 26.8–33.7% | 25.7–34.9% |
 | [27 March–3 April 2025](2025-04-03-Consulmark2.html) | Consulmark2 <br> Euronews and Sol | 25.9% | 23.7–28.3% | 23.0–29.0% | 22.5–29.6% | 21.5–30.8% |
 | [24–29 March 2025](2025-03-29-Pitagórica.html) | Pitagórica <br> CNN Portugal, Jornal de Notícias, TSF and TVI | 27.8% | 26.0–29.7% | 25.5–30.2% | 25.1–30.7% | 24.3–31.6% |
 | [20–26 March 2025](2025-03-26-Intercampus.html) | Intercampus <br> Correio da Manhã | 26.9% | 24.5–29.5% | 23.8–30.2% | 23.2–30.8% | 22.1–32.1% |
-| [17–26 March 2025](2025-03-26-CESOP-UCP.html) | CESOP-UCP <br> Público and RTP | 27.0% | 25.4–28.7% | 25.0–29.2% | 24.6–29.6% | 23.8–30.4% |
+| [17–26 March 2025](2025-03-26-CESOP–UCP.html) | CESOP–UCP <br> Público and RTP | 27.0% | 25.4–28.7% | 25.0–29.2% | 24.6–29.6% | 23.8–30.4% |
 | [12–17 March 2025](2025-03-17-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 28.0% | 25.3–30.9% | 24.6–31.7% | 23.9–32.5% | 22.7–33.9% |
 | [11–13 March 2025](2025-03-13-Intercampus.html) | Intercampus <br> Correio da Manhã | 27.8% | 25.4–30.4% | 24.8–31.2% | 24.2–31.8% | 23.1–33.0% |
 | [6–12 March 2025](2025-03-12-Consulmark2.html) | Consulmark2 <br> Euronews and Sol | 27.9% | 25.7–30.4% | 25.0–31.1% | 24.5–31.7% | 23.4–32.9% |
@@ -70,21 +71,20 @@ The following table shows the probability mass function per percentage block of 
 | 19.5–20.5% | 0% | 100% |  |
 | 20.5–21.5% | 0.1% | 100% |  |
 | 21.5–22.5% | 0.4% | 99.9% |  |
-| 22.5–23.5% | 1.3% | 99.5% |  |
+| 22.5–23.5% | 1.1% | 99.5% |  |
 | 23.5–24.5% | 3% | 98% |  |
-| 24.5–25.5% | 7% | 95% |  |
-| 25.5–26.5% | 13% | 88% |  |
-| 26.5–27.5% | 18% | 74% |  |
-| 27.5–28.5% | 18% | 56% | Median |
-| 28.5–29.5% | 15% | 38% |  |
-| 29.5–30.5% | 10% | 24% |  |
-| 30.5–31.5% | 7% | 13% |  |
+| 24.5–25.5% | 6% | 96% |  |
+| 25.5–26.5% | 12% | 89% |  |
+| 26.5–27.5% | 17% | 78% |  |
+| 27.5–28.5% | 18% | 60% | Median |
+| 28.5–29.5% | 16% | 42% |  |
+| 29.5–30.5% | 12% | 26% |  |
+| 30.5–31.5% | 8% | 14% |  |
 | 31.5–32.5% | 4% | 6% |  |
-| 32.5–33.5% | 2% | 3% |  |
+| 32.5–33.5% | 2% | 2% |  |
 | 33.5–34.5% | 0.6% | 0.8% |  |
 | 34.5–35.5% | 0.2% | 0.2% |  |
 | 35.5–36.5% | 0% | 0% |  |
-| 36.5–37.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -96,12 +96,13 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 7 | 6–7 | 6–8 | 5–8 | 5–8 |
+| [5–14 April 2025](2025-04-14-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 7 | 6–7 | 6–8 | 6–8 | 6–8 |
 | [4–9 April 2025](2025-04-09-Intercampus.html) | Intercampus <br> Correio da Manhã | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
 | [4–8 April 2025](2025-04-08-Aximage.html) | Aximage <br> Diário de Notícias | 7 | 7–8 | 6–8 | 6–8 | 6–9 |
 | [27 March–3 April 2025](2025-04-03-Consulmark2.html) | Consulmark2 <br> Euronews and Sol | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
 | [24–29 March 2025](2025-03-29-Pitagórica.html) | Pitagórica <br> CNN Portugal, Jornal de Notícias, TSF and TVI | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
 | [20–26 March 2025](2025-03-26-Intercampus.html) | Intercampus <br> Correio da Manhã | 6 | 6–7 | 5–7 | 5–7 | 5–8 |
-| [17–26 March 2025](2025-03-26-CESOP-UCP.html) | CESOP-UCP <br> Público and RTP | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
+| [17–26 March 2025](2025-03-26-CESOP–UCP.html) | CESOP–UCP <br> Público and RTP | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
 | [12–17 March 2025](2025-03-17-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 6 | 6–7 | 6–7 | 5–8 | 5–8 |
 | [11–13 March 2025](2025-03-13-Intercampus.html) | Intercampus <br> Correio da Manhã | 6 | 6–7 | 6–7 | 6–8 | 5–8 |
 | [6–12 March 2025](2025-03-12-Consulmark2.html) | Consulmark2 <br> Euronews and Sol | 7 | 6–7 | 6–7 | 6–8 | 5–8 |
@@ -140,8 +141,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
 | 5 | 3% | 100% |  |
-| 6 | 45% | 97% |  |
-| 7 | 44% | 52% | Median |
+| 6 | 40% | 97% |  |
+| 7 | 49% | 57% | Median |
 | 8 | 8% | 8% |  |
 | 9 | 0.1% | 0.1% |  |
 | 10 | 0% | 0% |  |

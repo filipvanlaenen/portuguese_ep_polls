@@ -10,13 +10,14 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.7% | 2.2–6.0% | 1.7–6.4% | 1.4–6.7% | 1.0–7.4% |
+| N/A | [Poll Average](average.html) | 4.7% | 1.2–6.0% | 0.9–6.4% | 0.7–6.7% | 0.5–7.4% |
+| [5–14 April 2025](2025-04-14-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 1.0% | 0.7–1.6% | 0.6–1.8% | 0.5–2.0% | 0.4–2.3% |
 | [4–9 April 2025](2025-04-09-Intercampus.html) | Intercampus <br> Correio da Manhã | 5.1% | 4.0–6.5% | 3.7–7.0% | 3.5–7.3% | 3.0–8.1% |
 | [4–8 April 2025](2025-04-08-Aximage.html) | Aximage <br> Diário de Notícias | 4.3% | 3.5–5.5% | 3.2–5.9% | 3.0–6.2% | 2.7–6.8% |
 | [27 March–3 April 2025](2025-04-03-Consulmark2.html) | Consulmark2 <br> Euronews and Sol | 4.3% | 3.4–5.6% | 3.1–5.9% | 2.9–6.3% | 2.5–6.9% |
 | [24–29 March 2025](2025-03-29-Pitagórica.html) | Pitagórica <br> CNN Portugal, Jornal de Notícias, TSF and TVI | 5.5% | 4.7–6.5% | 4.4–6.8% | 4.3–7.1% | 3.9–7.6% |
 | [20–26 March 2025](2025-03-26-Intercampus.html) | Intercampus <br> Correio da Manhã | 4.6% | 3.6–6.0% | 3.3–6.4% | 3.1–6.8% | 2.7–7.5% |
-| [17–26 March 2025](2025-03-26-CESOP-UCP.html) | CESOP-UCP <br> Público and RTP | 5.0% | 4.3–5.9% | 4.1–6.1% | 3.9–6.4% | 3.6–6.8% |
+| [17–26 March 2025](2025-03-26-CESOP–UCP.html) | CESOP–UCP <br> Público and RTP | 5.0% | 4.3–5.9% | 4.1–6.1% | 3.9–6.4% | 3.6–6.8% |
 | [12–17 March 2025](2025-03-17-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 1.9% | 1.3–3.0% | 1.1–3.4% | 1.0–3.7% | 0.7–4.3% |
 | [11–13 March 2025](2025-03-13-Intercampus.html) | Intercampus <br> Correio da Manhã | 4.3% | 3.4–5.7% | 3.1–6.1% | 2.9–6.4% | 2.5–7.1% |
 | [6–12 March 2025](2025-03-12-Consulmark2.html) | Consulmark2 <br> Euronews and Sol | 2.4% | 1.7–3.4% | 1.6–3.7% | 1.4–3.9% | 1.2–4.5% |
@@ -47,11 +48,11 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 4% | 100% |  |
-| 1.5–2.5% | 9% | 96% |  |
-| 2.5–3.5% | 8% | 87% |  |
-| 3.5–4.5% | 24% | 79% |  |
+| 0.0–0.5% | 0.6% | 100% | Last Result |
+| 0.5–1.5% | 14% | 99.4% |  |
+| 1.5–2.5% | 2% | 85% |  |
+| 2.5–3.5% | 5% | 83% |  |
+| 3.5–4.5% | 23% | 78% |  |
 | 4.5–5.5% | 34% | 55% | Median |
 | 5.5–6.5% | 17% | 21% |  |
 | 6.5–7.5% | 3% | 4% |  |
@@ -68,12 +69,13 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [5–14 April 2025](2025-04-14-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 0 | 0 | 0 | 0 | 0 |
 | [4–9 April 2025](2025-04-09-Intercampus.html) | Intercampus <br> Correio da Manhã | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | [4–8 April 2025](2025-04-08-Aximage.html) | Aximage <br> Diário de Notícias | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [27 March–3 April 2025](2025-04-03-Consulmark2.html) | Consulmark2 <br> Euronews and Sol | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [24–29 March 2025](2025-03-29-Pitagórica.html) | Pitagórica <br> CNN Portugal, Jornal de Notícias, TSF and TVI | 1 | 1 | 1 | 1 | 0–1 |
 | [20–26 March 2025](2025-03-26-Intercampus.html) | Intercampus <br> Correio da Manhã | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [17–26 March 2025](2025-03-26-CESOP-UCP.html) | CESOP-UCP <br> Público and RTP | 1 | 1 | 1 | 0–1 | 0–1 |
+| [17–26 March 2025](2025-03-26-CESOP–UCP.html) | CESOP–UCP <br> Público and RTP | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [12–17 March 2025](2025-03-17-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 0 | 0 | 0 | 0 | 0–1 |
 | [11–13 March 2025](2025-03-13-Intercampus.html) | Intercampus <br> Correio da Manhã | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [6–12 March 2025](2025-03-12-Consulmark2.html) | Consulmark2 <br> Euronews and Sol | 0 | 0 | 0 | 0 | 0–1 |
