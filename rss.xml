@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/portuguese_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 18 Apr 2025 18:00:37 +0200</pubDate>
+    <pubDate>Mon, 21 Apr 2025 21:25:14 +0200</pubDate>
     <item>
       <title>Opinion Poll by ICS/ISCTE for Expresso and SIC Notícias, 5–14 April 2025 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2025-04-14-ICSISCTE.html#seats</link>
@@ -218,6 +218,66 @@
         type="image/png"/>
       <pubDate>Fri, 18 Apr 2025 18:00:37 +0200</pubDate>
       <dc:date>2025-04-18T18:00:37.024594+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by GfK Metris, 15–24 March 2025 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2025-03-24-GfKMetris.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Coligação Democrática Unitária (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Partido Socialista (S&amp;amp;D): 7–8 seats&lt;/li&gt;&lt;li&gt;Iniciativa Liberal (RE): 0–1 seats&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Chega (PfE): 3–5 seats&lt;/li&gt;&lt;li&gt;Bloco de Esquerda (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Aliança Democrática (EPP): 6–8 seats&lt;/li&gt;&lt;li&gt;LIVRE (Greens/EFA): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2025-03-24-GfKMetris-seats.png"
+        length="243266"
+        type="image/png"/>
+      <pubDate>Mon, 21 Apr 2025 20:39:15 +0200</pubDate>
+      <dc:date>2025-04-21T20:39:15.481586+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by GfK Metris, 15–24 March 2025 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2025-03-24-GfKMetris.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2025-03-24-GfKMetris-coalitions-seats.png"
+        length="159619"
+        type="image/png"/>
+      <pubDate>Mon, 21 Apr 2025 20:39:15 +0200</pubDate>
+      <dc:date>2025-04-21T20:39:15.481586+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by GfK Metris, 15–24 March 2025 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2025-03-24-GfKMetris.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Coligação Democrática Unitária (GUE/NGL): 3.0–5.4%&lt;/li&gt;&lt;li&gt;Partido Socialista (S&amp;amp;D): 29.2–34.9%&lt;/li&gt;&lt;li&gt;Iniciativa Liberal (RE): 3.0–5.4%&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza (Greens/EFA): 0.5–1.8%&lt;/li&gt;&lt;li&gt;Chega (PfE): 15.8–20.5%&lt;/li&gt;&lt;li&gt;Bloco de Esquerda (GUE/NGL): 3.0–5.4%&lt;/li&gt;&lt;li&gt;Aliança Democrática (EPP): 27.3–32.9%&lt;/li&gt;&lt;li&gt;LIVRE (Greens/EFA): 0.5–1.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2025-03-24-GfKMetris.png"
+        length="274702"
+        type="image/png"/>
+      <pubDate>Mon, 21 Apr 2025 20:39:15 +0200</pubDate>
+      <dc:date>2025-04-21T20:39:15.481586+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Aximage for Folha Nacional, 17–21 March 2025 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2025-03-21-Aximage.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Coligação Democrática Unitária (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Partido Socialista (S&amp;amp;D): 7–8 seats&lt;/li&gt;&lt;li&gt;Iniciativa Liberal (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Chega (PfE): 4–5 seats&lt;/li&gt;&lt;li&gt;Bloco de Esquerda (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Aliança Democrática (EPP): 6–8 seats&lt;/li&gt;&lt;li&gt;LIVRE (Greens/EFA): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2025-03-21-Aximage-seats.png"
+        length="233058"
+        type="image/png"/>
+      <pubDate>Mon, 21 Apr 2025 21:25:14 +0200</pubDate>
+      <dc:date>2025-04-21T21:25:14.744606+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Aximage for Folha Nacional, 17–21 March 2025 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2025-03-21-Aximage.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2025-03-21-Aximage-coalitions-seats.png"
+        length="152239"
+        type="image/png"/>
+      <pubDate>Mon, 21 Apr 2025 21:25:14 +0200</pubDate>
+      <dc:date>2025-04-21T21:25:14.744606+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Aximage for Folha Nacional, 17–21 March 2025 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2025-03-21-Aximage.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Coligação Democrática Unitária (GUE/NGL): 2.6–5.0%&lt;/li&gt;&lt;li&gt;Partido Socialista (S&amp;amp;D): 28.2–34.0%&lt;/li&gt;&lt;li&gt;Iniciativa Liberal (RE): 5.5–8.7%&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza (Greens/EFA): 0.9–2.5%&lt;/li&gt;&lt;li&gt;Chega (PfE): 17.8–22.8%&lt;/li&gt;&lt;li&gt;Bloco de Esquerda (GUE/NGL): 1.9–4.0%&lt;/li&gt;&lt;li&gt;Aliança Democrática (EPP): 25.3–30.9%&lt;/li&gt;&lt;li&gt;LIVRE (Greens/EFA): 1.4–3.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2025-03-21-Aximage.png"
+        length="284097"
+        type="image/png"/>
+      <pubDate>Mon, 21 Apr 2025 21:25:14 +0200</pubDate>
+      <dc:date>2025-04-21T21:25:14.744606+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by ICS/ISCTE for Expresso and SIC Notícias, 12–17 March 2025 – Seat Projections for the Parties</title>
@@ -849,6 +909,6 @@
       <pubDate>Mon, 23 Sep 2024 19:51:27 +0200</pubDate>
       <dc:date>2024-09-23T19:51:27.949735+02:00</dc:date>
     </item>
-    <dc:date>2025-04-18T18:00:37.024594+02:00</dc:date>
+    <dc:date>2025-04-21T21:25:14.744606+02:00</dc:date>
   </channel>
 </rss>
