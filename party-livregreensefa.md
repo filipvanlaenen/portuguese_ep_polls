@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.5% | 0.9–6.0% | 0.8–6.3% | 0.7–6.7% | 0.5–7.4% |
+| N/A | [Poll Average](average.html) | 4.4% | 0.9–5.9% | 0.8–6.3% | 0.7–6.7% | 0.5–7.4% |
+| [14–22 April 2025](2025-04-22-Consulmark2.html) | Consulmark2 <br> Euronews and Sol | 4.2% | 3.3–5.5% | 3.1–5.9% | 2.9–6.2% | 2.5–6.9% |
 | [5–14 April 2025](2025-04-14-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 1.0% | 0.7–1.6% | 0.6–1.8% | 0.5–2.0% | 0.4–2.3% |
 | [4–9 April 2025](2025-04-09-Intercampus.html) | Intercampus <br> Correio da Manhã | 5.1% | 4.0–6.5% | 3.7–7.0% | 3.5–7.3% | 3.0–8.1% |
 | [4–8 April 2025](2025-04-08-Aximage.html) | Aximage <br> Diário de Notícias | 4.3% | 3.5–5.5% | 3.2–5.9% | 3.0–6.2% | 2.7–6.8% |
@@ -71,6 +72,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [14–22 April 2025](2025-04-22-Consulmark2.html) | Consulmark2 <br> Euronews and Sol | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [5–14 April 2025](2025-04-14-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 0 | 0 | 0 | 0 | 0 |
 | [4–9 April 2025](2025-04-09-Intercampus.html) | Intercampus <br> Correio da Manhã | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | [4–8 April 2025](2025-04-08-Aximage.html) | Aximage <br> Diário de Notícias | 1 | 0–1 | 0–1 | 0–1 | 0–1 |

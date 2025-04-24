@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.7% | 0.6–3.3% | 0.5–4.0% | 0.4–4.4% | 0.2–5.3% |
+| [14–22 April 2025](2025-04-22-Consulmark2.html) | Consulmark2 <br> Euronews and Sol | 1.1% | 0.7–1.8% | 0.6–2.1% | 0.5–2.3% | 0.4–2.7% |
 | [5–14 April 2025](2025-04-14-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 2.0% | 1.5–2.8% | 1.3–3.0% | 1.2–3.2% | 1.0–3.6% |
 | [4–9 April 2025](2025-04-09-Intercampus.html) | Intercampus <br> Correio da Manhã | 3.5% | 2.7–4.8% | 2.4–5.2% | 2.2–5.5% | 1.9–6.2% |
 | [4–8 April 2025](2025-04-08-Aximage.html) | Aximage <br> Diário de Notícias | 1.8% | 1.3–2.7% | 1.1–2.9% | 1.0–3.1% | 0.8–3.6% |
@@ -50,9 +51,9 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 7% | 100% | Last Result |
-| 0.5–1.5% | 35% | 93% |  |
-| 1.5–2.5% | 38% | 58% | Median |
+| 0.0–0.5% | 8% | 100% | Last Result |
+| 0.5–1.5% | 38% | 92% |  |
+| 1.5–2.5% | 35% | 55% | Median |
 | 2.5–3.5% | 12% | 20% |  |
 | 3.5–4.5% | 6% | 8% |  |
 | 4.5–5.5% | 2% | 2% |  |
@@ -69,6 +70,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| [14–22 April 2025](2025-04-22-Consulmark2.html) | Consulmark2 <br> Euronews and Sol | 0 | 0 | 0 | 0 | 0 |
 | [5–14 April 2025](2025-04-14-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 0 | 0 | 0 | 0 | 0 |
 | [4–9 April 2025](2025-04-09-Intercampus.html) | Intercampus <br> Correio da Manhã | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [4–8 April 2025](2025-04-08-Aximage.html) | Aximage <br> Diário de Notícias | 0 | 0 | 0 | 0 | 0 |
