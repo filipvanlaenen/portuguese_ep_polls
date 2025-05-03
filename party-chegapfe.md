@@ -10,8 +10,10 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17.3% | 14.5–20.8% | 13.8–21.8% | 13.3–22.5% | 12.4–23.8% |
+| N/A | [Poll Average](average.html) | 17.8% | 14.5–21.1% | 13.8–22.0% | 13.3–22.7% | 12.4–23.9% |
+| [21–24 April 2025](2025-04-24-CESOP–UCP.html) | CESOP–UCP <br> Público and RTP | 19.0% | 17.6–20.5% | 17.2–21.0% | 16.9–21.3% | 16.2–22.1% |
 | [14–22 April 2025](2025-04-22-Consulmark2.html) | Consulmark2 <br> Euronews and Sol | 15.1% | 13.3–17.2% | 12.8–17.8% | 12.4–18.3% | 11.6–19.3% |
+| [14–21 April 2025](2025-04-21-Pitagórica.html) | Pitagórica <br> CNN Portugal, Jornal de Notícias, TSF and TVI | 15.2% | 13.8–16.8% | 13.4–17.2% | 13.1–17.6% | 12.5–18.3% |
 | [5–14 April 2025](2025-04-14-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 21.0% | 19.3–23.0% | 18.8–23.5% | 18.4–24.0% | 17.5–25.0% |
 | [4–9 April 2025](2025-04-09-Intercampus.html) | Intercampus <br> Correio da Manhã | 17.2% | 15.1–19.4% | 14.6–20.1% | 14.1–20.6% | 13.2–21.8% |
 | [4–8 April 2025](2025-04-08-Aximage.html) | Aximage <br> Diário de Notícias | 18.6% | 16.8–20.6% | 16.2–21.2% | 15.8–21.7% | 15.0–22.7% |
@@ -65,18 +67,18 @@ The following table shows the probability mass function per percentage block of 
 | 10.5–11.5% | 0.1% | 100% |  |
 | 11.5–12.5% | 0.6% | 99.9% |  |
 | 12.5–13.5% | 3% | 99.4% |  |
-| 13.5–14.5% | 7% | 97% |  |
-| 14.5–15.5% | 11% | 89% |  |
-| 15.5–16.5% | 15% | 78% |  |
-| 16.5–17.5% | 17% | 63% | Median |
-| 17.5–18.5% | 16% | 46% |  |
-| 18.5–19.5% | 11% | 31% |  |
-| 19.5–20.5% | 8% | 19% |  |
-| 20.5–21.5% | 6% | 12% |  |
-| 21.5–22.5% | 4% | 6% |  |
-| 22.5–23.5% | 2% | 2% |  |
-| 23.5–24.5% | 0.6% | 0.7% |  |
-| 24.5–25.5% | 0.1% | 0.1% |  |
+| 13.5–14.5% | 8% | 97% |  |
+| 14.5–15.5% | 12% | 89% |  |
+| 15.5–16.5% | 12% | 77% |  |
+| 16.5–17.5% | 12% | 65% |  |
+| 17.5–18.5% | 13% | 53% | Median |
+| 18.5–19.5% | 14% | 40% |  |
+| 19.5–20.5% | 11% | 26% |  |
+| 20.5–21.5% | 8% | 15% |  |
+| 21.5–22.5% | 4% | 7% |  |
+| 22.5–23.5% | 2% | 3% |  |
+| 23.5–24.5% | 0.7% | 0.8% |  |
+| 24.5–25.5% | 0.1% | 0.2% |  |
 | 25.5–26.5% | 0% | 0% |  |
 
 
@@ -89,7 +91,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 3–5 | 3–5 | 3–5 | 3–6 |
+| [21–24 April 2025](2025-04-24-CESOP–UCP.html) | CESOP–UCP <br> Público and RTP | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [14–22 April 2025](2025-04-22-Consulmark2.html) | Consulmark2 <br> Euronews and Sol | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
+| [14–21 April 2025](2025-04-21-Pitagórica.html) | Pitagórica <br> CNN Portugal, Jornal de Notícias, TSF and TVI | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [5–14 April 2025](2025-04-14-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
 | [4–9 April 2025](2025-04-09-Intercampus.html) | Intercampus <br> Correio da Manhã | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
 | [4–8 April 2025](2025-04-08-Aximage.html) | Aximage <br> Diário de Notícias | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
@@ -133,11 +137,11 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 0.2% | 100% |  |
-| 3 | 27% | 99.8% |  |
-| 4 | 55% | 72% | Median |
-| 5 | 17% | 18% |  |
-| 6 | 0.5% | 0.5% |  |
+| 2 | 0.3% | 100% |  |
+| 3 | 27% | 99.7% |  |
+| 4 | 48% | 73% | Median |
+| 5 | 24% | 24% |  |
+| 6 | 0.6% | 0.6% |  |
 | 7 | 0% | 0% |  |
 
 
