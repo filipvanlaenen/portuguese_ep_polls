@@ -55,9 +55,9 @@
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
-| 7 | 4% | 100% |  |
-| 8 | 71% | 96% | Median |
-| 9 | 24% | 25% |  |
+| 7 | 5% | 100% |  |
+| 8 | 67% | 95% | Median |
+| 9 | 28% | 28% |  |
 | 10 | 0.4% | 0.4% |  |
 | 11 | 0% | 0% | Majority |
 
@@ -74,10 +74,10 @@
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
-| 5 | 0.3% | 100% |  |
-| 6 | 40% | 99.7% |  |
+| 5 | 0.4% | 100% |  |
+| 6 | 40% | 99.6% |  |
 | 7 | 58% | 60% | Median |
-| 8 | 1.2% | 1.2% |  |
+| 8 | 1.4% | 1.4% |  |
 | 9 | 0% | 0% |  |
 
 ### Chega (PfE)
@@ -91,8 +91,8 @@
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0.3% | 100% |  |
-| 3 | 74% | 99.7% | Median |
-| 4 | 26% | 26% |  |
+| 3 | 75% | 99.7% | Median |
+| 4 | 24% | 24% |  |
 | 5 | 0% | 0% |  |
 
 ### Iniciativa Liberal (RE)
@@ -104,8 +104,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 72% | 100% | Median |
-| 2 | 28% | 28% |  |
+| 1 | 74% | 100% | Median |
+| 2 | 26% | 26% |  |
 | 3 | 0% | 0% |  |
 
 ### LIVRE (Greens/EFA)
@@ -116,8 +116,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 22% | 100% | Last Result |
-| 1 | 78% | 78% | Median |
+| 0 | 21% | 100% | Last Result |
+| 1 | 79% | 79% | Median |
 | 2 | 0% | 0% |  |
 
 ### Coligação Democrática Unitária (GUE/NGL)
@@ -128,8 +128,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 36% | 100% | Last Result |
-| 1 | 64% | 64% | Median |
+| 0 | 37% | 100% | Last Result |
+| 1 | 63% | 63% | Median |
 | 2 | 0% | 0% |  |
 
 ### Bloco de Esquerda (GUE/NGL)
@@ -177,10 +177,10 @@
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
-| 5 | 0.3% | 100% |  |
-| 6 | 40% | 99.7% |  |
+| 5 | 0.4% | 100% |  |
+| 6 | 40% | 99.6% |  |
 | 7 | 58% | 60% | Median |
-| 8 | 1.2% | 1.2% |  |
+| 8 | 1.4% | 1.4% |  |
 | 9 | 0% | 0% |  |
 
 ### Chega (PfE)
@@ -192,8 +192,8 @@
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0.3% | 100% |  |
-| 3 | 74% | 99.7% | Median |
-| 4 | 26% | 26% |  |
+| 3 | 75% | 99.7% | Median |
+| 4 | 24% | 24% |  |
 | 5 | 0% | 0% |  |
 
 ### Coligação Democrática Unitária (GUE/NGL) – Bloco de Esquerda (GUE/NGL)
@@ -202,8 +202,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 36% | 100% | Last Result |
-| 1 | 64% | 64% | Median |
+| 0 | 37% | 100% | Last Result |
+| 1 | 63% | 63% | Median |
 | 2 | 0% | 0% |  |
 
 ### LIVRE (Greens/EFA) – Pessoas–Animais–Natureza (Greens/EFA)
@@ -212,8 +212,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 22% | 100% | Last Result |
-| 1 | 78% | 78% | Median |
+| 0 | 21% | 100% | Last Result |
+| 1 | 79% | 79% | Median |
 | 2 | 0% | 0% |  |
 
 
@@ -228,6 +228,6 @@
 ### Calculations
 
 + **Sample size:** 1000
-+ **Simulations done:** 1,048,576
-+ **Error estimate:** 1.71%
++ **Simulations done:** 2,097,152
++ **Error estimate:** 1.75%
 
