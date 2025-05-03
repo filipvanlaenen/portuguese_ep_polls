@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/portuguese_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 03 May 2025 11:55:38 +0200</pubDate>
+    <pubDate>Sat, 03 May 2025 13:48:55 +0200</pubDate>
     <item>
       <title>Opinion Poll by CESOP–UCP for Público and RTP, 21–24 April 2025 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2025-04-24-CESOP–UCP.html#seats</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2025-04-24-CESOP–UCP-seats.png"
         length="245213"
         type="image/png"/>
-      <pubDate>Sat, 03 May 2025 11:36:41 +0200</pubDate>
-      <dc:date>2025-05-03T11:36:41.20021+02:00</dc:date>
+      <pubDate>Sat, 03 May 2025 13:33:00 +0200</pubDate>
+      <dc:date>2025-05-03T13:33:00.60145+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by CESOP–UCP for Público and RTP, 21–24 April 2025 – Seat Projections for a Selection of Coalitions</title>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2025-04-24-CESOP–UCP-coalitions-seats.png"
         length="154093"
         type="image/png"/>
-      <pubDate>Sat, 03 May 2025 11:36:41 +0200</pubDate>
-      <dc:date>2025-05-03T11:36:41.20021+02:00</dc:date>
+      <pubDate>Sat, 03 May 2025 13:33:00 +0200</pubDate>
+      <dc:date>2025-05-03T13:33:00.60145+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by CESOP–UCP for Público and RTP, 21–24 April 2025 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2025-04-24-CESOP–UCP.png"
         length="276664"
         type="image/png"/>
-      <pubDate>Sat, 03 May 2025 11:36:41 +0200</pubDate>
-      <dc:date>2025-05-03T11:36:41.20021+02:00</dc:date>
+      <pubDate>Sat, 03 May 2025 13:33:00 +0200</pubDate>
+      <dc:date>2025-05-03T13:33:00.60145+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Consulmark2 for Euronews and Sol, 14–22 April 2025 – Seat Projections for the Parties</title>
@@ -76,8 +76,8 @@
       <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2025-04-21-Pitagórica-seats.png"
         length="245663"
         type="image/png"/>
-      <pubDate>Sat, 03 May 2025 11:55:38 +0200</pubDate>
-      <dc:date>2025-05-03T11:55:38.002471+02:00</dc:date>
+      <pubDate>Sat, 03 May 2025 13:48:55 +0200</pubDate>
+      <dc:date>2025-05-03T13:48:55.922939+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Pitagórica for CNN Portugal, Jornal de Notícias, TSF and TVI, 14–21 April 2025 – Seat Projections for a Selection of Coalitions</title>
@@ -86,8 +86,8 @@
       <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2025-04-21-Pitagórica-coalitions-seats.png"
         length="165461"
         type="image/png"/>
-      <pubDate>Sat, 03 May 2025 11:55:38 +0200</pubDate>
-      <dc:date>2025-05-03T11:55:38.002471+02:00</dc:date>
+      <pubDate>Sat, 03 May 2025 13:48:55 +0200</pubDate>
+      <dc:date>2025-05-03T13:48:55.922939+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Pitagórica for CNN Portugal, Jornal de Notícias, TSF and TVI, 14–21 April 2025 – Voting Intentions</title>
@@ -96,8 +96,8 @@
       <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2025-04-21-Pitagórica.png"
         length="285680"
         type="image/png"/>
-      <pubDate>Sat, 03 May 2025 11:55:38 +0200</pubDate>
-      <dc:date>2025-05-03T11:55:38.002471+02:00</dc:date>
+      <pubDate>Sat, 03 May 2025 13:48:55 +0200</pubDate>
+      <dc:date>2025-05-03T13:48:55.922939+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by ICS/ISCTE for Expresso and SIC Notícias, 5–14 April 2025 – Seat Projections for the Parties</title>
@@ -999,6 +999,6 @@
       <pubDate>Mon, 23 Sep 2024 19:51:27 +0200</pubDate>
       <dc:date>2024-09-23T19:51:27.949735+02:00</dc:date>
     </item>
-    <dc:date>2025-05-03T11:55:38.002471+02:00</dc:date>
+    <dc:date>2025-05-03T13:48:55.922939+02:00</dc:date>
   </channel>
 </rss>
