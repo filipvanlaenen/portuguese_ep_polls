@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17.8% | 14.5–21.1% | 13.8–22.0% | 13.3–22.7% | 12.4–23.9% |
+| N/A | [Poll Average](average.html) | 17.9% | 14.6–21.1% | 14.0–22.0% | 13.4–22.7% | 12.4–23.9% |
+| [29 April–2 May 2025](2025-05-02-Pitagórica.html) | Pitagórica <br> CNN Portugal, Jornal de Notícias, TSF and TVI | 15.7% | 14.1–17.4% | 13.7–17.9% | 13.3–18.4% | 12.6–19.2% |
+| [28 April–1 May 2025](2025-05-01-Pitagórica.html) | Pitagórica <br> CNN Portugal, Jornal de Notícias, TSF and TVI | 16.5% | N/A | N/A | N/A | N/A |
 | [21–24 April 2025](2025-04-24-CESOP–UCP.html) | CESOP–UCP <br> Público and RTP | 19.0% | 17.6–20.5% | 17.2–21.0% | 16.9–21.3% | 16.2–22.1% |
 | [14–22 April 2025](2025-04-22-Consulmark2.html) | Consulmark2 <br> Euronews and Sol | 15.1% | 13.3–17.2% | 12.8–17.8% | 12.4–18.3% | 11.6–19.3% |
 | [14–21 April 2025](2025-04-21-Pitagórica.html) | Pitagórica <br> CNN Portugal, Jornal de Notícias, TSF and TVI | 15.2% | 13.8–16.8% | 13.4–17.2% | 13.1–17.6% | 12.5–18.3% |
@@ -65,13 +67,13 @@ The following table shows the probability mass function per percentage block of 
 | 8.5–9.5% | 0% | 100% |  |
 | 9.5–10.5% | 0% | 100% |  |
 | 10.5–11.5% | 0.1% | 100% |  |
-| 11.5–12.5% | 0.6% | 99.9% |  |
-| 12.5–13.5% | 3% | 99.4% |  |
-| 13.5–14.5% | 8% | 97% |  |
-| 14.5–15.5% | 12% | 89% |  |
-| 15.5–16.5% | 12% | 77% |  |
-| 16.5–17.5% | 12% | 65% |  |
-| 17.5–18.5% | 13% | 53% | Median |
+| 11.5–12.5% | 0.5% | 99.9% |  |
+| 12.5–13.5% | 2% | 99.4% |  |
+| 13.5–14.5% | 6% | 97% |  |
+| 14.5–15.5% | 11% | 91% |  |
+| 15.5–16.5% | 13% | 80% |  |
+| 16.5–17.5% | 13% | 67% |  |
+| 17.5–18.5% | 14% | 54% | Median |
 | 18.5–19.5% | 14% | 40% |  |
 | 19.5–20.5% | 11% | 26% |  |
 | 20.5–21.5% | 8% | 15% |  |
@@ -91,6 +93,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 3–5 | 3–5 | 3–5 | 3–6 |
+| [29 April–2 May 2025](2025-05-02-Pitagórica.html) | Pitagórica <br> CNN Portugal, Jornal de Notícias, TSF and TVI | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
+| [28 April–1 May 2025](2025-05-01-Pitagórica.html) | Pitagórica <br> CNN Portugal, Jornal de Notícias, TSF and TVI |  |  |  |  |  |
 | [21–24 April 2025](2025-04-24-CESOP–UCP.html) | CESOP–UCP <br> Público and RTP | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [14–22 April 2025](2025-04-22-Consulmark2.html) | Consulmark2 <br> Euronews and Sol | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | [14–21 April 2025](2025-04-21-Pitagórica.html) | Pitagórica <br> CNN Portugal, Jornal de Notícias, TSF and TVI | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
@@ -137,9 +141,9 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 0.3% | 100% |  |
-| 3 | 27% | 99.7% |  |
-| 4 | 49% | 73% | Median |
+| 2 | 0.2% | 100% |  |
+| 3 | 23% | 99.8% |  |
+| 4 | 53% | 77% | Median |
 | 5 | 23% | 24% |  |
 | 6 | 0.6% | 0.6% |  |
 | 7 | 0% | 0% |  |
