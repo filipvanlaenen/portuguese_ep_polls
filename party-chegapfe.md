@@ -10,7 +10,11 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17.9% | 14.6–21.1% | 14.0–22.0% | 13.4–22.7% | 12.4–23.9% |
+| N/A | [Poll Average](average.html) | 18.0% | 14.9–21.1% | 14.2–22.0% | 13.6–22.7% | 12.5–23.9% |
+| [3–6 May 2025](2025-05-06-Pitagórica.html) | Pitagórica <br> CNN Portugal, Jornal de Notícias, TSF and TVI | 16.7% | 15.1–18.5% | 14.6–19.0% | 14.3–19.4% | 13.5–20.3% |
+| [2–5 May 2025](2025-05-05-Pitagórica.html) | Pitagórica <br> CNN Portugal, Jornal de Notícias, TSF and TVI | 16.8% | 15.2–18.6% | 14.8–19.1% | 14.4–19.5% | 13.6–20.4% |
+| [1–4 May 2025](2025-05-04-Pitagórica.html) | Pitagórica <br> CNN Portugal, Jornal de Notícias, TSF and TVI | 16.5% | N/A | N/A | N/A | N/A |
+| [30 April–3 May 2025](2025-05-03-Pitagórica.html) | Pitagórica <br> CNN Portugal, Jornal de Notícias, TSF and TVI | 16.2% | N/A | N/A | N/A | N/A |
 | [29 April–2 May 2025](2025-05-02-Pitagórica.html) | Pitagórica <br> CNN Portugal, Jornal de Notícias, TSF and TVI | 15.7% | 14.1–17.4% | 13.7–17.9% | 13.3–18.4% | 12.6–19.2% |
 | [28 April–1 May 2025](2025-05-01-Pitagórica.html) | Pitagórica <br> CNN Portugal, Jornal de Notícias, TSF and TVI | 16.5% | N/A | N/A | N/A | N/A |
 | [21–24 April 2025](2025-04-24-CESOP–UCP.html) | CESOP–UCP <br> Público and RTP | 19.0% | 17.6–20.5% | 17.2–21.0% | 16.9–21.3% | 16.2–22.1% |
@@ -68,13 +72,13 @@ The following table shows the probability mass function per percentage block of 
 | 9.5–10.5% | 0% | 100% |  |
 | 10.5–11.5% | 0.1% | 100% |  |
 | 11.5–12.5% | 0.5% | 99.9% |  |
-| 12.5–13.5% | 2% | 99.4% |  |
-| 13.5–14.5% | 6% | 97% |  |
-| 14.5–15.5% | 11% | 91% |  |
-| 15.5–16.5% | 13% | 80% |  |
-| 16.5–17.5% | 13% | 67% |  |
-| 17.5–18.5% | 14% | 54% | Median |
-| 18.5–19.5% | 14% | 40% |  |
+| 12.5–13.5% | 2% | 99.5% |  |
+| 13.5–14.5% | 5% | 98% |  |
+| 14.5–15.5% | 9% | 93% |  |
+| 15.5–16.5% | 13% | 84% |  |
+| 16.5–17.5% | 15% | 72% |  |
+| 17.5–18.5% | 16% | 57% | Median |
+| 18.5–19.5% | 15% | 41% |  |
 | 19.5–20.5% | 11% | 26% |  |
 | 20.5–21.5% | 8% | 15% |  |
 | 21.5–22.5% | 4% | 7% |  |
@@ -93,6 +97,10 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 3–5 | 3–5 | 3–5 | 3–6 |
+| [3–6 May 2025](2025-05-06-Pitagórica.html) | Pitagórica <br> CNN Portugal, Jornal de Notícias, TSF and TVI | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
+| [2–5 May 2025](2025-05-05-Pitagórica.html) | Pitagórica <br> CNN Portugal, Jornal de Notícias, TSF and TVI | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
+| [1–4 May 2025](2025-05-04-Pitagórica.html) | Pitagórica <br> CNN Portugal, Jornal de Notícias, TSF and TVI |  |  |  |  |  |
+| [30 April–3 May 2025](2025-05-03-Pitagórica.html) | Pitagórica <br> CNN Portugal, Jornal de Notícias, TSF and TVI |  |  |  |  |  |
 | [29 April–2 May 2025](2025-05-02-Pitagórica.html) | Pitagórica <br> CNN Portugal, Jornal de Notícias, TSF and TVI | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [28 April–1 May 2025](2025-05-01-Pitagórica.html) | Pitagórica <br> CNN Portugal, Jornal de Notícias, TSF and TVI |  |  |  |  |  |
 | [21–24 April 2025](2025-04-24-CESOP–UCP.html) | CESOP–UCP <br> Público and RTP | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
@@ -142,8 +150,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0.2% | 100% |  |
-| 3 | 23% | 99.8% |  |
-| 4 | 53% | 77% | Median |
+| 3 | 19% | 99.8% |  |
+| 4 | 57% | 81% | Median |
 | 5 | 23% | 24% |  |
 | 6 | 0.6% | 0.6% |  |
 | 7 | 0% | 0% |  |
