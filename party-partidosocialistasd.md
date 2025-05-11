@@ -10,9 +10,16 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 27.8% | 25.0–31.0% | 24.4–31.8% | 23.9–32.5% | 22.9–33.9% |
+| N/A | [Poll Average](average.html) | 26.8% | 24.0–29.2% | 23.3–29.9% | 22.7–30.5% | 21.7–31.7% |
+| [6–9 May 2025](2025-05-09-Pitágorica.html) | Pitágorica <br> CNN Portugal, Jornal de Notícias, TSF and TVI | 25.9% | 24.0–28.0% | 23.5–28.6% | 23.0–29.1% | 22.1–30.1% |
+| [5–8 May 2025](2025-05-08-Pitagórica.html) | Pitagórica <br> CNN Portugal, Jornal de Notícias, TSF and TVI | 26.3% | 24.4–28.3% | 23.8–28.9% | 23.4–29.4% | 22.5–30.5% |
+| [4–7 May 2025](2025-05-07-Pitagórica.html) | Pitagórica <br> CNN Portugal, Jornal de Notícias, TSF and TVI | 26.3% | N/A | N/A | N/A | N/A |
 | [3–6 May 2025](2025-05-06-Pitagórica.html) | Pitagórica <br> CNN Portugal, Jornal de Notícias, TSF and TVI | 26.0% | 24.1–28.1% | 23.6–28.7% | 23.1–29.2% | 22.3–30.2% |
+| [28 April–6 May 2025](2025-05-06-CESOP–UCP.html) | CESOP–UCP <br> Público and RTP | 28.0% | 26.5–29.6% | 26.1–30.0% | 25.8–30.4% | 25.1–31.1% |
 | [2–5 May 2025](2025-05-05-Pitagórica.html) | Pitagórica <br> CNN Portugal, Jornal de Notícias, TSF and TVI | 26.5% | 24.6–28.6% | 24.1–29.2% | 23.6–29.7% | 22.7–30.7% |
+| [24 April–5 May 2025](2025-05-05-Intercampus.html) | Intercampus <br> Correio da Manhã | 24.1% | 22.5–25.9% | 22.0–26.4% | 21.6–26.9% | 20.8–27.8% |
+| [25 April–5 May 2025](2025-05-05-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 27.0% | 25.3–28.9% | 24.8–29.4% | 24.4–29.9% | 23.6–30.8% |
+| [1–5 May 2025](2025-05-05-Aximage.html) | Aximage <br> Diário de Notícias | 28.1% | 26.0–30.5% | 25.3–31.1% | 24.8–31.7% | 23.8–32.8% |
 | [1–4 May 2025](2025-05-04-Pitagórica.html) | Pitagórica <br> CNN Portugal, Jornal de Notícias, TSF and TVI | 27.2% | N/A | N/A | N/A | N/A |
 | [30 April–3 May 2025](2025-05-03-Pitagórica.html) | Pitagórica <br> CNN Portugal, Jornal de Notícias, TSF and TVI | 26.9% | N/A | N/A | N/A | N/A |
 | [29 April–2 May 2025](2025-05-02-Pitagórica.html) | Pitagórica <br> CNN Portugal, Jornal de Notícias, TSF and TVI | 27.7% | 25.7–29.7% | 25.1–30.3% | 24.7–30.8% | 23.8–31.9% |
@@ -80,22 +87,20 @@ The following table shows the probability mass function per percentage block of 
 | 17.5–18.5% | 0% | 100% |  |
 | 18.5–19.5% | 0% | 100% |  |
 | 19.5–20.5% | 0% | 100% |  |
-| 20.5–21.5% | 0% | 100% |  |
-| 21.5–22.5% | 0.2% | 100% |  |
-| 22.5–23.5% | 1.3% | 99.7% |  |
-| 23.5–24.5% | 5% | 98% |  |
-| 24.5–25.5% | 10% | 94% |  |
-| 25.5–26.5% | 15% | 84% |  |
-| 26.5–27.5% | 16% | 69% |  |
-| 27.5–28.5% | 15% | 53% | Median |
-| 28.5–29.5% | 14% | 39% |  |
-| 29.5–30.5% | 11% | 25% |  |
-| 30.5–31.5% | 7% | 14% |  |
-| 31.5–32.5% | 4% | 6% |  |
-| 32.5–33.5% | 2% | 2% |  |
-| 33.5–34.5% | 0.6% | 0.8% |  |
-| 34.5–35.5% | 0.2% | 0.2% |  |
-| 35.5–36.5% | 0% | 0% |  |
+| 20.5–21.5% | 0.3% | 100% |  |
+| 21.5–22.5% | 2% | 99.6% |  |
+| 22.5–23.5% | 4% | 98% |  |
+| 23.5–24.5% | 9% | 94% |  |
+| 24.5–25.5% | 13% | 85% |  |
+| 25.5–26.5% | 17% | 72% |  |
+| 26.5–27.5% | 20% | 55% | Median |
+| 27.5–28.5% | 17% | 35% |  |
+| 28.5–29.5% | 11% | 18% |  |
+| 29.5–30.5% | 5% | 7% |  |
+| 30.5–31.5% | 2% | 2% |  |
+| 31.5–32.5% | 0.5% | 0.6% |  |
+| 32.5–33.5% | 0.1% | 0.1% |  |
+| 33.5–34.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -106,9 +111,16 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 6–7 | 6–8 | 5–8 | 5–8 |
+| N/A | [Poll Average](average.html) | 6 | 6–7 | 5–7 | 5–7 | 5–8 |
+| [6–9 May 2025](2025-05-09-Pitágorica.html) | Pitágorica <br> CNN Portugal, Jornal de Notícias, TSF and TVI | 6 | 6–7 | 5–7 | 5–7 | 5–7 |
+| [5–8 May 2025](2025-05-08-Pitagórica.html) | Pitagórica <br> CNN Portugal, Jornal de Notícias, TSF and TVI | 6 | 6–7 | 6–7 | 5–7 | 5–7 |
+| [4–7 May 2025](2025-05-07-Pitagórica.html) | Pitagórica <br> CNN Portugal, Jornal de Notícias, TSF and TVI |  |  |  |  |  |
 | [3–6 May 2025](2025-05-06-Pitagórica.html) | Pitagórica <br> CNN Portugal, Jornal de Notícias, TSF and TVI | 6 | 6–7 | 5–7 | 5–7 | 5–7 |
+| [28 April–6 May 2025](2025-05-06-CESOP–UCP.html) | CESOP–UCP <br> Público and RTP | 7 | 6–7 | 6–7 | 6–7 | 6–8 |
 | [2–5 May 2025](2025-05-05-Pitagórica.html) | Pitagórica <br> CNN Portugal, Jornal de Notícias, TSF and TVI | 6 | 6–7 | 5–7 | 5–7 | 5–7 |
+| [24 April–5 May 2025](2025-05-05-Intercampus.html) | Intercampus <br> Correio da Manhã | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
+| [25 April–5 May 2025](2025-05-05-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
+| [1–5 May 2025](2025-05-05-Aximage.html) | Aximage <br> Diário de Notícias | 7 | 6–7 | 6–8 | 6–8 | 6–8 |
 | [1–4 May 2025](2025-05-04-Pitagórica.html) | Pitagórica <br> CNN Portugal, Jornal de Notícias, TSF and TVI |  |  |  |  |  |
 | [30 April–3 May 2025](2025-05-03-Pitagórica.html) | Pitagórica <br> CNN Portugal, Jornal de Notícias, TSF and TVI |  |  |  |  |  |
 | [29 April–2 May 2025](2025-05-02-Pitagórica.html) | Pitagórica <br> CNN Portugal, Jornal de Notícias, TSF and TVI | 7 | 6–7 | 6–7 | 6–7 | 5–8 |
@@ -162,11 +174,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
-| 5 | 3% | 100% |  |
-| 6 | 46% | 97% |  |
-| 7 | 43% | 51% | Median |
-| 8 | 8% | 8% |  |
-| 9 | 0.1% | 0.1% |  |
-| 10 | 0% | 0% |  |
+| 5 | 6% | 100% |  |
+| 6 | 57% | 94% | Median |
+| 7 | 36% | 37% |  |
+| 8 | 1.4% | 1.4% |  |
+| 9 | 0% | 0% |  |
 
 
