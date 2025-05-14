@@ -10,7 +10,10 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17.2% | 14.5–20.2% | 13.8–20.8% | 13.3–21.3% | 12.4–22.2% |
+| N/A | [Poll Average](average.html) | 17.7% | 14.7–20.3% | 14.0–20.9% | 13.5–21.3% | 12.5–22.2% |
+| [9–12 May 2025](2025-05-12-Pitagórica.html) | Pitagórica <br> CNN Portugal, Jornal de Notícias, TSF and TVI | 17.8% | 16.1–19.6% | 15.7–20.1% | 15.3–20.6% | 14.5–21.5% |
+| [8–11 May 2025](2025-05-11-Pitagórica.html) | Pitagórica <br> CNN Portugal, Jornal de Notícias, TSF and TVI | 18.0% | 16.4–19.9% | 15.9–20.4% | 15.5–20.8% | 14.8–21.7% |
+| [7–10 May 2025](2025-05-10-Pitagórica.html) | Pitagórica <br> CNN Portugal, Jornal de Notícias, TSF and TVI | 16.0% | N/A | N/A | N/A | N/A |
 | [6–9 May 2025](2025-05-09-Pitágorica.html) | Pitágorica <br> CNN Portugal, Jornal de Notícias, TSF and TVI | 15.3% | 13.8–17.0% | 13.4–17.5% | 13.0–18.0% | 12.3–18.8% |
 | [5–8 May 2025](2025-05-08-Pitagórica.html) | Pitagórica <br> CNN Portugal, Jornal de Notícias, TSF and TVI | 15.7% | 14.1–17.4% | 13.7–17.9% | 13.3–18.4% | 12.6–19.2% |
 | [4–7 May 2025](2025-05-07-Pitagórica.html) | Pitagórica <br> CNN Portugal, Jornal de Notícias, TSF and TVI | 16.0% | N/A | N/A | N/A | N/A |
@@ -78,17 +81,17 @@ The following table shows the probability mass function per percentage block of 
 | 8.5–9.5% | 0% | 100% |  |
 | 9.5–10.5% | 0% | 100% |  |
 | 10.5–11.5% | 0.1% | 100% |  |
-| 11.5–12.5% | 0.6% | 99.9% |  |
-| 12.5–13.5% | 3% | 99.4% |  |
-| 13.5–14.5% | 8% | 97% |  |
-| 14.5–15.5% | 13% | 89% |  |
-| 15.5–16.5% | 15% | 76% |  |
-| 16.5–17.5% | 15% | 61% | Median |
-| 17.5–18.5% | 14% | 46% |  |
-| 18.5–19.5% | 14% | 31% |  |
-| 19.5–20.5% | 11% | 18% |  |
-| 20.5–21.5% | 5% | 7% |  |
-| 21.5–22.5% | 1.4% | 2% |  |
+| 11.5–12.5% | 0.5% | 99.9% |  |
+| 12.5–13.5% | 2% | 99.4% |  |
+| 13.5–14.5% | 6% | 97% |  |
+| 14.5–15.5% | 10% | 91% |  |
+| 15.5–16.5% | 13% | 82% |  |
+| 16.5–17.5% | 16% | 69% |  |
+| 17.5–18.5% | 18% | 53% | Median |
+| 18.5–19.5% | 16% | 35% |  |
+| 19.5–20.5% | 12% | 19% |  |
+| 20.5–21.5% | 6% | 7% |  |
+| 21.5–22.5% | 1.5% | 2% |  |
 | 22.5–23.5% | 0.2% | 0.2% |  |
 | 23.5–24.5% | 0% | 0% |  |
 
@@ -102,6 +105,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
+| [9–12 May 2025](2025-05-12-Pitagórica.html) | Pitagórica <br> CNN Portugal, Jornal de Notícias, TSF and TVI | 4 | 4 | 3–5 | 3–5 | 3–5 |
+| [8–11 May 2025](2025-05-11-Pitagórica.html) | Pitagórica <br> CNN Portugal, Jornal de Notícias, TSF and TVI | 4 | 4–5 | 4–5 | 3–5 | 3–5 |
+| [7–10 May 2025](2025-05-10-Pitagórica.html) | Pitagórica <br> CNN Portugal, Jornal de Notícias, TSF and TVI |  |  |  |  |  |
 | [6–9 May 2025](2025-05-09-Pitágorica.html) | Pitágorica <br> CNN Portugal, Jornal de Notícias, TSF and TVI | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [5–8 May 2025](2025-05-08-Pitagórica.html) | Pitagórica <br> CNN Portugal, Jornal de Notícias, TSF and TVI | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [4–7 May 2025](2025-05-07-Pitagórica.html) | Pitagórica <br> CNN Portugal, Jornal de Notícias, TSF and TVI |  |  |  |  |  |
@@ -162,9 +168,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0.2% | 100% |  |
-| 3 | 26% | 99.8% |  |
-| 4 | 56% | 73% | Median |
-| 5 | 18% | 18% |  |
+| 3 | 20% | 99.8% |  |
+| 4 | 61% | 80% | Median |
+| 5 | 19% | 19% |  |
 | 6 | 0.1% | 0.1% |  |
 | 7 | 0% | 0% |  |
 
