@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.7% | 2.9–6.4% | 2.6–6.9% | 2.4–7.4% | 2.1–8.4% |
+| N/A | [Poll Average](average.html) | 7.5% | 6.1–9.0% | 5.8–9.4% | 5.5–9.9% | 4.9–10.7% |
+| [5–15 June 2025](2025-06-15-Intercampus.html) | Intercampus <br> Correio da Manhã | 7.4% | 6.1–9.0% | 5.8–9.4% | 5.5–9.9% | 4.9–10.7% |
 | [12–15 May 2025](2025-05-15-Pitagórica.html) | Pitagórica <br> CNN Portugal, Jornal de Notícias, TSF and TVI | 5.1% | 4.2–6.2% | 3.9–6.5% | 3.7–6.8% | 3.4–7.4% |
 | [11–14 May 2025](2025-05-14-Pitagórica.html) | Pitagórica <br> CNN Portugal, Jornal de Notícias, TSF and TVI | 5.6% | 4.6–6.7% | 4.4–7.1% | 4.2–7.4% | 3.8–8.0% |
 | [10–13 May 2025](2025-05-13-Pitagórica.html) | Pitagórica <br> CNN Portugal, Jornal de Notícias, TSF and TVI | 4.4% | 3.6–5.5% | 3.4–5.8% | 3.2–6.1% | 2.9–6.7% |
@@ -77,15 +78,18 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 4% | 100% |  |
-| 2.5–3.5% | 21% | 96% |  |
-| 3.5–4.5% | 21% | 75% |  |
-| 4.5–5.5% | 29% | 54% | Median |
-| 5.5–6.5% | 17% | 25% |  |
-| 6.5–7.5% | 6% | 8% |  |
-| 7.5–8.5% | 2% | 2% |  |
-| 8.5–9.5% | 0.3% | 0.4% |  |
-| 9.5–10.5% | 0% | 0% |  |
+| 1.5–2.5% | 0% | 100% |  |
+| 2.5–3.5% | 0% | 100% |  |
+| 3.5–4.5% | 0.1% | 100% |  |
+| 4.5–5.5% | 3% | 99.9% |  |
+| 5.5–6.5% | 17% | 97% |  |
+| 6.5–7.5% | 33% | 81% | Median |
+| 7.5–8.5% | 30% | 48% |  |
+| 8.5–9.5% | 14% | 18% |  |
+| 9.5–10.5% | 4% | 4% |  |
+| 10.5–11.5% | 0.6% | 0.7% |  |
+| 11.5–12.5% | 0.1% | 0.1% |  |
+| 12.5–13.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -96,7 +100,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [5–15 June 2025](2025-06-15-Intercampus.html) | Intercampus <br> Correio da Manhã | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [12–15 May 2025](2025-05-15-Pitagórica.html) | Pitagórica <br> CNN Portugal, Jornal de Notícias, TSF and TVI | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [11–14 May 2025](2025-05-14-Pitagórica.html) | Pitagórica <br> CNN Portugal, Jornal de Notícias, TSF and TVI | 1 | 1 | 1 | 1 | 0–2 |
 | [10–13 May 2025](2025-05-13-Pitagórica.html) | Pitagórica <br> CNN Portugal, Jornal de Notícias, TSF and TVI | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -163,9 +168,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 31% | 100% | Last Result |
-| 1 | 67% | 69% | Median |
-| 2 | 1.1% | 1.1% |  |
+| 0 | 0% | 100% | Last Result |
+| 1 | 67% | 100% | Median |
+| 2 | 33% | 33% |  |
 | 3 | 0% | 0% |  |
 
 
