@@ -328,8 +328,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 67% | 100% | Median |
-| 2 | 33% | 33% |  |
+| 1 | 68% | 100% | Median |
+| 2 | 32% | 32% |  |
 | 3 | 0% | 0% |  |
 
 ### Partido Socialista (S&D)
@@ -344,9 +344,9 @@ Only polls for which at least the sample size has been published are included in
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 13% | 100% |  |
-| 5 | 73% | 87% | Median |
-| 6 | 14% | 14% |  |
+| 4 | 12% | 100% |  |
+| 5 | 74% | 88% | Median |
+| 6 | 13% | 14% |  |
 | 7 | 0.1% | 0.1% |  |
 | 8 | 0% | 0% |  |
 
@@ -359,9 +359,9 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 29% | 100% |  |
-| 2 | 71% | 71% | Median |
-| 3 | 0.6% | 0.6% |  |
+| 1 | 30% | 100% |  |
+| 2 | 69% | 70% | Median |
+| 3 | 0.7% | 0.7% |  |
 | 4 | 0% | 0% |  |
 
 ### Aliança (RE)
@@ -396,10 +396,10 @@ Only polls for which at least the sample size has been published are included in
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
 | 5 | 0.1% | 100% |  |
-| 6 | 14% | 99.9% |  |
-| 7 | 65% | 86% | Median |
-| 8 | 20% | 21% |  |
-| 9 | 0.4% | 0.4% |  |
+| 6 | 13% | 99.9% |  |
+| 7 | 66% | 87% | Median |
+| 8 | 20% | 20% |  |
+| 9 | 0.5% | 0.5% |  |
 | 10 | 0% | 0% |  |
 
 ### Chega (PfE)
@@ -414,9 +414,9 @@ Only polls for which at least the sample size has been published are included in
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 14% | 100% |  |
-| 5 | 72% | 86% | Median |
-| 6 | 14% | 14% |  |
+| 4 | 13% | 100% |  |
+| 5 | 72% | 87% | Median |
+| 6 | 15% | 15% |  |
 | 7 | 0.1% | 0.1% |  |
 | 8 | 0% | 0% |  |
 
@@ -448,10 +448,10 @@ Only polls for which at least the sample size has been published are included in
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
 | 5 | 0.1% | 100% |  |
-| 6 | 14% | 99.9% |  |
-| 7 | 65% | 86% | Median |
-| 8 | 20% | 21% |  |
-| 9 | 0.4% | 0.4% |  |
+| 6 | 13% | 99.9% |  |
+| 7 | 66% | 87% | Median |
+| 8 | 20% | 20% |  |
+| 9 | 0.5% | 0.5% |  |
 | 10 | 0% | 0% |  |
 
 ### Chega (PfE)
@@ -464,9 +464,9 @@ Only polls for which at least the sample size has been published are included in
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 14% | 100% |  |
-| 5 | 72% | 86% | Median |
-| 6 | 14% | 14% |  |
+| 4 | 13% | 100% |  |
+| 5 | 72% | 87% | Median |
+| 6 | 15% | 15% |  |
 | 7 | 0.1% | 0.1% |  |
 | 8 | 0% | 0% |  |
 
@@ -480,9 +480,9 @@ Only polls for which at least the sample size has been published are included in
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 13% | 100% |  |
-| 5 | 73% | 87% | Median |
-| 6 | 14% | 14% |  |
+| 4 | 12% | 100% |  |
+| 5 | 74% | 88% | Median |
+| 6 | 13% | 14% |  |
 | 7 | 0.1% | 0.1% |  |
 | 8 | 0% | 0% |  |
 
@@ -495,7 +495,7 @@ Only polls for which at least the sample size has been published are included in
 | 0 | 0% | 100% | Last Result |
 | 1 | 27% | 100% |  |
 | 2 | 58% | 73% | Median |
-| 3 | 15% | 15% |  |
+| 3 | 14% | 14% |  |
 | 4 | 0% | 0% |  |
 
 ### Aliança (RE) – Iniciativa Liberal (RE)
@@ -505,9 +505,9 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 29% | 100% |  |
-| 2 | 71% | 71% | Median |
-| 3 | 0.6% | 0.6% |  |
+| 1 | 30% | 100% |  |
+| 2 | 69% | 70% | Median |
+| 3 | 0.7% | 0.7% |  |
 | 4 | 0% | 0% |  |
 
 ### Bloco de Esquerda (GUE/NGL) – Coligação Democrática Unitária (GUE/NGL)
@@ -525,6 +525,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 1
-+ **Lowest number of simulations done in a poll included in this average:** 1,048,576
-+ **Total number of simulations done in the polls included in this average:** 1,048,576
-+ **Error estimate:** 1.02%
++ **Lowest number of simulations done in a poll included in this average:** 2,097,152
++ **Total number of simulations done in the polls included in this average:** 2,097,152
++ **Error estimate:** 2.68%
