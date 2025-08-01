@@ -32,9 +32,9 @@
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | <a href="#aliança-democrática-(epp)">Aliança Democrática (EPP)</a> | 0 | 6 | 6–7 |5–7 |5–7 |5–8 |
-| <a href="#partido-socialista-(s&d)">Partido Socialista (S&D)</a> | 0 | 5 | 5–6 |5–6 |5–7 |4–7 |
+| <a href="#partido-socialista-(s&d)">Partido Socialista (S&D)</a> | 0 | 6 | 5–6 |5–6 |5–7 |4–7 |
 | <a href="#chega-(pfe)">Chega (PfE)</a> | 0 | 5 | 4–5 |4–6 |4–6 |4–6 |
-| <a href="#livre-(greens/efa)">LIVRE (Greens/EFA)</a> | 0 | 2 | 2–3 |2–3 |1–3 |1–3 |
+| <a href="#livre-(greens/efa)">LIVRE (Greens/EFA)</a> | 0 | 2 | 2 |2–3 |1–3 |1–3 |
 | <a href="#iniciativa-liberal-(re)">Iniciativa Liberal (RE)</a> | 0 | 1 | 1–2 |1–2 |1–2 |1–2 |
 | <a href="#coligação-democrática-unitária-(gue/ngl)">Coligação Democrática Unitária (GUE/NGL)</a> | 0 | 1 | 0–1 |0–1 |0–1 |0–1 |
 | <a href="#pessoas–animais–natureza-(greens/efa)">Pessoas–Animais–Natureza (Greens/EFA)</a> | 0 | 0 | 0–1 |0–1 |0–1 |0–1 |
@@ -53,10 +53,10 @@
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
-| 5 | 7% | 100% |  |
-| 6 | 61% | 93% | Median |
-| 7 | 31% | 33% |  |
-| 8 | 1.4% | 1.4% |  |
+| 5 | 6% | 100% |  |
+| 6 | 61% | 94% | Median |
+| 7 | 32% | 33% |  |
+| 8 | 1.1% | 1.1% |  |
 | 9 | 0% | 0% |  |
 
 ### Partido Socialista (S&D)
@@ -71,10 +71,10 @@
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 1.0% | 100% |  |
-| 5 | 50% | 99.0% | Median |
-| 6 | 45% | 49% |  |
-| 7 | 3% | 3% |  |
+| 4 | 0.9% | 100% |  |
+| 5 | 42% | 99.1% |  |
+| 6 | 53% | 57% | Median |
+| 7 | 3% | 4% |  |
 | 8 | 0% | 0% |  |
 
 ### Chega (PfE)
@@ -89,9 +89,9 @@
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0.3% | 100% |  |
-| 4 | 28% | 99.7% |  |
-| 5 | 64% | 71% | Median |
-| 6 | 7% | 7% |  |
+| 4 | 34% | 99.7% |  |
+| 5 | 61% | 66% | Median |
+| 6 | 5% | 5% |  |
 | 7 | 0% | 0% |  |
 
 ### LIVRE (Greens/EFA)
@@ -103,9 +103,9 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 4% | 100% |  |
-| 2 | 86% | 96% | Median |
-| 3 | 10% | 10% |  |
+| 1 | 3% | 100% |  |
+| 2 | 87% | 97% | Median |
+| 3 | 9% | 9% |  |
 | 4 | 0% | 0% |  |
 
 ### Iniciativa Liberal (RE)
@@ -117,8 +117,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 59% | 100% | Median |
-| 2 | 40% | 41% |  |
+| 1 | 62% | 100% | Median |
+| 2 | 38% | 38% |  |
 | 3 | 0.1% | 0.1% |  |
 | 4 | 0% | 0% |  |
 
@@ -130,8 +130,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 43% | 100% | Last Result |
-| 1 | 57% | 57% | Median |
+| 0 | 41% | 100% | Last Result |
+| 1 | 59% | 59% | Median |
 | 2 | 0% | 0% |  |
 
 ### Pessoas–Animais–Natureza (Greens/EFA)
@@ -142,8 +142,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 77% | 100% | Last Result, Median |
-| 1 | 23% | 23% |  |
+| 0 | 76% | 100% | Last Result, Median |
+| 1 | 24% | 24% |  |
 | 2 | 0% | 0% |  |
 
 ### Bloco de Esquerda (GUE/NGL)
@@ -167,7 +167,7 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Partido Socialista (S&D) | 0 | 5 | 0% | 5–6 | 5–6 | 5–7 | 4–7 |
+| Partido Socialista (S&D) | 0 | 6 | 0% | 5–6 | 5–6 | 5–7 | 4–7 |
 | Chega (PfE) | 0 | 5 | 0% | 4–5 | 4–6 | 4–6 | 4–6 |
 | LIVRE (Greens/EFA) – Pessoas–Animais–Natureza (Greens/EFA) | 0 | 2 | 0% | 2–3 | 2–3 | 2–3 | 1–4 |
 | Coligação Democrática Unitária (GUE/NGL) – Bloco de Esquerda (GUE/NGL) | 0 | 1 | 0% | 0–1 | 0–2 | 0–2 | 0–2 |
@@ -182,10 +182,10 @@
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 1.0% | 100% |  |
-| 5 | 50% | 99.0% | Median |
-| 6 | 45% | 49% |  |
-| 7 | 3% | 3% |  |
+| 4 | 0.9% | 100% |  |
+| 5 | 42% | 99.1% |  |
+| 6 | 53% | 57% | Median |
+| 7 | 3% | 4% |  |
 | 8 | 0% | 0% |  |
 
 ### Chega (PfE)
@@ -198,9 +198,9 @@
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0.3% | 100% |  |
-| 4 | 28% | 99.7% |  |
-| 5 | 64% | 71% | Median |
-| 6 | 7% | 7% |  |
+| 4 | 34% | 99.7% |  |
+| 5 | 61% | 66% | Median |
+| 6 | 5% | 5% |  |
 | 7 | 0% | 0% |  |
 
 ### LIVRE (Greens/EFA) – Pessoas–Animais–Natureza (Greens/EFA)
@@ -211,9 +211,9 @@
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 2% | 100% |  |
-| 2 | 66% | 98% | Median |
-| 3 | 30% | 31% |  |
-| 4 | 2% | 2% |  |
+| 2 | 67% | 98% | Median |
+| 3 | 29% | 30% |  |
+| 4 | 1.3% | 1.3% |  |
 | 5 | 0% | 0% |  |
 
 ### Coligação Democrática Unitária (GUE/NGL) – Bloco de Esquerda (GUE/NGL)
@@ -222,9 +222,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 38% | 100% | Last Result |
-| 1 | 57% | 62% | Median |
-| 2 | 6% | 6% |  |
+| 0 | 36% | 100% | Last Result |
+| 1 | 59% | 64% | Median |
+| 2 | 5% | 5% |  |
 | 3 | 0% | 0% |  |
 
 
@@ -239,6 +239,6 @@
 ### Calculations
 
 + **Sample size:** 558
-+ **Simulations done:** 1,048,576
-+ **Error estimate:** 2.47%
++ **Simulations done:** 2,097,152
++ **Error estimate:** 1.86%
 
