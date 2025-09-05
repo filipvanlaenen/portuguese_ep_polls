@@ -4,7 +4,7 @@
 
 ## Summary
 
-The table below lists the polls on which the average is based. They are the most recent polls (less than 55 days old) registered and analyzed so far.
+The table below lists the polls on which the average is based. They are the most recent polls (less than 75 days old) registered and analyzed so far.
 
 | Period     | Polling firm/Commissioner(s) | CDU | BE | PAN | L | PS | IL | A | PSD | CDS–PP | AD | CH |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
