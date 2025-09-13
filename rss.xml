@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/portuguese_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 23 Aug 2025 23:11:40 +0200</pubDate>
+    <pubDate>Sat, 13 Sep 2025 18:17:55 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Aximage for Diário de Notícias, 2–5 September 2025 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2025-09-05-Aximage.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Coligação Democrática Unitária (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Partido Socialista (S&amp;amp;D): 5–7 seats&lt;/li&gt;&lt;li&gt;Iniciativa Liberal (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Chega (PfE): 5–7 seats&lt;/li&gt;&lt;li&gt;Bloco de Esquerda (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Aliança Democrática (EPP): 5–7 seats&lt;/li&gt;&lt;li&gt;LIVRE (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2025-09-05-Aximage-seats.png"
+        length="243284"
+        type="image/png"/>
+      <pubDate>Sat, 13 Sep 2025 18:17:55 +0200</pubDate>
+      <dc:date>2025-09-13T18:17:55.264635+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Aximage for Diário de Notícias, 2–5 September 2025 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2025-09-05-Aximage.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2025-09-05-Aximage-coalitions-seats.png"
+        length="165931"
+        type="image/png"/>
+      <pubDate>Sat, 13 Sep 2025 18:17:55 +0200</pubDate>
+      <dc:date>2025-09-13T18:17:55.264635+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Aximage for Diário de Notícias, 2–5 September 2025 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2025-09-05-Aximage.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Coligação Democrática Unitária (GUE/NGL): 2.0–4.9%&lt;/li&gt;&lt;li&gt;Partido Socialista (S&amp;amp;D): 20.4–27.4%&lt;/li&gt;&lt;li&gt;Iniciativa Liberal (RE): 4.5–8.4%&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza (Greens/EFA): 1.0–3.2%&lt;/li&gt;&lt;li&gt;Chega (PfE): 23.4–30.6%&lt;/li&gt;&lt;li&gt;Bloco de Esquerda (GUE/NGL): 1.5–4.1%&lt;/li&gt;&lt;li&gt;Aliança Democrática (EPP): 22.5–29.7%&lt;/li&gt;&lt;li&gt;LIVRE (Greens/EFA): 4.7–8.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2025-09-05-Aximage.png"
+        length="312066"
+        type="image/png"/>
+      <pubDate>Sat, 13 Sep 2025 18:17:55 +0200</pubDate>
+      <dc:date>2025-09-13T18:17:55.264635+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Intercampus for Correio da Manhã, 7–14 August 2025 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2025-08-14-Intercampus.html#seats</link>
@@ -1569,6 +1599,6 @@
       <pubDate>Mon, 23 Sep 2024 19:51:27 +0200</pubDate>
       <dc:date>2024-09-23T19:51:27.949735+02:00</dc:date>
     </item>
-    <dc:date>2025-08-23T23:11:40.395101+02:00</dc:date>
+    <dc:date>2025-09-13T18:17:55.264635+02:00</dc:date>
   </channel>
 </rss>
