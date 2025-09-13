@@ -5,6 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | CDU | BE | PAN | L | PS | IL | A | PSD | CDS–PP | AD | CH |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 9 June 2024 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| [2–5 September 2025](2025-09-05-Aximage.html) | Aximage <br> Diário de Notícias | 2–5% <br> 0–1 | 1–4% <br> 0 | 1–3% <br> 0 | 5–9% <br> 1–2 | 20–27% <br> 5–7 | 4–8% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 23–30% <br> 5–7 | 23–31% <br> 5–7 |
 | [7–14 August 2025](2025-08-14-Intercampus.html) | Intercampus <br> Correio da Manhã | 1–3% <br> 0 | 2–4% <br> 0–1 | 2–5% <br> 0–1 | 4–8% <br> 1–2 | 23–30% <br> 5–7 | 6–11% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 25–33% <br> 6–8 | 19–26% <br> 4–6 |
 | [11–18 July 2025](2025-07-18-Intercampus.html) | Intercampus <br> Correio da Manhã | 3–6% <br> 0–1 | 2–5% <br> 0–1 | 2–5% <br> 0–1 | 8–13% <br> 1–3 | 20–27% <br> 5–7 | 5–10% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 23–30% <br> 5–7 | 17–24% <br> 4–6 |
 | [5–15 June 2025](2025-06-15-Intercampus.html) | Intercampus <br> Correio da Manhã | 2–5% <br> 0–1 | 1–3% <br> 0 | 3–6% <br> 0–1 | 5–10% <br> 1–2 | 19–25% <br> 4–6 | 6–11% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 26–34% <br> 6–8 | 19–25% <br> 4–6 |
