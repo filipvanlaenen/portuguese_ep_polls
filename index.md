@@ -5,8 +5,8 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | CDU | BE | PAN | L | PS | IL | A | PSD | CDS–PP | AD | CH |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 9 June 2024 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 1–5% <br> 0–1 | 2–4% <br> 0–1 | 1–5% <br> 0–1 | 4–9% <br> 1–2 | 21–30% <br> 5–7 | 5–10% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 23–32% <br> 5–8 | 19–30% <br> 4–7 |
-| [2–5 September 2025](2025-09-05-Aximage.html) | Aximage <br> Diário de Notícias | 2–5% <br> 0–1 | 1–4% <br> 0 | 1–3% <br> 0 | 5–9% <br> 1–2 | 20–27% <br> 5–7 | 4–8% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 23–30% <br> 5–7 | 23–31% <br> 5–7 |
+| N/A | [Poll Average](average.html) | 1–3% <br> 0 | 2–4% <br> 0–1 | 2–5% <br> 0–1 | 4–8% <br> 1–2 | 23–30% <br> 5–7 | 6–10% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 25–33% <br> 6–8 | 19–26% <br> 4–6 |
+| [23–27 October 2025](2025-10-27-Aximage.html) | Aximage <br> Diário de Notícias | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [7–14 August 2025](2025-08-14-Intercampus.html) | Intercampus <br> Correio da Manhã | 1–3% <br> 0 | 2–4% <br> 0–1 | 2–5% <br> 0–1 | 4–8% <br> 1–2 | 23–30% <br> 5–7 | 6–11% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 25–33% <br> 6–8 | 19–26% <br> 4–6 |
 | 9 June 2024 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
