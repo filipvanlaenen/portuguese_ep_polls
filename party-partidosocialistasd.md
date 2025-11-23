@@ -10,9 +10,11 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 24.7% | 22.2–27.4% | 21.6–28.1% | 21.0–28.7% | 19.9–30.0% |
+| N/A | [Poll Average](average.html) | 25.4% | 22.7–27.8% | 22.0–28.4% | 21.3–29.0% | 20.2–30.0% |
+| [5–14 November 2025](2025-11-14-Pitagórica.html) | Pitagórica <br> CNN Portugal, Jornal de Notícias, TSF and TVI | 26.4% | 24.7–28.2% | 24.2–28.8% | 23.8–29.2% | 22.9–30.1% |
 | [23–27 October 2025](2025-10-27-Aximage.html) | Aximage <br> Diário de Notícias | 23.9% | 21.7–26.3% | 21.1–26.9% | 20.5–27.5% | 19.5–28.7% |
 | [20–26 October 2025](2025-10-26-Intercampus.html) | Intercampus <br> Correio da Manhã | 25.5% | 23.3–28.0% | 22.7–28.7% | 22.1–29.3% | 21.1–30.5% |
+| [6–10 October 2025](2025-10-10-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 25.3% | N/A | N/A | N/A | N/A |
 | [2–5 September 2025](2025-09-05-Aximage.html) | Aximage <br> Diário de Notícias | 23.7% | 21.5–26.1% | 20.9–26.8% | 20.4–27.4% | 19.4–28.5% |
 | [7–14 August 2025](2025-08-14-Intercampus.html) | Intercampus <br> Correio da Manhã | 26.3% | 24.1–28.8% | 23.4–29.5% | 22.9–30.1% | 21.8–31.3% |
 | [11–18 July 2025](2025-07-18-Intercampus.html) | Intercampus <br> Correio da Manhã | 23.7% | 21.5–26.1% | 20.8–26.8% | 20.3–27.4% | 19.3–28.5% |
@@ -101,17 +103,17 @@ The following table shows the probability mass function per percentage block of 
 | 16.5–17.5% | 0% | 100% |  |
 | 17.5–18.5% | 0% | 100% |  |
 | 18.5–19.5% | 0.2% | 100% |  |
-| 19.5–20.5% | 1.1% | 99.7% |  |
-| 20.5–21.5% | 4% | 98.7% |  |
-| 21.5–22.5% | 8% | 95% |  |
-| 22.5–23.5% | 14% | 87% |  |
-| 23.5–24.5% | 19% | 73% |  |
-| 24.5–25.5% | 19% | 54% | Median |
-| 25.5–26.5% | 16% | 35% |  |
-| 26.5–27.5% | 10% | 19% |  |
-| 27.5–28.5% | 5% | 8% |  |
-| 28.5–29.5% | 2% | 3% |  |
-| 29.5–30.5% | 0.7% | 0.9% |  |
+| 19.5–20.5% | 0.7% | 99.8% |  |
+| 20.5–21.5% | 2% | 99.1% |  |
+| 21.5–22.5% | 6% | 97% |  |
+| 22.5–23.5% | 10% | 91% |  |
+| 23.5–24.5% | 15% | 81% |  |
+| 24.5–25.5% | 19% | 66% | Median |
+| 25.5–26.5% | 20% | 48% |  |
+| 26.5–27.5% | 15% | 28% |  |
+| 27.5–28.5% | 8% | 13% |  |
+| 28.5–29.5% | 3% | 4% |  |
+| 29.5–30.5% | 0.9% | 1.1% |  |
 | 30.5–31.5% | 0.2% | 0.2% |  |
 | 31.5–32.5% | 0% | 0% |  |
 
@@ -125,8 +127,10 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
+| [5–14 November 2025](2025-11-14-Pitagórica.html) | Pitagórica <br> CNN Portugal, Jornal de Notícias, TSF and TVI | 6 | 6–7 | 6–7 | 5–7 | 5–7 |
 | [23–27 October 2025](2025-10-27-Aximage.html) | Aximage <br> Diário de Notícias | 6 | 5–6 | 5–6 | 5–7 | 4–7 |
 | [20–26 October 2025](2025-10-26-Intercampus.html) | Intercampus <br> Correio da Manhã | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
+| [6–10 October 2025](2025-10-10-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI |  |  |  |  |  |
 | [2–5 September 2025](2025-09-05-Aximage.html) | Aximage <br> Diário de Notícias | 6 | 5–6 | 5–6 | 5–7 | 4–7 |
 | [7–14 August 2025](2025-08-14-Intercampus.html) | Intercampus <br> Correio da Manhã | 6 | 6–7 | 5–7 | 5–7 | 5–8 |
 | [11–18 July 2025](2025-07-18-Intercampus.html) | Intercampus <br> Correio da Manhã | 6 | 5–6 | 5–6 | 5–7 | 4–7 |
@@ -201,11 +205,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 0.4% | 100% |  |
-| 5 | 26% | 99.6% |  |
-| 6 | 67% | 73% | Median |
-| 7 | 6% | 6% |  |
-| 8 | 0.1% | 0.1% |  |
-| 9 | 0% | 0% |  |
+| 4 | 0.3% | 100% |  |
+| 5 | 19% | 99.7% |  |
+| 6 | 72% | 81% | Median |
+| 7 | 8% | 8% |  |
+| 8 | 0% | 0% |  |
 
 
