@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/portuguese_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 26 Nov 2025 20:08:50 +0100</pubDate>
+    <pubDate>Fri, 28 Nov 2025 19:46:27 +0100</pubDate>
     <item>
       <title>Opinion Poll by Intercampus for Correio da Manhã, 14–19 November 2025 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2025-11-19-Intercampus.html#seats</link>
@@ -134,20 +134,20 @@
       <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2025-10-10-Pitagórica.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Coligação Democrática Unitária (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Partido Socialista (S&amp;amp;D): 5–7 seats&lt;/li&gt;&lt;li&gt;Iniciativa Liberal (RE): 0–1 seats&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Chega (PfE): 4–6 seats&lt;/li&gt;&lt;li&gt;Bloco de Esquerda (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Aliança Democrática (EPP): 7–9 seats&lt;/li&gt;&lt;li&gt;LIVRE (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2025-10-10-Pitagórica-seats.png"
-        length="253961"
+        length="245506"
         type="image/png"/>
-      <pubDate>Wed, 26 Nov 2025 20:08:50 +0100</pubDate>
-      <dc:date>2025-11-26T20:08:50.811744+01:00</dc:date>
+      <pubDate>Fri, 28 Nov 2025 19:46:27 +0100</pubDate>
+      <dc:date>2025-11-28T19:46:27.533065+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Pitagórica for CNN Portugal and TVI, 6–10 October 2025 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2025-10-10-Pitagórica.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2025-10-10-Pitagórica-coalitions-seats.png"
-        length="171295"
+        length="166040"
         type="image/png"/>
-      <pubDate>Wed, 26 Nov 2025 20:08:50 +0100</pubDate>
-      <dc:date>2025-11-26T20:08:50.811744+01:00</dc:date>
+      <pubDate>Fri, 28 Nov 2025 19:46:27 +0100</pubDate>
+      <dc:date>2025-11-28T19:46:27.533065+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Pitagórica for CNN Portugal and TVI, 6–10 October 2025 – Voting Intentions</title>
@@ -156,8 +156,8 @@
       <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2025-10-10-Pitagórica.png"
         length="293246"
         type="image/png"/>
-      <pubDate>Wed, 26 Nov 2025 20:08:50 +0100</pubDate>
-      <dc:date>2025-11-26T20:08:50.811744+01:00</dc:date>
+      <pubDate>Fri, 28 Nov 2025 19:46:27 +0100</pubDate>
+      <dc:date>2025-11-28T19:46:27.533065+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Aximage for Diário de Notícias, 2–5 September 2025 – Seat Projections for the Parties</title>
@@ -1749,6 +1749,6 @@
       <pubDate>Mon, 23 Sep 2024 19:51:27 +0200</pubDate>
       <dc:date>2024-09-23T19:51:27.949735+02:00</dc:date>
     </item>
-    <dc:date>2025-11-26T20:08:50.811744+01:00</dc:date>
+    <dc:date>2025-11-28T19:46:27.533065+01:00</dc:date>
   </channel>
 </rss>
