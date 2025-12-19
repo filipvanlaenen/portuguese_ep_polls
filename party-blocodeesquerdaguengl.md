@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.3% | 0.6–2.3% | 0.5–2.7% | 0.4–2.9% | 0.3–3.5% |
+| N/A | [Poll Average](average.html) | 1.6% | 0.7–2.5% | 0.5–2.7% | 0.5–3.0% | 0.3–3.5% |
+| [4–12 December 2025](2025-12-12-CESOP–UCP.html) | CESOP–UCP <br> Público and RTP | 2.0% | 1.6–2.7% | 1.5–2.8% | 1.4–3.0% | 1.2–3.3% |
 | [14–19 November 2025](2025-11-19-Intercampus.html) | Intercampus <br> Correio da Manhã | 1.8% | 1.3–2.8% | 1.1–3.1% | 1.0–3.3% | 0.8–3.9% |
 | [5–14 November 2025](2025-11-14-Pitagórica.html) | Pitagórica <br> CNN Portugal, Jornal de Notícias, TSF and TVI | 0.7% | 0.5–1.2% | 0.4–1.3% | 0.3–1.4% | 0.2–1.7% |
 | [23–27 October 2025](2025-10-27-Aximage.html) | Aximage <br> Diário de Notícias | 1.2% | 0.8–2.1% | 0.7–2.3% | 0.6–2.5% | 0.4–3.0% |
@@ -84,10 +85,10 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 7% | 100% | Last Result |
-| 0.5–1.5% | 56% | 93% | Median |
-| 1.5–2.5% | 30% | 37% |  |
-| 2.5–3.5% | 6% | 6% |  |
+| 0.0–0.5% | 5% | 100% | Last Result |
+| 0.5–1.5% | 44% | 95% |  |
+| 1.5–2.5% | 42% | 51% | Median |
+| 2.5–3.5% | 8% | 9% |  |
 | 3.5–4.5% | 0.4% | 0.4% |  |
 | 4.5–5.5% | 0% | 0% |  |
 
@@ -101,6 +102,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [4–12 December 2025](2025-12-12-CESOP–UCP.html) | CESOP–UCP <br> Público and RTP | 0 | 0 | 0 | 0 | 0 |
 | [14–19 November 2025](2025-11-19-Intercampus.html) | Intercampus <br> Correio da Manhã | 0 | 0 | 0 | 0 | 0 |
 | [5–14 November 2025](2025-11-14-Pitagórica.html) | Pitagórica <br> CNN Portugal, Jornal de Notícias, TSF and TVI | 0 | 0 | 0 | 0 | 0 |
 | [23–27 October 2025](2025-10-27-Aximage.html) | Aximage <br> Diário de Notícias | 0 | 0 | 0 | 0 | 0 |
