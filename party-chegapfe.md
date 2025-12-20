@@ -10,9 +10,10 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 22.5% | 16.5–25.2% | 15.8–25.9% | 15.3–26.5% | 14.4–27.7% |
+| N/A | [Poll Average](average.html) | 23.0% | 16.7–25.4% | 16.0–26.1% | 15.4–26.7% | 14.5–27.8% |
 | [4–12 December 2025](2025-12-12-CESOP–UCP.html) | CESOP–UCP <br> Público and RTP | 23.9% | 22.3–25.5% | 21.9–26.0% | 21.5–26.4% | 20.8–27.2% |
 | [14–19 November 2025](2025-11-19-Intercampus.html) | Intercampus <br> Correio da Manhã | 23.7% | 21.5–26.1% | 20.8–26.8% | 20.3–27.4% | 19.3–28.6% |
+| [7–17 November 2025](2025-11-17-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 24.0% | 22.2–26.0% | 21.7–26.6% | 21.2–27.1% | 20.3–28.1% |
 | [5–14 November 2025](2025-11-14-Pitagórica.html) | Pitagórica <br> CNN Portugal, Jornal de Notícias, TSF and TVI | 16.7% | 15.3–18.3% | 14.9–18.7% | 14.5–19.1% | 13.9–19.9% |
 | [23–27 October 2025](2025-10-27-Aximage.html) | Aximage <br> Diário de Notícias | 21.9% | 19.8–24.3% | 19.2–24.9% | 18.7–25.5% | 17.8–26.7% |
 | [20–26 October 2025](2025-10-26-Intercampus.html) | Intercampus <br> Correio da Manhã | 24.5% | 22.3–26.9% | 21.7–27.6% | 21.1–28.2% | 20.1–29.4% |
@@ -98,23 +99,23 @@ The following table shows the probability mass function per percentage block of 
 | 9.5–10.5% | 0% | 100% |  |
 | 10.5–11.5% | 0% | 100% |  |
 | 11.5–12.5% | 0% | 100% |  |
-| 12.5–13.5% | 0.1% | 100% |  |
-| 13.5–14.5% | 0.6% | 99.9% |  |
-| 14.5–15.5% | 3% | 99.3% |  |
-| 15.5–16.5% | 7% | 96% |  |
-| 16.5–17.5% | 8% | 89% |  |
-| 17.5–18.5% | 5% | 81% |  |
-| 18.5–19.5% | 3% | 76% |  |
-| 19.5–20.5% | 4% | 73% |  |
-| 20.5–21.5% | 7% | 69% |  |
-| 21.5–22.5% | 12% | 62% |  |
-| 22.5–23.5% | 16% | 50% | Median |
-| 23.5–24.5% | 16% | 34% |  |
-| 24.5–25.5% | 11% | 18% |  |
-| 25.5–26.5% | 5% | 7% |  |
-| 26.5–27.5% | 2% | 2% |  |
-| 27.5–28.5% | 0.5% | 0.6% |  |
-| 28.5–29.5% | 0.1% | 0.1% |  |
+| 12.5–13.5% | 0% | 100% |  |
+| 13.5–14.5% | 0.5% | 100% |  |
+| 14.5–15.5% | 2% | 99.5% |  |
+| 15.5–16.5% | 6% | 97% |  |
+| 16.5–17.5% | 6% | 91% |  |
+| 17.5–18.5% | 4% | 85% |  |
+| 18.5–19.5% | 2% | 81% |  |
+| 19.5–20.5% | 3% | 79% |  |
+| 20.5–21.5% | 7% | 75% |  |
+| 21.5–22.5% | 12% | 69% |  |
+| 22.5–23.5% | 17% | 57% | Median |
+| 23.5–24.5% | 18% | 40% |  |
+| 24.5–25.5% | 13% | 22% |  |
+| 25.5–26.5% | 6% | 9% |  |
+| 26.5–27.5% | 2% | 3% |  |
+| 27.5–28.5% | 0.6% | 0.7% |  |
+| 28.5–29.5% | 0.1% | 0.2% |  |
 | 29.5–30.5% | 0% | 0% |  |
 
 
@@ -126,9 +127,10 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 4–6 | 3–6 | 3–6 | 3–7 |
+| N/A | [Poll Average](average.html) | 5 | 4–6 | 4–6 | 3–6 | 3–7 |
 | [4–12 December 2025](2025-12-12-CESOP–UCP.html) | CESOP–UCP <br> Público and RTP | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [14–19 November 2025](2025-11-19-Intercampus.html) | Intercampus <br> Correio da Manhã | 6 | 5–6 | 5–6 | 5–7 | 4–7 |
+| [7–17 November 2025](2025-11-17-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
 | [5–14 November 2025](2025-11-14-Pitagórica.html) | Pitagórica <br> CNN Portugal, Jornal de Notícias, TSF and TVI | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [23–27 October 2025](2025-10-27-Aximage.html) | Aximage <br> Diário de Notícias | 5 | 5–6 | 4–6 | 4–6 | 4–6 |
 | [20–26 October 2025](2025-10-26-Intercampus.html) | Intercampus <br> Correio da Manhã | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
@@ -206,10 +208,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 6% | 100% |  |
-| 4 | 21% | 94% |  |
-| 5 | 42% | 73% | Median |
-| 6 | 30% | 31% |  |
+| 3 | 5% | 100% |  |
+| 4 | 17% | 95% |  |
+| 5 | 43% | 78% | Median |
+| 6 | 34% | 35% |  |
 | 7 | 0.9% | 0.9% |  |
 | 8 | 0% | 0% |  |
 
