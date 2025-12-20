@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/portuguese_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 19 Dec 2025 17:21:04 +0100</pubDate>
+    <pubDate>Sat, 20 Dec 2025 22:50:00 +0100</pubDate>
     <item>
       <title>Opinion Poll by CESOP–UCP for Público and RTP, 4–12 December 2025 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2025-12-12-CESOP–UCP.html#seats</link>
@@ -68,6 +68,36 @@
         type="image/png"/>
       <pubDate>Wed, 26 Nov 2025 19:53:44 +0100</pubDate>
       <dc:date>2025-11-26T19:53:44.321134+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by ICS/ISCTE for Expresso and SIC Notícias, 7–17 November 2025 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2025-11-17-ICSISCTE.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Coligação Democrática Unitária (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Iniciativa Liberal (RE): 0–1 seats&lt;/li&gt;&lt;li&gt;Partido Socialista (S&amp;amp;D): 6–7 seats&lt;/li&gt;&lt;li&gt;Chega (PfE): 5–6 seats&lt;/li&gt;&lt;li&gt;Aliança Democrática (EPP): 6–8 seats&lt;/li&gt;&lt;li&gt;Bloco de Esquerda (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;LIVRE (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2025-11-17-ICSISCTE-seats.png"
+        length="228195"
+        type="image/png"/>
+      <pubDate>Sat, 20 Dec 2025 22:50:00 +0100</pubDate>
+      <dc:date>2025-12-20T22:50:00.085682+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by ICS/ISCTE for Expresso and SIC Notícias, 7–17 November 2025 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2025-11-17-ICSISCTE.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2025-11-17-ICSISCTE-coalitions-seats.png"
+        length="167928"
+        type="image/png"/>
+      <pubDate>Sat, 20 Dec 2025 22:50:00 +0100</pubDate>
+      <dc:date>2025-12-20T22:50:00.085682+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by ICS/ISCTE for Expresso and SIC Notícias, 7–17 November 2025 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2025-11-17-ICSISCTE.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Coligação Democrática Unitária (GUE/NGL): 2.0–4.4%&lt;/li&gt;&lt;li&gt;Iniciativa Liberal (RE): 2.8–5.5%&lt;/li&gt;&lt;li&gt;Partido Socialista (S&amp;amp;D): 25.0–31.2%&lt;/li&gt;&lt;li&gt;Chega (PfE): 21.2–27.1%&lt;/li&gt;&lt;li&gt;Aliança Democrática (EPP): 27.9–34.3%&lt;/li&gt;&lt;li&gt;Bloco de Esquerda (GUE/NGL): 1.2–3.2%&lt;/li&gt;&lt;li&gt;LIVRE (Greens/EFA): 2.0–4.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2025-11-17-ICSISCTE.png"
+        length="264249"
+        type="image/png"/>
+      <pubDate>Sat, 20 Dec 2025 22:50:00 +0100</pubDate>
+      <dc:date>2025-12-20T22:50:00.085682+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Pitagórica for CNN Portugal, Jornal de Notícias, TSF and TVI, 5–14 November 2025 – Seat Projections for the Parties</title>
@@ -1779,6 +1809,6 @@
       <pubDate>Mon, 23 Sep 2024 19:51:27 +0200</pubDate>
       <dc:date>2024-09-23T19:51:27.949735+02:00</dc:date>
     </item>
-    <dc:date>2025-12-19T17:21:04.861432+01:00</dc:date>
+    <dc:date>2025-12-20T22:50:00.085682+01:00</dc:date>
   </channel>
 </rss>
