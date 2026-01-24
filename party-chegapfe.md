@@ -10,8 +10,10 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 23.3% | 21.1–25.5% | 20.4–26.1% | 19.8–26.7% | 18.7–27.8% |
+| N/A | [Poll Average](average.html) | 23.6% | 21.2–25.9% | 20.5–26.6% | 19.9–27.2% | 18.7–28.4% |
+| [6–13 January 2026](2026-01-13-Intercampus.html) | Intercampus <br> Correio da Manhã | 25.1% | 23.1–27.2% | 22.5–27.8% | 22.1–28.3% | 21.1–29.4% |
 | [11–19 December 2025](2025-12-19-Pitagórica.html) | Pitagórica <br> CNN Portugal, Jornal de Notícias, TSF and TVI | 22.6% | 21.0–24.4% | 20.5–24.9% | 20.1–25.3% | 19.3–26.2% |
+| [12–16 December 2025](2025-12-16-Intercampus.html) | Intercampus <br> Correio da Manhã | 23.4% | 21.3–25.8% | 20.7–26.5% | 20.1–27.1% | 19.2–28.2% |
 | [4–12 December 2025](2025-12-12-CESOP–UCP.html) | CESOP–UCP <br> Público and RTP | 23.9% | 22.3–25.5% | 21.9–26.0% | 21.5–26.4% | 20.8–27.2% |
 | [14–19 November 2025](2025-11-19-Intercampus.html) | Intercampus <br> Correio da Manhã | 23.7% | 21.5–26.1% | 20.8–26.8% | 20.3–27.4% | 19.3–28.6% |
 | [7–17 November 2025](2025-11-17-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 24.0% | 22.2–26.0% | 21.7–26.6% | 21.2–27.1% | 20.3–28.1% |
@@ -106,18 +108,19 @@ The following table shows the probability mass function per percentage block of 
 | 15.5–16.5% | 0% | 100% |  |
 | 16.5–17.5% | 0.1% | 100% |  |
 | 17.5–18.5% | 0.3% | 99.9% |  |
-| 18.5–19.5% | 1.4% | 99.6% |  |
+| 18.5–19.5% | 1.3% | 99.6% |  |
 | 19.5–20.5% | 4% | 98% |  |
-| 20.5–21.5% | 10% | 94% |  |
-| 21.5–22.5% | 17% | 84% |  |
-| 22.5–23.5% | 22% | 67% | Median |
-| 23.5–24.5% | 21% | 45% |  |
-| 24.5–25.5% | 14% | 23% |  |
-| 25.5–26.5% | 6% | 9% |  |
-| 26.5–27.5% | 2% | 3% |  |
-| 27.5–28.5% | 0.6% | 0.7% |  |
-| 28.5–29.5% | 0.1% | 0.2% |  |
-| 29.5–30.5% | 0% | 0% |  |
+| 20.5–21.5% | 8% | 95% |  |
+| 21.5–22.5% | 15% | 86% |  |
+| 22.5–23.5% | 21% | 71% |  |
+| 23.5–24.5% | 21% | 51% | Median |
+| 24.5–25.5% | 15% | 29% |  |
+| 25.5–26.5% | 9% | 14% |  |
+| 26.5–27.5% | 4% | 5% |  |
+| 27.5–28.5% | 1.2% | 2% |  |
+| 28.5–29.5% | 0.3% | 0.4% |  |
+| 29.5–30.5% | 0.1% | 0.1% |  |
+| 30.5–31.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -129,7 +132,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 5–6 | 5–6 | 5–6 | 4–7 |
+| [6–13 January 2026](2026-01-13-Intercampus.html) | Intercampus <br> Correio da Manhã | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
 | [11–19 December 2025](2025-12-19-Pitagórica.html) | Pitagórica <br> CNN Portugal, Jornal de Notícias, TSF and TVI | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
+| [12–16 December 2025](2025-12-16-Intercampus.html) | Intercampus <br> Correio da Manhã | 5 | 5–6 | 5–6 | 5–6 | 4–7 |
 | [4–12 December 2025](2025-12-12-CESOP–UCP.html) | CESOP–UCP <br> Público and RTP | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [14–19 November 2025](2025-11-19-Intercampus.html) | Intercampus <br> Correio da Manhã | 6 | 5–6 | 5–6 | 5–7 | 4–7 |
 | [7–17 November 2025](2025-11-17-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
@@ -212,9 +217,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 2% | 100% |  |
-| 5 | 58% | 98% | Median |
-| 6 | 39% | 39% |  |
-| 7 | 0.9% | 0.9% |  |
+| 5 | 53% | 98% | Median |
+| 6 | 43% | 45% |  |
+| 7 | 2% | 2% |  |
 | 8 | 0% | 0% |  |
 
 
