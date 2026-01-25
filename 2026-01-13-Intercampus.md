@@ -36,7 +36,7 @@
 | <a href="#partido-socialista-(s&d)">Partido Socialista (S&D)</a> | 0 | 5 | 5–6 |5–6 |5–6 |4–7 |
 | <a href="#iniciativa-liberal-(re)">Iniciativa Liberal (RE)</a> | 0 | 2 | 2 |1–2 |1–2 |1–3 |
 | <a href="#livre-(greens/efa)">LIVRE (Greens/EFA)</a> | 0 | 1 | 1–2 |1–2 |1–2 |1–2 |
-| <a href="#coligação-democrática-unitária-(gue/ngl)">Coligação Democrática Unitária (GUE/NGL)</a> | 0 | 0 | 0 |0 |0 |0 |
+| <a href="#coligação-democrática-unitária-(gue/ngl)">Coligação Democrática Unitária (GUE/NGL)</a> | 0 | 0 | 0 |0 |0 |0–1 |
 | <a href="#bloco-de-esquerda-(gue/ngl)">Bloco de Esquerda (GUE/NGL)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#pessoas–animais–natureza-(greens/efa)">Pessoas–Animais–Natureza (Greens/EFA)</a> | 0 | 0 | 0 |0 |0 |0 |
 
@@ -55,7 +55,7 @@
 | 4 | 0% | 100% |  |
 | 5 | 5% | 100% |  |
 | 6 | 69% | 95% | Median |
-| 7 | 25% | 26% |  |
+| 7 | 26% | 26% |  |
 | 8 | 0.2% | 0.2% |  |
 | 9 | 0% | 0% |  |
 
@@ -90,9 +90,9 @@
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0.8% | 100% |  |
-| 5 | 54% | 99.2% | Median |
-| 6 | 45% | 46% |  |
-| 7 | 0.7% | 0.7% |  |
+| 5 | 55% | 99.2% | Median |
+| 6 | 43% | 44% |  |
+| 7 | 0.8% | 0.8% |  |
 | 8 | 0% | 0% |  |
 
 ### Iniciativa Liberal (RE)
@@ -104,8 +104,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 7% | 100% |  |
-| 2 | 91% | 93% | Median |
+| 1 | 6% | 100% |  |
+| 2 | 91% | 94% | Median |
 | 3 | 2% | 2% |  |
 | 4 | 0% | 0% |  |
 
@@ -197,9 +197,9 @@
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0.8% | 100% |  |
-| 5 | 54% | 99.2% | Median |
-| 6 | 45% | 46% |  |
-| 7 | 0.7% | 0.7% |  |
+| 5 | 55% | 99.2% | Median |
+| 6 | 43% | 44% |  |
+| 7 | 0.8% | 0.8% |  |
 | 8 | 0% | 0% |  |
 
 ### LIVRE (Greens/EFA) – Pessoas–Animais–Natureza (Greens/EFA)
@@ -235,6 +235,6 @@
 ### Calculations
 
 + **Sample size:** 734
-+ **Simulations done:** 1,048,576
-+ **Error estimate:** 1.63%
++ **Simulations done:** 2,097,152
++ **Error estimate:** 1.43%
 
