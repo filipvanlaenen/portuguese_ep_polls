@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/portuguese_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 25 Jan 2026 00:08:46 +0100</pubDate>
+    <pubDate>Sun, 25 Jan 2026 21:25:14 +0100</pubDate>
     <item>
       <title>Opinion Poll by Intercampus for Correio da Manhã, 6–13 January 2026 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2026-01-13-Intercampus.html#seats</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2026-01-13-Intercampus-seats.png"
         length="238846"
         type="image/png"/>
-      <pubDate>Sat, 24 Jan 2026 22:36:16 +0100</pubDate>
-      <dc:date>2026-01-24T22:36:16.472066+01:00</dc:date>
+      <pubDate>Sun, 25 Jan 2026 20:06:33 +0100</pubDate>
+      <dc:date>2026-01-25T20:06:33.626386+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Intercampus for Correio da Manhã, 6–13 January 2026 – Seat Projections for a Selection of Coalitions</title>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2026-01-13-Intercampus-coalitions-seats.png"
         length="156768"
         type="image/png"/>
-      <pubDate>Sat, 24 Jan 2026 22:36:16 +0100</pubDate>
-      <dc:date>2026-01-24T22:36:16.472066+01:00</dc:date>
+      <pubDate>Sun, 25 Jan 2026 20:06:33 +0100</pubDate>
+      <dc:date>2026-01-25T20:06:33.626386+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Intercampus for Correio da Manhã, 6–13 January 2026 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2026-01-13-Intercampus.png"
         length="301226"
         type="image/png"/>
-      <pubDate>Sat, 24 Jan 2026 22:36:16 +0100</pubDate>
-      <dc:date>2026-01-24T22:36:16.472066+01:00</dc:date>
+      <pubDate>Sun, 25 Jan 2026 20:06:33 +0100</pubDate>
+      <dc:date>2026-01-25T20:06:33.626386+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Pitagórica for CNN Portugal, Jornal de Notícias, TSF and TVI, 11–19 December 2025 – Seat Projections for the Parties</title>
@@ -76,8 +76,8 @@
       <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2025-12-16-Intercampus-seats.png"
         length="242238"
         type="image/png"/>
-      <pubDate>Sun, 25 Jan 2026 00:08:46 +0100</pubDate>
-      <dc:date>2026-01-25T00:08:46.632083+01:00</dc:date>
+      <pubDate>Sun, 25 Jan 2026 21:25:14 +0100</pubDate>
+      <dc:date>2026-01-25T21:25:14.471142+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Intercampus for Correio da Manhã, 12–16 December 2025 – Seat Projections for a Selection of Coalitions</title>
@@ -86,8 +86,8 @@
       <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2025-12-16-Intercampus-coalitions-seats.png"
         length="168558"
         type="image/png"/>
-      <pubDate>Sun, 25 Jan 2026 00:08:46 +0100</pubDate>
-      <dc:date>2026-01-25T00:08:46.632083+01:00</dc:date>
+      <pubDate>Sun, 25 Jan 2026 21:25:14 +0100</pubDate>
+      <dc:date>2026-01-25T21:25:14.471142+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Intercampus for Correio da Manhã, 12–16 December 2025 – Voting Intentions</title>
@@ -96,8 +96,8 @@
       <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2025-12-16-Intercampus.png"
         length="315838"
         type="image/png"/>
-      <pubDate>Sun, 25 Jan 2026 00:08:46 +0100</pubDate>
-      <dc:date>2026-01-25T00:08:46.632083+01:00</dc:date>
+      <pubDate>Sun, 25 Jan 2026 21:25:14 +0100</pubDate>
+      <dc:date>2026-01-25T21:25:14.471142+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by CESOP–UCP for Público and RTP, 4–12 December 2025 – Seat Projections for the Parties</title>
@@ -1899,6 +1899,6 @@
       <pubDate>Mon, 23 Sep 2024 19:51:27 +0200</pubDate>
       <dc:date>2024-09-23T19:51:27.949735+02:00</dc:date>
     </item>
-    <dc:date>2026-01-25T00:08:46.632083+01:00</dc:date>
+    <dc:date>2026-01-25T21:25:14.471142+01:00</dc:date>
   </channel>
 </rss>
