@@ -10,9 +10,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 23.6% | 20.8–26.3% | 20.1–27.0% | 19.5–27.6% | 18.4–28.7% |
+| N/A | [Poll Average](average.html) | 23.7% | 20.8–26.3% | 20.0–27.0% | 19.4–27.6% | 18.2–28.7% |
 | [10–15 April 2026](2026-04-15-Aximage.html) | Aximage <br> Diário de Notícias | 23.6% | 21.3–26.2% | 20.6–26.9% | 20.1–27.5% | 19.0–28.8% |
-| [8–14 April 2026](2026-04-14-Intercampus.html) | Intercampus <br> Correio da Manhã | 21.9% | 19.8–24.1% | 19.3–24.8% | 18.8–25.3% | 17.8–26.5% |
+| [8–14 April 2026](2026-04-14-Intercampus.html) | Intercampus <br> Correio da Manhã | 21.9% | 19.8–24.4% | 19.1–25.1% | 18.6–25.7% | 17.6–26.9% |
 | [27 February–8 March 2026](2026-03-08-ICS-ISCTE.html) | ICS-ISCTE <br> Expresso and SIC Notícias | 25.0% | 23.1–27.0% | 22.5–27.6% | 22.1–28.1% | 21.2–29.1% |
 | [2–3 March 2026](2026-03-03-Aximage.html) | Aximage <br> Diário de Notícias | 25.8% | 23.5–28.3% | 22.8–29.0% | 22.3–29.6% | 21.2–30.8% |
 | [6–13 January 2026](2026-01-13-Intercampus.html) | Intercampus <br> Correio da Manhã | 25.1% | 23.1–27.2% | 22.5–27.8% | 22.1–28.3% | 21.1–29.4% |
@@ -111,15 +111,15 @@ The following table shows the probability mass function per percentage block of 
 | 14.5–15.5% | 0% | 100% |  |
 | 15.5–16.5% | 0% | 100% |  |
 | 16.5–17.5% | 0.1% | 100% |  |
-| 17.5–18.5% | 0.6% | 99.9% |  |
-| 18.5–19.5% | 2% | 99.3% |  |
+| 17.5–18.5% | 0.7% | 99.8% |  |
+| 18.5–19.5% | 2% | 99.2% |  |
 | 19.5–20.5% | 5% | 97% |  |
 | 20.5–21.5% | 10% | 92% |  |
 | 21.5–22.5% | 14% | 82% |  |
-| 22.5–23.5% | 17% | 68% |  |
-| 23.5–24.5% | 18% | 51% | Median |
-| 24.5–25.5% | 15% | 33% |  |
-| 25.5–26.5% | 10% | 18% |  |
+| 22.5–23.5% | 16% | 68% |  |
+| 23.5–24.5% | 18% | 52% | Median |
+| 24.5–25.5% | 15% | 34% |  |
+| 25.5–26.5% | 11% | 19% |  |
 | 26.5–27.5% | 5% | 8% |  |
 | 27.5–28.5% | 2% | 3% |  |
 | 28.5–29.5% | 0.5% | 0.6% |  |
@@ -225,8 +225,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 4% | 100% |  |
-| 5 | 51% | 96% | Median |
-| 6 | 43% | 45% |  |
+| 5 | 50% | 96% | Median |
+| 6 | 44% | 46% |  |
 | 7 | 2% | 2% |  |
 | 8 | 0% | 0% |  |
 
