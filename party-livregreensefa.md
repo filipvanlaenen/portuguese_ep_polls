@@ -10,10 +10,12 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.7% | 2.8–6.7% | 2.5–7.2% | 2.3–7.7% | 1.9–8.5% |
+| N/A | [Poll Average](average.html) | 4.8% | 2.8–7.3% | 2.5–7.9% | 2.3–8.4% | 1.9–9.3% |
+| [10–16 June 2026](2026-06-16-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã, Negócios and News Now | 6.6% | 5.4–8.2% | 5.1–8.7% | 4.8–9.1% | 4.3–9.9% |
 | [15–24 May 2026](2026-05-24-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 3.0% | 2.3–3.9% | 2.2–4.2% | 2.0–4.4% | 1.7–4.9% |
 | [18–19 May 2026](2026-05-19-Aximage.html) | Aximage <br> Diário de Notícias | 4.8% | 3.7–6.2% | 3.4–6.6% | 3.2–7.0% | 2.8–7.7% |
 | [8–14 May 2026](2026-05-14-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã, Negócios and News Now | 5.9% | 4.8–7.4% | 4.5–7.8% | 4.2–8.2% | 3.7–9.0% |
+| [6–7 May 2026](2026-05-07-Aximage.html) | Aximage <br> Folha Nacional | 3.6% | N/A | N/A | N/A | N/A |
 | [10–15 April 2026](2026-04-15-Aximage.html) | Aximage <br> Diário de Notícias | 5.8% | 4.7–7.4% | 4.3–7.8% | 4.1–8.2% | 3.6–9.0% |
 | [8–14 April 2026](2026-04-14-Intercampus.html) | Intercampus <br> Correio da Manhã | 6.0% | 4.9–7.6% | 4.6–8.0% | 4.3–8.4% | 3.8–9.2% |
 | [27 February–8 March 2026](2026-03-08-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 2.0% | 1.5–2.8% | 1.3–3.0% | 1.2–3.2% | 1.0–3.7% |
@@ -100,13 +102,13 @@ The following table shows the probability mass function per percentage block of 
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 6% | 100% |  |
 | 2.5–3.5% | 22% | 94% |  |
-| 3.5–4.5% | 19% | 72% |  |
-| 4.5–5.5% | 22% | 53% | Median |
-| 5.5–6.5% | 19% | 31% |  |
-| 6.5–7.5% | 9% | 12% |  |
-| 7.5–8.5% | 3% | 3% |  |
-| 8.5–9.5% | 0.4% | 0.5% |  |
-| 9.5–10.5% | 0% | 0% |  |
+| 3.5–4.5% | 17% | 72% |  |
+| 4.5–5.5% | 17% | 54% | Median |
+| 5.5–6.5% | 17% | 37% |  |
+| 6.5–7.5% | 13% | 20% |  |
+| 7.5–8.5% | 6% | 8% |  |
+| 8.5–9.5% | 2% | 2% |  |
+| 9.5–10.5% | 0.3% | 0.3% |  |
 | 10.5–11.5% | 0% | 0% |  |
 
 
@@ -118,10 +120,12 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| N/A | [Poll Average](average.html) | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
+| [10–16 June 2026](2026-06-16-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã, Negócios and News Now | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [15–24 May 2026](2026-05-24-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [18–19 May 2026](2026-05-19-Aximage.html) | Aximage <br> Diário de Notícias | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [8–14 May 2026](2026-05-14-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã, Negócios and News Now | 1 | 1 | 1 | 1–2 | 0–2 |
+| [6–7 May 2026](2026-05-07-Aximage.html) | Aximage <br> Folha Nacional |  |  |  |  |  |
 | [10–15 April 2026](2026-04-15-Aximage.html) | Aximage <br> Diário de Notícias | 1 | 1 | 1 | 1–2 | 0–2 |
 | [8–14 April 2026](2026-04-14-Intercampus.html) | Intercampus <br> Correio da Manhã | 1 | 1 | 1–2 | 1–2 | 0–2 |
 | [27 February–8 March 2026](2026-03-08-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 0 | 0 | 0 | 0 | 0 |
@@ -206,9 +210,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 36% | 100% | Last Result |
-| 1 | 62% | 64% | Median |
-| 2 | 2% | 2% |  |
+| 0 | 35% | 100% | Last Result |
+| 1 | 58% | 65% | Median |
+| 2 | 7% | 7% |  |
 | 3 | 0% | 0% |  |
 
 

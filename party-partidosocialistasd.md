@@ -10,10 +10,12 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 30.7% | 25.5–34.7% | 24.6–35.7% | 23.8–36.6% | 22.5–38.2% |
+| N/A | [Poll Average](average.html) | 30.9% | 26.9–34.7% | 26.0–35.7% | 25.2–36.6% | 23.9–38.2% |
+| [10–16 June 2026](2026-06-16-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã, Negócios and News Now | 27.9% | 25.5–30.5% | 24.8–31.3% | 24.3–31.9% | 23.2–33.2% |
 | [15–24 May 2026](2026-05-24-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 31.0% | 29.0–33.2% | 28.4–33.8% | 27.9–34.3% | 26.9–35.3% |
 | [18–19 May 2026](2026-05-19-Aximage.html) | Aximage <br> Diário de Notícias | 33.5% | 30.8–36.2% | 30.1–37.0% | 29.5–37.7% | 28.3–39.0% |
 | [8–14 May 2026](2026-05-14-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã, Negócios and News Now | 26.4% | 24.1–29.0% | 23.4–29.7% | 22.9–30.3% | 21.8–31.6% |
+| [6–7 May 2026](2026-05-07-Aximage.html) | Aximage <br> Folha Nacional | 31.0% | N/A | N/A | N/A | N/A |
 | [10–15 April 2026](2026-04-15-Aximage.html) | Aximage <br> Diário de Notícias | 30.6% | 28.0–33.3% | 27.3–34.1% | 26.7–34.8% | 25.5–36.1% |
 | [8–14 April 2026](2026-04-14-Intercampus.html) | Intercampus <br> Correio da Manhã | 26.8% | 24.5–29.4% | 23.8–30.1% | 23.2–30.8% | 22.1–32.1% |
 | [27 February–8 March 2026](2026-03-08-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 29.0% | 27.0–31.1% | 26.4–31.7% | 25.9–32.2% | 25.0–33.2% |
@@ -117,18 +119,18 @@ The following table shows the probability mass function per percentage block of 
 | 17.5–18.5% | 0% | 100% |  |
 | 18.5–19.5% | 0% | 100% |  |
 | 19.5–20.5% | 0% | 100% |  |
-| 20.5–21.5% | 0.1% | 100% |  |
-| 21.5–22.5% | 0.4% | 99.9% |  |
-| 22.5–23.5% | 1.3% | 99.5% |  |
-| 23.5–24.5% | 3% | 98% |  |
-| 24.5–25.5% | 5% | 95% |  |
-| 25.5–26.5% | 7% | 90% |  |
-| 26.5–27.5% | 7% | 83% |  |
-| 27.5–28.5% | 7% | 76% |  |
-| 28.5–29.5% | 7% | 69% |  |
-| 29.5–30.5% | 10% | 62% |  |
-| 30.5–31.5% | 12% | 52% | Median |
-| 31.5–32.5% | 12% | 40% |  |
+| 20.5–21.5% | 0% | 100% |  |
+| 21.5–22.5% | 0.1% | 100% |  |
+| 22.5–23.5% | 0.2% | 99.9% |  |
+| 23.5–24.5% | 0.9% | 99.7% |  |
+| 24.5–25.5% | 2% | 98.8% |  |
+| 25.5–26.5% | 4% | 97% |  |
+| 26.5–27.5% | 7% | 92% |  |
+| 27.5–28.5% | 8% | 86% |  |
+| 28.5–29.5% | 10% | 77% |  |
+| 29.5–30.5% | 12% | 67% |  |
+| 30.5–31.5% | 13% | 55% | Median |
+| 31.5–32.5% | 13% | 41% |  |
 | 32.5–33.5% | 10% | 29% |  |
 | 33.5–34.5% | 8% | 19% |  |
 | 34.5–35.5% | 5% | 11% |  |
@@ -148,10 +150,12 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 6–8 | 6–8 | 5–9 | 5–9 |
+| N/A | [Poll Average](average.html) | 7 | 6–8 | 6–8 | 6–9 | 6–9 |
+| [10–16 June 2026](2026-06-16-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã, Negócios and News Now | 7 | 6–7 | 6–8 | 6–8 | 5–8 |
 | [15–24 May 2026](2026-05-24-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 7 | 7–8 | 7–8 | 7–8 | 6–9 |
 | [18–19 May 2026](2026-05-19-Aximage.html) | Aximage <br> Diário de Notícias | 8 | 7–9 | 7–9 | 7–9 | 6–9 |
 | [8–14 May 2026](2026-05-14-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã, Negócios and News Now | 6 | 6–7 | 5–7 | 5–7 | 5–8 |
+| [6–7 May 2026](2026-05-07-Aximage.html) | Aximage <br> Folha Nacional |  |  |  |  |  |
 | [10–15 April 2026](2026-04-15-Aximage.html) | Aximage <br> Diário de Notícias | 7 | 7–8 | 6–8 | 6–8 | 6–9 |
 | [8–14 April 2026](2026-04-14-Intercampus.html) | Intercampus <br> Correio da Manhã | 6 | 6–7 | 6–7 | 5–7 | 5–8 |
 | [27 February–8 March 2026](2026-03-08-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 7 | 6–7 | 6–8 | 6–8 | 6–8 |
@@ -241,10 +245,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
-| 5 | 3% | 100% |  |
-| 6 | 21% | 97% |  |
-| 7 | 33% | 76% | Median |
-| 8 | 38% | 42% |  |
+| 5 | 0.4% | 100% |  |
+| 6 | 12% | 99.6% |  |
+| 7 | 42% | 88% | Median |
+| 8 | 40% | 45% |  |
 | 9 | 5% | 5% |  |
 | 10 | 0.1% | 0.1% |  |
 | 11 | 0% | 0% | Majority |
