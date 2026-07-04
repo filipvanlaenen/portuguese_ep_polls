@@ -10,8 +10,10 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 30.9% | 26.9–34.7% | 26.0–35.7% | 25.2–36.6% | 23.9–38.2% |
+| N/A | [Poll Average](average.html) | 29.6% | 26.5–32.4% | 25.7–33.1% | 25.0–33.7% | 23.8–34.9% |
+| [24–25 June 2026](2026-06-25-Aximage.html) | Aximage <br> Diário de Notícias | 29.4% | 26.9–32.1% | 26.2–32.9% | 25.6–33.5% | 24.4–34.9% |
 | [10–16 June 2026](2026-06-16-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã, Negócios and News Now | 27.9% | 25.5–30.5% | 24.8–31.3% | 24.3–31.9% | 23.2–33.2% |
+| [9–13 June 2026](2026-06-13-Aximage.html) | Aximage <br> Folha Nacional | 29.5% | N/A | N/A | N/A | N/A |
 | [15–24 May 2026](2026-05-24-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 31.0% | 29.0–33.2% | 28.4–33.8% | 27.9–34.3% | 26.9–35.3% |
 | [18–19 May 2026](2026-05-19-Aximage.html) | Aximage <br> Diário de Notícias | 33.5% | 30.8–36.2% | 30.1–37.0% | 29.5–37.7% | 28.3–39.0% |
 | [8–14 May 2026](2026-05-14-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã, Negócios and News Now | 26.4% | 24.1–29.0% | 23.4–29.7% | 22.9–30.3% | 21.8–31.6% |
@@ -121,25 +123,21 @@ The following table shows the probability mass function per percentage block of 
 | 19.5–20.5% | 0% | 100% |  |
 | 20.5–21.5% | 0% | 100% |  |
 | 21.5–22.5% | 0.1% | 100% |  |
-| 22.5–23.5% | 0.2% | 99.9% |  |
-| 23.5–24.5% | 0.9% | 99.7% |  |
-| 24.5–25.5% | 2% | 98.8% |  |
-| 25.5–26.5% | 4% | 97% |  |
-| 26.5–27.5% | 7% | 92% |  |
-| 27.5–28.5% | 8% | 86% |  |
-| 28.5–29.5% | 10% | 77% |  |
-| 29.5–30.5% | 12% | 67% |  |
-| 30.5–31.5% | 13% | 55% | Median |
-| 31.5–32.5% | 13% | 41% |  |
-| 32.5–33.5% | 10% | 29% |  |
-| 33.5–34.5% | 8% | 19% |  |
-| 34.5–35.5% | 5% | 11% |  |
-| 35.5–36.5% | 3% | 6% |  |
-| 36.5–37.5% | 2% | 3% |  |
-| 37.5–38.5% | 0.7% | 1.0% |  |
-| 38.5–39.5% | 0.2% | 0.3% |  |
-| 39.5–40.5% | 0.1% | 0.1% |  |
-| 40.5–41.5% | 0% | 0% |  |
+| 22.5–23.5% | 0.3% | 99.9% |  |
+| 23.5–24.5% | 1.0% | 99.7% |  |
+| 24.5–25.5% | 3% | 98.6% |  |
+| 25.5–26.5% | 6% | 96% |  |
+| 26.5–27.5% | 10% | 90% |  |
+| 27.5–28.5% | 13% | 80% |  |
+| 28.5–29.5% | 16% | 67% |  |
+| 29.5–30.5% | 17% | 50% | Median |
+| 30.5–31.5% | 15% | 34% |  |
+| 31.5–32.5% | 10% | 19% |  |
+| 32.5–33.5% | 5% | 9% |  |
+| 33.5–34.5% | 2% | 3% |  |
+| 34.5–35.5% | 0.7% | 0.8% |  |
+| 35.5–36.5% | 0.2% | 0.2% |  |
+| 36.5–37.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -150,8 +148,10 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 6–8 | 6–8 | 6–9 | 6–9 |
+| N/A | [Poll Average](average.html) | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
+| [24–25 June 2026](2026-06-25-Aximage.html) | Aximage <br> Diário de Notícias | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
 | [10–16 June 2026](2026-06-16-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã, Negócios and News Now | 7 | 6–7 | 6–8 | 6–8 | 5–8 |
+| [9–13 June 2026](2026-06-13-Aximage.html) | Aximage <br> Folha Nacional |  |  |  |  |  |
 | [15–24 May 2026](2026-05-24-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 7 | 7–8 | 7–8 | 7–8 | 6–9 |
 | [18–19 May 2026](2026-05-19-Aximage.html) | Aximage <br> Diário de Notícias | 8 | 7–9 | 7–9 | 7–9 | 6–9 |
 | [8–14 May 2026](2026-05-14-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã, Negócios and News Now | 6 | 6–7 | 5–7 | 5–7 | 5–8 |
@@ -245,12 +245,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
-| 5 | 0.4% | 100% |  |
-| 6 | 12% | 99.6% |  |
-| 7 | 42% | 88% | Median |
-| 8 | 40% | 45% |  |
-| 9 | 5% | 5% |  |
-| 10 | 0.1% | 0.1% |  |
-| 11 | 0% | 0% | Majority |
+| 5 | 0.5% | 100% |  |
+| 6 | 19% | 99.5% |  |
+| 7 | 56% | 80% | Median |
+| 8 | 24% | 24% |  |
+| 9 | 0.6% | 0.6% |  |
+| 10 | 0% | 0% |  |
 
 
