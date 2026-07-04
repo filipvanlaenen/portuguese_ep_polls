@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/portuguese_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Tue, 23 Jun 2026 16:42:18 +0200</pubDate>
+    <pubDate>Sat, 04 Jul 2026 18:15:42 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Aximage for Diário de Notícias, 24–25 June 2026 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2026-06-25-Aximage.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Socialista (S&amp;amp;D): 6–8 seats&lt;/li&gt;&lt;li&gt;Iniciativa Liberal (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Chega (PfE): 5–6 seats&lt;/li&gt;&lt;li&gt;Aliança Democrática (EPP): 5–7 seats&lt;/li&gt;&lt;li&gt;Bloco de Esquerda (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;LIVRE (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2026-06-25-Aximage-seats.png"
+        length="219676"
+        type="image/png"/>
+      <pubDate>Sat, 04 Jul 2026 18:15:42 +0200</pubDate>
+      <dc:date>2026-07-04T18:15:42.781032+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Aximage for Diário de Notícias, 24–25 June 2026 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2026-06-25-Aximage.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2026-06-25-Aximage-coalitions-seats.png"
+        length="145137"
+        type="image/png"/>
+      <pubDate>Sat, 04 Jul 2026 18:15:42 +0200</pubDate>
+      <dc:date>2026-07-04T18:15:42.781032+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Aximage for Diário de Notícias, 24–25 June 2026 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2026-06-25-Aximage.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Socialista (S&amp;amp;D): 25.6–33.5%&lt;/li&gt;&lt;li&gt;Iniciativa Liberal (RE): 4.7–9.1%&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária (GUE/NGL): 0.8–3.1%&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza (Greens/EFA): 1.2–3.9%&lt;/li&gt;&lt;li&gt;Chega (PfE): 20.1–27.5%&lt;/li&gt;&lt;li&gt;Aliança Democrática (EPP): 21.8–29.4%&lt;/li&gt;&lt;li&gt;Bloco de Esquerda (GUE/NGL): 0.8–3.1%&lt;/li&gt;&lt;li&gt;LIVRE (Greens/EFA): 4.1–8.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2026-06-25-Aximage.png"
+        length="307839"
+        type="image/png"/>
+      <pubDate>Sat, 04 Jul 2026 18:15:42 +0200</pubDate>
+      <dc:date>2026-07-04T18:15:42.781032+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Intercampus for CMTV, Correio da Manhã, Negócios and News Now, 10–16 June 2026 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2026-06-16-Intercampus.html#seats</link>
@@ -2139,6 +2169,6 @@
       <pubDate>Mon, 23 Sep 2024 19:51:27 +0200</pubDate>
       <dc:date>2024-09-23T19:51:27.949735+02:00</dc:date>
     </item>
-    <dc:date>2026-06-23T16:42:18.032749+02:00</dc:date>
+    <dc:date>2026-07-04T18:15:42.781032+02:00</dc:date>
   </channel>
 </rss>
