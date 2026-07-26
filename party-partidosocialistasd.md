@@ -10,7 +10,10 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 29.6% | 26.5–32.4% | 25.7–33.1% | 25.0–33.7% | 23.8–34.9% |
+| N/A | [Poll Average](average.html) | 29.1% | 25.9–32.0% | 24.9–32.7% | 24.2–33.4% | 22.8–34.6% |
+| [20–21 July 2026](2026-07-21-Aximage.html) | Aximage <br> Diário de Notícias | 29.1% | 26.6–31.8% | 25.9–32.6% | 25.3–33.3% | 24.2–34.6% |
+| [9–14 July 2026](2026-07-14-Intercampus.html) | Intercampus <br> News Now | 26.6% | 24.2–29.2% | 23.6–29.9% | 23.0–30.5% | 21.9–31.8% |
+| [6–10 July 2026](2026-07-10-CESOP–UCP.html) | CESOP–UCP <br> Antena 1, Público and RTP | 28.9% | 27.1–30.8% | 26.6–31.4% | 26.2–31.8% | 25.3–32.7% |
 | [24–25 June 2026](2026-06-25-Aximage.html) | Aximage <br> Diário de Notícias | 29.4% | 26.9–32.1% | 26.2–32.9% | 25.6–33.5% | 24.4–34.9% |
 | [10–16 June 2026](2026-06-16-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã, Negócios and News Now | 27.9% | 25.5–30.5% | 24.8–31.3% | 24.3–31.9% | 23.2–33.2% |
 | [9–13 June 2026](2026-06-13-Aximage.html) | Aximage <br> Folha Nacional | 29.5% | N/A | N/A | N/A | N/A |
@@ -121,22 +124,22 @@ The following table shows the probability mass function per percentage block of 
 | 17.5–18.5% | 0% | 100% |  |
 | 18.5–19.5% | 0% | 100% |  |
 | 19.5–20.5% | 0% | 100% |  |
-| 20.5–21.5% | 0% | 100% |  |
-| 21.5–22.5% | 0.1% | 100% |  |
-| 22.5–23.5% | 0.3% | 99.9% |  |
-| 23.5–24.5% | 1.0% | 99.7% |  |
-| 24.5–25.5% | 3% | 98.6% |  |
-| 25.5–26.5% | 6% | 96% |  |
-| 26.5–27.5% | 10% | 90% |  |
-| 27.5–28.5% | 13% | 80% |  |
-| 28.5–29.5% | 16% | 67% |  |
-| 29.5–30.5% | 17% | 50% | Median |
-| 30.5–31.5% | 15% | 34% |  |
-| 31.5–32.5% | 10% | 19% |  |
-| 32.5–33.5% | 5% | 9% |  |
-| 33.5–34.5% | 2% | 3% |  |
-| 34.5–35.5% | 0.7% | 0.8% |  |
-| 35.5–36.5% | 0.2% | 0.2% |  |
+| 20.5–21.5% | 0.1% | 100% |  |
+| 21.5–22.5% | 0.3% | 99.9% |  |
+| 22.5–23.5% | 0.9% | 99.7% |  |
+| 23.5–24.5% | 2% | 98.8% |  |
+| 24.5–25.5% | 4% | 96% |  |
+| 25.5–26.5% | 7% | 92% |  |
+| 26.5–27.5% | 11% | 85% |  |
+| 27.5–28.5% | 15% | 73% |  |
+| 28.5–29.5% | 17% | 59% | Median |
+| 29.5–30.5% | 16% | 41% |  |
+| 30.5–31.5% | 12% | 26% |  |
+| 31.5–32.5% | 8% | 14% |  |
+| 32.5–33.5% | 4% | 6% |  |
+| 33.5–34.5% | 2% | 2% |  |
+| 34.5–35.5% | 0.4% | 0.6% |  |
+| 35.5–36.5% | 0.1% | 0.1% |  |
 | 36.5–37.5% | 0% | 0% |  |
 
 
@@ -148,7 +151,10 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
+| N/A | [Poll Average](average.html) | 7 | 6–8 | 6–8 | 6–8 | 5–8 |
+| [20–21 July 2026](2026-07-21-Aximage.html) | Aximage <br> Diário de Notícias | 7 | 6–8 | 6–8 | 6–8 | 5–8 |
+| [9–14 July 2026](2026-07-14-Intercampus.html) | Intercampus <br> News Now | 6 | 6–7 | 5–7 | 5–7 | 5–8 |
+| [6–10 July 2026](2026-07-10-CESOP–UCP.html) | CESOP–UCP <br> Antena 1, Público and RTP | 7 | 6–7 | 6–7 | 6–8 | 6–8 |
 | [24–25 June 2026](2026-06-25-Aximage.html) | Aximage <br> Diário de Notícias | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
 | [10–16 June 2026](2026-06-16-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã, Negócios and News Now | 7 | 6–7 | 6–8 | 6–8 | 5–8 |
 | [9–13 June 2026](2026-06-13-Aximage.html) | Aximage <br> Folha Nacional |  |  |  |  |  |
@@ -245,11 +251,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
-| 5 | 0.5% | 100% |  |
-| 6 | 19% | 99.5% |  |
-| 7 | 56% | 80% | Median |
-| 8 | 24% | 24% |  |
-| 9 | 0.6% | 0.6% |  |
+| 5 | 2% | 100% |  |
+| 6 | 28% | 98% |  |
+| 7 | 55% | 70% | Median |
+| 8 | 15% | 16% |  |
+| 9 | 0.4% | 0.4% |  |
 | 10 | 0% | 0% |  |
 
 
