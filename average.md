@@ -303,8 +303,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 53% | 100% | Last Result, Median |
-| 1 | 46% | 47% |  |
+| 0 | 54% | 100% | Last Result, Median |
+| 1 | 46% | 46% |  |
 | 2 | 0.1% | 0.1% |  |
 | 3 | 0% | 0% |  |
 
@@ -316,8 +316,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.7% | 100% | Last Result, Median |
-| 1 | 0.3% | 0.3% |  |
+| 0 | 99.6% | 100% | Last Result, Median |
+| 1 | 0.4% | 0.4% |  |
 | 2 | 0% | 0% |  |
 
 ### Pessoas–Animais–Natureza (Greens/EFA)
@@ -359,8 +359,8 @@ Only polls for which at least the sample size has been published are included in
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
 | 5 | 2% | 100% |  |
-| 6 | 28% | 98% |  |
-| 7 | 55% | 70% | Median |
+| 6 | 27% | 98% |  |
+| 7 | 55% | 71% | Median |
 | 8 | 15% | 16% |  |
 | 9 | 0.4% | 0.4% |  |
 | 10 | 0% | 0% |  |
@@ -375,8 +375,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 22% | 100% | Last Result |
 | 1 | 36% | 78% | Median |
-| 2 | 41% | 42% |  |
-| 3 | 0.5% | 0.5% |  |
+| 2 | 41% | 41% |  |
+| 3 | 0.4% | 0.4% |  |
 | 4 | 0% | 0% |  |
 
 ### Aliança (RE)
@@ -410,8 +410,8 @@ Only polls for which at least the sample size has been published are included in
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 2% | 100% |  |
-| 5 | 32% | 98% |  |
-| 6 | 36% | 67% | Median |
+| 5 | 31% | 98% |  |
+| 6 | 37% | 67% | Median |
 | 7 | 29% | 30% |  |
 | 8 | 1.4% | 1.4% |  |
 | 9 | 0% | 0% |  |
@@ -430,8 +430,8 @@ Only polls for which at least the sample size has been published are included in
 | 3 | 0% | 100% |  |
 | 4 | 16% | 100% |  |
 | 5 | 55% | 84% | Median |
-| 6 | 22% | 29% |  |
-| 7 | 6% | 7% |  |
+| 6 | 23% | 29% |  |
+| 7 | 6% | 6% |  |
 | 8 | 0.2% | 0.2% |  |
 | 9 | 0% | 0% |  |
 
@@ -463,8 +463,8 @@ Only polls for which at least the sample size has been published are included in
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
 | 5 | 2% | 100% |  |
-| 6 | 28% | 98% |  |
-| 7 | 55% | 70% | Median |
+| 6 | 27% | 98% |  |
+| 7 | 55% | 71% | Median |
 | 8 | 15% | 16% |  |
 | 9 | 0.4% | 0.4% |  |
 | 10 | 0% | 0% |  |
@@ -480,8 +480,8 @@ Only polls for which at least the sample size has been published are included in
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 2% | 100% |  |
-| 5 | 32% | 98% |  |
-| 6 | 36% | 67% | Median |
+| 5 | 31% | 98% |  |
+| 6 | 37% | 67% | Median |
 | 7 | 29% | 30% |  |
 | 8 | 1.4% | 1.4% |  |
 | 9 | 0% | 0% |  |
@@ -498,8 +498,8 @@ Only polls for which at least the sample size has been published are included in
 | 3 | 0% | 100% |  |
 | 4 | 16% | 100% |  |
 | 5 | 55% | 84% | Median |
-| 6 | 22% | 29% |  |
-| 7 | 6% | 7% |  |
+| 6 | 23% | 29% |  |
+| 7 | 6% | 6% |  |
 | 8 | 0.2% | 0.2% |  |
 | 9 | 0% | 0% |  |
 
@@ -511,8 +511,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 22% | 100% | Last Result |
 | 1 | 36% | 78% | Median |
-| 2 | 41% | 42% |  |
-| 3 | 0.5% | 0.5% |  |
+| 2 | 41% | 41% |  |
+| 3 | 0.4% | 0.4% |  |
 | 4 | 0% | 0% |  |
 
 ### LIVRE (Greens/EFA) – Pessoas–Animais–Natureza (Greens/EFA)
@@ -533,9 +533,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 53% | 100% | Last Result, Median |
-| 1 | 46% | 47% |  |
-| 2 | 0.3% | 0.3% |  |
+| 0 | 54% | 100% | Last Result, Median |
+| 1 | 46% | 46% |  |
+| 2 | 0.4% | 0.4% |  |
 | 3 | 0% | 0% |  |
 
 
@@ -543,5 +543,5 @@ Only polls for which at least the sample size has been published are included in
 
 + **Number of polls included in this average:** 4
 + **Lowest number of simulations done in a poll included in this average:** 1,048,576
-+ **Total number of simulations done in the polls included in this average:** 5,242,880
-+ **Error estimate:** 3.89%
++ **Total number of simulations done in the polls included in this average:** 7,340,032
++ **Error estimate:** 3.58%
