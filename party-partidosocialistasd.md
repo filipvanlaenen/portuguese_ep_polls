@@ -10,11 +10,12 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 29.1% | 25.9–32.0% | 24.9–32.7% | 24.2–33.4% | 22.8–34.6% |
-| [20–21 July 2026](2026-07-21-Aximage.html) | Aximage <br> Diário de Notícias | 29.1% | 26.6–31.8% | 25.9–32.6% | 25.3–33.3% | 24.2–34.6% |
+| N/A | [Poll Average](average.html) | 28.9% | 25.8–31.8% | 24.9–32.6% | 24.2–33.3% | 22.8–34.5% |
+| [22–27 July 2026](2026-07-27-Aximage.html) | Aximage <br> Folha Nacional | 28.6% | 26.3–31.1% | 25.7–31.8% | 25.1–32.4% | 24.1–33.6% |
+| [20–21 July 2026](2026-07-21-Aximage.html) | Aximage <br> Diário de Notícias | 29.3% | 26.6–31.8% | 25.9–32.6% | 25.3–33.3% | 24.2–34.6% |
 | [9–14 July 2026](2026-07-14-Intercampus.html) | Intercampus <br> News Now | 26.6% | 24.2–29.2% | 23.6–29.9% | 23.0–30.5% | 21.9–31.8% |
 | [6–10 July 2026](2026-07-10-CESOP–UCP.html) | CESOP–UCP <br> Antena 1, Público and RTP | 28.9% | 27.1–30.8% | 26.6–31.4% | 26.2–31.8% | 25.3–32.7% |
-| [24–25 June 2026](2026-06-25-Aximage.html) | Aximage <br> Diário de Notícias | 29.4% | 26.9–32.1% | 26.2–32.9% | 25.6–33.5% | 24.4–34.9% |
+| [24–25 June 2026](2026-06-25-Aximage.html) | Aximage <br> Diário de Notícias | 29.3% | 26.9–32.1% | 26.2–32.9% | 25.6–33.5% | 24.4–34.9% |
 | [10–16 June 2026](2026-06-16-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã, Negócios and News Now | 27.9% | 25.5–30.5% | 24.8–31.3% | 24.3–31.9% | 23.2–33.2% |
 | [9–13 June 2026](2026-06-13-Aximage.html) | Aximage <br> Folha Nacional | 29.5% | N/A | N/A | N/A | N/A |
 | [15–24 May 2026](2026-05-24-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 31.0% | 29.0–33.2% | 28.4–33.8% | 27.9–34.3% | 26.9–35.3% |
@@ -32,7 +33,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [14–19 November 2025](2025-11-19-Intercampus.html) | Intercampus <br> Correio da Manhã | 25.1% | 22.9–27.6% | 22.2–28.3% | 21.7–28.9% | 20.6–30.2% |
 | [7–17 November 2025](2025-11-17-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 28.0% | 26.0–30.1% | 25.5–30.7% | 25.0–31.2% | 24.1–32.2% |
 | [5–14 November 2025](2025-11-14-Pitagórica.html) | Pitagórica <br> CNN Portugal, Jornal de Notícias, TSF and TVI | 26.4% | 24.7–28.2% | 24.2–28.8% | 23.8–29.2% | 22.9–30.1% |
-| [23–27 October 2025](2025-10-27-Aximage.html) | Aximage <br> Diário de Notícias | 23.9% | 21.7–26.3% | 21.1–26.9% | 20.5–27.5% | 19.5–28.7% |
+| [23–27 October 2025](2025-10-27-Aximage.html) | Aximage <br> Diário de Notícias | 23.8% | 21.7–26.3% | 21.1–26.9% | 20.5–27.5% | 19.5–28.7% |
 | [20–26 October 2025](2025-10-26-Intercampus.html) | Intercampus <br> Correio da Manhã | 25.5% | 23.3–28.0% | 22.7–28.7% | 22.1–29.3% | 21.1–30.5% |
 | [6–10 October 2025](2025-10-10-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 25.3% | 23.1–27.6% | 22.5–28.3% | 22.0–28.8% | 21.0–30.0% |
 | [2–5 September 2025](2025-09-05-Aximage.html) | Aximage <br> Diário de Notícias | 23.7% | 21.5–26.1% | 20.9–26.8% | 20.4–27.4% | 19.4–28.5% |
@@ -128,17 +129,17 @@ The following table shows the probability mass function per percentage block of 
 | 21.5–22.5% | 0.3% | 99.9% |  |
 | 22.5–23.5% | 0.9% | 99.7% |  |
 | 23.5–24.5% | 2% | 98.8% |  |
-| 24.5–25.5% | 4% | 96% |  |
-| 25.5–26.5% | 7% | 92% |  |
-| 26.5–27.5% | 11% | 85% |  |
-| 27.5–28.5% | 15% | 73% |  |
-| 28.5–29.5% | 17% | 59% | Median |
-| 29.5–30.5% | 16% | 41% |  |
-| 30.5–31.5% | 12% | 26% |  |
-| 31.5–32.5% | 8% | 14% |  |
-| 32.5–33.5% | 4% | 6% |  |
-| 33.5–34.5% | 2% | 2% |  |
-| 34.5–35.5% | 0.4% | 0.6% |  |
+| 24.5–25.5% | 5% | 96% |  |
+| 25.5–26.5% | 8% | 92% |  |
+| 26.5–27.5% | 12% | 84% |  |
+| 27.5–28.5% | 16% | 72% |  |
+| 28.5–29.5% | 17% | 56% | Median |
+| 29.5–30.5% | 15% | 39% |  |
+| 30.5–31.5% | 11% | 24% |  |
+| 31.5–32.5% | 7% | 12% |  |
+| 32.5–33.5% | 3% | 5% |  |
+| 33.5–34.5% | 1.3% | 2% |  |
+| 34.5–35.5% | 0.4% | 0.5% |  |
 | 35.5–36.5% | 0.1% | 0.1% |  |
 | 36.5–37.5% | 0% | 0% |  |
 
@@ -152,6 +153,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 7 | 6–8 | 6–8 | 6–8 | 5–8 |
+| [22–27 July 2026](2026-07-27-Aximage.html) | Aximage <br> Folha Nacional | 7 | 6–7 | 6–8 | 6–8 | 5–8 |
 | [20–21 July 2026](2026-07-21-Aximage.html) | Aximage <br> Diário de Notícias | 7 | 6–8 | 6–8 | 6–8 | 5–8 |
 | [9–14 July 2026](2026-07-14-Intercampus.html) | Intercampus <br> News Now | 6 | 6–7 | 5–7 | 5–7 | 5–8 |
 | [6–10 July 2026](2026-07-10-CESOP–UCP.html) | CESOP–UCP <br> Antena 1, Público and RTP | 7 | 6–7 | 6–7 | 6–8 | 6–8 |
@@ -252,9 +254,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
 | 5 | 2% | 100% |  |
-| 6 | 28% | 98% |  |
-| 7 | 55% | 71% | Median |
-| 8 | 16% | 16% |  |
+| 6 | 29% | 98% |  |
+| 7 | 54% | 69% | Median |
+| 8 | 15% | 15% |  |
 | 9 | 0.4% | 0.4% |  |
 | 10 | 0% | 0% |  |
 
