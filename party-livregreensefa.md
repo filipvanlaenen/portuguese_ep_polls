@@ -10,7 +10,12 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.8% | 2.7–8.2% | 2.4–8.9% | 2.2–9.4% | 1.9–10.5% |
+| N/A | [Poll Average](average.html) | 4.4% | 3.0–6.3% | 2.6–6.8% | 2.4–7.1% | 1.9–7.8% |
+| [14–15 September 2026](2026-09-15-Aximage.html) | Aximage <br> Diário de Notícias | 3.2% | 2.4–4.5% | 2.2–4.8% | 2.0–5.1% | 1.6–5.8% |
+| [7–14 September 2026](2026-09-14-Intercampus.html) | Intercampus <br> Correio da Manhã | 4.0% | 3.1–5.3% | 2.9–5.7% | 2.7–6.0% | 2.3–6.7% |
+| [17 August–7 September 2026](2026-09-07-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 4.2% | 3.4–5.3% | 3.2–5.6% | 3.0–5.9% | 2.7–6.4% |
+| [10–31 August 2026](2026-08-31-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 4.0% | 3.2–5.0% | 3.0–5.3% | 2.8–5.6% | 2.5–6.1% |
+| [10–31 July 2026](2026-07-31-Intercampus.html) | Intercampus | 6.9% | 5.8–8.2% | 5.5–8.6% | 5.3–9.0% | 4.8–9.7% |
 | [22–27 July 2026](2026-07-27-Aximage.html) | Aximage <br> Folha Nacional | 3.2% | 2.5–4.4% | 2.2–4.7% | 2.1–5.0% | 1.8–5.6% |
 | [20–21 July 2026](2026-07-21-Aximage.html) | Aximage <br> Diário de Notícias | 4.5% | 3.6–6.0% | 3.3–6.4% | 3.1–6.8% | 2.7–7.6% |
 | [9–14 July 2026](2026-07-14-Intercampus.html) | Intercampus <br> News Now | 7.7% | 6.4–9.4% | 6.1–9.9% | 5.7–10.3% | 5.2–11.2% |
@@ -106,18 +111,15 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0.1% | 100% |  |
-| 1.5–2.5% | 8% | 99.9% |  |
-| 2.5–3.5% | 27% | 92% |  |
-| 3.5–4.5% | 13% | 65% |  |
-| 4.5–5.5% | 8% | 52% | Median |
-| 5.5–6.5% | 15% | 44% |  |
-| 6.5–7.5% | 13% | 29% |  |
-| 7.5–8.5% | 9% | 16% |  |
-| 8.5–9.5% | 5% | 7% |  |
-| 9.5–10.5% | 2% | 2% |  |
-| 10.5–11.5% | 0.4% | 0.4% |  |
-| 11.5–12.5% | 0.1% | 0.1% |  |
-| 12.5–13.5% | 0% | 0% |  |
+| 1.5–2.5% | 4% | 99.9% |  |
+| 2.5–3.5% | 20% | 96% |  |
+| 3.5–4.5% | 32% | 76% | Median |
+| 4.5–5.5% | 21% | 44% |  |
+| 5.5–6.5% | 15% | 22% |  |
+| 6.5–7.5% | 6% | 7% |  |
+| 7.5–8.5% | 0.9% | 0.9% |  |
+| 8.5–9.5% | 0% | 0% |  |
+| 9.5–10.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -128,7 +130,12 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
+| N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [14–15 September 2026](2026-09-15-Aximage.html) | Aximage <br> Diário de Notícias | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [7–14 September 2026](2026-09-14-Intercampus.html) | Intercampus <br> Correio da Manhã | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [17 August–7 September 2026](2026-09-07-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [10–31 August 2026](2026-08-31-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [10–31 July 2026](2026-07-31-Intercampus.html) | Intercampus | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [22–27 July 2026](2026-07-27-Aximage.html) | Aximage <br> Folha Nacional | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [20–21 July 2026](2026-07-21-Aximage.html) | Aximage <br> Diário de Notícias | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [9–14 July 2026](2026-07-14-Intercampus.html) | Intercampus <br> News Now | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -224,9 +231,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 43% | 100% | Last Result |
-| 1 | 45% | 57% | Median |
-| 2 | 12% | 12% |  |
+| 0 | 37% | 100% | Last Result |
+| 1 | 63% | 63% | Median |
+| 2 | 0.3% | 0.3% |  |
 | 3 | 0% | 0% |  |
 
 

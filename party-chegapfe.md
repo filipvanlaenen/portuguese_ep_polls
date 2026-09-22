@@ -10,7 +10,12 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 21.7% | 19.3–26.8% | 18.7–27.9% | 18.2–28.7% | 17.2–30.2% |
+| N/A | [Poll Average](average.html) | 25.7% | 20.6–29.7% | 19.9–30.6% | 19.4–31.4% | 18.4–32.9% |
+| [14–15 September 2026](2026-09-15-Aximage.html) | Aximage <br> Diário de Notícias | 28.6% | 26.1–31.3% | 25.4–32.1% | 24.8–32.7% | 23.7–34.0% |
+| [7–14 September 2026](2026-09-14-Intercampus.html) | Intercampus <br> Correio da Manhã | 23.8% | 21.6–26.3% | 21.0–27.0% | 20.4–27.6% | 19.4–28.8% |
+| [17 August–7 September 2026](2026-09-07-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 27.6% | 25.7–29.7% | 25.1–30.3% | 24.6–30.8% | 23.7–31.8% |
+| [10–31 August 2026](2026-08-31-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 27.1% | 25.2–29.2% | 24.6–29.8% | 24.1–30.3% | 23.2–31.3% |
+| [10–31 July 2026](2026-07-31-Intercampus.html) | Intercampus | 24.4% | 22.4–26.5% | 21.9–27.1% | 21.4–27.6% | 20.5–28.7% |
 | [22–27 July 2026](2026-07-27-Aximage.html) | Aximage <br> Folha Nacional | 26.3% | 24.0–28.7% | 23.4–29.4% | 22.9–30.0% | 21.8–31.2% |
 | [20–21 July 2026](2026-07-21-Aximage.html) | Aximage <br> Diário de Notícias | 26.3% | 23.9–29.0% | 23.3–29.7% | 22.7–30.4% | 21.6–31.7% |
 | [9–14 July 2026](2026-07-14-Intercampus.html) | Intercampus <br> News Now | 22.1% | 19.9–24.5% | 19.3–25.2% | 18.7–25.8% | 17.7–27.0% |
@@ -120,24 +125,27 @@ The following table shows the probability mass function per percentage block of 
 | 12.5–13.5% | 0% | 100% |  |
 | 13.5–14.5% | 0% | 100% |  |
 | 14.5–15.5% | 0% | 100% |  |
-| 15.5–16.5% | 0.1% | 100% |  |
-| 16.5–17.5% | 0.8% | 99.9% |  |
-| 17.5–18.5% | 3% | 99.1% |  |
-| 18.5–19.5% | 9% | 96% |  |
-| 19.5–20.5% | 15% | 86% |  |
-| 20.5–21.5% | 18% | 71% |  |
-| 21.5–22.5% | 14% | 53% | Median |
-| 22.5–23.5% | 9% | 39% |  |
-| 23.5–24.5% | 7% | 30% |  |
-| 24.5–25.5% | 6% | 24% |  |
-| 25.5–26.5% | 6% | 18% |  |
-| 26.5–27.5% | 5% | 11% |  |
-| 27.5–28.5% | 3% | 6% |  |
-| 28.5–29.5% | 2% | 3% |  |
-| 29.5–30.5% | 0.7% | 1.0% |  |
-| 30.5–31.5% | 0.2% | 0.3% |  |
-| 31.5–32.5% | 0.1% | 0.1% |  |
-| 32.5–33.5% | 0% | 0% |  |
+| 15.5–16.5% | 0% | 100% |  |
+| 16.5–17.5% | 0.1% | 100% |  |
+| 17.5–18.5% | 0.6% | 99.9% |  |
+| 18.5–19.5% | 3% | 99.4% |  |
+| 19.5–20.5% | 6% | 97% |  |
+| 20.5–21.5% | 9% | 90% |  |
+| 21.5–22.5% | 9% | 81% |  |
+| 22.5–23.5% | 7% | 72% |  |
+| 23.5–24.5% | 7% | 65% |  |
+| 24.5–25.5% | 7% | 58% |  |
+| 25.5–26.5% | 9% | 51% | Median |
+| 26.5–27.5% | 11% | 42% |  |
+| 27.5–28.5% | 11% | 31% |  |
+| 28.5–29.5% | 9% | 20% |  |
+| 29.5–30.5% | 6% | 11% |  |
+| 30.5–31.5% | 3% | 5% |  |
+| 31.5–32.5% | 1.4% | 2% |  |
+| 32.5–33.5% | 0.5% | 0.8% |  |
+| 33.5–34.5% | 0.2% | 0.2% |  |
+| 34.5–35.5% | 0% | 0.1% |  |
+| 35.5–36.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -148,7 +156,12 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 4–6 | 4–7 | 4–7 | 4–7 |
+| N/A | [Poll Average](average.html) | 6 | 5–7 | 4–7 | 4–7 | 4–8 |
+| [14–15 September 2026](2026-09-15-Aximage.html) | Aximage <br> Diário de Notícias | 7 | 6–7 | 6–8 | 6–8 | 5–8 |
+| [7–14 September 2026](2026-09-14-Intercampus.html) | Intercampus <br> Correio da Manhã | 6 | 5–6 | 5–6 | 5–7 | 4–7 |
+| [17 August–7 September 2026](2026-09-07-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 6 | 6–7 | 6–7 | 6–7 | 5–8 |
+| [10–31 August 2026](2026-08-31-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 6 | 6–7 | 6–7 | 6–7 | 5–8 |
+| [10–31 July 2026](2026-07-31-Intercampus.html) | Intercampus | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
 | [22–27 July 2026](2026-07-27-Aximage.html) | Aximage <br> Folha Nacional | 6 | 6–7 | 5–7 | 5–7 | 5–7 |
 | [20–21 July 2026](2026-07-21-Aximage.html) | Aximage <br> Diário de Notícias | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
 | [9–14 July 2026](2026-07-14-Intercampus.html) | Intercampus <br> News Now | 5 | 5–6 | 4–6 | 4–6 | 4–6 |
@@ -248,11 +261,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 15% | 100% |  |
-| 5 | 55% | 85% | Median |
-| 6 | 23% | 29% |  |
-| 7 | 6% | 6% |  |
-| 8 | 0.1% | 0.1% |  |
+| 4 | 5% | 100% |  |
+| 5 | 31% | 95% |  |
+| 6 | 35% | 64% | Median |
+| 7 | 27% | 29% |  |
+| 8 | 2% | 2% |  |
 | 9 | 0% | 0% |  |
 
 
