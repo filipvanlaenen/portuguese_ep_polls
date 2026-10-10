@@ -10,8 +10,10 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 24.2% | 21.1–29.3% | 20.3–30.2% | 19.6–30.8% | 18.4–32.0% |
-| [14–15 September 2026](2026-09-15-Aximage.html) | Aximage <br> Diário de Notícias | 22.0% | 19.8–24.5% | 19.1–25.2% | 18.6–25.8% | 17.6–27.1% |
+| N/A | [Poll Average](average.html) | 24.0% | 20.9–29.3% | 20.1–30.2% | 19.4–30.8% | 18.2–32.0% |
+| [6–7 October 2026](2026-10-07-Aximage.html) | Aximage <br> Diário de Notícias | 21.8% | 19.5–24.3% | 18.9–25.0% | 18.4–25.6% | 17.3–26.8% |
+| [7 September–5 October 2026](2026-10-05-Pitagórica.html) | Pitagórica <br> CNN Portugal, Sol and TVI | 23.9% | 22.0–25.9% | 21.5–26.5% | 21.0–27.0% | 20.2–27.9% |
+| [14–15 September 2026](2026-09-15-Aximage.html) | Aximage <br> Diário de Notícias | 21.8% | 19.8–24.5% | 19.1–25.2% | 18.6–25.8% | 17.6–27.1% |
 | [7–14 September 2026](2026-09-14-Intercampus.html) | Intercampus <br> Correio da Manhã | 23.4% | 21.2–25.9% | 20.6–26.6% | 20.1–27.2% | 19.1–28.4% |
 | [17 August–7 September 2026](2026-09-07-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 24.3% | 22.4–26.3% | 21.9–26.8% | 21.4–27.3% | 20.5–28.3% |
 | [10–31 August 2026](2026-08-31-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 25.7% | 23.8–27.8% | 23.3–28.4% | 22.8–28.9% | 21.9–29.9% |
@@ -126,17 +128,17 @@ The following table shows the probability mass function per percentage block of 
 | 13.5–14.5% | 0% | 100% |  |
 | 14.5–15.5% | 0% | 100% |  |
 | 15.5–16.5% | 0% | 100% |  |
-| 16.5–17.5% | 0.1% | 100% |  |
-| 17.5–18.5% | 0.5% | 99.9% |  |
-| 18.5–19.5% | 2% | 99.4% |  |
-| 19.5–20.5% | 4% | 98% |  |
-| 20.5–21.5% | 8% | 94% |  |
-| 21.5–22.5% | 12% | 86% |  |
-| 22.5–23.5% | 14% | 74% |  |
-| 23.5–24.5% | 15% | 60% | Median |
-| 24.5–25.5% | 11% | 45% |  |
-| 25.5–26.5% | 7% | 34% |  |
-| 26.5–27.5% | 5% | 27% |  |
+| 16.5–17.5% | 0.2% | 100% |  |
+| 17.5–18.5% | 0.7% | 99.8% |  |
+| 18.5–19.5% | 2% | 99.2% |  |
+| 19.5–20.5% | 5% | 97% |  |
+| 20.5–21.5% | 8% | 93% |  |
+| 21.5–22.5% | 13% | 84% |  |
+| 22.5–23.5% | 15% | 72% |  |
+| 23.5–24.5% | 14% | 57% | Median |
+| 24.5–25.5% | 10% | 42% |  |
+| 25.5–26.5% | 6% | 32% |  |
+| 26.5–27.5% | 5% | 26% |  |
 | 27.5–28.5% | 6% | 22% |  |
 | 28.5–29.5% | 7% | 15% |  |
 | 29.5–30.5% | 5% | 8% |  |
@@ -155,6 +157,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6 | 5–7 | 5–7 | 4–7 | 4–8 |
+| [6–7 October 2026](2026-10-07-Aximage.html) | Aximage <br> Diário de Notícias | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
+| [7 September–5 October 2026](2026-10-05-Pitagórica.html) | Pitagórica <br> CNN Portugal, Sol and TVI | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
 | [14–15 September 2026](2026-09-15-Aximage.html) | Aximage <br> Diário de Notícias | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | [7–14 September 2026](2026-09-14-Intercampus.html) | Intercampus <br> Correio da Manhã | 5 | 5–6 | 5–6 | 5–7 | 4–7 |
 | [17 August–7 September 2026](2026-09-07-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
@@ -259,10 +263,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 3% | 100% |  |
-| 5 | 40% | 97% |  |
-| 6 | 36% | 57% | Median |
-| 7 | 20% | 20% |  |
+| 4 | 4% | 100% |  |
+| 5 | 38% | 96% |  |
+| 6 | 37% | 58% | Median |
+| 7 | 19% | 20% |  |
 | 8 | 0.9% | 0.9% |  |
 | 9 | 0% | 0% |  |
 
