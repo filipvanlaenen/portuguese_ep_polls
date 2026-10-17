@@ -5,6 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | CDU | BE | PAN | L | PS | IL | A | PSD | CDS–PP | AD | CH |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 9 June 2024 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| [14 September–12 October 2026](2026-10-12-Pitagórica.html) | Pitagórica <br> CNN Portugal, Sol and TVI | 2–4% <br> 0–1 | 1–3% <br> 0 | 1–2% <br> 0 | 2–5% <br> 0–1 | 25–32% <br> 6–8 | 5–9% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 20–26% <br> 5–6 | 25–31% <br> 6–7 |
 | [6–7 October 2026](2026-10-07-Aximage.html) | Aximage <br> Diário de Notícias | 1–3% <br> 0 | 1–3% <br> 0 | 1–4% <br> 0 | 2–5% <br> 0–1 | 25–33% <br> 6–8 | 4–8% <br> 0–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 18–26% <br> 4–6 | 27–35% <br> 6–8 |
 | [7 September–5 October 2026](2026-10-05-Pitagórica.html) | Pitagórica <br> CNN Portugal, Sol and TVI | 2–4% <br> 0–1 | 1–3% <br> 0 | 1–2% <br> 0 | 2–4% <br> 0–1 | 25–31% <br> 6–7 | 5–9% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 21–27% <br> 5–6 | 24–30% <br> 6–7 |
 | [14–15 September 2026](2026-09-15-Aximage.html) | Aximage <br> Diário de Notícias | 1–3% <br> 0 | 0–2% <br> 0 | 2–4% <br> 0–1 | 2–5% <br> 0–1 | 25–33% <br> 6–8 | 5–9% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 19–26% <br> 4–6 | 25–33% <br> 6–8 |
