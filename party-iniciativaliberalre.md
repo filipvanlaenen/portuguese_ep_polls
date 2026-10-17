@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.5% | 5.3–10.3% | 4.9–11.1% | 4.5–11.7% | 3.8–12.8% |
+| N/A | [Poll Average](average.html) | 7.1% | 5.1–10.7% | 4.7–11.4% | 4.3–11.9% | 3.7–13.0% |
+| [14 September–12 October 2026](2026-10-12-Pitagórica.html) | Pitagórica <br> CNN Portugal, Sol and TVI | 6.8% | 5.8–8.1% | 5.5–8.5% | 5.3–8.8% | 4.8–9.5% |
 | [6–7 October 2026](2026-10-07-Aximage.html) | Aximage <br> Diário de Notícias | 5.6% | 4.5–7.1% | 4.2–7.6% | 3.9–8.0% | 3.4–8.8% |
 | [7 September–5 October 2026](2026-10-05-Pitagórica.html) | Pitagórica <br> CNN Portugal, Sol and TVI | 6.7% | 5.7–8.0% | 5.4–8.4% | 5.2–8.7% | 4.7–9.3% |
 | [14–15 September 2026](2026-09-15-Aximage.html) | Aximage <br> Diário de Notícias | 6.2% | 5.2–8.0% | 4.8–8.5% | 4.6–8.9% | 4.1–9.7% |
@@ -114,18 +115,18 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 0.2% | 100% |  |
-| 3.5–4.5% | 3% | 99.8% |  |
-| 4.5–5.5% | 10% | 97% |  |
-| 5.5–6.5% | 18% | 87% |  |
-| 6.5–7.5% | 21% | 70% | Median |
-| 7.5–8.5% | 19% | 48% |  |
-| 8.5–9.5% | 13% | 30% |  |
-| 9.5–10.5% | 9% | 17% |  |
-| 10.5–11.5% | 5% | 8% |  |
-| 11.5–12.5% | 2% | 3% |  |
-| 12.5–13.5% | 0.6% | 0.8% |  |
-| 13.5–14.5% | 0.1% | 0.1% |  |
+| 2.5–3.5% | 0.3% | 100% |  |
+| 3.5–4.5% | 4% | 99.7% |  |
+| 4.5–5.5% | 12% | 96% |  |
+| 5.5–6.5% | 21% | 84% |  |
+| 6.5–7.5% | 20% | 62% | Median |
+| 7.5–8.5% | 12% | 43% |  |
+| 8.5–9.5% | 10% | 31% |  |
+| 9.5–10.5% | 10% | 21% |  |
+| 10.5–11.5% | 7% | 11% |  |
+| 11.5–12.5% | 3% | 4% |  |
+| 12.5–13.5% | 0.9% | 1.0% |  |
+| 13.5–14.5% | 0.2% | 0.2% |  |
 | 14.5–15.5% | 0% | 0% |  |
 
 
@@ -137,7 +138,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 0–3 |
+| N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–3 | 0–3 |
+| [14 September–12 October 2026](2026-10-12-Pitagórica.html) | Pitagórica <br> CNN Portugal, Sol and TVI | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [6–7 October 2026](2026-10-07-Aximage.html) | Aximage <br> Diário de Notícias | 1 | 1 | 1 | 0–2 | 0–2 |
 | [7 September–5 October 2026](2026-10-05-Pitagórica.html) | Pitagórica <br> CNN Portugal, Sol and TVI | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [14–15 September 2026](2026-09-15-Aximage.html) | Aximage <br> Diário de Notícias | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -240,10 +242,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.7% | 100% | Last Result |
-| 1 | 59% | 99.3% | Median |
-| 2 | 39% | 41% |  |
-| 3 | 2% | 2% |  |
+| 0 | 1.0% | 100% | Last Result |
+| 1 | 61% | 99.0% | Median |
+| 2 | 35% | 38% |  |
+| 3 | 3% | 3% |  |
 | 4 | 0% | 0% |  |
 
 
