@@ -10,13 +10,18 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.4% | 1.5–3.3% | 1.3–3.6% | 1.2–3.9% | 0.9–4.4% |
-| [14 September–12 October 2026](2026-10-12-Pitagórica.html) | Pitagórica <br> CNN Portugal, Sol and TVI | 2.6% | 2.0–3.5% | 1.8–3.7% | 1.7–4.0% | 1.5–4.4% |
+| N/A | [Poll Average](average.html) | 3.3% | 1.6–5.2% | 1.4–5.7% | 1.2–6.1% | 0.9–6.9% |
+| [21 September–12 October 2026](2026-10-12-Pitagórica.html) | Pitagórica <br> CNN Portugal, Sol and TVI | 3.2% | 2.6–4.2% | 2.4–4.5% | 2.2–4.7% | 1.9–5.2% |
+| [6–12 October 2026](2026-10-12-Intercampus.html) | Intercampus <br> News Now | 4.6% | 3.6–5.9% | 3.4–6.3% | 3.2–6.7% | 2.7–7.3% |
 | [6–7 October 2026](2026-10-07-Aximage.html) | Aximage <br> Diário de Notícias | 1.8% | 1.2–2.8% | 1.1–3.1% | 0.9–3.4% | 0.7–3.9% |
-| [7 September–5 October 2026](2026-10-05-Pitagórica.html) | Pitagórica <br> CNN Portugal, Sol and TVI | 2.9% | 2.2–3.8% | 2.1–4.0% | 1.9–4.3% | 1.6–4.7% |
-| [14–15 September 2026](2026-09-15-Aximage.html) | Aximage <br> Diário de Notícias | 1.6% | 1.2–2.8% | 1.1–3.1% | 1.0–3.4% | 0.7–4.0% |
+| [14 September–5 October 2026](2026-10-05-Pitagórica.html) | Pitagórica <br> CNN Portugal, Sol and TVI | 2.6% | 2.2–3.8% | 2.1–4.0% | 1.9–4.3% | 1.6–4.7% |
+| [7–28 September 2026](2026-09-28-Pitagórica.html) | Pitagórica <br> CNN Portugal, Sol and TVI | 2.9% | 2.2–3.8% | 2.1–4.0% | 1.9–4.3% | 1.6–4.7% |
+| [31 August–26 September 2026](2026-09-26-Pitagórica.html) | Pitagórica <br> CNN Portugal, Sol and TVI | 2.4% | N/A | N/A | N/A | N/A |
+| [24 August–18 September 2026](2026-09-18-Pitagórica.html) | Pitagórica <br> CNN Portugal, Sol and TVI | 2.0% | N/A | N/A | N/A | N/A |
+| [14–15 September 2026](2026-09-15-Aximage.html) | Aximage <br> Diário de Notícias | 1.8% | 1.2–2.8% | 1.1–3.1% | 1.0–3.4% | 0.7–4.0% |
 | [7–14 September 2026](2026-09-14-Intercampus.html) | Intercampus <br> Correio da Manhã | 2.4% | 1.7–3.5% | 1.5–3.8% | 1.4–4.0% | 1.1–4.6% |
 | [17 August–7 September 2026](2026-09-07-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 2.2% | 1.7–3.1% | 1.5–3.3% | 1.4–3.5% | 1.2–4.0% |
+| [1–7 September 2026](2026-09-07-Aximage.html) | Aximage <br> Folha Nacional | 3.0% | N/A | N/A | N/A | N/A |
 | [10–31 August 2026](2026-08-31-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 2.4% | 1.8–3.2% | 1.6–3.4% | 1.5–3.7% | 1.3–4.1% |
 | [10–31 July 2026](2026-07-31-Intercampus.html) | Intercampus | 3.0% | 2.3–4.0% | 2.2–4.3% | 2.0–4.6% | 1.7–5.1% |
 | [22–27 July 2026](2026-07-27-Aximage.html) | Aximage <br> Folha Nacional | 2.4% | 1.7–3.4% | 1.6–3.7% | 1.4–3.9% | 1.2–4.5% |
@@ -113,12 +118,15 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 11% | 100% |  |
-| 1.5–2.5% | 48% | 89% | Median |
-| 2.5–3.5% | 36% | 42% |  |
-| 3.5–4.5% | 6% | 6% |  |
-| 4.5–5.5% | 0.3% | 0.3% |  |
-| 5.5–6.5% | 0% | 0% |  |
+| 0.5–1.5% | 9% | 100% |  |
+| 1.5–2.5% | 22% | 91% |  |
+| 2.5–3.5% | 26% | 69% | Median |
+| 3.5–4.5% | 23% | 43% |  |
+| 4.5–5.5% | 14% | 20% |  |
+| 5.5–6.5% | 5% | 6% |  |
+| 6.5–7.5% | 0.9% | 1.0% |  |
+| 7.5–8.5% | 0.1% | 0.1% |  |
+| 8.5–9.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -129,13 +137,18 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–1 |
-| [14 September–12 October 2026](2026-10-12-Pitagórica.html) | Pitagórica <br> CNN Portugal, Sol and TVI | 0 | 0 | 0 | 0–1 | 0–1 |
+| N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [21 September–12 October 2026](2026-10-12-Pitagórica.html) | Pitagórica <br> CNN Portugal, Sol and TVI | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [6–12 October 2026](2026-10-12-Intercampus.html) | Intercampus <br> News Now | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [6–7 October 2026](2026-10-07-Aximage.html) | Aximage <br> Diário de Notícias | 0 | 0 | 0 | 0 | 0 |
-| [7 September–5 October 2026](2026-10-05-Pitagórica.html) | Pitagórica <br> CNN Portugal, Sol and TVI | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| [14 September–5 October 2026](2026-10-05-Pitagórica.html) | Pitagórica <br> CNN Portugal, Sol and TVI | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| [7–28 September 2026](2026-09-28-Pitagórica.html) | Pitagórica <br> CNN Portugal, Sol and TVI | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| [31 August–26 September 2026](2026-09-26-Pitagórica.html) | Pitagórica <br> CNN Portugal, Sol and TVI |  |  |  |  |  |
+| [24 August–18 September 2026](2026-09-18-Pitagórica.html) | Pitagórica <br> CNN Portugal, Sol and TVI |  |  |  |  |  |
 | [14–15 September 2026](2026-09-15-Aximage.html) | Aximage <br> Diário de Notícias | 0 | 0 | 0 | 0 | 0 |
 | [7–14 September 2026](2026-09-14-Intercampus.html) | Intercampus <br> Correio da Manhã | 0 | 0 | 0 | 0–1 | 0–1 |
 | [17 August–7 September 2026](2026-09-07-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 0 | 0 | 0 | 0 | 0 |
+| [1–7 September 2026](2026-09-07-Aximage.html) | Aximage <br> Folha Nacional |  |  |  |  |  |
 | [10–31 August 2026](2026-08-31-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 0 | 0 | 0 | 0 | 0–1 |
 | [10–31 July 2026](2026-07-31-Intercampus.html) | Intercampus | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [22–27 July 2026](2026-07-27-Aximage.html) | Aximage <br> Folha Nacional | 0 | 0 | 0 | 0 | 0–1 |
@@ -233,8 +246,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 98% | 100% | Last Result, Median |
-| 1 | 2% | 2% |  |
+| 0 | 68% | 100% | Last Result, Median |
+| 1 | 31% | 32% |  |
 | 2 | 0% | 0% |  |
 
 
