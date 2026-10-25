@@ -31,7 +31,7 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#partido-socialista-(s&d)">Partido Socialista (S&D)</a> | 0 | 6 | 5–6 |5–7 |5–7 |4–7 |
+| <a href="#partido-socialista-(s&d)">Partido Socialista (S&D)</a> | 0 | 6 | 5–6 |5–6 |5–7 |4–7 |
 | <a href="#chega-(pfe)">Chega (PfE)</a> | 0 | 5 | 5–6 |5–6 |5–7 |4–7 |
 | <a href="#aliança-democrática-(epp)">Aliança Democrática (EPP)</a> | 0 | 5 | 4–6 |4–6 |4–6 |4–6 |
 | <a href="#iniciativa-liberal-(re)">Iniciativa Liberal (RE)</a> | 0 | 2 | 1–2 |1–2 |1–2 |1–2 |
@@ -53,8 +53,8 @@
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0.7% | 100% |  |
-| 5 | 36% | 99.3% |  |
-| 6 | 59% | 64% | Median |
+| 5 | 39% | 99.3% |  |
+| 6 | 55% | 60% | Median |
 | 7 | 5% | 5% |  |
 | 8 | 0% | 0% |  |
 
@@ -71,8 +71,8 @@
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 1.3% | 100% |  |
-| 5 | 51% | 98.7% | Median |
-| 6 | 44% | 47% |  |
+| 5 | 49% | 98.7% | Median |
+| 6 | 47% | 50% |  |
 | 7 | 3% | 3% |  |
 | 8 | 0% | 0% |  |
 
@@ -88,8 +88,8 @@
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 19% | 100% |  |
-| 5 | 68% | 81% | Median |
+| 4 | 18% | 100% |  |
+| 5 | 69% | 82% | Median |
 | 6 | 13% | 13% |  |
 | 7 | 0.1% | 0.1% |  |
 | 8 | 0% | 0% |  |
@@ -103,8 +103,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 40% | 100% |  |
-| 2 | 60% | 60% | Median |
+| 1 | 41% | 100% |  |
+| 2 | 58% | 59% | Median |
 | 3 | 0.2% | 0.2% |  |
 | 4 | 0% | 0% |  |
 
@@ -129,8 +129,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 23% | 100% | Last Result |
-| 1 | 77% | 77% | Median |
+| 0 | 21% | 100% | Last Result |
+| 1 | 79% | 79% | Median |
 | 2 | 0.1% | 0.1% |  |
 | 3 | 0% | 0% |  |
 
@@ -154,8 +154,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 93% | 100% | Last Result, Median |
-| 1 | 7% | 7% |  |
+| 0 | 92% | 100% | Last Result, Median |
+| 1 | 8% | 8% |  |
 | 2 | 0% | 0% |  |
 
 
@@ -168,7 +168,7 @@
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Chega (PfE) | 0 | 5 | 0% | 5–6 | 5–6 | 5–7 | 4–7 |
-| Partido Socialista (S&D) | 0 | 6 | 0% | 5–6 | 5–7 | 5–7 | 4–7 |
+| Partido Socialista (S&D) | 0 | 6 | 0% | 5–6 | 5–6 | 5–7 | 4–7 |
 | LIVRE (Greens/EFA) – Pessoas–Animais–Natureza (Greens/EFA) | 0 | 2 | 0% | 1–2 | 1–2 | 1–2 | 0–3 |
 | Coligação Democrática Unitária (GUE/NGL) – Bloco de Esquerda (GUE/NGL) | 0 | 1 | 0% | 0–1 | 0–2 | 0–2 | 0–2 |
 
@@ -183,8 +183,8 @@
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 1.3% | 100% |  |
-| 5 | 51% | 98.7% | Median |
-| 6 | 44% | 47% |  |
+| 5 | 49% | 98.7% | Median |
+| 6 | 47% | 50% |  |
 | 7 | 3% | 3% |  |
 | 8 | 0% | 0% |  |
 
@@ -199,8 +199,8 @@
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0.7% | 100% |  |
-| 5 | 36% | 99.3% |  |
-| 6 | 59% | 64% | Median |
+| 5 | 39% | 99.3% |  |
+| 6 | 55% | 60% | Median |
 | 7 | 5% | 5% |  |
 | 8 | 0% | 0% |  |
 
@@ -222,8 +222,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 20% | 100% | Last Result |
-| 1 | 75% | 80% | Median |
+| 0 | 19% | 100% | Last Result |
+| 1 | 76% | 81% | Median |
 | 2 | 5% | 5% |  |
 | 3 | 0% | 0% |  |
 
@@ -239,6 +239,6 @@
 ### Calculations
 
 + **Sample size:** 566
-+ **Simulations done:** 1,048,576
-+ **Error estimate:** 2.59%
++ **Simulations done:** 2,097,152
++ **Error estimate:** 2.27%
 

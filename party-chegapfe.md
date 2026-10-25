@@ -167,7 +167,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 7 | 5–8 | 5–8 | 5–8 | 5–9 |
-| [21 September–12 October 2026](2026-10-12-Pitagórica.html) | Pitagórica <br> CNN Portugal, Sol and TVI | 7 | 6–7 | 6–7 | 6–8 | 6–8 |
+| [21 September–12 October 2026](2026-10-12-Pitagórica.html) | Pitagórica <br> CNN Portugal, Sol and TVI | 7 | 6–7 | 6–7 | 6–7 | 6–8 |
 | [6–12 October 2026](2026-10-12-Intercampus.html) | Intercampus <br> News Now | 5 | 5–6 | 5–6 | 5–7 | 4–7 |
 | [6–7 October 2026](2026-10-07-Aximage.html) | Aximage <br> Diário de Notícias | 7 | 7–8 | 6–8 | 6–8 | 6–9 |
 | [14 September–5 October 2026](2026-10-05-Pitagórica.html) | Pitagórica <br> CNN Portugal, Sol and TVI | 6 | 6–7 | 6–7 | 6–7 | 5–8 |
@@ -280,9 +280,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0.4% | 100% |  |
-| 5 | 17% | 99.6% |  |
-| 6 | 29% | 82% |  |
-| 7 | 42% | 53% | Median |
+| 5 | 16% | 99.6% |  |
+| 6 | 31% | 83% |  |
+| 7 | 41% | 52% | Median |
 | 8 | 11% | 11% |  |
 | 9 | 0.5% | 0.5% |  |
 | 10 | 0% | 0% |  |

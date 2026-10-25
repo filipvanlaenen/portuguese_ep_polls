@@ -32,7 +32,7 @@
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | <a href="#partido-socialista-(s&d)">Partido Socialista (S&D)</a> | 0 | 7 | 6–7 |6–8 |6–8 |6–8 |
-| <a href="#chega-(pfe)">Chega (PfE)</a> | 0 | 7 | 6–7 |6–7 |6–8 |6–8 |
+| <a href="#chega-(pfe)">Chega (PfE)</a> | 0 | 7 | 6–7 |6–7 |6–7 |6–8 |
 | <a href="#aliança-democrática-(epp)">Aliança Democrática (EPP)</a> | 0 | 5 | 5–6 |5–6 |5–6 |4–6 |
 | <a href="#iniciativa-liberal-(re)">Iniciativa Liberal (RE)</a> | 0 | 1 | 1–2 |1–2 |1–2 |1–2 |
 | <a href="#coligação-democrática-unitária-(gue/ngl)">Coligação Democrática Unitária (GUE/NGL)</a> | 0 | 0 | 0–1 |0–1 |0–1 |0–1 |
@@ -54,8 +54,8 @@
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
 | 5 | 0.1% | 100% |  |
-| 6 | 30% | 99.9% |  |
-| 7 | 65% | 70% | Median |
+| 6 | 26% | 99.9% |  |
+| 7 | 69% | 74% | Median |
 | 8 | 5% | 5% |  |
 | 9 | 0% | 0% |  |
 
@@ -72,10 +72,10 @@
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
-| 5 | 0.4% | 100% |  |
-| 6 | 36% | 99.6% |  |
-| 7 | 61% | 64% | Median |
-| 8 | 3% | 3% |  |
+| 5 | 0.5% | 100% |  |
+| 6 | 38% | 99.5% |  |
+| 7 | 59% | 61% | Median |
+| 8 | 2% | 2% |  |
 | 9 | 0% | 0% |  |
 
 ### Aliança Democrática (EPP)
@@ -91,8 +91,8 @@
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 2% | 100% |  |
-| 5 | 64% | 98% | Median |
-| 6 | 34% | 34% |  |
+| 5 | 67% | 98% | Median |
+| 6 | 31% | 31% |  |
 | 7 | 0.2% | 0.2% |  |
 | 8 | 0% | 0% |  |
 
@@ -162,27 +162,10 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Chega (PfE) | 0 | 7 | 0% | 6–7 | 6–7 | 6–8 | 6–8 |
 | Partido Socialista (S&D) | 0 | 7 | 0% | 6–7 | 6–8 | 6–8 | 6–8 |
+| Chega (PfE) | 0 | 7 | 0% | 6–7 | 6–7 | 6–7 | 6–8 |
 | Coligação Democrática Unitária (GUE/NGL) – Bloco de Esquerda (GUE/NGL) | 0 | 0 | 0% | 0–1 | 0–1 | 0–1 | 0–1 |
 | LIVRE (Greens/EFA) – Pessoas–Animais–Natureza (Greens/EFA) | 0 | 0 | 0% | 0 | 0–1 | 0–1 | 0–1 |
-
-### Chega (PfE)
-
-![Graph with seats probability mass function not yet produced](2026-10-12-Pitagórica-coalitions-seats-pmf-ch.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0% | 100% | Last Result |
-| 1 | 0% | 100% |  |
-| 2 | 0% | 100% |  |
-| 3 | 0% | 100% |  |
-| 4 | 0% | 100% |  |
-| 5 | 0.4% | 100% |  |
-| 6 | 36% | 99.6% |  |
-| 7 | 61% | 64% | Median |
-| 8 | 3% | 3% |  |
-| 9 | 0% | 0% |  |
 
 ### Partido Socialista (S&D)
 
@@ -196,9 +179,26 @@
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
 | 5 | 0.1% | 100% |  |
-| 6 | 30% | 99.9% |  |
-| 7 | 65% | 70% | Median |
+| 6 | 26% | 99.9% |  |
+| 7 | 69% | 74% | Median |
 | 8 | 5% | 5% |  |
+| 9 | 0% | 0% |  |
+
+### Chega (PfE)
+
+![Graph with seats probability mass function not yet produced](2026-10-12-Pitagórica-coalitions-seats-pmf-ch.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 0% | 100% | Last Result |
+| 1 | 0% | 100% |  |
+| 2 | 0% | 100% |  |
+| 3 | 0% | 100% |  |
+| 4 | 0% | 100% |  |
+| 5 | 0.5% | 100% |  |
+| 6 | 38% | 99.5% |  |
+| 7 | 59% | 61% | Median |
+| 8 | 2% | 2% |  |
 | 9 | 0% | 0% |  |
 
 ### Coligação Democrática Unitária (GUE/NGL) – Bloco de Esquerda (GUE/NGL)
@@ -233,6 +233,6 @@
 ### Calculations
 
 + **Sample size:** 804
-+ **Simulations done:** 1,048,576
-+ **Error estimate:** 1.22%
++ **Simulations done:** 2,097,152
++ **Error estimate:** 1.19%
 
