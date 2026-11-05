@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.2% | 1.4–3.4% | 1.2–3.8% | 1.1–4.1% | 0.8–4.7% |
+| N/A | [Poll Average](average.html) | 2.3% | 1.5–3.4% | 1.3–3.8% | 1.1–4.1% | 0.9–4.7% |
+| [16–25 October 2026](2026-10-25-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 2.0% | 1.5–2.8% | 1.3–3.0% | 1.2–3.2% | 1.0–3.6% |
+| [28 September–19 October 2026](2026-10-19-Pitagórica.html) | Pitagórica <br> CNN Portugal, Sol and TVI | 1.7% | N/A | N/A | N/A | N/A |
 | [21 September–12 October 2026](2026-10-12-Pitagórica.html) | Pitagórica <br> CNN Portugal, Sol and TVI | 1.7% | 1.3–2.5% | 1.1–2.7% | 1.0–2.9% | 0.9–3.3% |
 | [6–12 October 2026](2026-10-12-Intercampus.html) | Intercampus <br> News Now | 2.8% | 2.1–3.9% | 1.9–4.3% | 1.8–4.6% | 1.5–5.2% |
 | [6–7 October 2026](2026-10-07-Aximage.html) | Aximage <br> Diário de Notícias | 1.8% | 1.2–2.8% | 1.1–3.1% | 0.9–3.4% | 0.7–3.9% |
@@ -18,7 +20,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [7–28 September 2026](2026-09-28-Pitagórica.html) | Pitagórica <br> CNN Portugal, Sol and TVI | 1.7% | 1.3–2.5% | 1.1–2.7% | 1.0–2.9% | 0.9–3.3% |
 | [31 August–26 September 2026](2026-09-26-Pitagórica.html) | Pitagórica <br> CNN Portugal, Sol and TVI | 1.6% | N/A | N/A | N/A | N/A |
 | [24 August–18 September 2026](2026-09-18-Pitagórica.html) | Pitagórica <br> CNN Portugal, Sol and TVI | 1.6% | N/A | N/A | N/A | N/A |
-| [14–15 September 2026](2026-09-15-Aximage.html) | Aximage <br> Diário de Notícias | 1.0% | 0.6–1.8% | 0.5–2.1% | 0.4–2.3% | 0.3–2.8% |
+| [14–15 September 2026](2026-09-15-Aximage.html) | Aximage <br> Diário de Notícias | 0.8% | 0.6–1.8% | 0.5–2.1% | 0.4–2.3% | 0.3–2.8% |
 | [7–14 September 2026](2026-09-14-Intercampus.html) | Intercampus <br> Correio da Manhã | 2.7% | 2.0–3.9% | 1.8–4.2% | 1.7–4.5% | 1.4–5.1% |
 | [17 August–7 September 2026](2026-09-07-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 1.4% | 1.0–2.1% | 0.9–2.3% | 0.8–2.4% | 0.6–2.8% |
 | [1–7 September 2026](2026-09-07-Aximage.html) | Aximage <br> Folha Nacional | 1.5% | N/A | N/A | N/A | N/A |
@@ -118,10 +120,10 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 18% | 100% |  |
-| 1.5–2.5% | 49% | 82% | Median |
-| 2.5–3.5% | 25% | 33% |  |
-| 3.5–4.5% | 7% | 7% |  |
+| 0.5–1.5% | 13% | 100% |  |
+| 1.5–2.5% | 51% | 87% | Median |
+| 2.5–3.5% | 28% | 36% |  |
+| 3.5–4.5% | 7% | 8% |  |
 | 4.5–5.5% | 0.8% | 0.8% |  |
 | 5.5–6.5% | 0% | 0% |  |
 | 6.5–7.5% | 0% | 0% |  |
@@ -136,6 +138,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0–1 | 0–1 |
+| [16–25 October 2026](2026-10-25-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 0 | 0 | 0 | 0 | 0 |
+| [28 September–19 October 2026](2026-10-19-Pitagórica.html) | Pitagórica <br> CNN Portugal, Sol and TVI |  |  |  |  |  |
 | [21 September–12 October 2026](2026-10-12-Pitagórica.html) | Pitagórica <br> CNN Portugal, Sol and TVI | 0 | 0 | 0 | 0 | 0 |
 | [6–12 October 2026](2026-10-12-Intercampus.html) | Intercampus <br> News Now | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [6–7 October 2026](2026-10-07-Aximage.html) | Aximage <br> Diário de Notícias | 0 | 0 | 0 | 0 | 0 |
