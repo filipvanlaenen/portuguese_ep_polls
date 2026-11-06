@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/portuguese_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 05 Nov 2026 21:28:34 +0100</pubDate>
+    <pubDate>Fri, 06 Nov 2026 18:03:15 +0100</pubDate>
     <item>
       <title>Opinion Poll by ICS/ISCTE for Expresso and SIC Notícias, 16–25 October 2026 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2026-10-25-ICSISCTE.html#seats</link>
@@ -38,6 +38,36 @@
         type="image/png"/>
       <pubDate>Thu, 05 Nov 2026 21:28:34 +0100</pubDate>
       <dc:date>2026-11-05T21:28:34.845895+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Pitagórica for CNN Portugal, Sol and TVI, 28 September–19 October 2026 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2026-10-19-Pitagórica.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Coligação Democrática Unitária (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Iniciativa Liberal (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Partido Socialista (S&amp;amp;D): 6–8 seats&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Chega (PfE): 6–7 seats&lt;/li&gt;&lt;li&gt;Aliança Democrática (EPP): 4–6 seats&lt;/li&gt;&lt;li&gt;Bloco de Esquerda (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;LIVRE (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2026-10-19-Pitagórica-seats.png"
+        length="241585"
+        type="image/png"/>
+      <pubDate>Fri, 06 Nov 2026 18:03:15 +0100</pubDate>
+      <dc:date>2026-11-06T18:03:15.86051+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Pitagórica for CNN Portugal, Sol and TVI, 28 September–19 October 2026 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2026-10-19-Pitagórica.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2026-10-19-Pitagórica-coalitions-seats.png"
+        length="166628"
+        type="image/png"/>
+      <pubDate>Fri, 06 Nov 2026 18:03:15 +0100</pubDate>
+      <dc:date>2026-11-06T18:03:15.86051+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Pitagórica for CNN Portugal, Sol and TVI, 28 September–19 October 2026 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_ep_polls/2026-10-19-Pitagórica.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Coligação Democrática Unitária (GUE/NGL): 1.9–4.3%&lt;/li&gt;&lt;li&gt;Iniciativa Liberal (RE): 4.6–8.0%&lt;/li&gt;&lt;li&gt;Partido Socialista (S&amp;amp;D): 26.3–32.6%&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza (Greens/EFA): 0.6–2.1%&lt;/li&gt;&lt;li&gt;Chega (PfE): 24.9–31.1%&lt;/li&gt;&lt;li&gt;Aliança Democrática (EPP): 18.9–24.6%&lt;/li&gt;&lt;li&gt;Bloco de Esquerda (GUE/NGL): 1.0–2.9%&lt;/li&gt;&lt;li&gt;LIVRE (Greens/EFA): 2.6–5.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_ep_polls/2026-10-19-Pitagórica.png"
+        length="292504"
+        type="image/png"/>
+      <pubDate>Fri, 06 Nov 2026 18:03:15 +0100</pubDate>
+      <dc:date>2026-11-06T18:03:15.86051+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Pitagórica for CNN Portugal, Sol and TVI, 21 September–12 October 2026 – Seat Projections for the Parties</title>
@@ -2619,6 +2649,6 @@
       <pubDate>Mon, 23 Sep 2024 19:51:27 +0200</pubDate>
       <dc:date>2024-09-23T19:51:27.949735+02:00</dc:date>
     </item>
-    <dc:date>2026-11-05T21:28:34.845895+01:00</dc:date>
+    <dc:date>2026-11-06T18:03:15.86051+01:00</dc:date>
   </channel>
 </rss>
