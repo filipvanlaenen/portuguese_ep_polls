@@ -10,11 +10,14 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.9% | 3.8–9.5% | 3.5–10.1% | 3.2–10.7% | 2.8–11.7% |
+| N/A | [Poll Average](average.html) | 7.0% | 3.9–9.8% | 3.5–10.4% | 3.3–10.8% | 2.8–11.8% |
+| [26 October–23 November 2026](2026-11-23-Pitagórica.html) | Pitagórica <br> CNN Portugal | 4.9% | 4.0–6.0% | 3.8–6.3% | 3.6–6.6% | 3.2–7.1% |
+| [13–19 November 2026](2026-11-19-CESOP–UCP.html) | CESOP–UCP <br> Antena 1, Público and RTP | 9.0% | 7.8–10.4% | 7.5–10.8% | 7.2–11.1% | 6.7–11.8% |
 | [11–18 November 2026](2026-11-18-Intercampus.html) | Intercampus <br> Correio da Manhã | 9.0% | 7.6–10.7% | 7.2–11.2% | 6.9–11.6% | 6.3–12.5% |
 | [19 October–13 November 2026](2026-11-13-Pitagórica.html) | Pitagórica <br> CNN Portugal, Sol and TVI | 4.9% | 4.0–6.0% | 3.8–6.3% | 3.6–6.6% | 3.2–7.1% |
 | [9–10 November 2026](2026-11-10-Aximage.html) | Aximage <br> Diário de Notícias | 7.0% | 5.7–8.7% | 5.4–9.1% | 5.1–9.6% | 4.5–10.4% |
 | [12 October–6 November 2026](2026-11-06-Pitagórica.html) | Pitagórica <br> CNN Portugal, Sol and TVI | 5.1% | N/A | N/A | N/A | N/A |
+| [26 October–2 November 2026](2026-11-02-Aximage.html) | Aximage <br> Folha Nacional | 7.3% | N/A | N/A | N/A | N/A |
 | [5–30 October 2026](2026-10-30-Pitagórica.html) | Pitagórica <br> CNN Portugal, Sol and TVI | 5.6% | 4.7–6.8% | 4.4–7.1% | 4.2–7.4% | 3.8–8.0% |
 | [16–25 October 2026](2026-10-25-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 4.0% | 3.2–5.0% | 3.0–5.3% | 2.8–5.5% | 2.5–6.1% |
 | [28 September–23 October 2026](2026-10-23-Pitagórica.html) | Pitagórica <br> CNN Portugal, Sol and TVI | 6.1% | N/A | N/A | N/A | N/A |
@@ -25,7 +28,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [7 September–3 October 2026](2026-10-03-Pitagórica.html) | Pitagórica <br> CNN Portugal, Sol and TVI | 6.7% | N/A | N/A | N/A | N/A |
 | [31 August–26 September 2026](2026-09-26-Pitagórica.html) | Pitagórica <br> CNN Portugal, Sol and TVI | 6.3% | N/A | N/A | N/A | N/A |
 | [24 August–18 September 2026](2026-09-18-Pitagórica.html) | Pitagórica <br> CNN Portugal, Sol and TVI | 6.5% | N/A | N/A | N/A | N/A |
-| [14–15 September 2026](2026-09-15-Aximage.html) | Aximage <br> Diário de Notícias | 6.2% | 5.2–8.0% | 4.8–8.5% | 4.6–8.9% | 4.1–9.7% |
+| [14–15 September 2026](2026-09-15-Aximage.html) | Aximage <br> Diário de Notícias | 6.4% | 5.2–8.0% | 4.8–8.5% | 4.6–8.9% | 4.1–9.7% |
 | [7–14 September 2026](2026-09-14-Intercampus.html) | Intercampus <br> Correio da Manhã | 9.9% | 8.4–11.7% | 8.0–12.2% | 7.7–12.7% | 7.0–13.6% |
 | [17 August–7 September 2026](2026-09-07-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 6.7% | N/A | N/A | N/A | N/A |
 | [1–7 September 2026](2026-09-07-Aximage.html) | Aximage <br> Folha Nacional | 7.9% | N/A | N/A | N/A | N/A |
@@ -126,16 +129,16 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 0.2% | 100% |  |
-| 2.5–3.5% | 6% | 99.8% |  |
-| 3.5–4.5% | 21% | 94% |  |
-| 4.5–5.5% | 19% | 73% |  |
-| 5.5–6.5% | 12% | 54% | Median |
-| 6.5–7.5% | 11% | 43% |  |
-| 7.5–8.5% | 12% | 32% |  |
-| 8.5–9.5% | 10% | 20% |  |
-| 9.5–10.5% | 6% | 9% |  |
-| 10.5–11.5% | 2% | 3% |  |
+| 1.5–2.5% | 0.1% | 100% |  |
+| 2.5–3.5% | 5% | 99.9% |  |
+| 3.5–4.5% | 17% | 95% |  |
+| 4.5–5.5% | 15% | 78% |  |
+| 5.5–6.5% | 9% | 63% |  |
+| 6.5–7.5% | 10% | 54% | Median |
+| 7.5–8.5% | 15% | 44% |  |
+| 8.5–9.5% | 16% | 29% |  |
+| 9.5–10.5% | 9% | 13% |  |
+| 10.5–11.5% | 3% | 4% |  |
 | 11.5–12.5% | 0.6% | 0.7% |  |
 | 12.5–13.5% | 0.1% | 0.1% |  |
 | 13.5–14.5% | 0% | 0% |  |
@@ -150,10 +153,13 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–2 | 0–2 | 0–2 | 0–3 |
+| [26 October–23 November 2026](2026-11-23-Pitagórica.html) | Pitagórica <br> CNN Portugal | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [13–19 November 2026](2026-11-19-CESOP–UCP.html) | CESOP–UCP <br> Antena 1, Público and RTP | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [11–18 November 2026](2026-11-18-Intercampus.html) | Intercampus <br> Correio da Manhã | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [19 October–13 November 2026](2026-11-13-Pitagórica.html) | Pitagórica <br> CNN Portugal, Sol and TVI | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [9–10 November 2026](2026-11-10-Aximage.html) | Aximage <br> Diário de Notícias | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [12 October–6 November 2026](2026-11-06-Pitagórica.html) | Pitagórica <br> CNN Portugal, Sol and TVI |  |  |  |  |  |
+| [26 October–2 November 2026](2026-11-02-Aximage.html) | Aximage <br> Folha Nacional |  |  |  |  |  |
 | [5–30 October 2026](2026-10-30-Pitagórica.html) | Pitagórica <br> CNN Portugal, Sol and TVI | 1 | 1 | 1 | 1 | 0–2 |
 | [16–25 October 2026](2026-10-25-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [28 September–23 October 2026](2026-10-23-Pitagórica.html) | Pitagórica <br> CNN Portugal, Sol and TVI |  |  |  |  |  |
@@ -265,10 +271,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 15% | 100% | Last Result |
-| 1 | 58% | 85% | Median |
-| 2 | 27% | 27% |  |
-| 3 | 0.6% | 0.6% |  |
+| 0 | 12% | 100% | Last Result |
+| 1 | 50% | 88% | Median |
+| 2 | 38% | 38% |  |
+| 3 | 0.5% | 0.5% |  |
 | 4 | 0% | 0% |  |
 
 
